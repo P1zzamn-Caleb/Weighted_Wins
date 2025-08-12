@@ -76,6 +76,7 @@
 		private $totalGames;
 		private $initialWeight;
 		private $finalWeight;
+		private $weightedWins;
 
 		//starts each team out with 0 wins and 0 losses
 		function __construct(){
@@ -83,6 +84,7 @@
 			$this->losses=0;
 			$this->initialWeight=1;
 			$this->finalWeight=1;
+			$this->weightedWins=0;
             $this->initials="";
 		    $this->names="";
             $this->nameWithMascots="";
@@ -111,6 +113,7 @@
 			$this->losses=0;
 			$this->initialWeight=1;
 			$this->finalWeight=1;
+			$this->weightedWins=0;
             $this->teamsWonAgainst=[];
             $this->teamsLostAgainst=[];
 		}
@@ -119,7 +122,9 @@
 		function outputResults(){
 			echo "Team: ", $this->names, "   ", $this->initials, "    ", 
 				 $this->wins, "    ",$this->losses, "    ", 
-				 $this->initialWeight, "   ", $this->finalWeight, "<br>";
+				 $this->initialWeight, "   ", $this->finalWeight, 
+				 " ", $this->weightedWins, "<br>";
+
 		}
 		function writeResultsToFile($year, $mode){
 			$file = fopen("weightedWinsData$year.txt", "$mode");
@@ -136,6 +141,8 @@
 			fwrite($file, $this->initialWeight);
 			fwrite($file,"   ");
 			fwrite($file, $this->finalWeight);
+			fwrite($file,"   ");
+			fwrite($file, $this->weightedWins);
 			fwrite($file, "\n");
 
 		}
@@ -216,6 +223,17 @@
 			if($opponentWins < $opponentLosses){
 				$deduction = ($opponentWins-$opponentLosses) * 0.01;
 				$this->finalWeight += $deduction;
+			}
+		}
+
+		//adds up the weightedWins
+		function addWeightedWins($opponentWeight, $result){
+			$winValue = "win";
+			$lossValue = "loss";
+			if($result == $winValue){
+				$this->weightedWins += $opponentWeight;
+			}else{
+				$this->weightedWins += ($opponentWeight - $this->initialWeight);
 			}
 		}
 
@@ -360,19 +378,14 @@
 	function calculateWeights(){
 		global $teams;
 
+		//will be used to add up weighted wins
+		$lossValue = "lost";
+		$winValue = "win";
 
 
 		for($i=0;$i<count($teams);$i++){
 			$teams[$i]->calculateInitialWeight();
 		}
-
-		//was fixing this
-        //
-        //
-        //
-        //
-        //
-        //below here
 
 		for($i=0;$i<count($teams)-1;$i++){
 			$teamsLostAgainst = $teams[$i]->getTeamsLostAgainst();
@@ -383,6 +396,7 @@
 				for($teamNames=0;$teamNames<count($teams)-1;$teamNames++)
 					if($teams[$teamNames]->getName() == $teamsLostAgainst[$j]){
 						$teams[$i]->adjustFinalWeightForLoss($teams[$teamNames]->getWins(), $teams[$teamNames]->getLosses());
+						$teams[$i]->addWeightedWins($teams[$teamNames]->returnFinalWeight(), $lossValue);
 						break;
 					}
 			}
@@ -392,7 +406,8 @@
 				for($teamNames=0;$teamNames<count($teams);$teamNames++)
 					if($teams[$teamNames]->getName() == $teamsWonAgainst[$j]){
 						$teams[$i]->adjustFinalWeightForWin($teams[$teamNames]->getWins(), $teams[$teamNames]->getLosses());
-						
+						$teams[$i]->addWeightedWins($teams[$teamNames]->returnFinalWeight(), $winValue);
+						break;
 					}
 			}
 		}
