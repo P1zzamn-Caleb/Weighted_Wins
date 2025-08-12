@@ -1,0 +1,365 @@
+Team: Boston College   BC    12    19    0.93   0.76
+Team: California   CAL    14    19    0.95   0.83
+Team: Clemson   CLEM    27    7    1.2   2.28
+Team: Duke   DUKE    35    4    1.31   3.43
+Team: Florida State   FSU    17    15    1.02   1.02
+Team: Georgia Tech   GT    17    17    1   1.31
+Team: Louisville   LOU    27    8    1.19   2.24
+Team: Miami   MIA    7    24    0.83   0.47
+Team: NC State   NCSU    12    19    0.93   0.86
+Team: North Carolina   UNC    23    14    1.09   1.74
+Team: Notre Dame   ND    15    18    0.97   0.73
+Team: Pittsburgh   PITT    17    15    1.02   1.25
+Team: SMU   SMU    24    11    1.13   1.46
+Team: Stanford   STAN    21    14    1.07   1.76
+Team: Syracuse   SYR    14    19    0.95   0.87
+Team: Virginia   UVA    15    17    0.98   1.09
+Team: Virginia Tech   VT    13    19    0.94   0.92
+Team: Wake Forest   WAKE    21    11    1.1   1.66
+Team: Austin Peay   APSU    13    18    0.95   1.35
+Team: Bellarmine   BELL    5    24    0.81   -0.07
+Team: Central Arkansas   CARK    8    23    0.85   0.09
+Team: Eastern Kentucky   EKU    17    13    1.04   1.09
+Team: Florida Gulf Coast   FGCU    19    14    1.05   1.25
+Team: Jacksonville   JAX    18    13    1.05   1.51
+Team: Lipscomb   LIP    23    10    1.13   1.65
+Team: North Alabama   UNA    23    10    1.13   1.41
+Team: North Florida   UNF    15    15    1   1.08
+Team: Queens University   QUC    19    14    1.05   1.1
+Team: Stetson   STET    8    22    0.86   -0.05
+Team: West Georgia   WGA    5    25    0.8   0.11
+Team: Binghamton   BING    15    14    1.01   1.09
+Team: Bryant   BRY    21    12    1.09   1.2
+Team: Maine   MAI    19    13    1.06   0.95
+Team: NJIT   NJIT    5    25    0.8   0.08
+Team: New Hampshire   UNH    8    22    0.86   0.61
+Team: UAlbany   ALB    16    15    1.01   1.08
+Team: UMBC   UMBC    13    16    0.97   0.9
+Team: UMass Lowell   UML    16    13    1.03   1.31
+Team: Vermont   VT    20    11    1.09   1.15
+Team: Charlotte   CLT    11    21    0.9   0.86
+Team: East Carolina   ECU    18    13    1.05   1.36
+Team: Florida Atlantic   FAU    18    15    1.03   1.61
+Team: Memphis   MEM    29    6    1.23   3.04
+Team: North Texas   UNT    26    8    1.18   2.55
+Team: Rice   RICE    13    18    0.95   0.78
+Team: South Florida   USF    13    18    0.95   0.98
+Team: Temple   TEM    17    14    1.03   1.32
+Team: Tulane   TULN    18    14    1.04   1.32
+Team: Tulsa   TLSA    12    19    0.93   0.69
+Team: UAB   UAB    24    12    1.12   2.32
+Team: UTSA   UTSA    11    18    0.93   1.4
+Team: Wichita State   WICH    19    14    1.05   1.19
+Team: Davidson   DAV    17    15    1.02   1.4
+Team: Dayton   DAY    23    10    1.13   2.17
+Team: Duquesne   DUQ    13    18    0.95   1.69
+Team: Fordham   FOR    12    20    0.92   1
+Team: George Mason   GMU    27    8    1.19   2.89
+Team: George Washington   GW    21    12    1.09   1.57
+Team: La Salle   LAS    14    18    0.96   1.3
+Team: Loyola Chicago   LUC    25    11    1.14   2.08
+Team: Rhode Island   URI    18    12    1.06   1.59
+Team: Richmond   RICH    10    20    0.9   1.4
+Team: Saint Joseph's   JOES    22    13    1.09   1.8
+Team: Saint Louis   SLU    18    14    1.04   2.19
+Team: St. Bonaventure   STBK    22    11    1.11   1.86
+Team: VCU   VCU    27    7    1.2   2.48
+Team: Arizona State   ASU    13    20    0.93   1.8
+Team: Arizona   ARIZ    24    13    1.11   2.41
+Team: BYU   BYU    26    10    1.16   2.15
+Team: Baylor   BAY    20    14    1.06   2.82
+Team: Cincinnati   CIN    19    16    1.03   1.59
+Team: Colorado   COLO    14    21    0.93   1.37
+Team: Houston   HOU    35    5    1.3   3.6
+Team: Iowa State   ISU    25    10    1.15   2.12
+Team: Kansas   KU    21    13    1.08   2.37
+Team: Kansas State   KSU    16    17    0.99   1.55
+Team: Oklahoma State   OKST    17    18    0.99   1.47
+Team: TCU   TCU    16    16    1   1.64
+Team: Texas Tech   TTU    28    9    1.19   2.7
+Team: UCF   UCF    20    17    1.03   1.67
+Team: Utah   UTAH    16    17    0.99   1.32
+Team: West Virginia   WVU    19    13    1.06   1.74
+Team: Butler   BUT    15    20    0.95   1.09
+Team: Creighton   CREI    25    11    1.14   2.2
+Team: DePaul   DEP    14    20    0.94   0.67
+Team: Georgetown   GTWN    18    16    1.02   1.17
+Team: Marquette   MARQ    23    11    1.12   2.19
+Team: Providence   PROV    12    20    0.92   1.21
+Team: Seton Hall   HALL    7    25    0.82   0.52
+Team: St. John's   SJU    31    5    1.26   2.76
+Team: UConn   CONN    24    11    1.13   1.78
+Team: Villanova   VILL    21    15    1.06   1.62
+Team: Xavier   XAV    22    12    1.1   1.76
+Team: Eastern Washington   EWU    10    20    0.9   0.69
+Team: Idaho State   IDST    14    13    1.01   0.87
+Team: Idaho   IDHO    13    18    0.95   0.98
+Team: Montana   MONT    22    10    1.12   1.89
+Team: Montana State   MTST    15    17    0.98   0.85
+Team: Northern Arizona   NAU    16    14    1.02   0.78
+Team: Northern Colorado   UNCO    23    9    1.14   1.32
+Team: Portland State   PRST    17    12    1.05   1.11
+Team: Sacramento State   SAC    7    22    0.85   0.26
+Team: Weber State   WEB    11    20    0.91   0.87
+Team: Charleston Southern   CHSO    10    20    0.9   0.74
+Team: Gardner-Webb   GWEB    11    20    0.91   0.81
+Team: High Point   HPU    27    6    1.21   2.1
+Team: Longwood   LONG    17    12    1.05   1.32
+Team: Presbyterian   PRES    12    18    0.94   0.69
+Team: Radford   RAD    19    12    1.07   1.24
+Team: South Carolina Upstate   UPST    6    23    0.83   0.24
+Team: UNC Asheville   UNCA    20    8    1.12   1.92
+Team: Winthrop   WIN    21    10    1.11   1.73
+Team: Illinois   ILL    22    13    1.09   2.3
+Team: Indiana   IU    19    13    1.06   2.08
+Team: Iowa   IOWA    17    16    1.01   1.36
+Team: Maryland   MD    27    9    1.18   2.49
+Team: Michigan State   MSU    30    7    1.23   3.14
+Team: Michigan   MICH    27    10    1.17   3.01
+Team: Minnesota   MINN    15    17    0.98   1.68
+Team: Nebraska   NEB    21    14    1.07   2.05
+Team: Northwestern   NWST    17    16    1.01   1.34
+Team: Ohio State   OSU    17    15    1.02   1.56
+Team: Oregon   ORE    25    10    1.15   2.65
+Team: Penn State   PSU    16    15    1.01   1.25
+Team: Purdue   PUR    24    12    1.12   2.89
+Team: Rutgers   RUTG    15    17    0.98   1.31
+Team: UCLA   UCLA    23    11    1.12   2.38
+Team: USC   USC    17    18    0.99   1.76
+Team: Washington   WASH    13    17    0.96   1.4
+Team: Wisconsin   WIS    27    10    1.17   2.03
+Team: Cal Poly   CP    16    18    0.98   1.06
+Team: Cal State Bakersfield   CSUB    13    18    0.95   1.12
+Team: Cal State Fullerton   CSUF    6    24    0.82   0.4
+Team: Cal State Northridge   CSUN    21    10    1.11   1.96
+Team: Hawai'i   HAW    15    14    1.01   1.39
+Team: Long Beach State   LBSU    7    23    0.84   0.51
+Team: UC Davis   UCD    15    15    1   1.23
+Team: UC Irvine   UCI    32    6    1.26   3.19
+Team: UC Riverside   UCR    20    12    1.08   1.62
+Team: UC San Diego   UCSD    28    5    1.23   2.49
+Team: UC Santa Barbara   UCSB    20    12    1.08   1.34
+Team: Campbell   CAM    15    15    1   0.5
+Team: Charleston   COFC    24    8    1.16   1.67
+Team: Drexel   DREX    18    14    1.04   1.08
+Team: Elon   ELON    17    14    1.03   0.98
+Team: Hampton   HAMP    16    14    1.02   1.38
+Team: Hofstra   HOF    14    17    0.97   0.96
+Team: Monmouth   MONM    13    20    0.93   0.82
+Team: North Carolina A&T   NCAT    7    24    0.83   0.46
+Team: Northeastern   NE    17    15    1.02   1.1
+Team: Stony Brook   STNSLS    8    23    0.85   0.67
+Team: Towson   TOW    22    10    1.12   1.8
+Team: UNC Wilmington   UNCW    25    8    1.17   2.13
+Team: William & Mary   W&M    17    13    1.04   1.69
+Team: Delaware   DEL    15    19    0.96   1.21
+Team: Florida International   FIU    9    22    0.87   0.61
+Team: Jacksonville State   JXST    21    12    1.09   1.91
+Team: Kennesaw State   KENN    17    13    1.04   1.82
+Team: Liberty   LIB    25    7    1.18   2.01
+Team: Louisiana Tech   LT    19    10    1.09   1.9
+Team: Middle Tennessee   MTSU    21    11    1.1   2.22
+Team: Missouri State   MSU    9    21    0.88   0.79
+Team: New Mexico State   NMSU    16    13    1.03   1.81
+Team: Sam Houston   SHSU    11    18    0.93   1.29
+Team: UTEP   UTEP    17    13    1.04   1.68
+Team: Western Kentucky   WKU    17    13    1.04   1.74
+Team: Cleveland State   CLE    21    12    1.09   1.28
+Team: Detroit Mercy   DETM    8    23    0.85   0.66
+Team: Green Bay   GB    4    27    0.77   0.23
+Team: IU Indianapolis   IUIN    9    20    0.89   0.41
+Team: Milwaukee   MILW    20    10    1.1   1.91
+Team: Northern Kentucky   NKU    16    15    1.01   1.42
+Team: Oakland   OAK    16    17    0.99   1.62
+Team: Purdue Fort Wayne   PFW    19    11    1.08   1.52
+Team: Robert Morris   RMU    25    9    1.16   1.71
+Team: Wright State   WSU    14    17    0.97   1.25
+Team: Youngstown State   YSU    19    12    1.07   0.99
+Team: Brown   BRWN    14    12    1.02   1.28
+Team: Columbia   COLU    12    13    0.99   0.89
+Team: Cornell   COR    17    10    1.07   1.66
+Team: Dartmouth   DART    14    12    1.02   1.18
+Team: Harvard   HARV    11    15    0.96   0.98
+Team: Pennsylvania   PENN    8    19    0.89   0.84
+Team: Princeton   PRIN    18    10    1.08   1.67
+Team: Yale   YALE    21    8    1.13   1.69
+Team: Canisius   CAN    3    28    0.75   0.32
+Team: Fairfield   FAIR    12    19    0.93   0.98
+Team: Iona   IONA    17    17    1   1.02
+Team: Manhattan   MAN    17    13    1.04   0.91
+Team: Marist   MAR    20    10    1.1   1.09
+Team: Merrimack   MRMK    18    15    1.03   1.24
+Team: Mount St. Mary's   MSM    22    13    1.09   1.59
+Team: Niagara   NIA    11    19    0.92   0.73
+Team: Quinnipiac   QUIN    20    12    1.08   1.25
+Team: Rider   RID    14    19    0.95   0.37
+Team: Sacred Heart   SHU    15    17    0.98   0.94
+Team: Saint Peter's   SPU    11    16    0.95   0.6
+Team: Siena   SIE    14    18    0.96   1.03
+Team: Coppin State   COPP    6    23    0.83   0.03
+Team: Delaware State   DSU    14    12    1.02   0.77
+Team: Howard   HOW    12    16    0.96   0.7
+Team: Maryland Eastern Shore   UMES    5    22    0.83   0.43
+Team: Morgan State   MORG    12    16    0.96   0.37
+Team: Norfolk State   NORF    21    11    1.1   1.57
+Team: North Carolina Central   NCCU    12    17    0.95   0.62
+Team: South Carolina State   SCST    18    12    1.06   0.95
+Team: Akron   AKR    26    7    1.19   2.25
+Team: Ball State   BALL    14    14    1   0.66
+Team: Bowling Green   BGSU    14    16    0.98   0.83
+Team: Buffalo   BUF    9    20    0.89   0.59
+Team: Central Michigan   CMU    12    15    0.97   1.1
+Team: Eastern Michigan   EMU    16    15    1.01   1.1
+Team: Kent State   KENT    23    11    1.12   2.41
+Team: Massachusetts   MASS    12    19    0.93   1.05
+Team: Miami (OH)   M-OH    24    8    1.16   1.68
+Team: Northern Illinois   NIU    5    23    0.82   0.54
+Team: Ohio   OHIO    16    15    1.01   1.76
+Team: Toledo   TOL    18    14    1.04   1.66
+Team: Western Michigan   WMU    12    19    0.93   0.65
+Team: Belmont   BEL    22    10    1.12   2.06
+Team: Bradley   BRAD    28    8    1.2   2.62
+Team: Drake   DRK    29    4    1.25   2.19
+Team: Evansville   EVAN    11    20    0.91   0.8
+Team: Illinois State   ILLST    22    13    1.09   1.72
+Team: Indiana State   ISU    13    17    0.96   1.31
+Team: Murray State   MUR    16    16    1   1.51
+Team: Northern Iowa   UNI    20    12    1.08   2.42
+Team: Southern Illinois   SIU    13    18    0.95   1.74
+Team: UIC   UIC    16    13    1.03   1.75
+Team: Valparaiso   VAL    14    18    0.96   1.18
+Team: Air Force   AFA    4    28    0.76   0.28
+Team: Boise State   BOIS    26    10    1.16   2.55
+Team: Colorado State   CSU    26    10    1.16   2.29
+Team: Fresno State   FRES    6    26    0.8   0.44
+Team: Grand Canyon   GCU    25    8    1.17   1.62
+Team: Nevada   NEV    17    16    1.01   1.34
+Team: New Mexico   NM    27    7    1.2   2.75
+Team: San Diego State   SDSU    21    9    1.12   2.42
+Team: San José State   SJSU    14    19    0.95   1.18
+Team: UNLV   UNLV    18    15    1.03   1.61
+Team: Utah State   USU    26    7    1.19   2.99
+Team: Wyoming   WYO    12    19    0.93   0.48
+Team: Central Connecticut   CCSU    24    6    1.18   1.25
+Team: Chicago State   CHST    4    28    0.76   0.28
+Team: Fairleigh Dickinson   FDU    12    18    0.94   0.49
+Team: Le Moyne   LEM    9    21    0.88   0.34
+Team: Long Island University   LIU    16    15    1.01   0.49
+Team: Mercyhurst   MERC    13    15    0.98   0.7
+Team: New Haven   Brand new Team    0    0    1   1
+Team: Saint Francis   SFPA    13    18    0.95   0.84
+Team: Stonehill   STO    14    16    0.98   0.2
+Team: Wagner   WAG    13    13    1   0.62
+Team: Eastern Illinois   EIU    9    19    0.9   0.54
+Team: Lindenwood   LIN    14    16    0.98   0.98
+Team: Little Rock   LR    18    13    1.05   0.74
+Team: Morehead State   MORE    14    15    0.99   0.9
+Team: SIU Edwardsville   SIUE    19    12    1.07   1.07
+Team: Southeast Missouri State   SEMO    20    10    1.1   1.37
+Team: Southern Indiana   USI    10    18    0.92   0.66
+Team: Tennessee State   TNST    15    15    1   1.24
+Team: Tennessee Tech   TNTC    15    15    1   0.97
+Team: UT Martin   UTM    13    17    0.96   0.87
+Team: Western Illinois   WIU    10    18    0.92   0.43
+Team: American University   AMER    20    13    1.07   1.06
+Team: Army   ARMY    17    14    1.03   0.95
+Team: Boston University   BU    16    15    1.01   0.84
+Team: Bucknell   BUCK    18    15    1.03   0.88
+Team: Colgate   COLG    14    18    0.96   0.69
+Team: Holy Cross   HC    13    17    0.96   1.01
+Team: Lafayette   LAF    13    19    0.94   0.72
+Team: Lehigh   LEH    10    18    0.92   0.91
+Team: Loyola Maryland   MD    12    18    0.94   0.79
+Team: Navy   NAVY    15    18    0.97   0.48
+Team: Alabama   ALA    28    9    1.19   4.13
+Team: Arkansas   ARK    22    14    1.08   2.25
+Team: Auburn   AUB    32    6    1.26   4.41
+Team: Florida   FLA    36    4    1.32   4.38
+Team: Georgia   UGA    20    13    1.07   2.14
+Team: Kentucky   UK    24    12    1.12   3.39
+Team: LSU   LSU    14    18    0.96   1.23
+Team: Mississippi State   MSU    21    13    1.08   2.2
+Team: Missouri   MIZ    22    12    1.1   2.3
+Team: Oklahoma   OU    20    14    1.06   1.85
+Team: Ole Miss   MISS    24    12    1.12   2.89
+Team: South Carolina   SCU    12    20    0.92   1.41
+Team: Tennessee   TENN    30    8    1.22   3.28
+Team: Texas A&M   TAM    23    11    1.12   2.76
+Team: Texas   TEX    19    16    1.03   1.64
+Team: Vanderbilt   VAN    20    13    1.07   1.79
+Team: Alabama A&M   AAMU    10    19    0.91   -0.2
+Team: Alabama State   ALST    19    16    1.03   0.92
+Team: Alcorn State   ALCN    11    20    0.91   0.28
+Team: Arkansas-Pine Bluff   UAPB    6    23    0.83   -0.6
+Team: Bethune-Cookman   BCU    17    16    1.01   0.87
+Team: Florida A&M   FAMU    13    16    0.97   0.24
+Team: Grambling   GRAM    10    21    0.89   0.25
+Team: Jackson State   JKST    16    18    0.98   0.94
+Team: Mississippi Valley State   MVSU    3    26    0.77   -0.33
+Team: Prairie View A&M   PVAM    5    26    0.79   -0.51
+Team: Southern   SOU    19    10    1.09   0.85
+Team: Texas Southern   TXSO    13    16    0.97   0.52
+Team: Chattanooga   UTC    28    8    1.2   2.86
+Team: East Tennessee State   ETSU    18    12    1.06   1.76
+Team: Furman   FUR    23    9    1.14   2.38
+Team: Mercer   MER    13    18    0.95   0.87
+Team: Samford   SAM    22    9    1.13   2.34
+Team: The Citadel   CIT    5    21    0.84   0.45
+Team: UNC Greensboro   UNCG    19    10    1.09   1.75
+Team: VMI   VMI    13    17    0.96   0.67
+Team: Western Carolina   WCU    8    19    0.89   0.56
+Team: Wofford   WOF    17    16    1.01   1.59
+Team: East Texas A&M   ETAM    5    26    0.79   0.53
+Team: Houston Christian   HCU    12    18    0.94   0.97
+Team: Incarnate Word   UIW    17    15    1.02   1.2
+Team: Lamar   LAM    18    12    1.06   1.4
+Team: McNeese   MCN    26    7    1.19   2.19
+Team: New Orleans   UNO    4    27    0.77   0.47
+Team: Nicholls   NICH    19    11    1.08   1.38
+Team: Northwestern State   NWST    15    15    1   0.92
+Team: SE Louisiana   SELA    18    12    1.06   1.09
+Team: Stephen F. Austin   SFA    14    14    1   1.1
+Team: Texas A&M-Corpus Christi   AMCC    17    13    1.04   1.65
+Team: UT Rio Grande Valley   RGV    14    13    1.01   1.26
+Team: Denver   DEN    10    19    0.91   0.69
+Team: Kansas City   KC    11    18    0.93   1.09
+Team: North Dakota   UND    11    19    0.92   0.84
+Team: North Dakota State   NDSU    20    9    1.11   1.51
+Team: Omaha   OMA    20    13    1.07   1.54
+Team: Oral Roberts   ORU    6    20    0.86   0.56
+Team: South Dakota   SDAK    17    13    1.04   1.03
+Team: South Dakota State   SDST    19    10    1.09   1.75
+Team: St. Thomas-Minnesota   STMN    23    9    1.14   1.53
+Team: App State   APP    17    12    1.05   1.55
+Team: Arkansas State   ARST    25    10    1.15   2.11
+Team: Coastal Carolina   CCU    10    20    0.9   0.63
+Team: Georgia Southern   GASO    17    15    1.02   1
+Team: Georgia State   GAST    14    18    0.96   0.79
+Team: James Madison   JMU    20    10    1.1   2.21
+Team: Louisiana   UL    12    20    0.92   1.26
+Team: Marshall   MRSH    19    12    1.07   1.63
+Team: Old Dominion   ODU    14    19    0.95   0.87
+Team: South Alabama   USA    20    10    1.1   1.51
+Team: Southern Miss   USM    10    21    0.89   0.7
+Team: Texas State   TXST    15    15    1   0.9
+Team: Troy   TROY    21    11    1.1   1.58
+Team: UL Monroe   ULM    7    23    0.84   0.13
+Team: Abilene Christian   ACU    15    14    1.01   1.47
+Team: California Baptist   CBU    17    15    1.02   1.12
+Team: Southern Utah   SUU    12    16    0.96   1.07
+Team: Tarleton State   TAR    12    17    0.95   1.27
+Team: UT Arlington   UTA    13    16    0.97   1
+Team: Utah Tech   UTU    6    25    0.81   0.38
+Team: Utah Valley   UVU    24    8    1.16   1.74
+Team: Gonzaga   GONZ    26    9    1.17   2.4
+Team: Loyola Marymount   LMU    17    14    1.03   2.11
+Team: Oregon State   ORST    20    12    1.08   1.99
+Team: Pacific   PAC    9    22    0.87   0.2
+Team: Pepperdine   PEPP    13    21    0.92   0.62
+Team: Portland   PORT    12    18    0.94   0.99
+Team: Saint Mary's   SMC    29    5    1.24   3.06
+Team: San Diego   USD    6    26    0.8   -0.04
+Team: San Francisco   SF    25    9    1.16   2.58
+Team: Santa Clara   SCU    21    13    1.08   2.14
+Team: Seattle U   SEA    13    17    0.96   1.17
+Team: Washington State   WSC    19    16    1.03   1.03
