@@ -71,8 +71,10 @@
         private $nameWithMascots;
         private $teamsWonAgainst;
         private $teamsLostAgainst;
+		private $smallestAddition;
 		private $wins; 
 		private $losses;
+		private $actualGames;
 		private $totalGames;
 		private $initialWeight;
 		private $finalWeight;
@@ -85,11 +87,13 @@
 			$this->initialWeight=1;
 			$this->finalWeight=1;
 			$this->weightedWins=0;
+			$this->actualGames=0;
             $this->initials="";
 		    $this->names="";
             $this->nameWithMascots="";
             $this->teamsWonAgainst=[];
             $this->teamsLostAgainst=[];
+			$this->smallestAddition=[];
 		}
 		
 		//reads in the names and abbreviations of each team for that year
@@ -114,16 +118,20 @@
 			$this->initialWeight=1;
 			$this->finalWeight=1;
 			$this->weightedWins=0;
+			$this->actualGames=0;
             $this->teamsWonAgainst=[];
             $this->teamsLostAgainst=[];
+			$this->smallestAddition=[];
 		}
 		
 		//outputs names with data for testing
 		function outputResults(){
 			echo "Team: ", $this->names, "   ", $this->initials, "    ", 
-				 $this->wins, "    ",$this->losses, "    ", 
+				 $this->totalGames, "   ", $this->wins, "    ",$this->losses, "    ", 
 				 $this->initialWeight, "   ", $this->finalWeight, 
 				 " ", $this->weightedWins, "<br>";
+			print_r($this->smallestAddition);
+			echo "<br>";
 
 		}
 		function writeResultsToFile($year, $mode){
@@ -131,17 +139,19 @@
 			
 			fwrite($file, "Team: ");
 			fwrite($file, $this->names);
-			fwrite($file, "   ");
+			fwrite($file, "\n");
 			fwrite($file, $this->initials);
-			fwrite($file, "    ");
+			fwrite($file, "\n");
+			fwrite($file, $this->totalGames);
+			fwrite($file, "\n");
 			fwrite($file, $this->wins);
-			fwrite($file, "    ");
+			fwrite($file, "\n");
 			fwrite($file, $this->losses); 
-			fwrite($file,"    ");
+			fwrite($file,"\n");
 			fwrite($file, $this->initialWeight);
-			fwrite($file,"   ");
+			fwrite($file,"\n");
 			fwrite($file, $this->finalWeight);
-			fwrite($file,"   ");
+			fwrite($file,"\n");
 			fwrite($file, $this->weightedWins);
 			fwrite($file, "\n");
 
@@ -178,7 +188,7 @@
             }else{
                 $this->teamsLostAgainst[]=$opponentName;
             }
-
+			$this->actualGames++;
 
         }
 
@@ -239,11 +249,40 @@
 
 		//adjusts the final weights for a win for all teams
 		function adjustFinalWeightForWin($opponentWins, $opponentLosses){
+			$addition=0;
 			if($opponentWins > $opponentLosses){
 				$addition = ($opponentWins-$opponentLosses) * 0.01;
 				$this->finalWeight += $addition;
+
+			}
+
+			$this->checkSmallestWins($addition);
+		}
+
+			//checks to see if the win is one of the smallest wins possible
+		function checkSmallestWins($addition){
+			$maxSmallestIndex= $this->actualGames - $this->totalGames;
+
+			//checks if array is empty before removing the smallest index
+			for($i=0;$i<$maxSmallestIndex;$i++){
+				if(!isset($this->smallestAddition[$i])){
+					$this->smallestAddition[$i] = $addition;
+					break;
+				}
+			}
+
+			//selection Sort
+			$this->smallestAddition = array_filter($this->smallestAddition, 'is_numeric');
+			sort($this->smallestAddition, SORT_NUMERIC);
+
+		}
+
+		function removeExtraWins(){
+			for($i= 0;$i< count($this->smallestAddition);$i++){
+				$this->weightedWins-=$this->smallestAddition[$i];
 			}
 		}
+		
 		
 	}
 
@@ -311,12 +350,26 @@
 	//adds wins and losses to all teams
 	function addWinsAndLossesToAllTeams($year){
 		global $teams;
-		global $year;
 		#$file = file("scoreData$year.txt");
 		$winLossData = fopen("scoreData$year.txt", "r") or die("failed to open");
         $gameIndex=0;
 
 		$teamIndex=0;
+
+		//changes the game count for covid year
+		if($year==2021 or $year==2022){
+			$gameCountFile = fopen("gameCount2021.txt", "r") or die;
+			$gameCount = fgets($gameCountFile);
+			for($i=0;$i<count($teams);$i++){
+				$teams[$i]->readInGameCount($gameCount);
+			}
+		}else{
+			$gameCountFile = fopen("gamesCountedEveryYearButCOVIDYear.txt", "r") or die;
+			$gameCount = fgets($gameCountFile);
+			for($i=0;$i<count($teams);$i++){
+				$teams[$i]->readInGameCount($gameCount);
+			}
+		}
 
         $newTeamString = "Team: ";
 
@@ -357,17 +410,12 @@
 		global $teams;
 		$teamNames = fopen("newData.txt", "r") or die;
         $teamNamesWithMascots = fopen("teamNames.txt", "r") or die;
-		//$gameCountFile = fopen("gamecount.txt", "r") or die;
-		//$gameCount = fgets($gameCountFile);
 		$i=0;
-		
-		//fclose($gameCountFile);
 		
 		while(!feof($teamNames)){
 			$teams[$i] = new Team();
 			$teams[$i]->readInNames(fgets($teamNames), fgets($teamNames));
             $teams[$i]->readInNamesWithMascots(fgets($teamNamesWithMascots));
-			//$teams[$i]->readInGameCount($gameCount);
 			$i++;		
 		}
 		fclose($teamNames);
@@ -387,13 +435,13 @@
 			$teams[$i]->calculateInitialWeight();
 		}
 
-		for($i=0;$i<count($teams)-1;$i++){
+		for($i=0;$i<count($teams);$i++){
 			$teamsLostAgainst = $teams[$i]->getTeamsLostAgainst();
 			$teamsWonAgainst = $teams[$i]->getTeamsWonAgainst();
 
 			//adjusts weights for losses
-			for($j=0;$j<count($teamsLostAgainst)-1;$j++){
-				for($teamNames=0;$teamNames<count($teams)-1;$teamNames++)
+			for($j=0;$j<count($teamsLostAgainst);$j++){
+				for($teamNames=0;$teamNames<count($teams);$teamNames++)
 					if($teams[$teamNames]->getName() == $teamsLostAgainst[$j]){
 						$teams[$i]->adjustFinalWeightForLoss($teams[$teamNames]->getWins(), $teams[$teamNames]->getLosses());
 						$teams[$i]->addWeightedWins($teams[$teamNames]->returnFinalWeight(), $lossValue);
@@ -402,7 +450,7 @@
 			}
 
 			//adjust weights for wins
-			for($j=0;$j<count($teamsWonAgainst)-1;$j++){
+			for($j=0;$j<count($teamsWonAgainst);$j++){
 				for($teamNames=0;$teamNames<count($teams);$teamNames++)
 					if($teams[$teamNames]->getName() == $teamsWonAgainst[$j]){
 						$teams[$i]->adjustFinalWeightForWin($teams[$teamNames]->getWins(), $teams[$teamNames]->getLosses());
@@ -410,6 +458,8 @@
 						break;
 					}
 			}
+
+			$teams[$i]->removeExtraWins();
 		}
 
 

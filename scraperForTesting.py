@@ -9,7 +9,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.keys import Keys
 import os.path
 import time
-
+import re
 
 
 EARLIEST_YEAR=2003
@@ -51,6 +51,8 @@ canceledPath = '//td[contains(@class, "tc ttu Table__TD")]'
 fullRowPath = '//tr[contains(@class, "Table__TR Table__TR--sm Table__even") and descendant ::*[contains(@data-testid, "date")] ] '
 scoreClassName ="Table__TD"
 noDataPath = '//div[contains(@class, "Schedule__no-data")]'
+nonD1Path = '//img[contains(@src, "https://a.espncdn.com/combiner/i?img=/i/teamlogos/default-team-logo-500.png&h=40&w=40&scale=crop&cquality=40&location=origin")]'
+
 drivers = {}
 
 def open_driver():
@@ -94,8 +96,18 @@ def createHasBeenOpenedArray():
 
    
 
-def print_Data(year, driver, wait):
+def print_Data(year, driver, wait, hasBeenOpened):
+    teamNames = []
+    dataTexts=[]
     print(f"{year}.txt")
+    mode="a"
+    if(hasBeenOpened==False):
+        mode = "w"
+
+    with open("TestFile.txt", mode) as testFile:
+        testFile.write(f"{year}.txt \n")
+
+    mode = "a"
 
     time.sleep(0.5)
 
@@ -119,27 +131,46 @@ def print_Data(year, driver, wait):
     for attempts in range(5):
         try:
             fullRow = [elem.text for elem in driver.find_elements(By.XPATH, fullRowPath)]
-            dataTexts = [elem.text for elem in driver.find_elements(By.XPATH, dataPath)]
-            opponentTexts = [elem.text for elem in driver.find_elements(By.XPATH, opponentNamePath)]
             break
         except:
             print("went stale")
             continue
 
-    for rows in fullRow:
-        if "CANCELLED" in rows or "POSTPONED" in rows or "CANCELED" in rows:
-            opponentIndex+=1
-            continue
-        try:
-            print(opponentTexts[opponentIndex] + " " + dataTexts[dataIndex])
-            opponentIndex+=1
-            dataIndex+=1
-        #skips over the data if it fails
-        except:
-            print("failed to write")
-            continue
+    i=0
+    for row in fullRow:
+        teamName = row.split("\n")
 
-    return True
+
+        teamNames.append(teamName[2]) #append new Team Name
+        teamNames[i] = re.sub(r'\d+', '', teamNames[i])          # remove numbers
+        teamNames[i] = re.sub(r'\*', '', teamNames[i])
+        teamNames[i] = re.sub(r'\s+', ' ', teamNames[i])      # collapse multiple spaces
+        teamNames[i] = teamNames[i].strip()
+        i+=1
+
+        dataText = teamName[3]
+        dataTexts.append(dataText[0])
+
+    
+
+    with open("TestFile.txt", mode) as testFile:
+        for rows in fullRow:
+            #testFile.write(rows + "\n")
+            if "CANCELLED" in rows or "POSTPONED" in rows or "CANCELED" in rows:
+                opponentIndex+=1
+                continue
+            try:
+                print(teamNames[opponentIndex] + " " + dataTexts[dataIndex])
+                testFile.write(teamNames[opponentIndex] + " " + dataTexts[dataIndex] + "\n")
+                opponentIndex+=1
+                dataIndex+=1
+            #skips over the data if it fails
+            except:
+                print("failed to write")
+                testFile.write("failed to write \n")
+                continue
+
+        return True
 
 #uses the dropdown menu to change the year
 def change_Year(choiceIndex, driver, wait):
@@ -168,7 +199,7 @@ def run_data_getter(hasBeenOpened):
     team_links = driver.find_elements(By.XPATH, '//a[contains(@class, "AnchorLink") and contains(@href, "/schedule/")]')
     urls = [link.get_attribute("href") for link in team_links]
 
-    driver.get(urls[29])
+    driver.get(urls[0])
 
     for year in range (CURR_YEAR, EARLIEST_YEAR, -1):
             
@@ -183,8 +214,9 @@ def run_data_getter(hasBeenOpened):
         
         if isClicked == True:
             print("getting Data")
-            print_Data(year-1, driver, wait)
+            print_Data(year-1, driver, wait, hasBeenOpened)
             print("data printed")
+            hasBeenOpened=True
             
 
                     

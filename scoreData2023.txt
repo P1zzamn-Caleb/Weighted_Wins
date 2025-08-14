@@ -131,8 +131,6 @@ L
 Washington State
 L
 Team: Clemson Tigers
-Morehead State
-L
 The Citadel
 W
 South Carolina
@@ -200,10 +198,6 @@ W
 Virginia
 L
 Team: Duke Blue Devils
-Oral Roberts
-W
-Tennessee
-L
 Jacksonville
 W
 South Carolina Upstate
@@ -338,34 +332,36 @@ L
 Georgia Tech
 L
 Team: Georgia Tech Yellow Jackets
+Clayton State
+W
 Georgia State
 W
 Northern Illinois
 W
 Utah
-W
+L
 Marquette
 L
 North Alabama
-L
-Iowa
 W
-Northeastern
+Iowa
 L
+Northeastern
+W
 Georgia
 W
 North Carolina
-W
-Alabama State
 L
-Clemson
+Alabama State
 W
+Clemson
+L
 Virginia
 L
 Miami
-L
-Florida State
 W
+Florida State
+L
 Notre Dame
 L
 Pittsburgh
@@ -383,23 +379,25 @@ L
 NC State
 L
 Notre Dame
-L
+W
 Wake Forest
-W
-Virginia Tech
 L
-Pittsburgh
+Virginia Tech
 W
+Florida Tech
+W
+Pittsburgh
+L
 Louisville
 W
 Syracuse
-L
+W
 Boston College
 W
 Florida State
 W
 Pittsburgh
-W
+L
 Team: Louisville Cardinals
 Bellarmine
 L
@@ -466,16 +464,6 @@ L
 Boston College
 L
 Team: Miami Hurricanes
-Drake
-W
-Indiana
-W
-Houston
-W
-Texas
-W
-UConn
-L
 Lafayette
 W
 UNC Greensboro
@@ -503,23 +491,23 @@ W
 Virginia
 W
 Notre Dame
-W
+C
 Georgia Tech
-L
+W
 Boston College
-W
+L
 NC State
-L
+W
 Syracuse
-W
+L
 Duke
-L
+W
 Florida State
-W
-Pittsburgh
 L
-Virginia Tech
+Pittsburgh
 W
+Virginia Tech
+L
 Clemson
 W
 Duke
@@ -533,16 +521,14 @@ W
 Virginia Tech
 W
 Florida State
-L
-Pittsburgh
 W
+Pittsburgh
+L
 Wake Forest
 W
 Duke
-L
+W
 Team: NC State Wolfpack
-Creighton
-L
 Austin Peay
 W
 Campbell
@@ -742,12 +728,6 @@ L
 Virginia Tech
 L
 Team: Pittsburgh Panthers
-Mississippi State
-W
-Iowa State
-W
-Xavier
-L
 UT Martin
 W
 West Virginia
@@ -1012,14 +992,12 @@ W
 Wake Forest
 L
 Team: Virginia Cavaliers
-Furman
-L
 North Carolina Central
 W
 Monmouth
 W
 Baylor
-W
+C
 Illinois
 W
 Maryland Eastern Shore
@@ -1031,17 +1009,17 @@ W
 James Madison
 W
 Houston
-L
+W
 Miami
 L
 UAlbany
-W
+L
 Georgia Tech
 W
 Pittsburgh
-L
-Syracuse
 W
+Syracuse
+L
 North Carolina
 W
 Florida State
@@ -1055,9 +1033,9 @@ W
 Syracuse
 W
 Virginia Tech
-L
-NC State
 W
+NC State
+L
 Duke
 W
 Louisville
@@ -1065,11 +1043,11 @@ W
 Notre Dame
 W
 Boston College
-L
+W
 North Carolina
 L
 Clemson
-W
+L
 Louisville
 W
 North Carolina
@@ -1077,10 +1055,8 @@ W
 Clemson
 W
 Duke
-L
+W
 Team: Virginia Tech Hokies
-Cincinnati
-L
 Delaware State
 W
 Lehigh
@@ -1219,36 +1195,42 @@ NC State
 L
 Purdue
 L
+Milligan
+W
 South Florida
 W
 UAlbany
 W
 Bucknell
-W
+L
 Howard
 L
 Western Kentucky
 L
 Tennessee State
-L
+W
+Kentucky Christian
+W
+Lindsey Wilson College
+W
 Murray State
-W
+L
 Tennessee
-W
+L
 Queens University
-W
+L
 North Florida
 L
 Florida Gulf Coast
-L
+W
 Central Arkansas
-L
-Lipscomb
-L
-Lipscomb
 W
+Lipscomb
+L
+Lipscomb
+L
 Bellarmine
-W
+L
 Eastern Kentucky
 L
 Kennesaw State
@@ -1266,7 +1248,7 @@ L
 Jacksonville
 L
 North Florida
-L
+W
 Stetson
 L
 Florida Gulf Coast
@@ -1276,8 +1258,10 @@ Louisville
 W
 Morehead State
 L
-Clemson
+Campbellsville-Harrodsburg
 W
+Clemson
+L
 Duke
 L
 Loyola Marymount
@@ -1286,24 +1270,28 @@ UCLA
 L
 Kentucky
 L
+Alice Lloyd College
+W
+Wabash College
+W
 Murray State
-L
+W
 Miami (OH)
-W
-Evansville
-W
-Liberty
-W
-North Alabama
 L
+Evansville
+L
+Liberty
+L
+North Alabama
+W
 Queens University
 L
 Jacksonville State
-L
-Stetson
 W
-Florida Gulf Coast
+Stetson
 L
+Florida Gulf Coast
+W
 Austin Peay
 W
 Lipscomb
@@ -1311,7 +1299,7 @@ L
 Eastern Kentucky
 W
 Eastern Kentucky
-W
+L
 Kennesaw State
 L
 Jacksonville State
@@ -1319,11 +1307,11 @@ W
 Liberty
 L
 Queens University
-L
-North Alabama
 W
-Central Arkansas
+North Alabama
 L
+Central Arkansas
+W
 Jacksonville
 W
 North Florida
@@ -1331,26 +1319,28 @@ L
 North Florida
 W
 Liberty
-W
+L
 Team: Central Arkansas Bears
 Wichita State
 L
+Hendrix College
+W
 Little Rock
 W
 Niagara
-W
+L
 Rider
-L
+W
 Northwestern State
-W
+L
 Idaho State
-L
+W
 Loyola Chicago
-W
-Arkansas State
 L
-Oral Roberts
+Arkansas State
 W
+Oral Roberts
+L
 Oklahoma
 L
 Little Rock
@@ -1366,27 +1356,27 @@ L
 Austin Peay
 L
 Queens University
-L
-Liberty
 W
+Liberty
+L
 North Alabama
 L
 North Alabama
 L
 North Florida
-L
+W
 Jacksonville
-W
-Florida Gulf Coast
 L
-Stetson
+Florida Gulf Coast
 W
+Stetson
+L
 Lipscomb
 L
 Austin Peay
-L
-Eastern Kentucky
 W
+Eastern Kentucky
+L
 Bellarmine
 L
 Jacksonville State
@@ -1394,72 +1384,70 @@ L
 Kennesaw State
 L
 Team: Eastern Kentucky Colonels
-Cleveland State
+Miami (OH)-Middletown
 W
-Indiana State
-W
-Southern Utah
-W
-Charlotte
-L
 Western Kentucky
-W
+L
 Cincinnati
 L
 Georgia State
-L
+W
 UNC Asheville
 W
 East Texas A&M
+L
+Brescia
 W
 James Madison
 L
 Tennessee
+L
+Boyce
 W
 Northern Kentucky
 L
 Radford
-L
+W
 UNC Greensboro
 W
 Queens University
-L
-Kennesaw State
 W
+Kennesaw State
+L
 Central Arkansas
 W
 Liberty
 W
 Florida Gulf Coast
-L
+W
 Stetson
 W
 Lipscomb
-W
+L
 Austin Peay
 W
 Bellarmine
-W
-Bellarmine
 L
+Bellarmine
+W
 Jacksonville State
 W
 Kennesaw State
-L
+W
 Queens University
 W
 Liberty
-W
+L
 Central Arkansas
 W
 North Alabama
-W
+L
 North Florida
 L
 Jacksonville
 W
 North Alabama
-L
+W
 Liberty
 L
 Team: Florida Gulf Coast Eagles
@@ -1467,10 +1455,12 @@ USC
 W
 San Diego
 L
-Tennessee
+Ave Maria
 W
-Northern Kentucky
+Tennessee
 L
+Northern Kentucky
+W
 Drexel
 W
 Kansas City
@@ -1480,9 +1470,9 @@ W
 Florida International
 W
 Florida Atlantic
-W
-Mercer
 L
+Mercer
+W
 St. Bonaventure
 W
 Canisius
@@ -1492,17 +1482,17 @@ W
 Central Arkansas
 W
 Austin Peay
-W
-North Florida
 L
-Eastern Kentucky
+North Florida
 W
+Eastern Kentucky
+L
 Bellarmine
 L
 Jacksonville State
-L
-Kennesaw State
 W
+Kennesaw State
+L
 Queens University
 L
 Liberty
@@ -1512,25 +1502,31 @@ L
 North Alabama
 L
 North Florida
-L
+W
 Jacksonville
 W
 Stetson
-W
+L
 Stetson
 L
 Lipscomb
 L
 Austin Peay
-L
-Queens University
 W
+Queens University
+L
 Team: Jacksonville Dolphins
 Duke
 L
+Johnson University Florida
+W
+Voorhees
+W
 Campbell
 W
 UAB
+L
+Trinity Baptist
 W
 VCU
 W
@@ -1543,64 +1539,70 @@ W
 Notre Dame
 L
 Florida Gulf Coast
-W
+L
 Jacksonville State
 W
 Stetson
 L
 Lipscomb
-L
+W
 Kennesaw State
-W
+L
 Jacksonville State
-L
+W
 Liberty
-W
+L
 Queens University
-L
+W
 North Alabama
-W
-Central Arkansas
 L
-North Florida
+Central Arkansas
 W
+North Florida
+L
 North Florida
 L
 Stetson
-W
+L
 Florida Gulf Coast
 L
 Austin Peay
-L
+W
 Lipscomb
 L
 Bellarmine
 L
 Eastern Kentucky
-W
+L
 Team: Lipscomb Bisons
 South Dakota
 L
+Campbellsville-Harrodsburg
+W
 Belmont
 W
 Notre Dame
+L
+Covenant
 W
 Chattanooga
-L
+W
 Navy
 W
+Trevecca Nazarene
+W
 Alabama A&M
-W
+L
 Tennessee State
-W
+L
 Tennessee Tech
 W
 Michigan
 L
 Louisville
-L
-Stetson
 W
+Stetson
+L
 Liberty
 L
 North Alabama
@@ -1608,98 +1610,102 @@ W
 Jacksonville
 L
 Austin Peay
-L
+W
 Austin Peay
 W
 Eastern Kentucky
-L
+W
 Bellarmine
 W
 Jacksonville State
-W
+L
 Kennesaw State
-W
+L
 Queens University
 W
 Liberty
-L
+W
 Central Arkansas
-L
+W
 North Alabama
-W
+L
 North Florida
-W
+L
 Jacksonville
 W
 Florida Gulf Coast
-L
+W
 Stetson
-L
+W
 Stetson
 W
 Kennesaw State
-W
-Team: North Alabama Lions
-Southern Utah
 L
+Team: North Alabama Lions
+Oakwood
+W
 Alabama A&M
 W
-Mississippi Valley State
+Blue Mountain
 W
+Mississippi Valley State
+L
 Hampton
 W
 UC Santa Barbara
 L
 Georgia Tech
-W
+L
 Memphis
 L
 Morehead State
-L
-Alabama State
-L
-Colorado
 W
+Alabama State
+W
+Colorado
+L
 Ole Miss
 W
+Williams Baptist
+W
 Jacksonville State
-L
+W
 Bellarmine
-W
+L
 Lipscomb
-W
+L
 Stetson
-W
+L
 Liberty
 L
 Queens University
 L
 Central Arkansas
-L
+W
 Central Arkansas
-L
+W
 Jacksonville
-L
+W
 North Florida
 W
 Stetson
-W
+L
 Florida Gulf Coast
 W
 Austin Peay
 W
 Lipscomb
-L
+W
 Bellarmine
 W
 Eastern Kentucky
 W
 Kennesaw State
-W
+L
 Jacksonville State
-W
+L
 Eastern Kentucky
-W
+L
 Team: North Florida Ospreys
 Gonzaga
 L
@@ -1711,73 +1717,83 @@ Duquesne
 L
 Kentucky
 L
-High Point
+Trinity Baptist
 W
+High Point
+L
 Houston
 L
 Bethune-Cookman
-L
+W
 Pittsburgh
+L
+Davis & Elkins
 W
 Bethune-Cookman
-L
+W
 Austin Peay
 W
 Stetson
-W
+L
 Kennesaw State
 W
 Florida Gulf Coast
 L
 Jacksonville State
-W
+L
 Kennesaw State
 L
 Queens University
-L
+W
 Liberty
 L
 Central Arkansas
-W
+L
 North Alabama
 L
 Jacksonville
-L
-Jacksonville
-L
-Florida Gulf Coast
 W
+Jacksonville
+W
+Florida Gulf Coast
+L
 Stetson
 W
 Lipscomb
-L
-Austin Peay
 W
+Austin Peay
+L
 Eastern Kentucky
 W
 Bellarmine
-L
-Bellarmine
 W
+Bellarmine
+L
 Team: Queens University Royals
 Marshall
 W
-La Salle
+Clinton College
 W
-Green Bay
+La Salle
 L
+Green Bay
+W
 Morgan State
 W
-George Mason
+Lynchburg
 W
+George Mason
+L
 Bowling Green
 W
+Paine
+W
 High Point
-L
+W
 East Tennessee State
 W
 Nebraska
-W
+L
 Fairleigh Dickinson
 W
 Austin Peay
@@ -1787,7 +1803,7 @@ L
 Bellarmine
 W
 Kennesaw State
-W
+L
 Central Arkansas
 L
 North Alabama
@@ -1799,19 +1815,19 @@ L
 Florida Gulf Coast
 W
 Stetson
-L
+W
 Lipscomb
 L
 Austin Peay
 W
 Eastern Kentucky
-W
+L
 Bellarmine
 L
 Jacksonville State
-W
-Kennesaw State
 L
+Kennesaw State
+W
 Liberty
 L
 Liberty
@@ -1821,30 +1837,34 @@ W
 Kennesaw State
 L
 Team: Stetson Hatters
-Milwaukee
-L
 Florida State
 W
+South Florida
+P
 Rider
 W
 Niagara
 W
 Campbell
 L
+Johnson University Florida
+L
 Florida
+W
+Webber International
 L
 Charleston
 W
 Ohio
 L
 UCF
-W
+L
 Lipscomb
 L
 North Florida
-L
+W
 Jacksonville
-L
+W
 North Alabama
 W
 Bellarmine
@@ -1852,43 +1872,45 @@ W
 Eastern Kentucky
 W
 Kennesaw State
-W
-Jacksonville State
-W
-Liberty
 L
+Jacksonville State
+L
+Liberty
+W
 Queens University
 L
 North Alabama
-W
+L
 Central Arkansas
-L
+W
 Jacksonville
-L
+W
 North Florida
 W
 Florida Gulf Coast
-W
+L
 Florida Gulf Coast
 W
 Austin Peay
+W
+Lipscomb
+W
+Lipscomb
 L
-Lipscomb
-W
-Lipscomb
-W
 Team: West Georgia Wolves
 Team: Binghamton Bearcats
+Cazenovia College
+W
 Marist
 W
 Maryland
-W
+L
 Sacred Heart
 L
 Columbia
-L
-La Salle
 W
+La Salle
+L
 Loyola Maryland
 L
 Stonehill
@@ -1897,104 +1919,114 @@ Colgate
 L
 Fordham
 L
+SUNY-Oneonta
+W
 Niagara
 L
 Cornell
-W
+L
 Bryant
 L
 New Hampshire
-L
+W
 NJIT
-L
+W
 UMass Lowell
 W
 UAlbany
 W
 Maine
-W
-Vermont
-W
-Bryant
 L
+Vermont
+L
+Bryant
+W
 UMBC
 L
 New Hampshire
 W
 UAlbany
-L
+W
 NJIT
 W
 UMass Lowell
-W
+L
 Vermont
-W
+L
 Maine
 L
 UMBC
 L
 UMBC
-L
+W
 Vermont
 L
 Team: Bryant Bulldogs
+Thomas (ME)
+W
 Dartmouth
 W
 Florida Atlantic
-W
-Detroit Mercy
+C
+Florida International
 L
+Detroit Mercy
+W
 Syracuse
+W
+Framingham State
 W
 Brown
 W
 Cincinnati
-W
-Tulane
-W
+L
 Stony Brook
 L
 Manhattan
-L
+C
+Liberty
+W
 Towson
 W
 Binghamton
-W
-Vermont
 L
+Vermont
+W
 UMBC
 W
 UAlbany
-W
+L
 New Hampshire
 L
 NJIT
-L
+W
 UMass Lowell
 W
 Binghamton
 W
 Maine
-W
+L
 New Hampshire
 L
 UAlbany
-L
+W
 UMBC
 W
 UMass Lowell
 W
 NJIT
-W
+L
 Vermont
 L
 Maine
-L
-New Hampshire
 W
+New Hampshire
+L
 Team: Maine Black Bears
 Nebraska
 L
+Maine-Fort Kent
+W
 Boston College
 W
 Columbia
@@ -2002,17 +2034,19 @@ W
 Central Connecticut
 W
 Brown
-W
+L
 Fordham
 L
 Marist
 L
+Maine-Augusta
+W
 Merrimack
-L
+W
 Akron
-W
+L
 Ohio State
-W
+L
 Harvard
 L
 UMass Lowell
@@ -2026,29 +2060,29 @@ L
 Vermont
 L
 Binghamton
-L
+W
 UMass Lowell
-L
+W
 UAlbany
 W
 Bryant
-W
+L
 UMBC
 W
 Vermont
 L
 NJIT
-W
-UAlbany
 L
+UAlbany
+W
 New Hampshire
 L
 Binghamton
 W
 Bryant
-L
-UMass Lowell
 W
+UMass Lowell
+L
 Team: NJIT Highlanders
 Saint Peter's
 L
@@ -2074,30 +2108,32 @@ Niagara
 W
 South Florida
 L
+Saint Elizabeth
+W
 UMass Lowell
-W
+L
 Maine
-L
+W
 Binghamton
-W
-UAlbany
 L
-Bryant
+UAlbany
 W
+Bryant
+L
 Vermont
 L
 UMBC
-L
-New Hampshire
 W
+New Hampshire
+L
 UMass Lowell
 L
 UMBC
 L
 Maine
-L
-Binghamton
 W
+Binghamton
+L
 Vermont
 L
 Bryant
@@ -2109,10 +2145,12 @@ L
 Vermont
 L
 Team: New Hampshire Wildcats
+Brandeis
+W
 Fairfield
 W
 Fordham
-W
+L
 Boston University
 L
 George Washington
@@ -2122,70 +2160,76 @@ L
 Columbia
 L
 Boston College
-L
+W
 St. John's
+L
+St. Josephs (ME)
 W
 Holy Cross
-L
+W
 Brown
-W
-Dartmouth
-W
+L
 UAlbany
-L
-Vermont
+C
+Binghamton
 W
-Maine
+Vermont
 L
+Maine
+W
 Bryant
 W
 UMBC
-W
+L
 UAlbany
 L
 UMass Lowell
-L
+W
 NJIT
 W
 Bryant
 W
 Binghamton
-W
+L
 Vermont
 L
 UMBC
 L
 Maine
-L
+W
 UMass Lowell
 W
 NJIT
-W
-Bryant
 L
+Bryant
+W
 UMass Lowell
 W
 Team: UAlbany Great Danes
 Towson
 L
+Immaculata
+W
 Siena
+L
+Union
 W
 Saint Joseph's
 L
 Austin Peay
-W
-Presbyterian
 L
+Presbyterian
+W
 Florida Atlantic
 L
 American University
-W
+L
 Massachusetts
 L
 Providence
 L
 Long Island University
-L
+W
 Loyola Chicago
 L
 Northern Illinois
@@ -2193,15 +2237,15 @@ W
 Virginia
 L
 New Hampshire
-W
+L
 UMBC
 L
 UMass Lowell
-L
+W
 Bryant
 L
 NJIT
-W
+L
 Binghamton
 L
 New Hampshire
@@ -2217,7 +2261,7 @@ L
 Binghamton
 L
 UMBC
-L
+W
 Maine
 L
 NJIT
@@ -2227,18 +2271,20 @@ L
 Team: UMBC Retrievers
 Tulane
 L
-Princeton
+Penn State-York
 W
-Lafayette
+Princeton
 L
+Lafayette
+W
 Central Connecticut
 W
 UNC Greensboro
-W
+L
 Georgetown
 L
 Coppin State
-L
+W
 Lehigh
 W
 Columbia
@@ -2250,48 +2296,54 @@ W
 William & Mary
 W
 Maryland
-W
+L
 Vermont
 L
 UAlbany
-L
+W
 Bryant
 W
 Maine
 W
-UMass Lowell
+Hartford
 W
+UMass Lowell
+L
 New Hampshire
 W
 NJIT
 L
 Vermont
-W
-Binghamton
 L
+Binghamton
+W
 Maine
 L
 NJIT
 W
 Bryant
-L
+W
 UAlbany
-W
+L
 New Hampshire
-W
+L
 UMass Lowell
 L
 Binghamton
-L
+W
 Binghamton
 L
 Team: UMass Lowell River Hawks
+Fisher College
+W
 Columbia
 W
 Rutgers
-W
-Sacred Heart
 L
+Sacred Heart
+W
+Emerson
+W
 Brown
 W
 Stonehill
@@ -2307,15 +2359,15 @@ W
 St. Francis Brooklyn
 W
 Rhode Island
-W
+L
 Boston University
 W
 NJIT
-L
+W
 Maine
 W
 UAlbany
-W
+L
 Vermont
 W
 Binghamton
@@ -2323,23 +2375,25 @@ L
 UMBC
 W
 Bryant
-L
+W
 Maine
-W
-New Hampshire
-W
-UAlbany
 L
+New Hampshire
+L
+UAlbany
+W
 NJIT
-L
-Vermont
 W
+Hartford
+W
+Vermont
+L
 Bryant
 W
 Binghamton
 W
 UMBC
-L
+W
 New Hampshire
 W
 Maine
@@ -2347,10 +2401,8 @@ W
 New Hampshire
 W
 Vermont
-W
-Team: Vermont Catamounts
-Marquette
 L
+Team: Vermont Catamounts
 Brown
 W
 Saint Mary's
@@ -2369,6 +2421,8 @@ UNC Wilmington
 L
 Long Beach State
 L
+Vermont State - Lyndon
+W
 Merrimack
 W
 Dartmouth
@@ -2376,9 +2430,9 @@ W
 Colgate
 W
 Toledo
-W
-Miami
 L
+UMBC
+C
 Bryant
 W
 New Hampshire
@@ -2416,14 +2470,6 @@ W
 UMass Lowell
 W
 Team: Charlotte 49ers
-Western Carolina
-W
-Milwaukee
-W
-Radford
-W
-Eastern Kentucky
-W
 Coppin State
 W
 Maryland Eastern Shore
@@ -2538,38 +2584,30 @@ L
 SMU
 W
 Cincinnati
-W
+P
 SMU
-L
+W
 Tulsa
-W
+L
 Houston
-L
-Tulane
 W
 Tulane
 L
+Tulane
+W
 UCF
 L
 South Florida
-W
+L
 Houston
-L
+W
 Team: Florida Atlantic Owls
-Memphis
+Lynn
 W
-Fairleigh Dickinson
-W
-Tennessee
-W
-Kansas State
-W
-San Diego State
-L
 Ole Miss
-W
-Florida
 L
+Florida
+W
 Bryant
 W
 Detroit Mercy
@@ -2581,6 +2619,8 @@ W
 Eastern Michigan
 W
 Florida Gulf Coast
+W
+St. Thomas (FL)
 W
 Florida International
 W
@@ -2607,19 +2647,19 @@ W
 Western Kentucky
 W
 UAB
-W
+L
 Charlotte
 W
 Rice
-L
+W
 Louisiana Tech
 W
 Middle Tennessee
-W
+L
 UTSA
 W
 UTEP
-L
+W
 Rice
 W
 Louisiana Tech
@@ -2631,8 +2671,6 @@ W
 UAB
 W
 Team: Memphis Tigers
-Florida Atlantic
-L
 Vanderbilt
 W
 Saint Louis
@@ -2702,30 +2740,24 @@ W
 Houston
 W
 Team: North Texas Mean Green
-Alcorn State
-W
-Sam Houston
-W
-Oklahoma State
-W
-Wisconsin
-W
-UAB
+Southern Nazarene
 W
 Saint Mary's
-W
-Fresno State
 L
+Fresno State
+W
+Paul Quinn
+W
 San José State
 W
 Long Beach State
 W
 UNC Wilmington
-W
+L
 Omaha
 W
 UT Arlington
-L
+W
 Grand Canyon
 W
 Massachusetts
@@ -2733,17 +2765,17 @@ W
 UTSA
 W
 Florida Atlantic
-W
+L
 Florida International
 W
 Western Kentucky
-L
+W
 Middle Tennessee
 W
 Louisiana Tech
 W
 Florida Atlantic
-W
+L
 Florida International
 W
 Rice
@@ -2751,7 +2783,7 @@ L
 UAB
 W
 UTSA
-L
+W
 UTEP
 W
 Rice
@@ -2765,26 +2797,24 @@ W
 UTEP
 W
 Charlotte
-W
+L
 Middle Tennessee
 W
 Western Kentucky
-L
+W
 Louisiana Tech
 W
 UAB
-W
-Team: Rice Owls
-Duquesne
-W
-Southern Utah
 L
+Team: Rice Owls
 Pepperdine
 L
-Middle Tennessee
+St. Thomas (TX)
 W
-Georgia Southern
+Middle Tennessee
 L
+Georgia Southern
+W
 Western Michigan
 W
 Houston Christian
@@ -2794,49 +2824,53 @@ W
 Texas State
 W
 Texas
+L
+North American
 W
 Northwestern State
-L
+W
+Jarvis Christian
+W
 Western Kentucky
 W
 UTEP
 W
 Louisiana Tech
-W
+L
 Middle Tennessee
-W
+L
 UTEP
 W
 UTSA
-L
+W
 North Texas
-L
+W
 Charlotte
 W
 UAB
-W
+L
 Louisiana Tech
-W
+L
 North Texas
-W
+L
 Florida Atlantic
 L
 Florida International
-L
+W
 UTSA
 L
 Western Kentucky
-L
-UAB
 W
+UAB
+L
 Charlotte
 L
 Florida Atlantic
-W
+L
 Florida International
 L
 UTSA
-L
+W
 UAB
 L
 Team: South Florida Bulls
@@ -2987,15 +3021,15 @@ W
 Fordham
 L
 Buffalo
-W
+C
 George Mason
-L
+W
 Mississippi Valley State
-W
-Cincinnati
 L
-Memphis
+Cincinnati
 W
+Memphis
+L
 Tulsa
 W
 Temple
@@ -3005,11 +3039,11 @@ W
 UCF
 W
 Houston
-L
+W
 Tulsa
 L
 Wichita State
-W
+L
 SMU
 W
 Memphis
@@ -3019,19 +3053,19 @@ W
 South Florida
 W
 Houston
-L
+P
 Wichita State
-L
-East Carolina
-L
-East Carolina
 W
+East Carolina
+L
+East Carolina
+L
 Temple
-W
+L
 Wichita State
 W
 Memphis
-L
+W
 Team: Tulsa Golden Hurricane
 Oregon State
 L
@@ -3094,16 +3128,6 @@ L
 Wichita State
 L
 Team: UAB Blazers
-Southern Miss
-W
-Morehead State
-W
-Vanderbilt
-W
-Utah Valley
-W
-North Texas
-L
 Alabama State
 W
 Toledo
@@ -3114,14 +3138,16 @@ South Florida
 W
 Georgia
 W
+Rhodes
+W
 Jacksonville
 W
 South Alabama
 W
 West Virginia
-W
-South Carolina
 L
+South Carolina
+W
 Southern
 W
 Charlotte
@@ -3131,19 +3157,19 @@ W
 UTSA
 W
 Florida Atlantic
-W
+L
 Florida International
 L
 Western Kentucky
 L
 Louisiana Tech
-L
-Middle Tennessee
 W
+Middle Tennessee
+L
 North Texas
 L
 Louisiana Tech
-L
+W
 Rice
 W
 Florida Atlantic
@@ -3151,9 +3177,9 @@ W
 Florida International
 W
 North Texas
-W
-Middle Tennessee
 L
+Middle Tennessee
+W
 UTEP
 W
 UTSA
@@ -3169,38 +3195,42 @@ W
 North Texas
 W
 Florida Atlantic
-W
+L
 Team: UTSA Roadrunners
+Trinity (TX)
+W
 Texas A&M-Corpus Christi
+L
+St. Mary's (TX)
 W
 Texas State
-L
+W
 Prairie View A&M
 W
 Grambling
-W
-Dartmouth
-W
-Incarnate Word
 L
+Dartmouth
+L
+Incarnate Word
+W
 New Mexico
 L
 Utah
-W
+L
 Bethune-Cookman
-L
+W
 North Texas
 L
 Louisiana Tech
-W
+L
 UAB
 L
 Middle Tennessee
-L
+W
 Western Kentucky
 L
 UTEP
-W
+L
 Charlotte
 L
 Rice
@@ -3220,17 +3250,17 @@ L
 UTEP
 L
 Rice
-L
+W
 UAB
 L
 Florida Atlantic
-W
+L
 Florida International
-L
-Charlotte
-L
-Rice
 W
+Charlotte
+W
+Rice
+L
 Team: Wichita State Shockers
 Central Arkansas
 W
@@ -3297,36 +3327,38 @@ W
 Tulane
 L
 Team: Davidson Wildcats
+Guilford
+W
 Wright State
 W
 VMI
 W
 Charleston
-W
-South Carolina
 L
+South Carolina
+W
 Old Dominion
 W
 San Francisco
 W
 Charlotte
-W
+L
 Delaware
 L
 Western Carolina
-L
-Purdue
 W
+Purdue
+L
 Northeastern
 L
 Fordham
-L
+W
 Dayton
-W
-Loyola Chicago
 L
-VCU
+Loyola Chicago
 W
+VCU
+L
 Richmond
 L
 George Mason
@@ -3334,31 +3366,31 @@ L
 Dayton
 L
 La Salle
-L
-Saint Louis
 W
+Saint Louis
+L
 VCU
 L
 Massachusetts
-L
-Fordham
 W
+Fordham
+L
 Saint Louis
 L
 Saint Joseph's
-L
+W
 St. Bonaventure
 W
 Duquesne
 W
 George Washington
-W
-Rhode Island
 L
+Rhode Island
+W
 St. Bonaventure
 W
 VCU
-W
+L
 Team: Dayton Flyers
 Lindenwood
 W
@@ -3429,8 +3461,6 @@ W
 VCU
 L
 Team: Duquesne Dukes
-Rice
-L
 Montana
 W
 Kentucky
@@ -3630,58 +3660,60 @@ W
 Saint Louis
 L
 Team: George Washington Revolutionaries
+Virginia St
+W
 Howard
 W
 Hofstra
-W
+L
 Maryland Eastern Shore
-L
-UC San Diego
 W
-New Hampshire
+UC San Diego
 L
+New Hampshire
+W
 South Carolina
 W
 Radford
-W
+L
 American University
 L
 Coppin State
-L
-Washington State
 W
+Washington State
+L
 Pepperdine
 L
 Seattle U
 L
 Loyola Chicago
-L
+W
 Richmond
-W
+L
 Massachusetts
-L
-Saint Louis
 W
-George Mason
+Saint Louis
 L
+George Mason
+W
 Dayton
 W
 Saint Joseph's
 W
 Fordham
-W
+L
 La Salle
 L
 Duquesne
 L
 Richmond
-L
-Saint Joseph's
 W
+Saint Joseph's
+L
 George Mason
 L
 St. Bonaventure
-L
+W
 Rhode Island
 W
 La Salle
@@ -3689,7 +3721,7 @@ W
 Davidson
 W
 VCU
-W
+L
 Saint Joseph's
 L
 Team: La Salle Explorers
@@ -3850,25 +3882,25 @@ W
 Georgia State
 L
 Duquesne
-L
+C
 Fordham
-W
+L
 La Salle
-L
-St. Bonaventure
 W
-Massachusetts
+St. Bonaventure
 L
+Massachusetts
+W
 Richmond
 L
 George Mason
 L
 Dayton
-W
+L
 La Salle
 W
 Saint Joseph's
-L
+W
 Saint Louis
 L
 George Mason
@@ -3882,9 +3914,9 @@ L
 Fordham
 L
 Loyola Chicago
-W
-Davidson
 L
+Davidson
+W
 La Salle
 L
 Team: Richmond Spiders
@@ -4032,26 +4064,28 @@ Maryland
 L
 Providence
 W
-Auburn
+Paul Quinn
 W
-Tennessee State
+Auburn
 L
+Tennessee State
+W
 Southern Illinois
 W
 Iona
-W
+L
 Boise State
 L
 Drake
-L
+W
 SIU Edwardsville
-W
+L
 Saint Joseph's
-L
-Massachusetts
 W
-St. Bonaventure
+Massachusetts
 L
+St. Bonaventure
+W
 George Mason
 W
 George Washington
@@ -4063,29 +4097,29 @@ W
 Davidson
 W
 Fordham
-W
+L
 VCU
 L
 Rhode Island
-L
-Dayton
 W
-Davidson
+Dayton
 L
+Davidson
+W
 Duquesne
 W
 Richmond
-W
+L
 Loyola Chicago
-L
-VCU
 W
-Dayton
+VCU
 L
+Dayton
+W
 George Mason
 W
 VCU
-W
+L
 Team: St. Bonaventure Bonnies
 Saint Francis
 W
@@ -4152,8 +4186,6 @@ L
 Davidson
 L
 Team: VCU Rams
-Saint Mary's
-L
 Manhattan
 W
 Morgan State
@@ -4223,10 +4255,6 @@ W
 Dayton
 W
 Team: Arizona State Sun Devils
-Nevada
-W
-TCU
-L
 Tarleton State
 W
 Northern Arizona
@@ -4296,8 +4324,6 @@ W
 Arizona
 L
 Team: Arizona Wildcats
-Princeton
-L
 Nicholls
 W
 Southern
@@ -4381,12 +4407,16 @@ Butler
 L
 Dayton
 W
-South Dakota
+Westminster (UT)
 W
+South Dakota
+L
 Utah Valley
 L
 Creighton
-L
+W
+Western Oregon
+W
 Utah
 W
 Lindenwood
@@ -4398,7 +4428,7 @@ W
 Portland
 W
 Loyola Marymount
-W
+L
 San Diego
 W
 Gonzaga
@@ -4408,34 +4438,30 @@ W
 Santa Clara
 L
 San Francisco
-W
+L
 Saint Mary's
 L
 Loyola Marymount
-L
+W
 Pacific
-L
+W
 Pepperdine
-W
+L
 Gonzaga
-W
+L
 Santa Clara
 L
 Saint Mary's
 L
 San Francisco
-L
+W
 Portland
-L
+W
 Loyola Marymount
 W
 Saint Mary's
-W
-Team: Baylor Bears
-UC Santa Barbara
-W
-Creighton
 L
+Team: Baylor Bears
 Mississippi Valley State
 W
 Norfolk State
@@ -4501,32 +4527,28 @@ L
 Iowa State
 L
 Team: Cincinnati Bearcats
-Virginia Tech
+Chaminade
 W
-Hofstra
-W
-Utah Valley
-L
 Cleveland State
 W
 Eastern Kentucky
 W
 Northern Kentucky
-W
+L
 Arizona
 L
 Ohio State
 L
 Louisville
-L
+W
 NJIT
 W
 Bryant
 W
 Xavier
-W
-Miami (OH)
 L
+Miami (OH)
+W
 La Salle
 W
 Detroit Mercy
@@ -4534,48 +4556,44 @@ W
 Tulane
 W
 Temple
-W
+L
 Wichita State
-L
-Houston
 W
-East Carolina
+Houston
 L
+East Carolina
+W
 SMU
 W
 South Florida
 W
 Memphis
-W
+L
 Houston
 L
 Tulsa
-L
+W
 UCF
 W
 Tulane
-W
+L
 South Florida
-L
-East Carolina
 W
-UCF
+East Carolina
 L
+UCF
+W
 Temple
 W
 Memphis
-W
-SMU
 L
+SMU
+W
 Temple
 W
 Houston
-W
-Team: Colorado Buffaloes
-Seton Hall
-W
-Utah Valley
 L
+Team: Colorado Buffaloes
 UC Riverside
 W
 Grambling
@@ -4643,12 +4661,6 @@ W
 UCLA
 L
 Team: Houston Cougars
-Northern Kentucky
-W
-Auburn
-W
-Miami
-L
 Northern Colorado
 W
 Saint Joseph's
@@ -4718,8 +4730,6 @@ W
 Memphis
 L
 Team: Iowa State Cyclones
-Pittsburgh
-L
 IU Indianapolis
 W
 North Carolina A&T
@@ -4743,7 +4753,7 @@ W
 Western Michigan
 W
 Baylor
-W
+C
 Oklahoma
 W
 TCU
@@ -4751,27 +4761,27 @@ W
 Texas Tech
 W
 Kansas
-L
+W
 Texas
-W
-Oklahoma State
 L
-Kansas State
+Oklahoma State
 W
+Kansas State
+L
 Missouri
-L
+W
 Texas Tech
 L
 Kansas
-W
-West Virginia
 L
+West Virginia
+W
 Oklahoma State
 L
 TCU
-W
-Kansas State
 L
+Kansas State
+W
 Texas
 L
 Oklahoma
@@ -4779,16 +4789,12 @@ L
 West Virginia
 L
 Baylor
-W
+L
 Baylor
 W
 Kansas
-L
-Team: Kansas Jayhawks
-Howard
 W
-Arkansas
-L
+Team: Kansas Jayhawks
 Omaha
 W
 North Dakota State
@@ -4858,14 +4864,6 @@ W
 Texas
 L
 Team: Kansas State Wildcats
-Montana State
-W
-Kentucky
-W
-Michigan State
-W
-Florida Atlantic
-L
 UT Rio Grande Valley
 W
 California
@@ -4931,12 +4929,6 @@ L
 TCU
 L
 Team: Oklahoma State Cowboys
-Youngstown State
-W
-Eastern Washington
-W
-North Texas
-L
 UT Arlington
 W
 Southern Illinois
@@ -5004,10 +4996,6 @@ W
 Texas
 L
 Team: TCU Horned Frogs
-Arizona State
-W
-Gonzaga
-L
 Arkansas-Pine Bluff
 W
 Lamar
@@ -5140,10 +5128,6 @@ L
 West Virginia
 L
 Team: UCF Knights
-Florida
-W
-Oregon
-L
 UNC Asheville
 L
 Florida State
@@ -5274,8 +5258,6 @@ L
 Stanford
 L
 Team: West Virginia Mountaineers
-Maryland
-L
 Mount St. Mary's
 W
 Pittsburgh
@@ -5408,14 +5390,6 @@ L
 St. John's
 L
 Team: Creighton Bluejays
-NC State
-W
-Baylor
-W
-Princeton
-W
-San Diego State
-L
 St. Thomas-Minnesota
 W
 North Dakota
@@ -5615,10 +5589,6 @@ L
 Villanova
 L
 Team: Marquette Golden Eagles
-Vermont
-W
-Michigan State
-L
 Radford
 W
 Central Michigan
@@ -5688,8 +5658,6 @@ W
 Xavier
 W
 Team: Providence Friars
-Kentucky
-L
 Rider
 W
 Northeastern
@@ -5755,8 +5723,6 @@ L
 UConn
 L
 Team: Seton Hall Pirates
-Colorado
-L
 Monmouth
 W
 Saint Peter's
@@ -5773,22 +5739,24 @@ Siena
 L
 Kansas
 L
+Lincoln (PA)
+W
 Rutgers
 W
 Drexel
 W
 Providence
-W
+L
 Xavier
 L
 Marquette
 L
 St. John's
-L
-Creighton
 W
-Butler
+Creighton
 L
+Butler
+W
 Georgetown
 W
 DePaul
@@ -5796,29 +5764,29 @@ W
 UConn
 W
 Marquette
-W
-Butler
 L
+Butler
+W
 St. John's
 W
 DePaul
 W
 Creighton
-W
+L
 Villanova
 L
 Georgetown
-L
-UConn
 W
+UConn
+L
 Xavier
 L
 Villanova
 L
 Providence
-L
-DePaul
 W
+DePaul
+L
 Team: St. John's Red Storm
 Merrimack
 W
@@ -5887,18 +5855,6 @@ W
 Marquette
 L
 Team: UConn Huskies
-Iona
-W
-Saint Mary's
-W
-Arkansas
-W
-Gonzaga
-W
-Miami
-W
-San Diego State
-W
 Stonehill
 W
 Boston University
@@ -5966,8 +5922,6 @@ W
 Marquette
 L
 Team: Villanova Wildcats
-Liberty
-L
 La Salle
 W
 Temple
@@ -6035,12 +5989,6 @@ W
 Creighton
 L
 Team: Xavier Musketeers
-Kennesaw State
-W
-Pittsburgh
-W
-Texas
-L
 Morgan State
 W
 Montana
@@ -6110,10 +6058,6 @@ W
 Marquette
 L
 Team: Eastern Washington Eagles
-Washington State
-W
-Oklahoma State
-L
 Santa Clara
 L
 Yale
@@ -6128,6 +6072,8 @@ Stony Brook
 W
 Florida International
 L
+North Dakota State
+C
 California
 W
 South Dakota State
@@ -6136,6 +6082,8 @@ Texas Tech
 L
 UC Davis
 L
+Northwest Indian
+W
 Montana
 W
 Montana State
@@ -6171,14 +6119,16 @@ W
 Idaho State
 W
 Montana State
-W
+L
 Northern Arizona
 L
 Team: Idaho State Bengals
 BYU
 L
-Utah
+Westcliff
 W
+Utah
+L
 Denver
 L
 Lindenwood
@@ -6188,33 +6138,35 @@ L
 Central Arkansas
 L
 Kansas City
-L
+W
 Southern Utah
+L
+Montana-Western
 W
 St. Thomas-Minnesota
 L
 Washington
-W
+L
 Grand Canyon
 L
 Northern Arizona
-L
+W
 Northern Colorado
-L
+W
 Weber State
 W
 Montana State
-W
-Montana
-W
-Sacramento State
 L
+Montana
+L
+Sacramento State
+W
 Portland State
 L
 Eastern Washington
-W
-Idaho
 L
+Idaho
+W
 Weber State
 L
 Northern Arizona
@@ -6222,24 +6174,26 @@ W
 Montana
 L
 Montana State
-W
+L
 Portland State
 L
 Sacramento State
 L
 Idaho
-L
+W
 Eastern Washington
-L
+W
 Northern Colorado
-W
+L
 Montana
-W
+L
 Team: Idaho Vandals
 Denver
 L
-Omaha
+Walla Walla
 W
+Omaha
+L
 Cal State Bakersfield
 L
 Utah Tech
@@ -6247,19 +6201,21 @@ L
 Cal Poly
 L
 Pacific
-L
+W
 Northern Illinois
 W
 North Dakota
 W
 UC Riverside
+L
+Northwest Indian
 W
 Cal State Northridge
-L
+W
 Long Beach State
-W
+L
 Montana State
-W
+L
 Montana
 L
 Sacramento State
@@ -6269,19 +6225,19 @@ L
 Eastern Washington
 L
 Montana State
-L
+W
 Northern Arizona
-L
+W
 Northern Colorado
-W
+L
 Weber State
-W
+L
 Idaho State
 L
 Portland State
 L
 Sacramento State
-L
+W
 Eastern Washington
 L
 Northern Colorado
@@ -6289,7 +6245,7 @@ W
 Northern Arizona
 L
 Idaho State
-W
+L
 Weber State
 L
 Montana
@@ -6307,38 +6263,40 @@ Merrimack
 W
 Troy
 L
-Air Force
+Montana State-Northern
 W
+Air Force
+L
 Southern Miss
 L
 South Dakota State
-L
+W
 North Dakota State
 W
 Prairie View A&M
 W
 Gonzaga
-W
+L
 Eastern Washington
 L
 Idaho
-L
+W
 Northern Arizona
-W
+L
 Northern Colorado
-L
+W
 Weber State
-W
-Idaho State
 L
-Eastern Washington
+Idaho State
 W
+Eastern Washington
+L
 Montana State
 L
 Sacramento State
 L
 Portland State
-L
+W
 Northern Colorado
 W
 Northern Arizona
@@ -6348,40 +6306,42 @@ W
 Weber State
 W
 Montana State
-W
-Sacramento State
 L
+Sacramento State
+W
 Idaho
 W
 Idaho State
 W
 Northern Arizona
-W
-Team: Montana State Bobcats
-Kansas State
 L
+Team: Montana State Bobcats
 Grand Canyon
 L
 Long Beach State
 W
 Oregon
 L
+Warner Pacific
+W
 North Dakota
 W
 UNC Greensboro
-W
+L
 Quinnipiac
 L
 Middle Tennessee
 L
 Southern Utah
-L
+W
 St. Thomas-Minnesota
 W
 Omaha
 W
-Arizona
+Northwest Indian
 W
+Arizona
+L
 Idaho
 W
 Eastern Washington
@@ -6389,17 +6349,17 @@ L
 Northern Colorado
 W
 Northern Arizona
-L
+W
 Idaho State
 W
 Weber State
 W
 Idaho
-W
+L
 Montana
 W
 Portland State
-L
+W
 Sacramento State
 W
 Northern Arizona
@@ -6407,11 +6367,11 @@ W
 Northern Colorado
 W
 Weber State
-W
+L
 Idaho State
 W
 Montana
-L
+W
 Sacramento State
 W
 Portland State
@@ -6431,14 +6391,18 @@ Arizona State
 L
 Utah Valley
 L
+Benedictine (AZ)
+W
 UC Santa Barbara
 W
 Texas
-W
+L
 UT Rio Grande Valley
 L
 Abilene Christian
 L
+Ottawa (AZ)
+W
 Pepperdine
 L
 Pacific
@@ -6446,17 +6410,17 @@ W
 Utah Valley
 L
 Southern Utah
-W
+L
 Idaho State
 L
 Weber State
 L
 Montana
-L
+W
 Montana State
 L
 Portland State
-W
+L
 Sacramento State
 L
 Idaho
@@ -6464,33 +6428,33 @@ L
 Eastern Washington
 L
 Northern Colorado
-L
+W
 Montana State
 L
 Montana
-W
+L
 Idaho State
 L
 Sacramento State
-L
+W
 Portland State
 L
 Eastern Washington
-W
+L
 Idaho
-L
-Northern Colorado
-L
-Weber State
 W
+Northern Colorado
+W
+Weber State
+L
 Idaho
 W
 Eastern Washington
-L
+W
 Montana
 W
 Montana State
-W
+L
 Team: Northern Colorado Bears
 Houston
 L
@@ -6500,18 +6464,20 @@ Baylor
 L
 San José State
 L
-North Dakota State
+Colorado Christian
 L
+North Dakota State
+W
 Jacksonville State
 W
 New Mexico
-W
-Colorado State
 L
+Colorado State
+W
 Cal State Northridge
 W
 Colorado
-W
+L
 Air Force
 L
 Weber State
@@ -6525,90 +6491,94 @@ L
 Sacramento State
 L
 Portland State
-L
+W
 Eastern Washington
-W
-Idaho
 L
-Northern Arizona
+Idaho
 W
+Northern Arizona
+L
 Montana
 L
 Montana State
 L
 Weber State
-L
+W
 Portland State
 W
 Sacramento State
 W
 Idaho
-W
+L
 Eastern Washington
 L
 Northern Arizona
 L
 Idaho State
-L
+W
 Portland State
 W
 Montana State
-W
+L
 Team: Portland State Vikings
 Portland
 L
 Seattle U
 L
+Evergreen State
+W
 Oregon State
 W
 Gonzaga
-W
+L
 West Virginia
 L
 Oregon State
-L
+W
+Portland Bible
+W
 Air Force
 W
 Cal Poly
-W
+L
 Santa Clara
-W
+L
 UC Santa Barbara
 L
 California Baptist
-L
+W
 Sacramento State
 L
 Eastern Washington
-W
+L
 Idaho
-L
+W
 Northern Arizona
-L
+W
 Northern Colorado
-W
-Weber State
-W
-Idaho State
 L
+Weber State
+L
+Idaho State
+W
 Montana State
 L
 Montana
-W
-Idaho
 L
+Idaho
+W
 Eastern Washington
 L
 Northern Colorado
-W
+L
 Northern Arizona
-L
+W
 Idaho State
-L
+W
 Weber State
-W
+L
 Montana State
-W
+L
 Sacramento State
 L
 Northern Colorado
@@ -6620,8 +6590,10 @@ UC San Diego
 W
 Denver
 W
-UC Davis
+UC Merced
 W
+UC Davis
+L
 Hawai'i
 L
 Southern Utah
@@ -6629,33 +6601,35 @@ L
 Santa Clara
 L
 Denver
-L
+W
 Long Beach State
 W
 Fresno State
 W
 Cal State Fullerton
+L
+Stanislaus State
 W
 Portland State
-L
+W
 Idaho
 W
 Eastern Washington
-W
+L
 Northern Colorado
 W
 Northern Arizona
-L
+W
 Idaho State
-W
-Weber State
-W
-Montana
 L
+Weber State
+L
+Montana
+W
 Montana State
 L
 Eastern Washington
-W
+L
 Idaho
 L
 Northern Arizona
@@ -6665,44 +6639,48 @@ L
 Weber State
 L
 Idaho State
-L
+W
 Montana State
 L
 Montana
-W
-Portland State
 L
+Portland State
+W
 Weber State
 L
 Team: Weber State Wildcats
 Washington
 L
-Colorado State
+Western Colorado
 W
+Colorado State
+L
 UC Riverside
 L
 Abilene Christian
-L
-Wright State
 W
+Wright State
+L
 Tarleton State
 L
 Utah Tech
 L
 California Baptist
 L
+Saint Martin's
+W
 Cal Poly
-L
+W
 Utah State
 W
 BYU
-W
+L
 Northern Colorado
 W
 Northern Arizona
-L
-Idaho State
 W
+Idaho State
+L
 Montana
 W
 Montana State
@@ -6710,11 +6688,11 @@ L
 Portland State
 W
 Sacramento State
-L
+W
 Idaho
 W
 Eastern Washington
-W
+L
 Idaho State
 W
 Northern Colorado
@@ -6726,26 +6704,28 @@ L
 Sacramento State
 W
 Portland State
-L
-Eastern Washington
 W
+Eastern Washington
+L
 Idaho
 W
 Northern Arizona
-L
+W
 Sacramento State
 W
 Montana State
-W
+L
 Team: Charleston Southern Buccaneers
-Ohio State
+Toccoa Falls
 W
+Ohio State
+L
 Tulane
 L
 Bethune-Cookman
-L
-Virginia Tech
 W
+Virginia Tech
+L
 The Citadel
 L
 South Florida
@@ -6753,8 +6733,10 @@ L
 Kennesaw State
 L
 Tennessee State
-L
+W
 Jacksonville
+L
+Kentucky Christian
 W
 Gardner-Webb
 L
@@ -6765,21 +6747,21 @@ L
 Presbyterian
 W
 High Point
-L
+W
 Radford
-W
+L
 UNC Asheville
-W
+L
 Campbell
 L
 Winthrop
 L
 Longwood
-L
+W
 Gardner-Webb
 L
 High Point
-W
+L
 South Carolina Upstate
 L
 Radford
@@ -6791,11 +6773,11 @@ L
 UNC Asheville
 L
 Presbyterian
-L
-High Point
-L
-UNC Asheville
 W
+High Point
+W
+UNC Asheville
+L
 Team: Gardner-Webb Runnin' Bulldogs
 Colorado State
 L
@@ -6815,26 +6797,30 @@ Chattanooga
 L
 Old Dominion
 L
+Carolina University
+W
 North Carolina Central
+W
+Bob Jones
 W
 Charleston Southern
 W
 High Point
 W
 Campbell
-W
-Radford
-W
-Presbyterian
 L
+Radford
+L
+Presbyterian
+W
 UNC Asheville
 L
 Longwood
-W
+L
 Winthrop
-L
+W
 South Carolina Upstate
-L
+W
 High Point
 W
 Charleston Southern
@@ -6846,9 +6832,9 @@ W
 Campbell
 W
 Winthrop
-W
+L
 UNC Asheville
-W
+L
 Longwood
 L
 South Carolina Upstate
@@ -6856,14 +6842,18 @@ L
 South Carolina Upstate
 L
 Team: High Point Panthers
+Pfeiffer
+W
 Wofford
 W
-UNLV
+Lees-McRae
 W
+UNLV
+L
 Central Michigan
 W
 Tennessee State
-L
+W
 Elon
 W
 North Florida
@@ -6871,9 +6861,9 @@ W
 Furman
 W
 Queens University
-W
+L
 UNC Wilmington
-W
+L
 East Carolina
 L
 Longwood
@@ -6887,43 +6877,47 @@ L
 Charleston Southern
 L
 Presbyterian
-L
+W
 Winthrop
-L
+W
 Radford
-W
+L
 Campbell
-W
+L
 Gardner-Webb
 L
 UNC Asheville
 L
 Charleston Southern
-L
+W
 Campbell
 L
 Longwood
-W
+L
 Presbyterian
-L
+W
 South Carolina Upstate
-L
+W
 Radford
 W
 Winthrop
-W
+L
 Charleston Southern
-W
+L
 Team: Longwood Lancers
 Alabama
 L
 George Mason
 L
+Pfeiffer
+W
 VMI
 W
 Fairleigh Dickinson
 W
 SIU Edwardsville
+L
+Mary Baldwin
 W
 San Diego
 L
@@ -6934,7 +6928,7 @@ L
 St. Francis Brooklyn
 W
 The Citadel
-L
+W
 South Carolina State
 W
 High Point
@@ -6946,38 +6940,40 @@ W
 Winthrop
 W
 UNC Asheville
-W
+L
 South Carolina Upstate
 W
 Gardner-Webb
-L
+W
 Presbyterian
 W
 Radford
-W
+L
 Charleston Southern
-W
+L
 Winthrop
 L
 Campbell
-L
+W
 Presbyterian
-L
+W
 High Point
 W
 South Carolina Upstate
-W
+L
 Radford
 W
 Gardner-Webb
-L
+W
 UNC Asheville
-W
+L
 Campbell
-W
+L
 Team: Presbyterian Blue Hose
-The Citadel
+Carolina University
 W
+The Citadel
+L
 East Carolina
 L
 UAB
@@ -6989,21 +6985,23 @@ L
 Charlotte
 L
 VMI
-L
-Wofford
 W
+Wofford
+L
 Charleston
 L
 South Carolina
 L
 Elon
-L
+W
+Allen University
+W
 Campbell
 W
 Radford
-W
+L
 Winthrop
-W
+L
 Charleston Southern
 L
 Gardner-Webb
@@ -7037,30 +7035,28 @@ L
 Campbell
 L
 Team: Radford Highlanders
-Tarleton State
-W
-San José State
-W
-Charlotte
-L
 Marquette
 L
 Notre Dame
 L
+Bridgewater College (VA)
+W
+Averett
+W
 Army
 W
 William & Mary
-W
+L
 Elon
 W
 North Carolina Central
-L
+W
 George Washington
 W
 VMI
-W
+L
 VCU
-W
+L
 Eastern Kentucky
 L
 Kansas State
@@ -7068,13 +7064,13 @@ L
 UNC Asheville
 L
 Presbyterian
-L
+W
 South Carolina Upstate
 L
 Gardner-Webb
 W
 Winthrop
-L
+W
 Charleston Southern
 W
 Campbell
@@ -7090,107 +7086,111 @@ W
 Winthrop
 W
 Gardner-Webb
-W
+L
 Charleston Southern
 W
 UNC Asheville
 L
 Longwood
-W
+L
 High Point
 L
 Campbell
-L
+W
 Winthrop
-L
+W
 Campbell
-W
-Team: South Carolina Upstate Spartans
-Indiana State
 L
-Duke
+Team: South Carolina Upstate Spartans
+Brevard
 W
+Duke
+L
 Clemson
 L
 Coastal Carolina
-L
-Air Force
 W
+Air Force
+L
 South Carolina
 L
+Columbia International
+W
 Western Carolina
-L
+W
 South Carolina State
 W
 Florida State
-W
+L
 Kennesaw State
-W
-Winthrop
 L
+Winthrop
+W
 Charleston Southern
 L
 Radford
 W
 High Point
-L
+W
 Campbell
-W
-Longwood
-W
-Presbyterian
 L
+Longwood
+L
+Presbyterian
+W
 UNC Asheville
 L
 Gardner-Webb
-W
+L
 Radford
 L
 Campbell
 L
 UNC Asheville
-L
+W
 Charleston Southern
-L
+W
 Winthrop
 W
 Longwood
 W
 High Point
-W
+L
 Presbyterian
 W
 Gardner-Webb
-L
+W
 Gardner-Webb
 W
 UNC Asheville
-W
+L
 Team: UNC Asheville Bulldogs
-UCLA
-L
 UCF
+W
+Brevard
 W
 East Texas A&M
 W
 Eastern Kentucky
-W
+L
 Georgia State
 L
 Western Carolina
-L
+W
 North Carolina Central
-W
-UT Martin
 L
-Dayton
+UT Martin
 W
+Warren Wilson
+W
+Dayton
+L
 South Carolina State
 W
 East Tennessee State
-L
-Arkansas
 W
+Arkansas
+L
 Radford
 W
 Winthrop
@@ -7198,7 +7198,7 @@ L
 High Point
 W
 Campbell
-L
+W
 Longwood
 W
 Gardner-Webb
@@ -7214,11 +7214,11 @@ W
 High Point
 W
 South Carolina Upstate
-W
+L
 Winthrop
 W
 Presbyterian
-L
+W
 Radford
 W
 Gardner-Webb
@@ -7236,67 +7236,69 @@ W
 Team: Winthrop Eagles
 Penn State
 L
+Piedmont
+W
 Middle Tennessee
 W
 Auburn
-W
+L
 Mercer
 L
 Southern Miss
 L
 Eastern Michigan
-L
-Coastal Carolina
 W
+Toccoa Falls
+W
+Coastal Carolina
+L
 South Carolina State
 W
 Furman
 L
 LSU
-W
+L
 Duquesne
 L
 South Carolina Upstate
 L
 UNC Asheville
-L
+W
 Presbyterian
-L
+W
 Longwood
-W
-Radford
-W
-Campbell
 L
+Radford
+L
+Campbell
+W
 High Point
 L
 Gardner-Webb
-W
+L
 Charleston Southern
-L
+W
 Presbyterian
-L
+W
 Longwood
 W
 Radford
-W
+L
 UNC Asheville
-W
+L
 South Carolina Upstate
 L
 Gardner-Webb
-L
+W
 Charleston Southern
-L
+W
 Campbell
 W
 High Point
 W
 Radford
-W
-Team: Illinois Fighting Illini
-Arkansas
 L
+Team: Illinois Fighting Illini
 Eastern Illinois
 W
 Kansas City
@@ -7344,28 +7346,24 @@ W
 Iowa
 L
 Rutgers
-W
+P
 Penn State
-L
+W
 Indiana
 L
 Minnesota
-W
+L
 Northwestern
 W
 Ohio State
-L
-Michigan
 W
-Purdue
+Michigan
 L
+Purdue
+W
 Penn State
 L
 Team: Indiana Hoosiers
-Kent State
-W
-Miami
-L
 Morehead State
 W
 Bethune-Cookman
@@ -7433,8 +7431,6 @@ W
 Penn State
 L
 Team: Iowa Hawkeyes
-Auburn
-L
 Bethune-Cookman
 W
 North Carolina A&T
@@ -7472,38 +7468,34 @@ W
 Maryland
 W
 Ohio State
-L
+P
 Michigan State
 L
 Rutgers
-W
+L
 Northwestern
 W
 Illinois
 W
 Purdue
-L
-Minnesota
 W
+Minnesota
+L
 Ohio State
 W
 Northwestern
-L
+W
 Wisconsin
 L
 Michigan State
-W
+L
 Indiana
 W
 Nebraska
-L
+W
 Ohio State
 L
 Team: Maryland Terrapins
-West Virginia
-W
-Alabama
-L
 Niagara
 W
 Western Carolina
@@ -7571,12 +7563,6 @@ W
 Indiana
 L
 Team: Michigan State Spartans
-USC
-W
-Marquette
-W
-Kansas State
-L
 Northern Arizona
 W
 Gonzaga
@@ -7628,22 +7614,18 @@ W
 Ohio State
 W
 Michigan
-L
+C
 Indiana
-W
+L
 Iowa
-L
+W
 Nebraska
-W
-Ohio State
-W
-Ohio State
 L
+Ohio State
+W
+Ohio State
+W
 Team: Michigan Wolverines
-Toledo
-W
-Vanderbilt
-L
 Purdue Fort Wayne
 W
 Eastern Michigan
@@ -7734,13 +7716,13 @@ W
 Chicago State
 W
 Wisconsin
-L
+C
 Nebraska
 L
 Ohio State
-W
-Illinois
 L
+Illinois
+W
 Purdue
 L
 Michigan
@@ -7756,21 +7738,21 @@ L
 Iowa
 L
 Penn State
-L
+P
 Illinois
 L
 Maryland
-L
+C
 Nebraska
 L
 Rutgers
-W
+L
 Wisconsin
 L
 Nebraska
-W
-Maryland
 L
+Maryland
+W
 Team: Nebraska Cornhuskers
 Maine
 W
@@ -7837,10 +7819,6 @@ W
 Minnesota
 L
 Team: Northwestern Wildcats
-Boise State
-W
-UCLA
-L
 Chicago State
 W
 Northern Illinois
@@ -7876,19 +7854,19 @@ L
 Michigan
 L
 Wisconsin
-W
+P
 Nebraska
-W
+P
 Minnesota
 W
 Iowa
-L
+W
 Michigan
-L
+W
 Wisconsin
-W
+L
 Ohio State
-W
+L
 Purdue
 W
 Indiana
@@ -7896,13 +7874,13 @@ W
 Iowa
 W
 Illinois
-L
+W
 Maryland
-L
+W
 Penn State
 L
 Rutgers
-W
+L
 Penn State
 L
 Team: Ohio State Buckeyes
@@ -7977,12 +7955,6 @@ W
 Purdue
 L
 Team: Oregon Ducks
-UC Irvine
-W
-UCF
-W
-Wisconsin
-L
 Florida A&M
 W
 UC Irvine
@@ -8050,10 +8022,6 @@ W
 UCLA
 L
 Team: Penn State Nittany Lions
-Texas A&M
-W
-Texas
-L
 Winthrop
 W
 Loyola Maryland
@@ -8125,8 +8093,6 @@ W
 Purdue
 L
 Team: Purdue Boilermakers
-Fairleigh Dickinson
-L
 Milwaukee
 W
 Austin Peay
@@ -8196,8 +8162,6 @@ W
 Penn State
 W
 Team: Rutgers Scarlet Knights
-Hofstra
-L
 Columbia
 W
 Sacred Heart
@@ -8265,12 +8229,6 @@ W
 Purdue
 L
 Team: UCLA Bruins
-UNC Asheville
-W
-Northwestern
-W
-Gonzaga
-L
 Sacramento State
 W
 Long Beach State
@@ -8340,8 +8298,6 @@ W
 Arizona
 L
 Team: USC Trojans
-Michigan State
-L
 Florida Gulf Coast
 L
 Alabama State
@@ -8472,14 +8428,6 @@ L
 Colorado
 L
 Team: Wisconsin Badgers
-Bradley
-W
-Liberty
-W
-Oregon
-W
-North Texas
-L
 South Dakota
 W
 Stanford
@@ -8503,25 +8451,25 @@ W
 Lehigh
 W
 Western Michigan
-W
+C
 Minnesota
 W
 Illinois
-L
+W
 Michigan State
 L
 Indiana
 L
 Penn State
-W
+L
 Northwestern
-L
+W
 Maryland
-L
+P
 Illinois
 L
 Ohio State
-W
+L
 Northwestern
 L
 Penn State
@@ -8537,24 +8485,26 @@ W
 Michigan
 L
 Purdue
-L
-Minnesota
 W
+Minnesota
+L
 Ohio State
 L
 Team: Cal Poly Mustangs
-San Francisco
+Bethesda University
 W
+San Francisco
+L
 Stanford
 L
 Mount St. Mary's
 L
 Idaho
-L
+W
 Pacific
 W
-Pepperdine
-W
+California Baptist
+C
 Portland State
 W
 Washington
@@ -8563,12 +8513,14 @@ Weber State
 L
 San José State
 L
-Cal State Northridge
+San Diego Christian
 L
+Cal State Northridge
+W
 Hawai'i
 W
 Cal State Bakersfield
-W
+L
 UC Santa Barbara
 L
 Long Beach State
@@ -8599,27 +8551,31 @@ UC Irvine
 L
 UC Davis
 L
-UC San Diego
-L
 UC Riverside
 L
+Long Beach State
+C
 UC Santa Barbara
 L
 Team: Cal State Bakersfield Roadrunners
-Utah
+San Diego Christian
 W
-Idaho
+Utah
 L
+Idaho
+W
 Texas A&M-Corpus Christi
 W
 UTEP
-W
+L
 Alcorn State
 L
+La Sierra
+W
 Dartmouth
 L
 San José State
-W
+L
 Abilene Christian
 L
 Fresno State
@@ -8629,35 +8585,35 @@ L
 UC Irvine
 L
 Cal Poly
-L
+W
 UC Davis
 L
 UC Santa Barbara
-W
-UC San Diego
 L
+UC San Diego
+W
 Cal State Fullerton
 L
 UC Santa Barbara
-W
+L
 UC Davis
 L
 Hawai'i
 L
 UC Riverside
-L
+W
 UC San Diego
-L
+W
 Cal State Northridge
 W
 Long Beach State
-W
+L
 Cal Poly
 W
 Hawai'i
 L
 Cal State Northridge
-W
+L
 Cal State Fullerton
 L
 Long Beach State
@@ -8665,7 +8621,7 @@ L
 UC Irvine
 L
 Cal State Northridge
-L
+W
 UC Irvine
 L
 Team: Cal State Fullerton Titans
@@ -8677,8 +8633,10 @@ Vermont
 W
 Pacific
 W
-Utah Tech
+Westcliff
 W
+Utah Tech
+L
 North Dakota
 L
 Seattle U
@@ -8687,53 +8645,57 @@ USC
 L
 Southern Utah
 L
+San Diego Christian
+W
 Sacramento State
-L
+W
 UC Santa Barbara
-W
+L
 Cal State Northridge
 W
 UC Riverside
-L
+W
 Hawai'i
 W
 UC Irvine
-W
+L
 UC Davis
-W
-Cal State Bakersfield
 L
+Cal State Bakersfield
+W
 Long Beach State
 L
 Cal State Northridge
-W
+L
 UC Irvine
-L
-Cal Poly
-L
-Long Beach State
 W
+Cal Poly
+W
+Long Beach State
+L
 UC Riverside
 W
 Hawai'i
-L
+W
 UC San Diego
 W
 Cal Poly
 W
 UC Santa Barbara
 W
-UC Davis
-W
 Cal State Bakersfield
-W
+C
 Hawai'i
 W
+UC Irvine
+C
 UC Santa Barbara
 W
 Team: Cal State Northridge Matadors
-Utah Tech
+La Sierra
 W
+Utah Tech
+L
 California Baptist
 L
 Tennessee State
@@ -8742,18 +8704,20 @@ Central Michigan
 L
 Boise State
 L
+Whittier
+W
 Fresno State
 L
 Northern Colorado
-W
+L
 Idaho
 L
 San Diego
-L
+W
 Cal Poly
 L
 Cal State Fullerton
-W
+L
 Long Beach State
 L
 UC Riverside
@@ -8767,13 +8731,13 @@ L
 UC Santa Barbara
 L
 Cal State Fullerton
-L
+W
 UC San Diego
 L
 UC Irvine
-W
-UC Santa Barbara
 L
+UC Santa Barbara
+W
 Cal State Bakersfield
 L
 Cal Poly
@@ -8781,15 +8745,15 @@ W
 UC Davis
 L
 UC San Diego
-W
+L
 UC Riverside
 L
 Cal State Bakersfield
-L
+W
 Long Beach State
 L
 Hawai'i
-W
+L
 Cal State Bakersfield
 L
 Team: Hawai'i Rainbow Warriors
@@ -8799,16 +8763,18 @@ Eastern Washington
 W
 Yale
 L
+Hawai'i Pacific
+W
 Sacramento State
 W
 Texas State
 W
 East Texas A&M
-W
+L
 UNLV
 L
 Saint Francis
-L
+W
 Pepperdine
 W
 Washington State
@@ -8822,39 +8788,39 @@ W
 UC San Diego
 W
 Cal State Fullerton
-W
-Long Beach State
 L
+Long Beach State
+W
 Cal State Northridge
 W
 UC Irvine
-W
+L
 UC Riverside
-L
+W
 UC Santa Barbara
-W
+L
 Cal State Bakersfield
-L
-UC Davis
 W
-Cal Poly
+UC Davis
 L
+Cal Poly
+W
 UC San Diego
 W
 Cal State Fullerton
-W
-Long Beach State
 L
+Long Beach State
+W
 Cal State Bakersfield
 W
 UC Riverside
-W
-UC Irvine
 L
+UC Irvine
+W
 Cal State Northridge
 W
 UC Santa Barbara
-W
+L
 Cal State Fullerton
 L
 Team: Long Beach State Beach
@@ -8864,26 +8830,30 @@ UCLA
 L
 Montana State
 L
+University of Saint Katherine
+W
 Oakland
 W
 North Texas
-W
-Vermont
 L
-Utah Valley
+Vermont
 W
+Utah Valley
+L
 Sacramento State
 L
 USC
 L
+Life Pacific
+W
 Idaho
-L
+W
 UC San Diego
-W
-UC Riverside
-W
-Cal State Northridge
 L
+UC Riverside
+L
+Cal State Northridge
+W
 UC Irvine
 L
 Cal Poly
@@ -8893,7 +8863,7 @@ L
 Cal State Fullerton
 W
 UC San Diego
-L
+W
 Cal Poly
 W
 UC Davis
@@ -8903,111 +8873,117 @@ W
 UC Irvine
 W
 UC Santa Barbara
-W
+L
 Cal State Bakersfield
 W
 UC Riverside
 L
 Hawai'i
-W
+L
 UC Santa Barbara
 L
 Cal State Northridge
-L
+W
 Cal State Bakersfield
-L
+W
 UC Davis
-W
+L
 Cal Poly
-W
+L
 Team: UC Davis Aggies
 California
 W
-Loyola Marymount
+Cal Maritime
 W
-Arkansas State
+Loyola Marymount
 L
+Arkansas State
+W
 Sacramento State
 W
 Milwaukee
-W
-Southeast Missouri State
 L
+Southeast Missouri State
+W
 Boston University
 W
 Pacific
+L
+Holy Names University
 W
 Eastern Washington
 L
 UCLA
-W
+L
 Hawai'i
 L
 UC Irvine
 L
 Cal State Bakersfield
-L
+W
 Cal State Northridge
-L
+W
 Cal State Fullerton
 W
 UC San Diego
 W
 UC Riverside
-W
+L
 Cal Poly
 W
 Cal State Bakersfield
-L
-Long Beach State
 W
+Long Beach State
+L
 Hawai'i
 W
 UC Riverside
 L
 UC Santa Barbara
-W
-Cal State Northridge
 L
+Cal State Northridge
+W
 UC Irvine
 L
 UC San Diego
 W
-Cal State Fullerton
-L
 Cal Poly
+C
+UC Santa Barbara
 W
 Long Beach State
-W
+L
 UC Riverside
-L
+W
 Team: UC Irvine Anteaters
-Oregon
-L
+Chapman
+W
 Oregon
 W
 Loyola Marymount
 W
 Pepperdine
+L
+Life Pacific
 W
 Nicholls
-L
+W
 New Mexico State
 W
 San Diego State
-W
-Fresno State
-W
-South Dakota
 L
+Fresno State
+L
+South Dakota
+W
 Santa Clara
 L
 Harvard
-W
+L
 Cal State Bakersfield
-L
+W
 UC Davis
-L
+W
 Long Beach State
 W
 Cal State Fullerton
@@ -9015,7 +8991,7 @@ W
 Cal State Northridge
 W
 UC Santa Barbara
-W
+L
 Hawai'i
 W
 Cal State Fullerton
@@ -9023,13 +8999,13 @@ L
 Cal State Northridge
 W
 UC San Diego
-L
-Long Beach State
 W
+Long Beach State
+L
 Cal Poly
 W
 UC Riverside
-L
+W
 UC Santa Barbara
 W
 UC Davis
@@ -9037,17 +9013,17 @@ W
 Cal Poly
 W
 UC San Diego
-W
+L
 Hawai'i
-W
+L
 UC Riverside
-L
+W
 Cal State Bakersfield
-L
+W
 Cal State Bakersfield
 W
 Cal State Fullerton
-W
+L
 Team: UC Riverside Highlanders
 Colorado
 L
@@ -9055,6 +9031,8 @@ Loyola Marymount
 W
 Creighton
 L
+Occidental
+W
 Weber State
 W
 Wright State
@@ -9062,23 +9040,23 @@ W
 Abilene Christian
 W
 California Baptist
-W
-Idaho
 L
-Oregon
+Idaho
 W
+Oregon
+L
 San Diego
 L
 Portland
-L
+W
 Cal State Bakersfield
 W
 Long Beach State
 W
 Cal State Fullerton
-W
-Cal State Northridge
 L
+Cal State Northridge
+W
 UC San Diego
 W
 UC Santa Barbara
@@ -9088,19 +9066,19 @@ W
 UC Davis
 W
 Hawai'i
-W
-UC San Diego
 L
-Cal State Bakersfield
+UC San Diego
 W
+Cal State Bakersfield
+L
 Cal State Fullerton
 L
 UC Davis
-L
-UC Irvine
 W
-Long Beach State
+UC Irvine
 L
+Long Beach State
+W
 UC Santa Barbara
 W
 Cal State Northridge
@@ -9108,13 +9086,13 @@ W
 Hawai'i
 W
 UC Irvine
-W
-Cal Poly
 L
+Cal Poly
+W
 UC Davis
 W
 UC Santa Barbara
-W
+L
 Team: UC San Diego Tritons
 Seattle U
 L
@@ -9130,18 +9108,22 @@ George Washington
 W
 Eastern Michigan
 W
+Bethesda University
+P
 San Diego
 W
 Nevada
 L
+Occidental
+L
 San Diego State
-L
+W
 Long Beach State
-W
-UC Santa Barbara
 L
-Hawai'i
+UC Santa Barbara
 W
+Hawai'i
+L
 UC Riverside
 L
 Cal State Bakersfield
@@ -9151,13 +9133,13 @@ L
 Cal Poly
 L
 Long Beach State
-L
+W
 Cal State Northridge
-W
-UC Riverside
 L
-UC Irvine
+UC Riverside
 W
+UC Irvine
+L
 Cal State Bakersfield
 L
 Hawai'i
@@ -9167,31 +9149,29 @@ L
 Cal State Northridge
 L
 UC Davis
-L
+W
 UC Irvine
-W
+L
 UC Santa Barbara
-L
-Cal Poly
 W
-Cal State Fullerton
-L
 Team: UC Santa Barbara Gauchos
-Baylor
-L
+San Francisco State
+W
 Fresno State
 W
 Northern Arizona
-W
-Hampton
 L
+Hampton
+W
 North Alabama
 W
 Duquesne
-W
-Pacific
 L
+Pacific
+W
 Pepperdine
+W
+San Diego Christian
 W
 Portland State
 W
@@ -9206,11 +9186,11 @@ W
 Cal State Bakersfield
 W
 UC Riverside
-W
+L
 UC Irvine
 W
 Cal State Northridge
-L
+W
 Cal State Bakersfield
 W
 Hawai'i
@@ -9218,21 +9198,21 @@ W
 Cal Poly
 W
 Cal State Northridge
-W
+L
 Long Beach State
 W
 UC Davis
-L
+W
 UC Irvine
-W
+L
 UC Riverside
-W
+L
 Cal State Fullerton
 L
 Long Beach State
-L
+W
 UC San Diego
-L
+W
 UC Davis
 W
 Hawai'i
@@ -9244,32 +9224,36 @@ W
 Cal State Fullerton
 W
 Team: Campbell Fighting Camels
+Saint Augustine's
+W
 NC State
-W
+L
 App State
-L
+W
 SE Louisiana
-W
+L
 Kennesaw State
-L
+W
 Jacksonville
-W
-Stetson
 L
-East Carolina
+Stetson
 W
+East Carolina
+L
 Evansville
 L
+William Peace
+W
 Georgia Southern
 L
 UNC Wilmington
-W
+L
 Presbyterian
 L
 Longwood
 L
 Gardner-Webb
-L
+W
 UNC Asheville
 L
 South Carolina Upstate
@@ -9277,13 +9261,13 @@ W
 Winthrop
 L
 Radford
-W
+L
 Charleston Southern
-L
-High Point
-L
-UNC Asheville
 W
+High Point
+W
+UNC Asheville
+L
 South Carolina Upstate
 W
 Longwood
@@ -9295,22 +9279,20 @@ L
 Charleston Southern
 W
 Presbyterian
-L
+W
 Winthrop
-W
+L
 Radford
-W
+L
 Presbyterian
-L
+W
 Longwood
-L
+W
 Radford
 W
 UNC Asheville
-W
+L
 Team: Charleston Cougars
-San Diego State
-L
 Chattanooga
 W
 North Carolina
@@ -9330,6 +9312,8 @@ W
 The Citadel
 W
 Presbyterian
+W
+North Greenville
 W
 Stetson
 W
@@ -9354,11 +9338,11 @@ W
 Northeastern
 W
 Hofstra
-W
+L
 Drexel
 L
 Delaware
-L
+W
 UNC Wilmington
 W
 Hampton
@@ -9382,26 +9366,28 @@ Old Dominion
 W
 Pennsylvania
 L
+Arcadia
+W
 UT Arlington
 W
 Florida Gulf Coast
-W
+L
 Indiana State
 L
 Temple
 L
 Lafayette
-L
+W
 Princeton
-W
+L
 La Salle
-L
+W
 Seton Hall
-W
-Delaware State
 L
-Fairfield
+Delaware State
 W
+Elon
+C
 William & Mary
 W
 Towson
@@ -9441,8 +9427,10 @@ W
 UNC Wilmington
 W
 Team: Elon Phoenix
-East Tennessee State
+Erskine
 W
+East Tennessee State
+L
 Harvard
 L
 North Dakota
@@ -9457,10 +9445,12 @@ High Point
 L
 UNC Greensboro
 L
+Johnson & Wales (NC)
+W
 Presbyterian
 L
 Valparaiso
-W
+L
 Indiana
 L
 Drexel
@@ -9480,32 +9470,34 @@ L
 Hofstra
 L
 Drexel
-L
+W
 Stony Brook
-L
+W
 Northeastern
 W
 North Carolina A&T
-W
+L
 William & Mary
 W
 Hampton
-L
-Charleston
 W
+Charleston
+L
 Monmouth
 W
 William & Mary
 L
 Delaware
-W
+L
 William & Mary
 L
 Team: Hampton Pirates
 James Madison
 L
-East Carolina
+Regent
 W
+East Carolina
+L
 UC Santa Barbara
 L
 North Alabama
@@ -9515,11 +9507,11 @@ L
 Georgia
 L
 Howard
-L
+W
 Loyola Maryland
 W
 Bowling Green
-W
+L
 Norfolk State
 L
 Texas Southern
@@ -9539,15 +9531,15 @@ L
 Drexel
 L
 Monmouth
-L
+W
 Delaware
 W
 Stony Brook
-W
-William & Mary
 L
-Norfolk State
+William & Mary
 W
+Norfolk State
+L
 Towson
 L
 Charleston
@@ -9557,18 +9549,14 @@ L
 Hofstra
 L
 Drexel
-L
+W
 Monmouth
 W
 North Carolina A&T
-W
+L
 Monmouth
 L
 Team: Hofstra Pride
-Rutgers
-W
-Cincinnati
-L
 Princeton
 W
 Iona
@@ -9593,12 +9581,14 @@ Massachusetts
 L
 South Florida
 L
+Old Westbury
+W
 Delaware
 W
 North Carolina A&T
-W
-Hampton
 L
+Hampton
+W
 William & Mary
 W
 Monmouth
@@ -9606,9 +9596,9 @@ W
 Delaware
 W
 Towson
-W
-UNC Wilmington
 L
+UNC Wilmington
+W
 Elon
 W
 Charleston
@@ -9632,7 +9622,7 @@ W
 William & Mary
 W
 UNC Wilmington
-W
+L
 Team: Monmouth Hawks
 Seton Hall
 L
@@ -9701,30 +9691,36 @@ W
 Drexel
 L
 Team: North Carolina A&T Aggies
-Iowa
+Edward Waters
 W
+Iowa
+L
 Iowa State
 L
 Gardner-Webb
 L
 Wofford
 L
-UNC Greensboro
-L
-Houston
+St. Andrews
 W
+Greensboro College
+W
+UNC Greensboro
+W
+Houston
+L
 Texas Southern
 W
 Norfolk State
-W
+L
 UTEP
 L
 New Mexico State
-W
+L
 Northeastern
 L
 Hofstra
-L
+W
 Charleston
 L
 UNC Wilmington
@@ -9732,11 +9728,11 @@ L
 Elon
 W
 Stony Brook
-L
-Hampton
-L
-Towson
 W
+Hampton
+W
+Towson
+L
 William & Mary
 W
 Drexel
@@ -9744,7 +9740,7 @@ W
 Monmouth
 L
 UNC Wilmington
-W
+L
 Elon
 W
 Stony Brook
@@ -9752,11 +9748,11 @@ L
 Monmouth
 L
 Towson
-W
+L
 Delaware
 L
 Hampton
-L
+W
 Stony Brook
 L
 Team: Northeastern Huskies
@@ -9823,20 +9819,24 @@ L
 Team: Stony Brook Seawolves
 Florida
 L
-Rhode Island
+Miami (OH)-Hamilton
 W
+Rhode Island
+L
 Brown
 L
 Florida International
 L
 Eastern Washington
 L
+Saint Joseph's Long Island
+W
 Yale
 L
 Bryant
-W
-Sacred Heart
 L
+Sacred Heart
+W
 Wagner
 L
 Army
@@ -9846,29 +9846,29 @@ L
 Northeastern
 W
 Monmouth
-L
-Towson
 W
+Towson
+L
 Drexel
 W
 North Carolina A&T
 L
 Northeastern
-W
+L
 UNC Wilmington
 L
 William & Mary
 L
 Hampton
-L
+W
 Elon
 L
 Hofstra
-W
+L
 Monmouth
 L
 North Carolina A&T
-L
+W
 Delaware
 L
 William & Mary
@@ -9876,11 +9876,11 @@ W
 Hofstra
 L
 UNC Wilmington
-W
+L
 Charleston
 L
 North Carolina A&T
-L
+W
 Charleston
 L
 Team: Towson Tigers
@@ -9953,12 +9953,16 @@ L
 Team: UNC Wilmington Seahawks
 North Carolina
 L
-Oklahoma
+Allen University
 W
+Oklahoma
+L
 UConn
 L
+Mount Olive
+W
 Missouri State
-L
+W
 Vermont
 W
 North Texas
@@ -9982,29 +9986,29 @@ W
 North Carolina A&T
 W
 Charleston
-W
-William & Mary
-W
-Elon
 L
+William & Mary
+L
+Elon
+W
 Hofstra
 L
 Stony Brook
 W
 Monmouth
-L
+W
 North Carolina A&T
 W
 William & Mary
 W
 Charleston
-W
+L
 Northeastern
 W
 Drexel
-L
-Delaware
 W
+Delaware
+L
 Stony Brook
 W
 Towson
@@ -10012,32 +10016,36 @@ L
 Drexel
 W
 Hofstra
-L
-Charleston
 W
+Charleston
+L
 Team: William & Mary Tribe
 Navy
 L
-Virginia Tech
+Mid-Atlantic Christian
 W
+Virginia Tech
+L
 American University
 L
 Army
-L
+W
 Radford
 W
 Pittsburgh
-W
+L
 NC State
 L
 Richmond
-L
-Old Dominion
 W
+Old Dominion
+L
 Norfolk State
 L
 UMBC
 L
+Randolph College
+W
 Drexel
 L
 Northeastern
@@ -10047,52 +10055,56 @@ L
 Hampton
 W
 UNC Wilmington
-L
+W
 Charleston
-W
+L
 Delaware
-W
+L
 North Carolina A&T
 L
 Stony Brook
-L
+W
 Towson
 L
 Hampton
-W
+L
 UNC Wilmington
 L
 Elon
 L
 Towson
-L
+W
 Stony Brook
 L
 Northeastern
-W
+L
 Elon
-L
+W
 Monmouth
-L
+W
 Elon
 W
 Hofstra
-W
+L
 Team: Delaware Blue Hens
-Air Force
+Wilmington (DE)
 W
+Air Force
+L
 Duke
 L
 Colgate
-L
+W
+Hartford
+W
 Pennsylvania
-W
+L
 Cornell
-W
+L
 Davidson
-L
+W
 Delaware State
-L
+W
 Siena
 W
 Princeton
@@ -10100,11 +10112,11 @@ W
 Rider
 W
 Ohio
-W
-Hofstra
-W
-Elon
 L
+Hofstra
+L
+Elon
+W
 Charleston
 L
 Towson
@@ -10112,48 +10124,50 @@ W
 Hofstra
 L
 Northeastern
-W
-William & Mary
 L
+William & Mary
+W
 Drexel
 L
 Hampton
-W
-Northeastern
 L
+Northeastern
+W
 Monmouth
 L
 Charleston
-W
+L
 Drexel
 L
 Stony Brook
-L
+W
 Towson
 L
 UNC Wilmington
 W
 North Carolina A&T
-L
+W
 Elon
 W
 Northeastern
 W
 Towson
-W
+L
 Team: Florida International Panthers
 Houston Christian
 W
-NC State
+Florida National
 W
+NC State
+L
 Bryant
 L
 Stony Brook
-L
+W
 Eastern Washington
 W
 Eastern Michigan
-W
+L
 Florida Gulf Coast
 L
 Howard
@@ -10161,37 +10175,39 @@ L
 Florida Atlantic
 L
 Incarnate Word
-L
-North Texas
 W
+Florida College
+W
+North Texas
+L
 Charlotte
 W
 UAB
-L
+W
 Florida Atlantic
-W
+L
 Western Kentucky
-W
+L
 North Texas
 L
 UTEP
 L
 UTSA
-L
+W
 Western Kentucky
-L
+W
 Middle Tennessee
 W
 Charlotte
 W
 UAB
-W
+L
 Louisiana Tech
 W
 Rice
 L
 Middle Tennessee
-W
+L
 UTEP
 L
 UTSA
@@ -10199,84 +10215,94 @@ L
 Louisiana Tech
 L
 Rice
-L
+W
 Louisiana Tech
 L
 Team: Jacksonville State Gamecocks
-UIC
+Shorter
 W
+UIC
+L
 Alabama
 L
 Elon
-L
-New Mexico
 W
+New Mexico
+L
 Northern Colorado
 L
 North Dakota State
-L
+W
 East Tennessee State
 W
 Utah
+L
+Reinhardt
 W
 Little Rock
-L
+W
 South Alabama
+L
+Georgia Southwestern
 W
 North Alabama
-W
+L
 Jacksonville
 L
 Liberty
-W
+L
 Bellarmine
 L
 North Florida
-L
+W
 Jacksonville
 L
 Florida Gulf Coast
 L
 Stetson
-W
+L
 Lipscomb
-L
+W
 Austin Peay
-L
+W
 Eastern Kentucky
 L
 Bellarmine
-W
+L
 Kennesaw State
-W
+L
 Kennesaw State
 L
 Queens University
-L
+W
 Liberty
 L
 Central Arkansas
-L
+W
 North Alabama
 W
 Team: Kennesaw State Owls
-Xavier
-L
+LaGrange
+W
 Florida
+L
+Brewton-Parker
 W
 SE Louisiana
-L
+W
 App State
 W
 Campbell
-W
+L
 VCU
-W
+L
 Mercer
-L
+W
 Charleston Southern
-L
+W
 San Diego State
+L
+Georgia College
 W
 South Carolina Upstate
 W
@@ -10293,7 +10319,7 @@ W
 Jacksonville
 W
 North Florida
-L
+W
 Stetson
 W
 Florida Gulf Coast
@@ -10305,50 +10331,52 @@ W
 Bellarmine
 W
 Eastern Kentucky
-W
+L
 Jacksonville State
 W
 Jacksonville State
 W
 Liberty
-L
-Queens University
 W
+Queens University
+L
 North Alabama
 W
 Central Arkansas
 W
 Queens University
-L
+W
 Lipscomb
 W
 Liberty
 W
 Team: Liberty Flames
-Villanova
+Regent
 W
-Wisconsin
-L
 Alabama
-W
-North Carolina Central
 L
-Southern Miss
+North Carolina Central
 W
+Southern Miss
+L
 Northwestern
 L
 Bradley
-L
+W
 Delaware State
 W
 Maryland Eastern Shore
 W
-Oral Roberts
+Virginia-Lynchburg
 W
+Oral Roberts
+L
 Bryant
 W
 Grambling
-L
+W
+Mid-Atlantic Christian
+W
 Bellarmine
 W
 Lipscomb
@@ -10356,13 +10384,13 @@ W
 Jacksonville State
 W
 Eastern Kentucky
-W
+L
 North Alabama
 W
 Central Arkansas
 W
 Jacksonville
-L
+W
 North Florida
 W
 Stetson
@@ -10372,7 +10400,7 @@ W
 Austin Peay
 W
 Lipscomb
-W
+L
 Bellarmine
 W
 Eastern Kentucky
@@ -10384,34 +10412,40 @@ W
 Queens University
 W
 Queens University
-L
+W
 Bellarmine
 W
 Eastern Kentucky
 W
 Kennesaw State
-W
+L
 Team: Louisiana Tech Bulldogs
-Texas Tech
+Mississippi College
 W
+Texas Tech
+L
 Louisiana
 L
 UL Monroe
-L
+W
 Alabama A&M
 W
 Samford
 W
+Tennessee Southern
+W
 Southern
 W
 Wyoming
-W
+L
 Stephen F. Austin
-W
+L
 UTEP
 L
+Jarvis Christian
+W
 UTSA
-L
+W
 Charlotte
 L
 Rice
@@ -10421,7 +10455,7 @@ W
 North Texas
 L
 UAB
-W
+L
 Western Kentucky
 W
 Middle Tennessee
@@ -10431,13 +10465,13 @@ L
 UTSA
 W
 Rice
-L
+W
 Florida International
 L
 Florida Atlantic
-W
+L
 North Texas
-W
+L
 Charlotte
 L
 Western Kentucky
@@ -10445,32 +10479,36 @@ L
 Middle Tennessee
 L
 Florida International
-L
+W
 Florida Atlantic
 L
 Florida International
-L
-North Texas
 W
+North Texas
+L
 Team: Middle Tennessee Blue Raiders
+Brescia
+W
 Winthrop
-W
+L
 Rice
-L
-Missouri State
 W
-Hofstra
+Missouri State
 L
+Hofstra
+W
 Stephen F. Austin
 W
 Montana State
 W
 St. Bonaventure
+L
+Maryville College (TN)
 W
 Belmont
-L
-Chattanooga
 W
+Chattanooga
+L
 Murray State
 W
 Charlotte
@@ -10480,56 +10518,58 @@ W
 UTSA
 L
 North Texas
-W
+L
 Rice
-L
+W
 UAB
-L
+W
 Charlotte
 W
 Louisiana Tech
 W
 Florida Atlantic
-W
+L
 Florida International
-W
+L
 UTEP
-L
+W
 UTSA
-L
+W
 Western Kentucky
-W
+L
 UAB
-W
+L
 Florida Atlantic
-L
+W
 Florida International
-L
+W
 Louisiana Tech
 W
 North Texas
-W
-UTEP
-W
-Charlotte
 L
+UTEP
+L
+Charlotte
+W
 Florida Atlantic
 L
 Team: Missouri State Bears
+Missouri S&T
+W
 BYU
-W
-Middle Tennessee
 L
-UNC Wilmington
+Middle Tennessee
 W
+UNC Wilmington
+L
 Ball State
 L
 Oakland
-L
+W
 UIC
 W
 Bradley
-W
+L
 Saint Mary's
 L
 Purdue Fort Wayne
@@ -10537,9 +10577,9 @@ L
 Oral Roberts
 L
 Central Michigan
-L
-Sam Houston
 W
+Northern Iowa
+C
 Drake
 W
 Evansville
@@ -10579,30 +10619,36 @@ W
 Southern Illinois
 W
 Team: New Mexico State Aggies
-UTEP
+New Mexico Highlands
 W
-New Mexico
+UTEP
 L
+San Diego
+C
 UC Irvine
 W
 UTEP
 L
-New Mexico
+Simon Fraser
 W
+Santa Clara
+C
 Duquesne
 W
 Saint Mary's
 L
+Northern New Mexico
+W
 Kent State
-W
+L
 North Carolina A&T
-L
+W
 Southern Utah
-W
-Sam Houston
 L
-Stephen F. Austin
+Sam Houston
 W
+Stephen F. Austin
+L
 California Baptist
 L
 Seattle U
@@ -10620,25 +10666,25 @@ L
 Seattle U
 L
 Grand Canyon
-L
+W
 California Baptist
 W
 Abilene Christian
-W
+L
 UT Rio Grande Valley
 L
 Grand Canyon
-L - Forfeit
-Abilene Christian
-L - Forfeit
-Tarleton State
-L - Forfeit
-Team: Sam Houston Bearkats
-Santa Clara
-W
-North Texas
 L
+Abilene Christian
+L
+Tarleton State
+L
+Team: Sam Houston Bearkats
 Oklahoma
+W
+Southwestern Adventist
+W
+LeTourneau
 W
 Utah
 W
@@ -10647,43 +10693,47 @@ W
 South Dakota
 W
 Nevada
+L
+Dallas Christian
 W
 Oklahoma State
-W
-UL Monroe
 L
+UL Monroe
+W
 Texas State
 W
-Missouri State
-L
+Arlington Baptist
+W
 Utah Valley
-W
+C
 New Mexico State
-W
+L
 Grand Canyon
 W
+Tarleton State
+L
 Southern Utah
-L
-Utah Tech
 W
-Stephen F. Austin
+Utah Tech
 L
+Stephen F. Austin
+W
 UT Rio Grande Valley
 W
 Seattle U
-L
+W
 UT Rio Grande Valley
 W
 UT Arlington
 W
 Abilene Christian
-W
+L
 UT Arlington
 W
 Tarleton State
 W
 California Baptist
-L
+W
 Southern Utah
 W
 Stephen F. Austin
@@ -10699,6 +10749,8 @@ Texas
 L
 New Mexico State
 W
+Sul Ross State
+W
 Alcorn State
 W
 Cal State Bakersfield
@@ -10706,33 +10758,35 @@ W
 Texas A&M-Corpus Christi
 W
 New Mexico State
+L
+Northern New Mexico
 W
 DePaul
 L
 Louisiana Tech
 W
 North Carolina A&T
-L
+W
 Kent State
-W
+L
 UAB
-W
+L
 Rice
 L
 Louisiana Tech
 L
 UTSA
-L
+W
 Rice
 L
 Charlotte
 W
 Florida International
-L
+W
 Florida Atlantic
-W
+L
 North Texas
-W
+L
 Middle Tennessee
 L
 Western Kentucky
@@ -10740,30 +10794,34 @@ L
 Charlotte
 L
 UTSA
-L
+W
 UAB
 L
 North Texas
-W
-Florida International
 L
+Florida International
+W
 Florida Atlantic
 L
 Western Kentucky
-W
-Middle Tennessee
 L
+Middle Tennessee
+W
 Western Kentucky
 L
 Team: Western Kentucky Hilltoppers
 Eastern Kentucky
 W
-Akron
+Kentucky State
 W
+Indianapolis
+W
+Akron
+L
 Illinois State
 W
 Tulane
-L
+W
 South Carolina State
 W
 Austin Peay
@@ -10771,9 +10829,9 @@ W
 Wright State
 W
 Louisville
-W
+L
 South Carolina
-W
+L
 Rice
 L
 Middle Tennessee
@@ -10781,15 +10839,15 @@ L
 North Texas
 L
 UTSA
-L
+W
 UAB
-L
+W
 Florida International
 W
 Florida Atlantic
-W
+L
 Louisiana Tech
-W
+L
 Charlotte
 L
 Florida International
@@ -10797,17 +10855,17 @@ L
 Florida Atlantic
 L
 UTSA
-L
+W
 UTEP
-L
+W
 Middle Tennessee
 W
 Charlotte
-W
-Rice
-W
-Louisiana Tech
 L
+Rice
+L
+Louisiana Tech
+W
 UAB
 L
 UTEP
@@ -10819,14 +10877,14 @@ W
 Florida Atlantic
 L
 Team: Cleveland State Vikings
-Eastern Kentucky
+Notre Dame College (OH)
 L
 Cincinnati
 L
 Ohio
 L
 Canisius
-L
+W
 Arkansas-Pine Bluff
 W
 Chicago State
@@ -10838,11 +10896,13 @@ W
 Detroit Mercy
 W
 St. Bonaventure
-W
+L
 Kent State
 L
 Loyola Marymount
 L
+Mount St. Joseph
+W
 Youngstown State
 L
 Robert Morris
@@ -10852,25 +10912,25 @@ L
 Green Bay
 W
 IU Indianapolis
-L
+W
 Purdue Fort Wayne
 W
 Northern Kentucky
-W
+L
 Wright State
 W
 Purdue Fort Wayne
-L
+W
 IU Indianapolis
 W
 Detroit Mercy
-W
+L
 Oakland
-W
+L
 Robert Morris
-L
+W
 Youngstown State
-L
+W
 Wright State
 W
 Northern Kentucky
@@ -10878,42 +10938,44 @@ W
 Green Bay
 W
 Milwaukee
-W
+L
 Robert Morris
 W
 Milwaukee
-L
+W
 Northern Kentucky
-W
-Team: Detroit Mercy Titans
-Boston College
-W
-Ohio
 L
-Florida Atlantic
+Team: Detroit Mercy Titans
+Rochester University (MI)
 W
+Boston College
+L
+Ohio
+W
+Florida Atlantic
+L
 Bryant
 L
 Charlotte
-L
+W
 Washington State
-W
+L
 Purdue Fort Wayne
-L
+W
 Cleveland State
-W
-Tulsa
 L
-Charlotte
+Tulsa
 W
+Charlotte
+L
 Eastern Michigan
 L
 Cincinnati
 L
 Green Bay
-L
-Milwaukee
 W
+Milwaukee
+L
 Wright State
 L
 Northern Kentucky
@@ -10921,35 +10983,35 @@ L
 Youngstown State
 L
 Robert Morris
-L
+W
 IU Indianapolis
 W
 Oakland
-W
+L
 Robert Morris
 L
 Youngstown State
 L
 Cleveland State
-L
+W
 Purdue Fort Wayne
 W
 Milwaukee
-W
-Green Bay
 L
+Green Bay
+W
 Oakland
 W
 IU Indianapolis
 W
 Northern Kentucky
-W
+L
 Wright State
 L
 Purdue Fort Wayne
-L
-Youngstown State
 W
+Youngstown State
+L
 Team: Green Bay Phoenix
 Indiana State
 L
@@ -11022,8 +11084,10 @@ Drake
 L
 Chicago State
 L
-Denver
+Franklin
 W
+Denver
+L
 New Orleans
 L
 The Citadel
@@ -11032,16 +11096,18 @@ Milwaukee
 L
 Green Bay
 L
+Spalding
+W
 Eastern Illinois
 L
 Southern Indiana
-W
-East Texas A&M
 L
+East Texas A&M
+W
 Northern Kentucky
 L
 Wright State
-W
+L
 Youngstown State
 L
 Robert Morris
@@ -11061,36 +11127,36 @@ L
 Milwaukee
 L
 Green Bay
-L
+W
 Wright State
 L
 Northern Kentucky
-W
+L
 Oakland
 L
 Detroit Mercy
 L
 Robert Morris
-L
+W
 Youngstown State
 L
 Robert Morris
-W
-Team: Milwaukee Panthers
-Stetson
-W
-Charlotte
 L
+Team: Milwaukee Panthers
+Milwaukee School Of Engineering
+W
 Purdue
+L
+Cardinal Stritch
 W
 Iowa State
 L
 St. Thomas-Minnesota
-W
+L
 UC Davis
-L
+W
 Boston University
-L
+W
 Southeast Missouri State
 W
 Green Bay
@@ -11098,78 +11164,82 @@ W
 IU Indianapolis
 W
 Chattanooga
-W
-Rhode Island
+L
+North Park
 W
 Oakland
-L
+C
 Detroit Mercy
+L
+Cleveland State
 W
 Purdue Fort Wayne
-L
+W
 Northern Kentucky
 W
 Wright State
 W
 Robert Morris
-W
+L
 Youngstown State
 W
 Wright State
-L
-Northern Kentucky
 W
+Northern Kentucky
+L
 IU Indianapolis
 W
 Green Bay
-L
-Detroit Mercy
 W
+Detroit Mercy
+L
 Oakland
 W
 Youngstown State
-L
+W
 Robert Morris
-W
+L
 Purdue Fort Wayne
-W
+L
 Cleveland State
-L
+W
 Wright State
-L
+W
 Cleveland State
 W
 Team: Northern Kentucky Norse
-Houston
-L
 Kent State
 L
+Cincinnati Clermont
+W
 Cincinnati
 W
 Florida Gulf Coast
-W
+L
 UT Arlington
 L
 Toledo
 L
 Tennessee Tech
-L
+W
 Youngstown State
 W
 Robert Morris
 W
 Washington State
-W
-Eastern Kentucky
 L
-Florida Atlantic
+Eastern Kentucky
 W
+Miami (OH)-Hamilton
+W
+Florida Atlantic
+L
 Wright State
 W
 IU Indianapolis
-L
-Oakland
 W
+Oakland
+L
 Detroit Mercy
 W
 Milwaukee
@@ -11177,29 +11247,29 @@ L
 Green Bay
 W
 Cleveland State
-L
+W
 Purdue Fort Wayne
 W
 Green Bay
 W
 Milwaukee
-W
+L
 Robert Morris
 W
 Youngstown State
 L
 Wright State
-W
+L
 IU Indianapolis
-L
-Purdue Fort Wayne
-L
-Cleveland State
 W
+Purdue Fort Wayne
+W
+Cleveland State
+L
 Detroit Mercy
 W
 Oakland
-L
+W
 Oakland
 W
 Youngstown State
@@ -11207,16 +11277,18 @@ W
 Cleveland State
 W
 Team: Oakland Golden Grizzlies
-Bowling Green
+Defiance
 W
+Bowling Green
+L
 Oklahoma State
 L
 Toledo
 L
 Eastern Michigan
-L
-Long Beach State
 W
+Long Beach State
+L
 San José State
 L
 Missouri State
@@ -11232,7 +11304,7 @@ L
 Michigan State
 L
 Milwaukee
-L
+W
 Green Bay
 W
 Northern Kentucky
@@ -11242,31 +11314,31 @@ W
 Robert Morris
 W
 Youngstown State
-W
-IU Indianapolis
 L
+IU Indianapolis
+W
 Detroit Mercy
 W
 Youngstown State
-W
+L
 Robert Morris
 L
 Purdue Fort Wayne
 L
 Cleveland State
-L
+W
 Green Bay
 W
 Milwaukee
-W
+L
 IU Indianapolis
-L
+W
 Detroit Mercy
-W
-Wright State
 L
-Northern Kentucky
+Wright State
 W
+Northern Kentucky
+L
 Northern Kentucky
 L
 Team: Purdue Fort Wayne Mastodons
@@ -11274,18 +11346,22 @@ Michigan
 L
 SIU Edwardsville
 W
-Northwestern
+Manchester
 W
-Eastern Michigan
+Northwestern
 L
+Eastern Michigan
+W
 Southern Miss
+L
+Bluffton
 W
 Detroit Mercy
 L
 Oakland
 W
 Southeast Missouri State
-L
+W
 Missouri State
 W
 East Texas A&M
@@ -11293,13 +11369,13 @@ W
 Southern Indiana
 W
 Robert Morris
-W
+L
 Youngstown State
 W
 Green Bay
-L
-Milwaukee
 W
+Milwaukee
+L
 IU Indianapolis
 W
 Cleveland State
@@ -11317,13 +11393,13 @@ W
 Detroit Mercy
 L
 Youngstown State
-W
+L
 Robert Morris
 L
 Northern Kentucky
 L
 Wright State
-L
+W
 Milwaukee
 L
 Green Bay
@@ -11333,16 +11409,20 @@ L
 Team: Robert Morris Colonials
 Ohio State
 L
+Pittsburgh - Greensburg
+W
+West Virginia Wesleyan
+W
 Dayton
-W
+L
 Mercer
-W
+L
 Evansville
 L
 South Alabama
 L
 Wright State
-L
+W
 Northern Kentucky
 L
 Central Michigan
@@ -11352,43 +11432,43 @@ L
 Mount St. Mary's
 W
 Saint Francis
-L
+W
 Purdue Fort Wayne
 W
 Cleveland State
-W
-Youngstown State
-W
-IU Indianapolis
 L
+Youngstown State
+L
+IU Indianapolis
+W
 Oakland
 L
 Detroit Mercy
-W
+L
 Milwaukee
 L
 Green Bay
-L
+W
 Detroit Mercy
-L
+W
 Oakland
 W
 Northern Kentucky
-W
+L
 Wright State
-W
+L
 Cleveland State
 L
 Purdue Fort Wayne
-L
+W
 Green Bay
-L
+W
 Milwaukee
 W
 Youngstown State
 W
 IU Indianapolis
-W
+L
 IU Indianapolis
 W
 Cleveland State
@@ -11400,95 +11480,101 @@ Louisville
 W
 Bowling Green
 W
+Defiance
+W
 Abilene Christian
 W
 UC Riverside
-W
-Weber State
 L
-Robert Morris
+Weber State
 W
+Robert Morris
+L
 Youngstown State
 L
 Western Kentucky
 L
 Akron
 L
-Miami (OH)
-L
-Northern Kentucky
+Northwestern Ohio
 W
+Miami (OH)
+W
+Northern Kentucky
+L
 IU Indianapolis
 W
 Detroit Mercy
-L
+W
 Oakland
-W
+L
 Green Bay
 W
 Milwaukee
-L
+W
 Purdue Fort Wayne
-W
+L
 Cleveland State
-W
+L
 Milwaukee
-L
-Green Bay
-L
-Youngstown State
 W
+Green Bay
+W
+Youngstown State
+L
 Robert Morris
 W
 IU Indianapolis
-L
+W
 Northern Kentucky
 W
 Cleveland State
-W
+L
 Purdue Fort Wayne
-W
+L
 Oakland
 L
 Detroit Mercy
-L
-Green Bay
-L
-Milwaukee
 W
-Team: Youngstown State Penguins
-Oklahoma State
+Green Bay
+W
+Milwaukee
 L
+Team: Youngstown State Penguins
 Canisius
 W
 UT Martin
 W
 Notre Dame
 L
+Grace Christian
+W
 UC San Diego
 W
 Navy
-W
+L
 Western Illinois
-L
+W
 Northern Kentucky
-W
-Wright State
 L
-Ohio
+Wright State
 W
+Westminster (PA)
+W
+Ohio
+L
 Southern
 W
 Central Michigan
-L
+W
 Cleveland State
 W
 Purdue Fort Wayne
-W
+L
 Robert Morris
 W
 IU Indianapolis
-L
+W
 Detroit Mercy
 W
 Oakland
@@ -11496,11 +11582,11 @@ W
 Green Bay
 W
 Milwaukee
-W
+L
 Oakland
 W
 Detroit Mercy
-L
+W
 Wright State
 W
 Northern Kentucky
@@ -11508,19 +11594,19 @@ W
 Purdue Fort Wayne
 W
 Cleveland State
-W
+L
 Milwaukee
 W
 Green Bay
-L
-Robert Morris
 W
+Robert Morris
+L
 IU Indianapolis
 W
 Detroit Mercy
-L
-Northern Kentucky
 W
+Northern Kentucky
+L
 Team: Brown Bears
 Vermont
 L
@@ -11538,42 +11624,44 @@ Central Connecticut
 W
 Bryant
 W
+Hartford
+W
 Rhode Island
 W
 Michigan State
-W
+L
 New Hampshire
-L
+W
 Northwestern
-W
+L
 Pennsylvania
 L
 Harvard
 L
 Dartmouth
-L
+W
 Princeton
 W
 Yale
-W
+L
 Columbia
-L
-Cornell
 W
-Dartmouth
+Cornell
 L
+Dartmouth
+W
 Harvard
 W
 Cornell
 W
 Princeton
-W
+L
 Pennsylvania
 L
 Columbia
-L
-Yale
 W
+Yale
+L
 Team: Columbia Lions
 Rutgers
 L
@@ -11585,20 +11673,24 @@ Delaware State
 W
 Maine
 L
-Binghamton
+SUNY-Maritime
 W
+Binghamton
+L
 Providence
 L
 Marist
 L
 New Hampshire
-L
+W
+Sarah Lawrence
+W
 UMBC
-W
-Fairleigh Dickinson
-W
-Lafayette
 L
+Fairleigh Dickinson
+L
+Lafayette
+W
 Maryland Eastern Shore
 L
 Yale
@@ -11606,7 +11698,7 @@ W
 Princeton
 L
 Pennsylvania
-W
+L
 Harvard
 L
 Cornell
@@ -11624,15 +11716,19 @@ L
 Harvard
 L
 Dartmouth
-L
+W
 Brown
 L
 Cornell
-W
+L
 Team: Cornell Big Red
 Boston College
 L
+SUNY Delhi
+W
 Saint Francis
+W
+Ithaca College
 W
 Canisius
 W
@@ -11643,13 +11739,13 @@ W
 Lafayette
 W
 Miami
-W
+L
 Syracuse
-W
+L
 Lehigh
-L
+W
 Colgate
-L
+W
 Binghamton
 W
 Dartmouth
@@ -11657,29 +11753,29 @@ W
 Pennsylvania
 W
 Princeton
-W
+L
 Yale
 W
 Columbia
-L
-Harvard
 W
+Harvard
+L
 Brown
 W
 Princeton
 L
 Pennsylvania
-W
+L
 Brown
 L
 Dartmouth
-L
+W
 Harvard
 L
 Yale
-W
-Columbia
 L
+Columbia
+W
 Yale
 L
 Team: Dartmouth Big Green
@@ -11687,59 +11783,65 @@ Fordham
 L
 Bryant
 L
-Quinnipiac
+Massachusetts College of Liberal Arts
 W
+Quinnipiac
+L
 Incarnate Word
 L
 UTSA
-L
+W
 Grambling
+L
+Vermont State - Johnson
 W
 Cal State Bakersfield
-L
+W
 Vermont
-W
+L
 Central Connecticut
-W
+L
 Boston University
 L
 South Florida
 L
 Massachusetts
 L
-New Hampshire
-L
 Cornell
-L
-Brown
-L
-Pennsylvania
-W
-Harvard
-L
-Princeton
-W
-Columbia
-W
-Brown
-L
+C
 Yale
+L
+Brown
 W
+Pennsylvania
+L
+Harvard
+W
+Princeton
+W
+Columbia
+L
+Brown
+W
+Yale
+L
 Princeton
 L
 Cornell
-L
-Columbia
 W
+Columbia
+L
 Pennsylvania
 L
 Harvard
 L
 Team: Harvard Crimson
-Louisiana
+Morehouse
 W
-Elon
+Louisiana
 L
+Elon
+W
 Northeastern
 W
 Siena
@@ -11747,10 +11849,12 @@ W
 Loyola Chicago
 W
 Fordham
-W
-Holy Cross
 L
+Holy Cross
+W
 Massachusetts
+L
+Tufts
 W
 Howard
 L
@@ -11775,19 +11879,19 @@ W
 Pennsylvania
 L
 Yale
-W
+L
 Brown
 L
 Pennsylvania
 L
 Columbia
-L
+W
 Cornell
-L
+W
 Princeton
-W
+L
 Dartmouth
-W
+L
 Team: Pennsylvania Quakers
 Iona
 L
@@ -11801,34 +11905,40 @@ West Virginia
 L
 Lafayette
 W
+Hartford
+W
 Colgate
 W
 Delaware
 W
 Saint Joseph's
-W
+L
 La Salle
 L
 Villanova
 L
 Temple
-L
+W
+Wilkes University
+W
 Brown
 W
 Cornell
-W
+L
 Columbia
 W
 Dartmouth
 L
 Princeton
-W
+L
 Yale
 L
+Hartford
+W
 Harvard
-L
+W
 Columbia
-L
+W
 Cornell
 W
 Harvard
@@ -11840,16 +11950,10 @@ W
 Dartmouth
 W
 Princeton
-W
+L
 Princeton
-W
+L
 Team: Princeton Tigers
-Arizona
-W
-Missouri
-W
-Creighton
-L
 Hofstra
 L
 Navy
@@ -11862,6 +11966,8 @@ Army
 W
 Northeastern
 W
+Cairn University
+W
 Drexel
 W
 Lafayette
@@ -11869,29 +11975,31 @@ W
 Monmouth
 W
 Iona
-W
+L
 Delaware
 L
+Kean
+W
 Harvard
-L
+W
 Columbia
 W
 Cornell
 W
 Brown
-W
+L
 Pennsylvania
 W
 Dartmouth
-L
-Yale
 W
+Yale
+L
 Cornell
 W
 Columbia
-L
-Dartmouth
 W
+Dartmouth
+L
 Brown
 W
 Yale
@@ -11899,48 +12007,50 @@ L
 Harvard
 W
 Pennsylvania
-L
+W
 Pennsylvania
 W
 Yale
 W
 Team: Yale Bulldogs
-Vanderbilt
-L
+Sarah Lawrence
+W
 Eastern Washington
 W
 Mississippi Valley State
 W
 Hawai'i
 W
+John Jay College
+W
 Vermont
 W
 Colorado
-W
+L
 Howard
 W
 Stony Brook
-L
+W
 Butler
-W
+L
 Kentucky
-W
+L
 Fairfield
-L
+W
 Monmouth
-L
+W
 Columbia
-W
-Dartmouth
-W
-Harvard
 L
+Dartmouth
+L
+Harvard
+W
 Cornell
 L
 Brown
 W
 Pennsylvania
-L
+W
 Princeton
 W
 Harvard
@@ -11950,17 +12060,17 @@ W
 Columbia
 W
 Pennsylvania
-W
+L
 Princeton
 W
 Cornell
-L
+W
 Brown
 W
 Cornell
 W
 Princeton
-W
+L
 Team: Canisius Golden Griffins
 Youngstown State
 L
@@ -11968,8 +12078,10 @@ St. Bonaventure
 W
 Cleveland State
 L
-Cornell
+Fredonia State
 W
+Cornell
+L
 Buffalo
 L
 Siena
@@ -11987,15 +12099,15 @@ L
 Mount St. Mary's
 L
 Manhattan
-L
+W
 Saint Peter's
 W
 Marist
-W
-Siena
 L
-Fairfield
+Siena
 W
+Fairfield
+L
 Quinnipiac
 L
 Manhattan
@@ -12007,19 +12119,19 @@ L
 Iona
 L
 Quinnipiac
-L
+W
 Rider
 W
 Mount St. Mary's
-W
-Saint Peter's
 L
+Saint Peter's
+W
 Fairfield
 W
 Niagara
 W
 Mount St. Mary's
-W
+L
 Team: Fairfield Stags
 Wake Forest
 L
@@ -12043,8 +12155,10 @@ Sacred Heart
 W
 Yale
 L
-Drexel
+Coast Guard
 W
+Marist
+C
 Siena
 W
 Niagara
@@ -12082,8 +12196,6 @@ L
 Saint Peter's
 W
 Team: Iona Gaels
-UConn
-L
 Pennsylvania
 W
 Hofstra
@@ -12156,6 +12268,8 @@ Team: Manhattan Jaspers
 VCU
 L
 Fairleigh Dickinson
+P
+Mount Saint Vincent
 L
 Northeastern
 W
@@ -12281,8 +12395,10 @@ L
 Team: Merrimack Warriors
 St. John's
 L
-Troy
+Clark (MA)
 W
+Troy
+L
 Montana
 L
 St. Thomas-Minnesota
@@ -12299,35 +12415,39 @@ Vermont
 L
 San Francisco
 L
+University of New England
+W
 Maine
 L
 Bucknell
-W
+L
 Fairleigh Dickinson
 L
 Wagner
-L
+W
 Sacred Heart
 L
 St. Francis Brooklyn
 W
 Stonehill
-L
-Wagner
 W
+Wagner
+L
 St. Francis Brooklyn
 W
 Central Connecticut
-L
-Fairleigh Dickinson
 W
+Fairleigh Dickinson
+L
 Long Island University
 W
 Saint Francis
-L
+W
 Stonehill
 W
 Saint Francis
+W
+Hartford
 W
 Sacred Heart
 W
@@ -12346,32 +12466,34 @@ West Virginia
 L
 Coppin State
 L
-USC
+McDaniel
 W
-Cal Poly
+USC
 L
+Cal Poly
+W
 Pacific
 W
 Navy
-W
-Saint Peter's
 L
-Rider
+Saint Peter's
 W
+Rider
+L
 American University
 L
 Loyola Maryland
-L
-Robert Morris
 W
+Robert Morris
+L
 Howard
 L
 Niagara
 L
 Canisius
-L
-Marist
 W
+Marist
+L
 Manhattan
 L
 Quinnipiac
@@ -12379,33 +12501,33 @@ L
 Siena
 L
 Marist
-L
-Fairfield
 W
+Fairfield
+L
 Saint Peter's
 L
 Iona
 L
 Quinnipiac
-L
-Siena
 W
+Siena
+L
 Fairfield
 L
 Niagara
-L
+W
 Canisius
 W
 Iona
-W
-Rider
 L
+Rider
+W
 Manhattan
 W
 Canisius
 W
 Iona
-W
+L
 Team: Niagara Purple Eagles
 Maryland
 L
@@ -12415,18 +12537,20 @@ Central Arkansas
 W
 Stetson
 W
-St. John's
+D'Youville
 W
+St. John's
+L
 Iona
 L
 Quinnipiac
-L
+W
 Eastern Michigan
 W
 NJIT
-W
-Binghamton
 L
+Binghamton
+W
 Mount St. Mary's
 W
 Rider
@@ -12434,7 +12558,7 @@ W
 Fairfield
 W
 Manhattan
-W
+L
 Siena
 L
 Marist
@@ -12442,7 +12566,7 @@ L
 Rider
 L
 Saint Peter's
-L
+W
 Manhattan
 W
 Canisius
@@ -12452,21 +12576,21 @@ W
 Quinnipiac
 W
 Iona
-W
+L
 Mount St. Mary's
 L
 Marist
 L
 Fairfield
-L
-Saint Peter's
 W
+Saint Peter's
+L
 Canisius
 L
 Siena
-L
-Iona
 W
+Iona
+L
 Team: Quinnipiac Bobcats
 Rhode Island
 W
@@ -12476,26 +12600,28 @@ Central Connecticut
 W
 Dartmouth
 W
+Albertus Magnus
+W
 Stephen F. Austin
 W
 Montana State
 W
 Hofstra
-W
+L
 Niagara
 L
 Holy Cross
-L
+W
 Lafayette
 W
 Saint Peter's
-W
+L
 Penn State
 L
 Siena
 L
 Manhattan
-L
+W
 Rider
 W
 Iona
@@ -12507,60 +12633,62 @@ W
 Canisius
 W
 Iona
-W
-Marist
 L
+Marist
+W
 Fairfield
 W
 Mount St. Mary's
-W
+L
 Niagara
 L
 Canisius
 L
 Siena
-L
+W
 Rider
 W
 Manhattan
-W
+L
 Fairfield
 L
 Marist
-L
-Marist
 W
+Marist
+L
 Team: Rider Broncs
 Providence
 L
-Stetson
+College of New Jersey
 W
+Stetson
+L
 Central Arkansas
 L
 Rutgers
 L
 Monmouth
-L
+W
 Mount St. Mary's
 W
 Stonehill
 W
 Delaware
-W
-Marist
 L
+Marist
+W
 Georgia
-W
-Canisius
 L
-Niagara
+Canisius
 W
+Niagara
+L
 Quinnipiac
 L
 Siena
 L
 Iona
-L
+W
 Niagara
 W
 Manhattan
@@ -12576,36 +12704,40 @@ W
 Fairfield
 W
 Canisius
-W
+L
 Quinnipiac
 L
 Siena
-L
+W
 Mount St. Mary's
-W
-Saint Peter's
 L
-Iona
+Saint Peter's
 W
+Iona
+L
 Saint Peter's
 L
 Team: Sacred Heart Pioneers
+Hartford
+W
 Rutgers
-W
+L
 Columbia
-L
-UMass Lowell
 W
-Binghamton
+UMass Lowell
 L
+Binghamton
+W
 NJIT
+L
+Western New England
 W
 New Hampshire
-L
+W
 UMass Lowell
-W
+L
 Fairfield
-W
+L
 Pittsburgh
 L
 Stony Brook
@@ -12613,15 +12745,17 @@ L
 Saint Joseph's
 L
 Holy Cross
-L
+W
 Stonehill
 L
 Long Island University
 W
 Merrimack
-L
-St. Francis Brooklyn
 W
+Hartford
+W
+St. Francis Brooklyn
+L
 Saint Francis
 W
 Fairleigh Dickinson
@@ -12629,25 +12763,25 @@ W
 Wagner
 L
 Long Island University
-W
+L
 Stonehill
-W
+L
 Wagner
-L
+W
 Central Connecticut
-L
+W
 Saint Francis
 L
 Fairleigh Dickinson
 W
 Merrimack
-W
+L
 St. Francis Brooklyn
 L
 Central Connecticut
 W
 Wagner
-L
+W
 Merrimack
 L
 Team: Saint Peter's Peacocks
@@ -12659,24 +12793,28 @@ Bucknell
 W
 St. Francis Brooklyn
 L
+Old Westbury
+W
 Fairleigh Dickinson
 W
 Mount St. Mary's
-W
+L
 Fairfield
 L
 Saint Joseph's
 L
-Quinnipiac
-L
-Maryland
+Hartford
 W
+Quinnipiac
+W
+Maryland
+L
 Manhattan
 W
 Iona
 L
 Siena
-W
+L
 Canisius
 L
 Quinnipiac
@@ -12684,7 +12822,7 @@ L
 Fairfield
 L
 Marist
-L
+W
 Niagara
 L
 Mount St. Mary's
@@ -12696,21 +12834,21 @@ W
 Manhattan
 L
 Iona
-W
+L
 Canisius
 L
 Niagara
-L
+W
 Rider
 L
 Siena
 W
 Fairfield
-L
+W
 Rider
 W
 Marist
-W
+L
 Team: Siena Saints
 Holy Cross
 W
@@ -12844,8 +12982,10 @@ L
 Team: Delaware State Hornets
 Virginia Tech
 L
-Villanova
+Immaculata
 W
+Villanova
+L
 Columbia
 L
 UConn
@@ -12857,6 +12997,8 @@ L
 Longwood
 L
 Delaware
+L
+Georgian Court
 L
 Drexel
 L
@@ -12873,44 +13015,46 @@ L
 North Carolina Central
 L
 South Carolina State
-L
+W
 Morgan State
-L
+W
 Coppin State
 W
 Morgan State
-W
+L
 Chicago State
 W
 Howard
 L
 Norfolk State
-W
+L
 North Carolina Central
 L
 South Carolina State
-L
+W
 Morgan State
 L
 Coppin State
-W
+L
 Maryland Eastern Shore
 L
 North Carolina Central
 L
 Team: Howard Bison
-Kansas
-L
 Kentucky
 L
+District Of Columbia
+W
 George Washington
+L
+Gallaudet
 W
 James Madison
 L
 Wyoming
-W
-Buffalo
 L
+Buffalo
+W
 Belmont
 L
 Austin Peay
@@ -12918,25 +13062,27 @@ W
 Yale
 L
 Hampton
-W
+L
 VCU
 L
 Florida International
-L
+W
 Harvard
-L
+W
 Mount St. Mary's
 W
 La Salle
-W
+L
 Delaware State
 W
 Maryland Eastern Shore
 L
 Norfolk State
 W
+Morehouse
+W
 Morgan State
-L
+W
 Coppin State
 W
 North Carolina Central
@@ -12950,15 +13096,15 @@ W
 Coppin State
 W
 Morgan State
-W
+L
 North Carolina Central
-W
+L
 South Carolina State
 W
 Norfolk State
-L
+W
 South Carolina State
-L
+W
 Maryland Eastern Shore
 W
 Norfolk State
@@ -12966,103 +13112,123 @@ W
 Team: Maryland Eastern Shore Hawks
 Old Dominion
 L
-Charlotte
+Bryn Athyn
 W
+Charlotte
+L
 George Washington
 L
 Marist
-L
+W
 Virginia
-W
-Lehigh
 L
-Liberty
+Lehigh
 W
+Liberty
+L
 George Mason
 L
 Duke
 L
+Clarks Summit
+W
 Temple
-L
+W
 Columbia
 W
-Norfolk State
+St. Mary's (MD)
 W
+Norfolk State
+L
 Howard
 W
 Delaware State
 W
 South Carolina State
-L
+W
 North Carolina Central
 W
 Coppin State
 W
 Morgan State
 W
+Regent
+W
 Norfolk State
-W
+L
 Howard
-W
+L
 South Carolina State
 W
 North Carolina Central
-W
-Coppin State
 L
+Coppin State
+W
 Morgan State
 L
 Delaware State
 W
 Morgan State
-L
-Howard
 W
+Howard
+L
 Team: Morgan State Bears
 Xavier
 L
-VCU
+Penn State-Alleghany
 W
+VCU
+L
 Akron
 L
 Utah Valley
-L
-Queens University
 W
+Queens University
+L
 Loyola Marymount
 L
+Virginia-Lynchburg
+W
 Bowling Green
 L
-UMBC
+Penn State - Wilkes-Barre
 W
+UMBC
+L
 Arizona
 L
+Hartford
+W
+Goucher
+W
 North Carolina Central
 W
 South Carolina State
-L
+W
 Coppin State
-L
-Howard
 W
+Hartford
+W
+Howard
+L
 Norfolk State
 W
 Delaware State
-W
+L
 Maryland Eastern Shore
-W
+L
 Delaware State
 W
 North Carolina Central
-W
+L
 South Carolina State
 L
 Norfolk State
-W
+L
 Howard
-L
+W
 Delaware State
-L
+W
 Maryland Eastern Shore
 W
 Coppin State
@@ -13070,27 +13236,35 @@ L
 Maryland Eastern Shore
 L
 Team: Norfolk State Spartans
+Virginia-Lynchburg
+W
+Cairn University
+W
 Baylor
-W
+L
 UCLA
-W
+L
 Monmouth
-L
+W
 Alabama A&M
-L
+W
+St. Mary's (MD)
+W
 Houston
-W
+L
 Old Dominion
-W
+L
 William & Mary
 W
 Bowling Green
-L
+W
 Hampton
-L
+W
 North Carolina A&T
 W
 Nevada
+L
+Penn State - Wilkes-Barre
 W
 Maryland Eastern Shore
 W
@@ -13101,29 +13275,29 @@ L
 Coppin State
 W
 Morgan State
-W
+L
 South Carolina State
 W
 North Carolina Central
-L
+W
 Hampton
 W
 Maryland Eastern Shore
-L
+W
 Delaware State
 W
 Morgan State
 W
 Coppin State
-W
+L
 South Carolina State
 W
 North Carolina Central
-W
-Howard
-W
-Coppin State
 L
+Howard
+L
+Coppin State
+W
 North Carolina Central
 W
 Howard
@@ -13135,24 +13309,32 @@ App State
 L
 Liberty
 L
+Mid-Atlantic Christian
+W
+Montreat
+W
 Gardner-Webb
 W
 UNC Asheville
 W
 Radford
+L
+St. Andrews
 W
 Marquette
-W
+L
 LSU
 L
 Gardner-Webb
-W
+L
 The Citadel
-L
+W
+Toccoa Falls
+W
 Morgan State
 L
 Coppin State
-L
+W
 South Carolina State
 W
 Delaware State
@@ -13160,17 +13342,17 @@ W
 Maryland Eastern Shore
 L
 Howard
-W
+L
 Norfolk State
-W
+L
 Morgan State
 W
 Coppin State
-L
+W
 Delaware State
-L
+W
 Maryland Eastern Shore
-L
+W
 Howard
 W
 Norfolk State
@@ -13180,7 +13362,7 @@ W
 Delaware State
 W
 Norfolk State
-W
+L
 Team: South Carolina State Bulldogs
 South Carolina
 L
@@ -13212,8 +13394,10 @@ Longwood
 L
 Texas Tech
 L
-Coppin State
+St. Andrews
 W
+Coppin State
+L
 Morgan State
 L
 North Carolina Central
@@ -13227,11 +13411,11 @@ L
 Howard
 L
 Coppin State
-L
+W
 Morgan State
 W
 Maryland Eastern Shore
-W
+L
 Delaware State
 L
 Norfolk State
@@ -13257,6 +13441,8 @@ Nevada
 L
 Marshall
 L
+Muskingum
+W
 Jackson State
 W
 Wright State
@@ -13264,15 +13450,17 @@ W
 Maine
 W
 Bradley
+L
+Concord
 W
 Northern Illinois
-L
-Ball State
 W
+Ball State
+L
 Bowling Green
 W
 Eastern Michigan
-L
+W
 Central Michigan
 W
 Western Michigan
@@ -13286,42 +13474,46 @@ W
 Kent State
 W
 Toledo
-W
+L
 Ohio
-W
+L
 Eastern Michigan
-L
-Buffalo
-L
-Toledo
 W
+Buffalo
+W
+Toledo
+L
 Western Michigan
 W
 Ball State
-L
-Kent State
 W
+Kent State
+L
 Buffalo
 W
 Kent State
 L
 Team: Ball State Cardinals
+Earlham College
+W
 Indiana State
-W
-Omaha
 L
-Vermont
+Omaha
 W
+Indiana-South Bend
+W
+Vermont
+L
 Missouri State
 W
 San José State
 L
 Duquesne
-W
+L
 Eastern Illinois
-L
+W
 Evansville
-L
+W
 Illinois State
 W
 Georgia Southern
@@ -13333,19 +13525,19 @@ W
 Akron
 W
 Ohio
-W
+L
 Miami (OH)
 W
 Western Michigan
-L
+W
 Kent State
-W
+L
 Buffalo
-W
+L
 Northern Illinois
-L
+W
 Bowling Green
-L
+W
 Eastern Michigan
 W
 Central Michigan
@@ -13355,13 +13547,13 @@ W
 Northern Illinois
 W
 Western Michigan
-W
+L
 Kent State
 W
 Eastern Michigan
 L
 Akron
-W
+L
 Toledo
 L
 Ohio
@@ -13389,24 +13581,28 @@ Norfolk State
 L
 UT Martin
 L
+Fairmont St
+W
+Ohio Dominican
+W
 Eastern Michigan
 W
 Ohio
 W
 Akron
-W
+L
 Western Michigan
-W
+L
 Buffalo
 L
 Miami (OH)
-L
+W
 Central Michigan
-L
+W
 Toledo
-W
+L
 Ball State
-W
+L
 Northern Illinois
 L
 Kent State
@@ -13422,7 +13618,7 @@ L
 Kent State
 L
 Eastern Michigan
-L
+W
 Ohio
 L
 Team: Buffalo Bulls
@@ -13442,22 +13638,26 @@ Canisius
 W
 St. Bonaventure
 W
-Tulane
+St. John Fisher
 W
+Tulane
+L
 West Virginia
 L
+SUNY-Canton
+W
 Michigan State
 L
 Ohio
 W
 Northern Illinois
-L
+W
 Miami (OH)
-W
-Central Michigan
-W
-Bowling Green
 L
+Central Michigan
+L
+Bowling Green
+W
 Toledo
 L
 Ball State
@@ -13465,27 +13665,27 @@ W
 Kent State
 L
 Akron
-W
+L
 Western Michigan
-L
+W
 Eastern Michigan
-L
+W
 Kent State
-W
+L
 Ohio
-W
+L
 Akron
 L
 Central Michigan
-L
+W
 Toledo
 L
 Northern Illinois
 W
 Miami (OH)
-L
-Akron
 W
+Akron
+L
 Team: Central Michigan Chippewas
 Marquette
 L
@@ -13499,46 +13699,50 @@ Cal State Northridge
 W
 California Baptist
 L
+Purdue Northwest
+W
+Alma
+W
 Robert Morris
-W
+L
 Tulsa
-W
+L
 Missouri State
 L
 Youngstown State
 L
 Michigan
-L
+W
 Miami (OH)
-L
+W
 Eastern Michigan
-W
-Northern Illinois
-W
-Buffalo
 L
+Northern Illinois
+L
+Buffalo
+W
 Akron
 L
 Ohio
-W
+L
 Bowling Green
 L
 Western Michigan
-L
+W
 Kent State
 L
 Toledo
-W
+L
 Ball State
 L
 Miami (OH)
-L
+W
 Bowling Green
-L
+W
 Ohio
-W
+L
 Buffalo
-W
+L
 Northern Illinois
 L
 Toledo
@@ -13546,8 +13750,10 @@ L
 Western Michigan
 L
 Team: Eastern Michigan Eagles
-Michigan
+Wayne State (MI)
 W
+Michigan
+L
 Bradley
 L
 Oakland
@@ -13559,23 +13765,23 @@ L
 UC San Diego
 L
 Florida International
-L
-Florida Atlantic
 W
+Florida Atlantic
+L
 Illinois State
 L
 Niagara
 L
 Detroit Mercy
-L
-South Carolina
 W
+South Carolina
+L
 Bowling Green
 L
 Central Michigan
-L
-Western Michigan
 W
+Western Michigan
+L
 Akron
 L
 Kent State
@@ -13585,11 +13791,11 @@ L
 Toledo
 L
 Miami (OH)
-L
+W
 Ohio
 W
 Ball State
-W
+L
 Buffalo
 L
 Toledo
@@ -13599,17 +13805,17 @@ L
 Kent State
 L
 Western Michigan
-L
+W
 Ball State
 W
 Bowling Green
-W
+L
 Northern Illinois
 L
 Team: Kent State Golden Flashes
-Indiana
-L
 Northern Kentucky
+W
+Baldwin Wallace
 W
 Portland
 W
@@ -13618,15 +13824,17 @@ W
 Chicago State
 W
 Charleston
-W
+L
 Houston
 L
 South Dakota State
-L
-Gonzaga
 W
-Cleveland State
+Gonzaga
 L
+Cleveland State
+W
+Concord
+W
 New Mexico State
 W
 UTEP
@@ -13644,27 +13852,27 @@ W
 Ball State
 W
 Northern Illinois
-W
+L
 Buffalo
 W
 Central Michigan
-L
-Akron
 W
+Akron
+L
 Bowling Green
 W
 Buffalo
-L
+W
 Western Michigan
 W
 Eastern Michigan
 W
 Ball State
-W
+L
 Bowling Green
 W
 Ohio
-L
+W
 Akron
 W
 Northern Illinois
@@ -13739,17 +13947,21 @@ L
 Team: Miami (OH) RedHawks
 Evansville
 L
-Georgia
+Goshen
 W
+Georgia
+L
 Marshall
 L
 Indiana
 L
 Little Rock
-L
+W
 Jackson State
 W
 Indiana State
+L
+Calumet College
 W
 Cincinnati
 L
@@ -13757,8 +13969,10 @@ Bellarmine
 W
 Wright State
 L
-Central Michigan
+Saint Mary of the Woods College
 W
+Central Michigan
+L
 Kent State
 L
 Buffalo
@@ -13768,7 +13982,7 @@ L
 Northern Illinois
 L
 Bowling Green
-W
+L
 Akron
 L
 Eastern Michigan
@@ -13778,7 +13992,7 @@ L
 Ohio
 L
 Western Michigan
-L
+W
 Central Michigan
 L
 Toledo
@@ -13786,24 +14000,28 @@ L
 Northern Illinois
 W
 Bowling Green
-L
+W
 Ohio
-L
+W
 Western Michigan
 W
 Buffalo
-W
+L
 Toledo
-W
+L
 Team: Northern Illinois Huskies
+Illinois-Springfield
+L
 Northwestern
 L
+Purdue Northwest
+W
 Georgia Tech
 L
 Sam Houston
-W
-Long Island University
 L
+Long Island University
+W
 Northern Iowa
 L
 Eastern Illinois
@@ -13811,45 +14029,45 @@ W
 Idaho
 L
 Gonzaga
-W
+L
 VCU
 L
 UAlbany
 L
 Indiana State
-L
+W
 Akron
 L
 Buffalo
-W
-Central Michigan
 L
+Central Michigan
+W
 Toledo
 L
 Miami (OH)
 W
 Eastern Michigan
-L
+W
 Kent State
 W
 Ball State
-W
+L
 Western Michigan
 W
 Bowling Green
-L
-Ohio
 W
+Ohio
+L
 Western Michigan
 W
 Ball State
 L
 Miami (OH)
-W
+L
 Ohio
 L
 Central Michigan
-L
+W
 Buffalo
 L
 Eastern Michigan
@@ -13869,38 +14087,40 @@ Eastern Illinois
 W
 Alabama State
 W
+Cincinnati Clermont
+W
 Marshall
-W
+L
 Youngstown State
-L
-Florida
 W
-Stetson
+Florida
 L
+Stetson
+W
 Delaware
 W
 Chicago State
 W
 Buffalo
-W
+L
 Bowling Green
 L
 Ball State
-L
-Kent State
 W
+Kent State
+L
 Toledo
 L
 Central Michigan
-L
+W
 Western Michigan
 W
 Akron
-W
+L
 Eastern Michigan
 L
 Miami (OH)
-L
+W
 Northern Illinois
 W
 Akron
@@ -13912,18 +14132,16 @@ W
 Northern Illinois
 W
 Miami (OH)
-W
+L
 Kent State
 L
 Bowling Green
-L
+W
 Ball State
 W
 Toledo
-W
-Team: Toledo Rockets
-Michigan
 L
+Team: Toledo Rockets
 Valparaiso
 W
 UAB
@@ -13948,14 +14166,16 @@ Marshall
 L
 Vermont
 W
-Ball State
+Lourdes University
 W
+Ball State
+L
 Western Michigan
-L
-Kent State
 W
-Northern Illinois
+Kent State
 L
+Northern Illinois
+W
 Ohio
 W
 Buffalo
@@ -13989,42 +14209,48 @@ W
 Ohio
 W
 Kent State
-W
+L
 Team: Western Michigan Broncos
 Minnesota
 L
+Goshen
+W
 Valparaiso
-W
-Houston Christian
 L
-Rice
+Houston Christian
 W
+Rice
+L
 Georgia Southern
 L
 Cleveland State
 L
 Dayton
 L
+Concordia-Ann Arbor
+W
 UIC
 L
 Iowa State
+L
+Siena Heights
 W
 Wisconsin
 L
 Kent State
 L
 Toledo
-W
+L
 Eastern Michigan
-L
+W
 Bowling Green
-L
+W
 Ball State
 L
 Akron
-W
+L
 Ohio
-W
+L
 Central Michigan
 L
 Northern Illinois
@@ -14038,15 +14264,15 @@ L
 Kent State
 L
 Ball State
-L
+W
 Eastern Michigan
 L
 Akron
 L
 Miami (OH)
-W
-Central Michigan
 L
+Central Michigan
+W
 Team: Belmont Bruins
 Ohio
 W
@@ -14066,18 +14292,20 @@ Valparaiso
 W
 Illinois State
 L
-Middle Tennessee
+Trevecca Nazarene
 W
-Chattanooga
+Middle Tennessee
 L
+Chattanooga
+W
 Samford
 W
 Bradley
 W
 Southern Illinois
-W
-UIC
 L
+UIC
+W
 Missouri State
 W
 Valparaiso
@@ -14091,40 +14319,40 @@ W
 Evansville
 W
 Drake
-W
+L
 Murray State
 L
 Illinois State
-L
-Missouri State
 W
-UIC
+Missouri State
 L
+UIC
+W
 Evansville
 W
 Drake
-W
-Indiana State
 L
+Indiana State
+W
 Northern Iowa
 W
 Indiana State
-W
+L
 Team: Bradley Braves
-Wisconsin
-L
-Utah State
+UW-Parkside
 W
-Eastern Michigan
+Utah State
 L
+Eastern Michigan
+W
 Southeast Missouri State
 W
 Auburn
-W
+L
 Liberty
 L
 Merrimack
-L
+W
 Northern Iowa
 W
 Missouri State
@@ -14132,29 +14360,29 @@ W
 SIU Edwardsville
 W
 Arkansas
-W
-Stonehill
 L
+Stonehill
+W
 Akron
 W
 Belmont
-W
+L
 UIC
-L
-Murray State
 W
-Valparaiso
+Murray State
 L
+Valparaiso
+W
 Evansville
 W
 Drake
-W
+L
 Indiana State
-L
-Belmont
 W
-Illinois State
+Belmont
 L
+Illinois State
+W
 UIC
 W
 Southern Illinois
@@ -14178,10 +14406,8 @@ W
 Indiana State
 W
 Drake
-W
-Team: Drake Bulldogs
-Miami
 L
+Team: Drake Bulldogs
 IU Indianapolis
 W
 Wofford
@@ -14206,22 +14432,24 @@ Saint Louis
 L
 Mississippi State
 W
+St. Ambrose
+W
 Valparaiso
 W
 Missouri State
-W
+L
 Southern Illinois
 L
 Murray State
-L
+W
 UIC
 W
 Bradley
 W
 Missouri State
-W
-Evansville
 L
+Evansville
+W
 Indiana State
 W
 Belmont
@@ -14241,9 +14469,9 @@ W
 Illinois State
 W
 Bradley
-W
-Murray State
 L
+Murray State
+W
 Southern Illinois
 W
 Bradley
@@ -14379,10 +14607,6 @@ W
 Northern Iowa
 L
 Team: Indiana State Sycamores
-South Carolina Upstate
-W
-Eastern Kentucky
-L
 Green Bay
 W
 Ball State
@@ -14395,6 +14619,8 @@ Kansas City
 L
 Drexel
 W
+Trinity Christian (IL)
+W
 Drake
 W
 Miami (OH)
@@ -14402,13 +14628,13 @@ W
 Southern Illinois
 W
 Southern Indiana
-W
+L
 Duquesne
 L
 Northern Illinois
 L
 Evansville
-L
+W
 Valparaiso
 W
 Illinois State
@@ -14416,7 +14642,7 @@ W
 UIC
 W
 Southern Illinois
-W
+L
 Missouri State
 L
 Bradley
@@ -14426,7 +14652,7 @@ L
 Drake
 L
 Northern Iowa
-L
+W
 Evansville
 W
 Murray State
@@ -14440,83 +14666,87 @@ W
 Illinois State
 W
 Belmont
-W
+L
 Missouri State
 L
 Evansville
-L
+W
 Belmont
 W
 Bradley
-W
+L
 Team: Murray State Racers
 Saint Louis
 L
+Lindsey Wilson College
+W
 Texas A&M
 W
 Massachusetts
-W
+L
 Tulsa
-L
-Chattanooga
 W
-Illinois State
+Chattanooga
 L
+Illinois State
+W
 Valparaiso
 W
 Bellarmine
-W
-Chicago State
 L
+Chicago State
+W
 Austin Peay
 W
 Middle Tennessee
-W
+L
 Southern Illinois
 L
 Evansville
-L
+W
 Bradley
 W
 Drake
-W
+L
 Northern Iowa
 L
 UIC
-L
-Belmont
 W
-Indiana State
+Belmont
 L
+Indiana State
+W
 Southern Illinois
-W
-Missouri State
 L
+Missouri State
+W
 Belmont
 W
 Indiana State
-W
+L
 Drake
 L
 Bradley
 L
 Illinois State
-L
+W
 Evansville
 W
 Missouri State
-W
-Valparaiso
 L
+Valparaiso
+W
 Valparaiso
 W
 Drake
-W
-Team: Northern Iowa Panthers
-Richmond
-W
-Virginia
 L
+Team: Northern Iowa Panthers
+Wartburg
+W
+Richmond
+L
+San Francisco
+C
 Grand Canyon
 L
 Northern Illinois
@@ -14596,6 +14826,8 @@ Indiana State
 L
 Alcorn State
 W
+Lincoln (MO)
+W
 Chicago State
 W
 Southeast Missouri State
@@ -14607,9 +14839,9 @@ W
 Drake
 W
 Northern Iowa
-W
-Indiana State
 L
+Indiana State
+W
 Illinois State
 W
 Evansville
@@ -14619,56 +14851,58 @@ W
 Murray State
 W
 Illinois State
-W
+L
 Bradley
 L
 Missouri State
-L
+W
 UIC
 W
 Drake
-W
+L
 Valparaiso
-L
-Bradley
 W
-Northern Iowa
+Bradley
 L
+Northern Iowa
+W
 UIC
 W
 Missouri State
 W
 Drake
-W
+L
 Team: UIC Flames
+Trinity Christian (IL)
+W
 Loyola Chicago
-W
+L
 Jacksonville State
-L
-Fordham
 W
-Stonehill
+Fordham
 L
+Stonehill
+W
 Holy Cross
 W
 Green Bay
 W
 Missouri State
-W
+L
 Drake
 L
 Western Michigan
-L
+W
 Prairie View A&M
 W
 Northeastern
 W
 Northwestern
-W
-Illinois State
 L
-Bradley
+Illinois State
 W
+Bradley
+L
 Belmont
 L
 Indiana State
@@ -14688,19 +14922,19 @@ L
 Illinois State
 L
 Evansville
-L
-Southern Illinois
 W
+Southern Illinois
+L
 Belmont
 L
 Indiana State
 L
 Valparaiso
-L
+W
 Evansville
 W
 Southern Illinois
-W
+L
 Missouri State
 L
 Team: Valparaiso Beacons
@@ -14722,14 +14956,16 @@ Belmont
 L
 Murray State
 L
-Ole Miss
+Trinity Christian (IL)
 W
-Elon
+Ole Miss
 L
+Elon
+W
 Stonehill
 W
 Drake
-W
+L
 Indiana State
 L
 Northern Iowa
@@ -14739,25 +14975,25 @@ L
 Belmont
 L
 Evansville
-L
+W
 UIC
 W
 Illinois State
 W
 Northern Iowa
-W
-Evansville
 L
-Missouri State
+Evansville
 W
+Missouri State
+L
 Drake
 L
 Indiana State
 L
 Illinois State
-L
-Southern Illinois
 W
+Southern Illinois
+L
 UIC
 L
 Bradley
@@ -14832,8 +15068,6 @@ L
 UNLV
 L
 Team: Boise State Broncos
-Northwestern
-L
 South Dakota State
 L
 Washington State
@@ -14850,6 +15084,8 @@ Cal State Northridge
 W
 Texas A&M
 W
+Eastern Oregon
+W
 Saint Louis
 W
 New Orleans
@@ -14857,11 +15093,11 @@ W
 Oakland
 W
 Santa Clara
-W
+L
 Nevada
 L
 San José State
-L
+W
 Utah State
 W
 UNLV
@@ -14871,17 +15107,17 @@ W
 Nevada
 W
 New Mexico
-W
-Fresno State
 L
+Fresno State
+W
 Colorado State
 W
 Air Force
 W
 San Diego State
-W
-Wyoming
 L
+Wyoming
+W
 Colorado State
 W
 UNLV
@@ -14889,15 +15125,15 @@ W
 New Mexico
 W
 San José State
-W
+L
 San Diego State
-L
-Utah State
 W
+Utah State
+L
 UNLV
-L
-Utah State
 W
+Utah State
+L
 Team: Colorado State Rams
 Gardner-Webb
 W
@@ -14919,10 +15155,12 @@ Northern Colorado
 L
 Colorado
 L
+Peru State
+W
 Saint Mary's
 W
 USC
-W
+L
 New Mexico
 L
 San José State
@@ -14930,13 +15168,13 @@ L
 Nevada
 L
 Fresno State
-L
+W
 Air Force
-W
-UNLV
 L
-San Diego State
+UNLV
 W
+San Diego State
+L
 Wyoming
 L
 Boise State
@@ -14946,26 +15184,28 @@ L
 Utah State
 L
 Air Force
-L
+W
 Boise State
-W
-Fresno State
 L
-San Diego State
+Fresno State
 W
+San Diego State
+L
 Wyoming
-L
-San José State
 W
-New Mexico
+San José State
 L
+New Mexico
+W
 Fresno State
 W
 San Diego State
-W
+L
 Team: Fresno State Bulldogs
-UC Santa Barbara
+Fresno Pacific
 W
+UC Santa Barbara
+L
 San Francisco
 L
 North Texas
@@ -14975,86 +15215,88 @@ L
 Vanderbilt
 L
 UC Irvine
-L
+W
 Cal State Northridge
 W
 Pacific
-W
+L
 Sacramento State
 L
 Cal State Bakersfield
-L
+W
 Wyoming
 W
 Utah State
-W
-New Mexico
 L
-Colorado State
+New Mexico
 W
+Colorado State
+L
 San José State
 L
 Air Force
 L
 UNLV
-L
-Boise State
 W
+Boise State
+L
 Utah State
 L
 Wyoming
 L
 UNLV
-L
+W
 San José State
 W
 Nevada
-W
+L
 San Diego State
 L
 Colorado State
 L
 Air Force
-L
-Nevada
 W
+Nevada
+L
 New Mexico
 L
 Chicago State
-L
-Colorado State
 W
-Team: Grand Canyon Lopes
-Gonzaga
+Colorado State
 L
+Team: Grand Canyon Lopes
 Montana State
 W
+San Diego Christian
+W
 Nevada
-W
+L
 Grambling
-L
-Wichita State
 W
-Northern Iowa
+Wichita State
 L
+Northern Iowa
+W
+Benedictine (AZ)
+W
 Alcorn State
 W
 Wyoming
 W
 Loyola Marymount
-W
+L
 North Texas
-W
+L
 Pepperdine
-L
+W
 Idaho State
-L
+W
 California Baptist
 W
 Sam Houston
 W
 Stephen F. Austin
-W
+L
 UT Arlington
 W
 California Baptist
@@ -15070,23 +15312,25 @@ L
 Stephen F. Austin
 W
 New Mexico State
-L
-Seattle U
 W
+Seattle U
+L
 UT Rio Grande Valley
-W
+L
 Abilene Christian
-L
-New Mexico State
-L
-Seattle U
 W
+Park University Gilbert
+W
+New Mexico State
+W
+Seattle U
+L
 Southern Utah
 W
 Utah Tech
-W - Forfeit
+W
 UT Arlington
-L
+W
 Seattle U
 W
 Sam Houston
@@ -15094,30 +15338,30 @@ W
 Southern Utah
 W
 Team: Nevada Wolf Pack
-Arizona State
-L
 Utah Tech
 W
 Grand Canyon
+W
+Jessup University
 W
 UT Arlington
 W
 Tulane
 W
 Kansas State
-W
-Akron
 L
+Akron
+W
 Sam Houston
 W
 Loyola Marymount
-W
+L
 Pepperdine
-L
-Oregon
 W
-UC San Diego
+Oregon
 L
+UC San Diego
+W
 Norfolk State
 W
 Boise State
@@ -15129,17 +15373,17 @@ W
 San José State
 W
 San Diego State
-W
+L
 Utah State
-L
+W
 Boise State
-W
+L
 New Mexico
-L
-UNLV
 W
-San Diego State
+UNLV
 L
+San Diego State
+W
 Air Force
 W
 New Mexico
@@ -15147,20 +15391,18 @@ W
 Fresno State
 W
 Utah State
-W
-San José State
 L
+San José State
+W
 Fresno State
 W
 Wyoming
-W
+L
 UNLV
 L
 San José State
 L
 Team: New Mexico Lobos
-Utah Valley
-L
 Southern Utah
 W
 South Alabama
@@ -15168,15 +15410,17 @@ W
 SMU
 W
 Jacksonville State
-W
+C
 North Dakota State
 W
 Northern Colorado
 W
 Saint Mary's
 W
-UTSA
+Western New Mexico
 W
+UTSA
+C
 San Francisco
 W
 Iona
@@ -15190,11 +15434,11 @@ W
 Fresno State
 W
 UNLV
-L
+W
 Oral Roberts
 L
 San Diego State
-W
+L
 San José State
 W
 Boise State
@@ -15202,11 +15446,11 @@ W
 Nevada
 W
 Air Force
-L
-Utah State
 W
-Nevada
+Utah State
 L
+Nevada
+W
 Air Force
 L
 Wyoming
@@ -15214,30 +15458,18 @@ L
 San José State
 L
 Boise State
-W
-San Diego State
 L
+San Diego State
+W
 Fresno State
 L
 Colorado State
-W
+L
 Wyoming
-L
+W
 Utah State
-W
-Team: San Diego State Aztecs
-Charleston
-W
-Furman
-W
-Alabama
-W
-Creighton
-W
-Florida Atlantic
-W
-UConn
 L
+Team: San Diego State Aztecs
 Cal State Fullerton
 W
 BYU
@@ -15252,12 +15484,14 @@ Arkansas
 L
 UC Irvine
 W
+Occidental
+W
 Troy
 W
 Saint Mary's
-W
-Kennesaw State
 L
+Kennesaw State
+W
 UC San Diego
 W
 Air Force
@@ -15269,9 +15503,9 @@ W
 Nevada
 W
 New Mexico
-W
-Colorado State
 L
+Colorado State
+W
 Air Force
 W
 Utah State
@@ -15279,9 +15513,9 @@ W
 San José State
 W
 Nevada
-W
-Boise State
 L
+Boise State
+W
 Utah State
 W
 UNLV
@@ -15293,9 +15527,9 @@ W
 New Mexico
 W
 Boise State
-W
-Wyoming
 L
+Wyoming
+W
 Colorado State
 W
 San José State
@@ -15303,66 +15537,64 @@ W
 Utah State
 W
 Team: San José State Spartans
-Southern Indiana
-W
-Radford
-L
 Georgia Southern
+W
+Bethesda University
 W
 Alabama State
 W
 Hofstra
-W
+L
 Northern Colorado
-L
-North Texas
 W
-Oakland
+North Texas
 L
+Oakland
+W
 Ball State
 W
 Arkansas
-W
-Cal State Bakersfield
 L
+Cal State Bakersfield
+W
 Santa Clara
 W
 Pacific
-W
+L
 Cal Poly
-L
+W
 UNLV
 W
 Colorado State
 W
 Boise State
-W
+L
 Nevada
 L
 Fresno State
-L
-New Mexico
 W
+New Mexico
+L
 Utah State
 L
 Air Force
-L
-San Diego State
 W
+San Diego State
+L
 Wyoming
-L
-Fresno State
 W
-Utah State
+Fresno State
 L
+Utah State
+W
 UNLV
 W
 New Mexico
-W
+L
 Nevada
 L
 Boise State
-L
+W
 Colorado State
 W
 Air Force
@@ -15370,7 +15602,7 @@ W
 Nevada
 W
 San Diego State
-W
+L
 Team: UNLV Rebels
 Southern
 W
@@ -15384,6 +15616,8 @@ Southern Illinois
 W
 Minnesota
 W
+Life Pacific
+W
 San Diego
 W
 Hawai'i
@@ -15391,17 +15625,17 @@ W
 Washington State
 W
 San Francisco
-W
-Southern Miss
 L
-San José State
+Southern Miss
 W
+San José State
+L
 San Diego State
 L
 New Mexico
-L
-Boise State
 W
+Boise State
+L
 Colorado State
 L
 Utah State
@@ -15409,34 +15643,32 @@ L
 Fresno State
 L
 Wyoming
-L
+W
 Nevada
 W
 Colorado State
 W
 Fresno State
-W
-Wyoming
 L
-San Diego State
+Wyoming
 W
+San Diego State
+L
 San José State
 L
 Boise State
 L
 Air Force
-L
-Utah State
 W
-Nevada
+Utah State
 L
+Nevada
+W
 Air Force
 W
 Boise State
-W
-Team: Utah State Aggies
-Missouri
 L
+Team: Utah State Aggies
 Utah Valley
 W
 Bradley
@@ -15453,42 +15685,44 @@ San Francisco
 W
 Loyola Marymount
 W
+Westminster (UT)
+W
 Weber State
-W
+L
 Seattle U
-L
-SMU
 W
-Washington State
+SMU
 L
+Washington State
+W
 Fresno State
 W
 Air Force
 W
 Boise State
-W
+L
 Wyoming
-L
-Nevada
 W
-UNLV
+Nevada
 L
+UNLV
+W
 San José State
 W
 San Diego State
-W
-Fresno State
 L
+Fresno State
+W
 New Mexico
 W
 Colorado State
 W
 San Diego State
-W
+L
 San José State
 L
 Air Force
-L
+W
 Nevada
 W
 Wyoming
@@ -15502,16 +15736,18 @@ W
 Boise State
 W
 San Diego State
-W
+L
 Team: Wyoming Cowboys
+Colorado Christian
+W
 Nicholls
 W
 SE Louisiana
-W
-Howard
 L
-Drake
+Howard
 W
+Drake
+L
 Boston College
 L
 Santa Clara
@@ -15519,11 +15755,11 @@ L
 Grand Canyon
 L
 East Texas A&M
-L
+W
 Louisiana Tech
 W
 Dayton
-W
+L
 Saint Mary's
 L
 Fresno State
@@ -15539,36 +15775,36 @@ L
 Air Force
 L
 Colorado State
-L
+W
 UNLV
-W
-Fresno State
 L
-San José State
+Fresno State
 W
+San José State
+L
 UNLV
 L
 Boise State
 L
 New Mexico
-L
-Air Force
 W
+Air Force
+L
 Utah State
 L
 Colorado State
 L
 Nevada
-L
-San Diego State
 W
+San Diego State
+L
 New Mexico
 L
 Team: Central Connecticut Blue Devils
 Massachusetts
 L
 Quinnipiac
-L
+P
 St. John's
 L
 Lafayette
@@ -15584,36 +15820,38 @@ L
 Holy Cross
 L
 Dartmouth
-W
+L
 Fordham
-L
-Manhattan
 W
-Army
+Manhattan
 L
+Army
+W
 Saint Joseph's
 L
 Saint Francis
 L
 St. Francis Brooklyn
-W
+L
 Long Island University
 W
 Stonehill
-L
+W
 Fairleigh Dickinson
 L
 Wagner
 L
 Long Island University
-W
+L
 Merrimack
-L
-Saint Francis
 W
-St. Francis Brooklyn
+Saint Francis
 L
+St. Francis Brooklyn
+W
 Sacred Heart
+L
+Hartford
 L
 Fairleigh Dickinson
 W
@@ -15662,57 +15900,69 @@ Ball State
 L
 Ohio
 L
-Tarleton State
+East-West University
 W
+Tarleton State
+L
 UT Rio Grande Valley
 L
 Coastal Carolina
-L
+W
 Stanford
+L
+Aurora
 W
 The Citadel
-L
+W
+Hartford
+W
 Delaware State
+L
+St. Xavier (IL)
+W
+Calumet College
+W
+Hartford
 W
 Gonzaga
-W
-Fresno State
-W
-Team: Fairleigh Dickinson Knights
-Texas Southern
-W
-Purdue
-W
-Florida Atlantic
 L
+Fresno State
+L
+Team: Fairleigh Dickinson Knights
 Loyola Chicago
 L
+Mercy
+W
 Manhattan
 W
 SIU Edwardsville
-W
+L
 Longwood
 L
 VMI
-L
-Pittsburgh
 W
+Pittsburgh
+L
 Saint Peter's
 L
+Hartford
+L
 Saint Joseph's
-L
+W
 Columbia
-L
+W
 NJIT
 W
 Richmond
-W
+L
 Queens University
-W
+L
 Merrimack
-L
+W
+Centenary (NJ)
+W
 St. Francis Brooklyn
-L
+W
 Long Island University
 W
 Central Connecticut
@@ -15720,19 +15970,19 @@ W
 Stonehill
 W
 Sacred Heart
-W
+L
 Stonehill
-W
+L
 Saint Francis
 W
 Merrimack
-L
+W
 Wagner
 L
 Long Island University
 W
 Central Connecticut
-W
+L
 Sacred Heart
 L
 Wagner
@@ -15740,19 +15990,21 @@ W
 Saint Francis
 L
 St. Francis Brooklyn
-L
+W
 St. Francis Brooklyn
 W
 Saint Francis
-L
-Merrimack
 W
+Merrimack
+L
 Team: Le Moyne Dolphins
 Team: Long Island University Sharks
 Utah
 L
-Marquette
+Mount Saint Vincent
 W
+Marquette
+L
 South Dakota
 L
 Northern Illinois
@@ -15769,10 +16021,12 @@ UAlbany
 L
 James Madison
 L
+Purchase
+W
 Wagner
 L
 Sacred Heart
-W
+L
 Central Connecticut
 L
 Fairleigh Dickinson
@@ -15786,11 +16040,11 @@ L
 Central Connecticut
 L
 Sacred Heart
-L
+W
 St. Francis Brooklyn
 L
 Merrimack
-W
+L
 Fairleigh Dickinson
 L
 Wagner
@@ -15808,60 +16062,66 @@ Team: New Haven Chargers
 Team: Saint Francis Red Flash
 St. Bonaventure
 L
-Cornell
+Hartford
 W
+Cornell
+L
 Butler
 L
 Lehigh
 L
+Franciscan University
+W
 American University
 L
 Bucknell
-W
+L
 Ohio State
 L
+Saint Vincent
+W
 Hawai'i
 L
 Miami
 L
 Robert Morris
+L
+Central Connecticut
 W
+Stonehill
+W
+Wagner
+W
+Long Island University
+W
+Sacred Heart
+L
+St. Francis Brooklyn
+W
+Fairleigh Dickinson
+L
 Central Connecticut
 L
 Stonehill
 L
-Wagner
-L
-Long Island University
-W
-Sacred Heart
-W
-St. Francis Brooklyn
-W
-Fairleigh Dickinson
-W
-Central Connecticut
-L
-Stonehill
-W
 Merrimack
 L
 Sacred Heart
-L
+W
 Merrimack
 L
 St. Francis Brooklyn
-L
+W
 Long Island University
 W
 Fairleigh Dickinson
-L
-Wagner
 W
+Wagner
+L
 Central Connecticut
 W
 Fairleigh Dickinson
-W
+L
 Team: Stonehill Skyhawks
 UConn
 L
@@ -15879,10 +16139,12 @@ Fordham
 L
 UMass Lowell
 L
+Eastern Nazarene
+W
 Binghamton
 W
 Rider
-W
+L
 Boston College
 L
 Bradley
@@ -15890,90 +16152,96 @@ L
 Valparaiso
 L
 Sacred Heart
-L
-Saint Francis
 W
-Wagner
+Saint Francis
 L
+Wagner
+W
 Central Connecticut
 W
 Merrimack
-W
+L
 Fairleigh Dickinson
 L
 Long Island University
-L
+W
 Fairleigh Dickinson
 W
+Hartford
+L
 Sacred Heart
 W
 Saint Francis
-L
+W
 St. Francis Brooklyn
 W
 Merrimack
-W
+L
 St. Francis Brooklyn
 W
 Long Island University
-L
+W
 Central Connecticut
-W
+L
 Wagner
-W
+L
 Team: Wagner Seahawks
 Temple
 W
 La Salle
 L
+Neumann
+W
 Fairfield
 W
 Seton Hall
-W
-NJIT
 L
-Army
+NJIT
 W
+Army
+L
 Fordham
 L
 Stony Brook
-L
+W
 Delaware State
 W
+Gwynedd-Mercy
+W
 Long Island University
 W
 Merrimack
-W
-Stonehill
-W
-Saint Francis
 L
-Merrimack
-L
-Central Connecticut
-L
-Sacred Heart
-W
-St. Francis Brooklyn
-W
-Sacred Heart
-W
-Fairleigh Dickinson
-L
-St. Francis Brooklyn
-L
-Long Island University
-W
-Central Connecticut
-L
-Fairleigh Dickinson
-W
 Stonehill
 L
 Saint Francis
 L
+Merrimack
+W
+Central Connecticut
+W
 Sacred Heart
 W
+St. Francis Brooklyn
+L
+Sacred Heart
+L
+Fairleigh Dickinson
+W
+St. Francis Brooklyn
+L
+Long Island University
+W
+Central Connecticut
+L
+Fairleigh Dickinson
+L
+Stonehill
+W
+Saint Francis
+W
+Sacred Heart
+L
 Team: Eastern Illinois Panthers
 Illinois
 L
@@ -15983,36 +16251,40 @@ Central Michigan
 L
 Ohio State
 L
-Ohio
+Saint Mary of the Woods College
 W
+Ohio
+L
 Alabama State
 L
 Northern Illinois
 L
+Blackburn
+W
 Ball State
 L
 Western Illinois
-W
+L
 IU Indianapolis
-L
+W
 Iowa
-L
+W
 Lindenwood
 W
 Southern Indiana
 W
 Tennessee Tech
-W
+L
 Morehead State
-W
+L
 SIU Edwardsville
 L
 Little Rock
-L
+W
 Tennessee State
 L
 UT Martin
-W
+L
 Southern Indiana
 L
 Southeast Missouri State
@@ -16022,13 +16294,13 @@ L
 Tennessee State
 L
 UT Martin
-L
+W
 SIU Edwardsville
-L
+W
 Southeast Missouri State
-W
+L
 Little Rock
-W
+L
 Morehead State
 L
 Tennessee Tech
@@ -16036,36 +16308,42 @@ L
 Team: Lindenwood Lions
 Dayton
 L
-Missouri
+Hannibal-LaGrange
 W
+Missouri
+L
 Lamar
 L
 McNeese
-L
-Western Carolina
 W
-Idaho State
+Western Carolina
 L
+Idaho State
+W
 Illinois
+L
+East-West University
 W
 Kansas City
 L
-BYU
+Knox
 W
+BYU
+L
 Utah Tech
 L
 Eastern Illinois
-W
+L
 Tennessee Tech
-L
+W
 Little Rock
-L
+W
 Tennessee State
 L
 Southeast Missouri State
-W
+L
 SIU Edwardsville
-W
+L
 Southern Indiana
 L
 Morehead State
@@ -16075,40 +16353,44 @@ L
 Tennessee State
 L
 Eastern Illinois
-L
+W
 UT Martin
-L
+W
 SIU Edwardsville
 L
 Southern Indiana
-W
+L
 Tennessee Tech
-W
+L
 Morehead State
 L
 Southeast Missouri State
-L
+W
 Little Rock
-L
+W
 Southeast Missouri State
 L
 Team: Little Rock Trojans
 Southern Illinois
 L
-Central Arkansas
+Arkansas Baptist
 W
+Central Arkansas
+L
 East Tennessee State
 L
 Jackson State
-L
-Indiana
 W
+Indiana
+L
 Miami (OH)
 L
 San Francisco
 L
 Memphis
 L
+Philander Smith
+W
 Jacksonville State
 L
 Central Arkansas
@@ -16120,7 +16402,7 @@ W
 Tennessee State
 L
 Lindenwood
-W
+L
 Southeast Missouri State
 L
 Southern Indiana
@@ -16130,7 +16412,7 @@ L
 Tennessee Tech
 L
 Tennessee State
-L
+W
 Morehead State
 L
 Tennessee Tech
@@ -16138,52 +16420,56 @@ W
 Southeast Missouri State
 L
 SIU Edwardsville
-W
-Morehead State
 L
+Morehead State
+W
 UT Martin
 L
 Southern Indiana
-W
+L
 Eastern Illinois
-L
+W
 SIU Edwardsville
-L
+W
 Lindenwood
-W
-Team: Morehead State Eagles
-Clemson
-W
-UAB
 L
+Team: Morehead State Eagles
 Indiana
 L
+Campbellsville-Harrodsburg
+W
 Bellarmine
 W
 West Virginia
-W
+L
 Vanderbilt
 L
+Kentucky State
+W
 Marshall
 L
-North Alabama
+Kentucky Christian
 W
-East Tennessee State
+North Alabama
 L
+East Tennessee State
+W
 Georgia Southern
 W
 Mercer
 L
+Alice Lloyd College
+W
 Tennessee State
 W
 UT Martin
-W
-Southern Indiana
 L
+Southern Indiana
+W
 Eastern Illinois
 W
 Tennessee Tech
-W
+L
 Southeast Missouri State
 L
 SIU Edwardsville
@@ -16191,15 +16477,15 @@ W
 Lindenwood
 W
 Little Rock
-L
+W
 SIU Edwardsville
-L
+W
 Tennessee Tech
 W
 Southern Indiana
 W
 Little Rock
-W
+L
 Southeast Missouri State
 W
 Tennessee State
@@ -16207,87 +16493,95 @@ W
 Lindenwood
 W
 Eastern Illinois
-L
+W
 UT Martin
 W
 Southeast Missouri State
-W
+L
 Team: SIU Edwardsville Cougars
-Purdue Fort Wayne
+Harris-Stowe State
 W
+Purdue Fort Wayne
+L
 Missouri
 L
 Fairleigh Dickinson
-L
+W
 VMI
 W
 Longwood
 W
 Kansas City
 W
+St. Ambrose
+W
 Troy
 W
 Bradley
-W
+L
 Illinois State
+L
+Illinois Tech
 W
 Saint Louis
-L
-Tennessee Tech
-L
-Southeast Missouri State
 W
+Tennessee Tech
+W
+Southeast Missouri State
+L
 Tennessee State
 W
 Southern Indiana
 W
 Eastern Illinois
-L
+W
 Lindenwood
 W
 Morehead State
-W
+L
 Southern Indiana
-W
+L
 Tennessee Tech
-W
+L
 Morehead State
 L
 UT Martin
-L
+W
 Little Rock
-L
+W
 Lindenwood
-L
+W
 Eastern Illinois
-W
+L
 UT Martin
-W
+L
 Tennessee State
-W
+L
 Little Rock
 L
 Southeast Missouri State
-L
+W
 Southern Indiana
-L
+W
 UT Martin
 L
 Team: Southeast Missouri State Redhawks
-Texas A&M-Corpus Christi
-L
 South Florida
+W
+Lyon
 W
 Evansville
 W
 Bradley
+L
+William Woods
 W
 Boston University
-L
+W
 UC Davis
-W
+L
 Milwaukee
-W
+L
 Missouri
 L
 Purdue Fort Wayne
@@ -16301,178 +16595,194 @@ L
 Southern Indiana
 L
 SIU Edwardsville
-L
+W
 UT Martin
 L
 Little Rock
 W
 Lindenwood
-L
+W
 Morehead State
 W
 UT Martin
-W
+L
 Tennessee Tech
 W
 Tennessee State
-L
+W
 Eastern Illinois
 W
 Little Rock
 W
 Tennessee Tech
-W
+L
 Tennessee State
-W
+L
 Morehead State
 L
 Eastern Illinois
-L
+W
 Southern Indiana
-L
-Lindenwood
 W
+Lindenwood
+L
 SIU Edwardsville
-W
+L
 Lindenwood
-L
+W
 Tennessee State
-L
+W
 Morehead State
 W
 Tennessee Tech
 W
 Team: Southern Indiana Screaming Eagles
-San José State
-L
 Missouri
 L
 Southern Illinois
 W
 Notre Dame
 L
+Loras
+W
 St. Bonaventure
-W
-Bowling Green
 L
-Western Illinois
+Bowling Green
 W
+Western Illinois
+L
 Chicago State
 L
+Anderson (IN)
+W
 Indiana State
-L
+W
+Saint Mary of the Woods College
+W
 IU Indianapolis
 W
 Purdue Fort Wayne
-W
+L
 Southeast Missouri State
 W
 Eastern Illinois
-W
+L
 Morehead State
 L
 SIU Edwardsville
-W
+L
 Little Rock
-L
+W
 UT Martin
-L
+W
 Lindenwood
-L
+W
 SIU Edwardsville
 W
 Eastern Illinois
 W
 UT Martin
-W
+L
 Tennessee State
-W
+L
 Morehead State
-W
+L
 Tennessee Tech
 L
 Lindenwood
-L
+W
 Little Rock
-L
+W
 Southeast Missouri State
 L
 Tennessee Tech
-W
+L
 Tennessee State
 W
 SIU Edwardsville
 L
 Team: Tennessee State Tigers
+Fisk
+W
 South Carolina State
 W
 Alabama A&M
 W
 Southern Illinois
-W
-Cal State Northridge
 L
-High Point
+Cal State Northridge
 W
+High Point
+L
 Saint Louis
 L
 Austin Peay
 L
+Boyce
+W
 Lipscomb
-L
+W
 Charleston Southern
+L
+Bryan (TN)
+W
+Brescia
 W
 Morehead State
-W
-Little Rock
 L
-SIU Edwardsville
+Little Rock
 W
+SIU Edwardsville
+L
 Lindenwood
 W
 UT Martin
 L
 Tennessee Tech
-W
-Eastern Illinois
 L
-Little Rock
+Eastern Illinois
 W
+Little Rock
+L
 Southeast Missouri State
 L
 Lindenwood
-L
+W
 Southern Indiana
 W
 Eastern Illinois
-L
+W
 Southeast Missouri State
-L
+W
 Tennessee Tech
 W
 Morehead State
-W
+L
 SIU Edwardsville
 W
 UT Martin
 W
 Southern Indiana
-W
+L
 Southeast Missouri State
 L
 Team: Tennessee Tech Golden Eagles
 Tennessee
 L
-Marshall
+Tennessee Wesleyan
 W
+Marshall
+L
 Coppin State
 L
 East Tennessee State
-L
+W
+Truett-McConnell
+W
 Northern Kentucky
-W
+L
 Chattanooga
-W
+L
 Butler
 L
 Troy
@@ -16481,6 +16791,8 @@ Lipscomb
 L
 Western Carolina
 L
+Kentucky Christian
+W
 SIU Edwardsville
 L
 Lindenwood
@@ -16488,46 +16800,50 @@ L
 Eastern Illinois
 W
 UT Martin
-L
+W
 Morehead State
-L
+W
 Tennessee State
 W
 Little Rock
 W
 Southeast Missouri State
-W
+L
 SIU Edwardsville
 W
 Little Rock
-W
+L
 Morehead State
 L
 Southeast Missouri State
 W
 Southern Indiana
-L
+W
 Tennessee State
 L
 Lindenwood
 W
 UT Martin
-W
-Southern Indiana
 L
+Southern Indiana
+W
 Eastern Illinois
 W
 UT Martin
-L
-Southeast Missouri State
 W
+Southeast Missouri State
+L
 Team: UT Martin Skyhawks
 Pittsburgh
 L
 Youngstown State
 L
-Ole Miss
+Champion Christian
 W
+Harris-Stowe State
+W
+Ole Miss
+L
 Prairie View A&M
 W
 Arkansas State
@@ -16538,53 +16854,59 @@ UNC Asheville
 L
 Chicago State
 W
+Bethel (TN)
+W
 Bowling Green
-L
-Little Rock
 W
+Crowley's Ridge
+W
+Little Rock
+L
 Morehead State
 W
 Southeast Missouri State
 W
 Tennessee Tech
-W
-Tennessee State
 L
-Southern Indiana
+Tennessee State
 W
+Southern Indiana
+L
 Southeast Missouri State
 W
 Eastern Illinois
-L
+W
 Lindenwood
 W
 Southern Indiana
-L
+W
 SIU Edwardsville
-W
+L
 Lindenwood
-W
+L
 Eastern Illinois
-W
+L
 Little Rock
 W
 SIU Edwardsville
-L
+W
 Tennessee Tech
-L
+W
 Tennessee State
 L
 Morehead State
-W
+L
 SIU Edwardsville
 W
 Tennessee Tech
-W
+L
 Team: Western Illinois Leathernecks
 Illinois State
 W
-DePaul
+Rockford
 W
+DePaul
+L
 UCF
 L
 UT Rio Grande Valley
@@ -16592,29 +16914,33 @@ L
 Youngstown State
 L
 Southern Indiana
-L
+W
 UT Rio Grande Valley
+W
+Iowa Wesleyan
 W
 Eastern Illinois
 W
+Eureka
+W
 North Dakota State
 W
-North Dakota
-W
 South Dakota State
-W
+P
 South Dakota
-W
+L
+Omaha
+L
 Denver
 L
 Oral Roberts
-L
+W
 Kansas City
 L
 St. Thomas-Minnesota
 W
 North Dakota
-L
+W
 South Dakota
 W
 South Dakota State
@@ -16622,17 +16948,17 @@ W
 Denver
 W
 Omaha
-W
+L
 Kansas City
 W
 Oral Roberts
 L
 St. Thomas-Minnesota
-W
+L
 North Dakota
 L
 North Dakota State
-L
+W
 St. Thomas-Minnesota
 L
 Team: American University Eagles
@@ -16701,152 +17027,162 @@ W
 Lafayette
 L
 Team: Army Black Knights
+Keystone
+W
 Stonehill
-W
-Siena
 L
-William & Mary
+Siena
 W
+William & Mary
+L
 Radford
 L
 Princeton
 L
 Manhattan
 L
+Merchant Marine Academy
+W
 Wagner
-L
+W
 NJIT
 W
 Rhode Island
-W
+L
 Stony Brook
-W
+L
 Central Connecticut
-L
+W
 Lehigh
-L
+W
 Lafayette
 W
 Loyola Maryland
 W
 Colgate
-W
+L
 American University
 W
 Boston University
-L
+W
 Bucknell
-W
+L
 Navy
-W
+L
 American University
 L
 Holy Cross
-L
-Lehigh
-L
-Bucknell
 W
+Lehigh
+W
+Bucknell
+L
 Loyola Maryland
 W
 Navy
 L
 Colgate
-W
-Lafayette
 L
+Lafayette
+W
 Boston University
 L
 Holy Cross
 W
 Boston University
-L
-Colgate
 W
+Colgate
+L
 Team: Boston University Terriers
 Northeastern
 W
 UConn
 L
+Johnson & Wales (RI)
+W
+Hartford
+W
 New Hampshire
 W
 Southeast Missouri State
-W
+L
 Milwaukee
-W
+L
 UC Davis
 L
 Merrimack
-L
+W
 Notre Dame
 L
 Marist
 W
 Dartmouth
-L
+W
 UMass Lowell
-W
+L
 Navy
-W
+L
 Bucknell
-L
+W
 Lafayette
-L
+W
 American University
-W
+L
 Colgate
-W
+L
 Army
 L
 Navy
 L
 Loyola Maryland
-L
+W
 Colgate
 L
 Lehigh
-W
+L
 Holy Cross
 L
 Loyola Maryland
-L
+W
 American University
-L
+W
 Lafayette
-W
+L
 Holy Cross
-W
+L
 Bucknell
-L
+W
 Army
-L
+W
 Lehigh
 W
 Army
-W
+L
 Team: Bucknell Bison
+Lebanon Valley
+W
 Niagara
 W
 Saint Peter's
-W
+L
 Georgia
 L
 Presbyterian
-L
+W
 Austin Peay
 W
 Marist
-W
-Saint Francis
 L
+Saint Francis
+W
 NJIT
 W
 La Salle
-W
-Merrimack
 L
-Richmond
+Merrimack
 W
+Richmond
+L
 Rutgers
 L
 Holy Cross
@@ -16862,48 +17198,50 @@ L
 Colgate
 L
 Army
-L
-Holy Cross
 W
+Holy Cross
+L
 Navy
 L
 Loyola Maryland
 L
 American University
-L
+W
 Army
 W
 Navy
-W
+L
 Colgate
 L
 American University
-L
-Boston University
 W
+Boston University
+L
 Lehigh
 L
 Lafayette
-L
-American University
 W
-Team: Colgate Raiders
-Texas
+American University
 L
+Team: Colgate Raiders
 Buffalo
 L
 Brown
 W
+Wells College
+W
 Syracuse
 W
 Duquesne
-W
-Monmouth
 L
-Delaware
+Monmouth
 W
+Delaware
+L
 Pennsylvania
 L
+Hartford
+W
 Auburn
 L
 Binghamton
@@ -16911,11 +17249,11 @@ W
 Vermont
 L
 Cornell
-W
+L
 Loyola Maryland
-L
+W
 Lehigh
-L
+W
 Navy
 W
 Army
@@ -16935,11 +17273,11 @@ W
 Loyola Maryland
 W
 American University
-W
+L
 Lehigh
 W
 Bucknell
-L
+W
 Army
 W
 Holy Cross
@@ -16957,14 +17295,18 @@ W
 Team: Holy Cross Crusaders
 Siena
 L
-Creighton
+Dean College
 W
+Creighton
+L
 Stonehill
 L
 Fordham
 L
 UIC
 L
+Colby-Sawyer
+W
 Harvard
 L
 Central Connecticut
@@ -16972,45 +17314,45 @@ W
 Quinnipiac
 L
 Northeastern
-W
+L
 New Hampshire
 L
 Sacred Heart
 L
 Bucknell
-L
-Navy
-L
-American University
 W
+Navy
+W
+American University
+L
 Loyola Maryland
 W
 Lehigh
 L
 Lafayette
-W
+L
 Colgate
 L
 Bucknell
-L
+W
 Lehigh
 L
 Army
-W
-Boston University
 L
+Boston University
+W
 Navy
 L
 Lafayette
-W
+L
 American University
-L
+W
 Boston University
-L
+W
 Colgate
-W
+L
 Loyola Maryland
-W
+L
 Army
 L
 Loyola Maryland
@@ -17089,6 +17431,8 @@ Syracuse
 L
 Virginia Tech
 L
+Misericordia
+W
 Marist
 W
 Saint Francis
@@ -17096,21 +17440,23 @@ W
 Monmouth
 W
 Maryland Eastern Shore
-W
+L
 UMBC
 L
 Wisconsin
 L
+Saint Elizabeth
+W
 Cornell
 L
 Army
-W
+L
 Colgate
 L
 Bucknell
-L
+W
 Navy
-L
+W
 Holy Cross
 W
 American University
@@ -17124,23 +17470,23 @@ W
 Boston University
 W
 Army
-W
+L
 Lafayette
 W
 Colgate
 L
 Loyola Maryland
-W
+L
 Navy
 L
 American University
-L
+W
 Bucknell
-L
+W
 Boston University
-W
+L
 Lafayette
-W
+L
 Team: Loyola Maryland Greyhounds
 DePaul
 L
@@ -17148,62 +17494,66 @@ Penn State
 L
 Brown
 W
-Clemson
+Washington College (MD)
 W
+Clemson
+L
 Southern
 L
 UL Monroe
-L
+W
 Binghamton
 W
 Coppin State
-W
+L
 Hampton
 L
 Mount St. Mary's
 L
 UMBC
 L
+Goucher
+W
 Colgate
 L
 American University
-W
+L
 Army
 L
 Holy Cross
 L
 Bucknell
-L
+W
 Navy
-L
+W
 Lehigh
-W
+L
 Boston University
-W
+L
 Lafayette
 L
 Bucknell
-L
+W
 Colgate
 L
 Boston University
-W
+L
 Army
 L
 Lehigh
-L
-Lafayette
-L
-Navy
 W
+Lafayette
+W
+Navy
+L
 Holy Cross
 W
 American University
-L
+W
 Holy Cross
 W
 Colgate
-W
+L
 Team: Navy Midshipmen
 William & Mary
 W
@@ -17225,12 +17575,14 @@ West Virginia
 L
 Towson
 W
+Washington College (MD)
+W
 VCU
-W
-Boston University
 L
-Holy Cross
+Boston University
 W
+Holy Cross
+L
 Colgate
 L
 Lehigh
@@ -17240,15 +17592,15 @@ L
 Loyola Maryland
 L
 Boston University
-L
+W
 Army
 W
 Bucknell
 W
 American University
-W
-Lafayette
 L
+Lafayette
+W
 Holy Cross
 W
 Bucknell
@@ -17262,16 +17614,10 @@ W
 American University
 W
 Colgate
-W
+L
 American University
 L
 Team: Alabama Crimson Tide
-Texas A&M-Corpus Christi
-W
-Maryland
-W
-San Diego State
-L
 Longwood
 W
 Liberty
@@ -17341,12 +17687,6 @@ W
 Texas A&M
 W
 Team: Arkansas Razorbacks
-Illinois
-W
-Kansas
-W
-UConn
-L
 North Dakota State
 W
 Fordham
@@ -17414,10 +17754,6 @@ W
 Texas A&M
 L
 Team: Auburn Tigers
-Iowa
-W
-Houston
-L
 George Mason
 W
 South Florida
@@ -17483,8 +17819,6 @@ W
 Arkansas
 L
 Team: Florida Gators
-UCF
-L
 Stony Brook
 W
 Kennesaw State
@@ -17615,10 +17949,6 @@ L
 LSU
 L
 Team: Kentucky Wildcats
-Providence
-W
-Kansas State
-L
 Howard
 W
 Duquesne
@@ -17751,8 +18081,6 @@ W
 Vanderbilt
 L
 Team: Mississippi State Bulldogs
-Pittsburgh
-L
 Texas A&M-Corpus Christi
 W
 Akron
@@ -17820,10 +18148,6 @@ W
 Alabama
 L
 Team: Missouri Tigers
-Utah State
-W
-Princeton
-L
 Southern Indiana
 W
 Pennsylvania
@@ -18088,12 +18412,6 @@ W
 Ole Miss
 L
 Team: Tennessee Volunteers
-Louisiana
-W
-Duke
-W
-Florida Atlantic
-L
 Tennessee Tech
 W
 Colorado
@@ -18161,8 +18479,6 @@ W
 Missouri
 L
 Team: Texas A&M Aggies
-Penn State
-L
 UL Monroe
 W
 Abilene Christian
@@ -18232,14 +18548,6 @@ W
 Alabama
 L
 Team: Texas Longhorns
-Colgate
-W
-Penn State
-W
-Xavier
-W
-Miami
-L
 UTEP
 W
 Houston Christian
@@ -18309,12 +18617,6 @@ W
 Kansas
 W
 Team: Vanderbilt Commodores
-Yale
-W
-Michigan
-W
-UAB
-L
 Memphis
 L
 Southern Miss
@@ -18394,52 +18696,58 @@ Norfolk State
 L
 Louisiana Tech
 L
+Tennessee Southern
+W
+Fisk
+W
 Lipscomb
 W
 South Alabama
+L
+Rust
 W
 Illinois
-W
+L
 Vanderbilt
 L
 Ohio State
-W
+L
 Arkansas-Pine Bluff
-L
+W
 Mississippi Valley State
-L
+W
 Alcorn State
 L
 Jackson State
-W
+L
 Alabama State
-W
+L
 Texas Southern
 L
 Prairie View A&M
-L
+W
 Florida A&M
-L
+W
 Bethune-Cookman
 L
 Southern
 W
 Grambling
-W
-Mississippi Valley State
 L
+Mississippi Valley State
+W
 Arkansas-Pine Bluff
 W
 Bethune-Cookman
-L
-Florida A&M
 W
+Florida A&M
+L
 Alabama State
 W
 Grambling
-W
-Southern
 L
+Southern
+W
 Southern
 W
 Texas Southern
@@ -18453,6 +18761,8 @@ Pepperdine
 L
 San José State
 L
+Pittsburgh
+C
 Duquesne
 L
 Eastern Illinois
@@ -18467,22 +18777,24 @@ Arkansas State
 L
 Memphis
 L
-Mississippi Valley State
+Lane College
 L
+Mississippi Valley State
+W
 Arkansas-Pine Bluff
 W
 Jackson State
 W
 Alcorn State
-W
+L
 Alabama A&M
 L
 Prairie View A&M
-L
+W
 Texas Southern
 W
 Bethune-Cookman
-W
+L
 Florida A&M
 L
 Grambling
@@ -18490,11 +18802,11 @@ L
 Southern
 L
 Arkansas-Pine Bluff
-L
+W
 Mississippi Valley State
 W
 Florida A&M
-W
+L
 Bethune-Cookman
 L
 Alabama A&M
@@ -18504,8 +18816,6 @@ L
 Grambling
 L
 Team: Alcorn State Braves
-North Texas
-L
 Ole Miss
 L
 Wichita State
@@ -18531,9 +18841,9 @@ L
 Dayton
 L
 Jackson State
-L
+C
 Alabama A&M
-W
+L
 Alabama State
 W
 Texas Southern
@@ -18545,9 +18855,9 @@ W
 Bethune-Cookman
 W
 Southern
-L
-Grambling
 W
+Grambling
+L
 Arkansas-Pine Bluff
 W
 Mississippi Valley State
@@ -18559,20 +18869,22 @@ W
 Jackson State
 W
 Prairie View A&M
-L
-Texas Southern
 W
+Texas Southern
+L
 Mississippi Valley State
 W
 Arkansas-Pine Bluff
 W
 Texas Southern
-L
+W
 Team: Arkansas-Pine Bluff Golden Lions
 TCU
 L
-Oklahoma
+Champion Christian
 W
+Oklahoma
+L
 Mississippi State
 L
 Kent State
@@ -18581,38 +18893,44 @@ Cleveland State
 L
 Nebraska
 L
+Crowley's Ridge
+W
 Air Force
 L
-Texas
+Arkansas Baptist
 W
+Texas
+L
 Minnesota
 L
-Alabama A&M
+Ecclesia
 W
+Alabama A&M
+L
 Alabama State
 L
 Texas Southern
-L
+W
 Prairie View A&M
 W
 Florida A&M
-L
+W
 Bethune-Cookman
-L
+W
 Southern
 W
 Grambling
-W
+L
 Mississippi Valley State
 W
 Alcorn State
-W
+L
 Jackson State
-W
+L
 Alabama State
 L
 Alabama A&M
-W
+L
 Prairie View A&M
 L
 Texas Southern
@@ -18628,8 +18946,12 @@ Iowa
 L
 Indiana
 L
-Charleston Southern
+Florida National
 W
+Trinity Baptist
+W
+Charleston Southern
+L
 Idaho State
 W
 Northwestern State
@@ -18639,7 +18961,7 @@ W
 North Florida
 L
 Incarnate Word
-W
+L
 UTSA
 L
 North Florida
@@ -18647,39 +18969,39 @@ L
 Illinois
 L
 Florida A&M
-L
+W
 Grambling
 L
 Southern
-W
-Mississippi Valley State
 L
+Mississippi Valley State
+W
 Arkansas-Pine Bluff
 L
 Jackson State
-W
+L
 Alcorn State
 L
 Alabama State
-L
+W
 Alabama A&M
-L
+W
 Prairie View A&M
 W
 Texas Southern
-W
+L
 Alcorn State
-W
+L
 Jackson State
 L
 Alabama A&M
 L
 Alabama State
-L
-Southern
-L
-Grambling
 W
+Southern
+W
+Grambling
+L
 Florida A&M
 W
 Grambling
@@ -18693,14 +19015,18 @@ Oregon State
 L
 Miami
 L
-Florida
+Albany St (GA)
 W
+Florida
+L
 Georgia
 L
+Edward Waters
+W
 Louisville
 L
 Kentucky
-W
+L
 Purdue
 L
 Bethune-Cookman
@@ -18712,76 +19038,80 @@ L
 Arkansas-Pine Bluff
 L
 Mississippi Valley State
-L
+W
 Alcorn State
 L
 Jackson State
-W
+L
 Alabama A&M
 L
 Alabama State
-L
+W
 Texas Southern
-L
+W
 Prairie View A&M
-W
+L
 Jackson State
-W
+L
 Alcorn State
 L
 Alabama State
-L
+W
 Alabama A&M
-L
+W
 Grambling
-W
+L
 Southern
-W
+L
 Bethune-Cookman
 L
 Team: Grambling Tigers
+UNT Dallas
+W
 Colorado
 W
 Grand Canyon
-W
+L
 Arizona State
 L
 UTSA
-L
-Incarnate Word
 W
-Dartmouth
+Incarnate Word
 L
+Dartmouth
+W
 Incarnate Word
 W
 Vanderbilt
 W
 Virginia Tech
-W
+L
 Liberty
 L
-Wisconsin
-L
-Texas Southern
+North American
+C
+Prairie View A&M
 W
-Bethune-Cookman
+Texas Southern
 L
+Bethune-Cookman
+W
 Florida A&M
 W
 Southern
 W
 Mississippi Valley State
-W
-Arkansas-Pine Bluff
 L
+Arkansas-Pine Bluff
+W
 Jackson State
 W
 Alcorn State
 W
 Alabama State
-W
-Alabama A&M
 L
+Alabama A&M
+W
 Texas Southern
 W
 Prairie View A&M
@@ -18935,18 +19265,22 @@ L
 Jackson State
 L
 Team: Prairie View A&M Panthers
+Kansas Christian
+W
+North American
+W
 Washington State
 W
 UT Martin
-W
-UTSA
-W
-Arkansas State
 L
+UTSA
+L
+Arkansas State
+W
 Oklahoma State
 L
 Rice
-W
+L
 Northwestern
 L
 UIC
@@ -18958,7 +19292,7 @@ L
 Texas A&M
 L
 Grambling
-L
+W
 Southern
 L
 Mississippi Valley State
@@ -18970,11 +19304,11 @@ W
 Alcorn State
 L
 Alabama State
-W
+L
 Alabama A&M
 L
 Texas Southern
-L
+W
 Bethune-Cookman
 L
 Florida A&M
@@ -18982,15 +19316,15 @@ W
 Southern
 L
 Grambling
-W
+L
 Arkansas-Pine Bluff
-L
+W
 Mississippi Valley State
-L
+W
 Alcorn State
 W
 Jackson State
-W
+L
 Texas Southern
 W
 Jackson State
@@ -19008,20 +19342,24 @@ Loyola Maryland
 W
 Omaha
 L
+Champion Christian
+W
 Louisiana Tech
+L
+LSU Alexandria
 W
 Xavier
 L
 Youngstown State
-W
+L
 UAB
 L
 SE Louisiana
 L
 Texas Southern
-L
+W
 Prairie View A&M
-L
+W
 Florida A&M
 W
 Bethune-Cookman
@@ -19029,36 +19367,34 @@ W
 Grambling
 W
 Arkansas-Pine Bluff
-W
+L
 Mississippi Valley State
 W
 Alcorn State
-L
+W
 Jackson State
 W
 Alabama A&M
-W
-Alabama State
-W
-Prairie View A&M
 L
+Alabama State
+L
+Prairie View A&M
+W
 Texas Southern
 L
 Grambling
-W
+L
 Bethune-Cookman
 L
 Florida A&M
-L
+W
 Alabama State
+W
+Alabama A&M
 L
 Alabama A&M
-W
-Alabama A&M
-W
+L
 Team: Texas Southern Tigers
-Fairleigh Dickinson
-L
 San Francisco
 L
 Texas Tech
@@ -19075,16 +19411,20 @@ Samford
 L
 Kansas
 L
-North Carolina A&T
+North American
 W
-Hampton
+North Carolina A&T
 L
+Hampton
+W
 Wichita State
+L
+Huston-Tillotson
 W
 Southern
 L
 Grambling
-W
+L
 Arkansas-Pine Bluff
 L
 Mississippi Valley State
@@ -19092,78 +19432,84 @@ L
 Alcorn State
 L
 Jackson State
-L
+W
 Alabama A&M
-L
+W
 Alabama State
 W
 Prairie View A&M
-W
-Florida A&M
-W
-Bethune-Cookman
 L
+Florida A&M
+L
+Bethune-Cookman
+W
 Grambling
 L
 Southern
 W
 Mississippi Valley State
-L
+W
 Arkansas-Pine Bluff
 W
 Jackson State
-W
+L
 Alcorn State
-W
+L
 Prairie View A&M
 L
 Alcorn State
-L
+W
 Alabama A&M
-L
+W
 Grambling
 W
 Team: Chattanooga Mocs
 Charleston
 L
+Oakland City
+W
 Ole Miss
+L
+Covenant
 W
 Lipscomb
 L
 Murray State
 W
 Tennessee Tech
-L
+W
 Gardner-Webb
 W
 Milwaukee
 W
+Johnson University (TN)
+W
 Middle Tennessee
 W
 Belmont
-W
+L
 Georgia
-W
-The Citadel
-W
-Mercer
 L
+The Citadel
+L
+Mercer
+W
 UNC Greensboro
 L
 VMI
-L
+W
 Western Carolina
 W
 Samford
 L
 Furman
-W
+L
 East Tennessee State
-W
+L
 Wofford
 L
 East Tennessee State
-L
+W
 Furman
 L
 Western Carolina
@@ -19171,40 +19517,44 @@ L
 The Citadel
 W
 Mercer
-L
+W
 VMI
-L
+W
 UNC Greensboro
-W
+L
 Samford
-W
+L
 Wofford
-W
+L
 VMI
-L
-Samford
-L
-Wofford
-L
-Furman
 W
+Samford
+W
+Wofford
+W
+Furman
+L
 Team: East Tennessee State Buccaneers
+Emory & Henry
+W
 Elon
 W
 Louisiana
-W
-Little Rock
 L
-Tennessee Tech
+Little Rock
 W
+Tennessee Tech
+L
 App State
 L
 Georgia
 L
+Mars Hill
+W
 Jacksonville State
 L
 Morehead State
-W
+L
 Queens University
 L
 UNC Asheville
@@ -19212,104 +19562,106 @@ L
 LSU
 L
 Wofford
-L
+W
 VMI
-L
+W
 Western Carolina
-W
-Furman
-W
-The Citadel
 L
+Furman
+L
+The Citadel
+W
 Mercer
 L
 Samford
-W
-Chattanooga
 L
+Chattanooga
+W
 Mercer
 L
 Chattanooga
-W
+L
 Wofford
-L
+W
 Samford
 L
 UNC Greensboro
-W
-VMI
 L
+VMI
+W
 Western Carolina
 L
 Furman
-W
+L
 The Citadel
-L
+W
 UNC Greensboro
-L
+W
 Western Carolina
-W
-Team: Furman Paladins
-Virginia
-W
-San Diego State
 L
+Team: Furman Paladins
+North Greenville
+W
 Belmont
 W
 Penn State
-W
+L
 Old Dominion
 L
 South Carolina
-L
+W
+Tusculum
+W
 App State
 W
 South Carolina State
 W
 High Point
-W
+L
 Winthrop
 W
 NC State
 L
 Stephen F. Austin
 W
-VMI
-L
-Western Carolina
-W
-The Citadel
-W
-East Tennessee State
-W
-Mercer
-L
-UNC Greensboro
-W
-Chattanooga
-W
-Wofford
-W
-Samford
-L
-UNC Greensboro
-W
-Chattanooga
-W
-Wofford
+Anderson (SC)
 W
 VMI
 W
 Western Carolina
-W
+L
 The Citadel
 W
 East Tennessee State
 W
 Mercer
 W
-Samford
+UNC Greensboro
 L
+Chattanooga
+W
+Wofford
+W
+Samford
+W
+UNC Greensboro
+W
+Chattanooga
+W
+Wofford
+W
+VMI
+W
+Western Carolina
+W
+The Citadel
+L
+East Tennessee State
+W
+Mercer
+W
+Samford
+W
 Mercer
 W
 Western Carolina
@@ -19319,30 +19671,34 @@ W
 Team: Mercer Bears
 East Carolina
 L
+Milligan
+W
 Georgia State
-W
+L
 Winthrop
-L
-Florida State
 W
-Robert Morris
+Florida State
 L
+Robert Morris
+W
 Fairfield
 W
 Towson
-W
+L
 Kennesaw State
 L
+Middle Georgia State
+W
 Florida Gulf Coast
 L
 Morehead State
 W
 Troy
-L
+W
 Samford
-W
+L
 Chattanooga
-W
+L
 Wofford
 L
 Western Carolina
@@ -19350,23 +19706,23 @@ L
 Furman
 L
 East Tennessee State
-L
-VMI
-L
-UNC Greensboro
 W
+VMI
+W
+UNC Greensboro
+L
 East Tennessee State
 W
 The Citadel
-L
-UNC Greensboro
 W
+UNC Greensboro
+L
 VMI
 W
 Samford
 L
 Chattanooga
-W
+L
 Wofford
 L
 Western Carolina
@@ -19374,12 +19730,18 @@ L
 Furman
 L
 The Citadel
-L
-The Citadel
-L
-Furman
 W
+The Citadel
+W
+Furman
+L
 Team: Samford Bulldogs
+Anderson (SC)
+W
+Spring Hill
+W
+Belhaven
+W
 Alabama A&M
 W
 Texas Southern
@@ -19387,11 +19749,13 @@ W
 Valparaiso
 W
 Louisiana Tech
-W
+L
+Tennessee Southern
+L
 DePaul
-W
+L
 UCF
-W
+L
 Louisiana
 L
 South Carolina State
@@ -19399,13 +19763,13 @@ L
 Belmont
 L
 Mercer
-L
+W
 The Citadel
-L
+W
 VMI
-L
+W
 UNC Greensboro
-L
+W
 Wofford
 W
 Chattanooga
@@ -19415,17 +19779,17 @@ W
 Western Carolina
 W
 Furman
-W
+L
 Wofford
-W
+L
 Western Carolina
 W
 East Tennessee State
 W
 Mercer
-L
+W
 The Citadel
-L
+W
 UNC Greensboro
 W
 VMI
@@ -19433,26 +19797,28 @@ W
 Chattanooga
 W
 Furman
-W
+L
 Chattanooga
-W
+L
 Team: The Citadel Bulldogs
 Clemson
 L
 Presbyterian
 W
+Morris College
+W
 Butler
-W
+L
 New Orleans
-L
-Denver
 W
-IU Indianapolis
+Denver
 L
+IU Indianapolis
+W
 Charleston Southern
 W
 Charleston
-W
+L
 North Carolina
 L
 Longwood
@@ -19460,9 +19826,9 @@ L
 North Carolina Central
 L
 Chattanooga
-L
-Samford
 W
+Samford
+L
 Furman
 L
 Wofford
@@ -19470,15 +19836,15 @@ L
 East Tennessee State
 L
 Western Carolina
-L
-UNC Greensboro
 W
-VMI
+UNC Greensboro
 L
+VMI
+W
 Western Carolina
 W
 Mercer
-W
+L
 Chicago State
 L
 VMI
@@ -19490,9 +19856,9 @@ L
 Samford
 L
 Furman
-L
-Wofford
 W
+Wofford
+L
 East Tennessee State
 L
 Mercer
@@ -19500,40 +19866,44 @@ L
 Mercer
 L
 Team: UNC Greensboro Spartans
-Miami
+Johnson & Wales (NC)
 W
+Miami
+L
 Towson
 L
 UMBC
-L
+W
 Montana State
 W
 Hofstra
-W
+L
 Stephen F. Austin
 L
 North Carolina A&T
 L
 Elon
-L
+W
 Arkansas
-W
+L
 Marshall
-L
+W
+Warren Wilson
+W
 Eastern Kentucky
-W
+L
 Western Carolina
 W
 Wofford
-L
+W
 Chattanooga
 W
 Samford
-W
+L
 VMI
 W
 Furman
-L
+W
 The Citadel
 W
 Mercer
@@ -19541,48 +19911,54 @@ W
 VMI
 W
 Furman
-W
+L
 Mercer
 W
 The Citadel
-L
+W
 East Tennessee State
 W
 Wofford
 W
 Samford
-W
+L
 Chattanooga
 W
 Western Carolina
-L
+W
 East Tennessee State
-W
+L
 Wofford
-W
+L
 Team: VMI Keydets
 Richmond
 L
-Davidson
+Penn State-New Kensington
 W
+Davidson
+L
 Longwood
 L
 SIU Edwardsville
 L
 Fairleigh Dickinson
 L
+Regent
+W
 Presbyterian
 L
 Navy
 W
+Carlow
+W
 Radford
-L
+W
 American University
-W
+L
 Fordham
-W
+L
 Furman
-W
+L
 East Tennessee State
 L
 Samford
@@ -19602,30 +19978,30 @@ L
 Western Carolina
 L
 The Citadel
-L
+W
 Mercer
 L
 Furman
 L
 East Tennessee State
-W
+L
 Chattanooga
 L
 Samford
 L
 Wofford
-L
+W
 Western Carolina
 L
 Chattanooga
 L
 Team: Western Carolina Catamounts
-Charlotte
-L
 Georgia
 L
 Maryland
 L
+Brescia
+W
 McNeese
 W
 Lamar
@@ -19633,27 +20009,31 @@ W
 Lindenwood
 W
 UNC Asheville
-W
+L
 Gardner-Webb
 L
 South Carolina Upstate
 L
 Davidson
 L
-Tennessee Tech
-L
-UNC Greensboro
+Brevard
 W
+Tennessee Tech
+W
+Toccoa Falls
+W
+UNC Greensboro
+L
 Furman
 W
 East Tennessee State
 W
 Mercer
-L
+W
 Chattanooga
-W
+L
 The Citadel
-W
+L
 Wofford
 W
 Samford
@@ -19665,7 +20045,7 @@ W
 Samford
 L
 Chattanooga
-L
+W
 Wofford
 W
 Furman
@@ -19683,16 +20063,20 @@ W
 Furman
 L
 Team: Wofford Terriers
-High Point
+Bob Jones
 W
+High Point
+L
 Drake
 L
 Gardner-Webb
-L
+W
 North Carolina A&T
 W
-LSU
+North Greenville
 W
+LSU
+L
 Presbyterian
 W
 Vanderbilt
@@ -19701,40 +20085,42 @@ Coastal Carolina
 W
 Georgia Southern
 L
+Montreat
+W
 Texas A&M
 W
 East Tennessee State
 L
 UNC Greensboro
-W
+L
 Mercer
 W
 The Citadel
-L
+W
 Samford
 L
 VMI
 W
 Western Carolina
-W
+L
 Furman
 L
 Chattanooga
 W
 Samford
-L
+W
 East Tennessee State
 L
 Furman
-W
+L
 Western Carolina
-W
+L
 UNC Greensboro
 L
 Mercer
-L
+W
 The Citadel
-L
+W
 VMI
 L
 Chattanooga
@@ -19756,10 +20142,12 @@ Georgia State
 L
 Eastern Kentucky
 W
+Arlington Baptist
+W
 Hawai'i
 W
 Denver
-W
+L
 Wyoming
 L
 Abilene Christian
@@ -19771,25 +20159,25 @@ L
 Texas
 L
 Incarnate Word
-L
+W
 Nicholls
-W
+L
 McNeese
-L
-Houston Christian
 W
-Lamar
+Houston Christian
 L
+Lamar
+W
 New Orleans
 W
 SE Louisiana
-W
-Lamar
 L
+Lamar
+W
 Houston Christian
 W
-Nicholls
-W
+McNeese
+P
 Northwestern State
 W
 Northwestern State
@@ -19813,8 +20201,10 @@ Florida International
 L
 Texas
 L
-Western Michigan
+Champion Christian
 W
+Western Michigan
+L
 Georgia Southern
 L
 Rice
@@ -19823,14 +20213,18 @@ Missouri
 L
 Denver
 L
+Southwestern Adventist
+W
+Maine-Fort Kent
+W
 UT Rio Grande Valley
 L
 UT Rio Grande Valley
-W
+L
 Texas Tech
-W
-New Orleans
 L
+New Orleans
+W
 SE Louisiana
 L
 New Orleans
@@ -19838,50 +20232,56 @@ L
 East Texas A&M
 W
 McNeese
-L
+W
 Incarnate Word
 L
 Texas A&M-Corpus Christi
 W
 Northwestern State
-W
+L
 East Texas A&M
 L
 Northwestern State
-W
+L
 Nicholls
 L
 Texas A&M-Corpus Christi
 L
 Incarnate Word
-L
+W
 Lamar
 L
 Lamar
-L
+W
 McNeese
 W
 Nicholls
 L
 SE Louisiana
-W
+L
 New Orleans
-W
+L
 Team: Incarnate Word Cardinals
 North Dakota
 L
 UNLV
 L
+Texas Lutheran
+W
 Valparaiso
+L
+Our Lady Of The Lake
 W
 Dartmouth
-L
+W
 Grambling
 W
 UTSA
+L
+Dallas Christian
 W
 Grambling
-W
+L
 Kansas State
 L
 Bethune-Cookman
@@ -19891,7 +20291,7 @@ L
 East Texas A&M
 L
 Texas A&M-Corpus Christi
-W
+L
 Texas A&M-Corpus Christi
 L
 New Orleans
@@ -19899,50 +20299,56 @@ L
 SE Louisiana
 L
 Houston Christian
-L
+W
 Lamar
-L
+W
 McNeese
-L
+W
 Nicholls
 W
 SE Louisiana
-W
+L
 New Orleans
 W
 Lamar
-W
+L
 Houston Christian
 L
 McNeese
-W
+L
 Nicholls
 L
 Northwestern State
 L
 East Texas A&M
-L
+W
 Northwestern State
 L
 Team: Lamar Cardinals
+St. Thomas (TX)
+W
 TCU
+L
+Huston-Tillotson
 W
 Lindenwood
-L
+W
 Western Carolina
-W
+L
 McNeese
-W
+L
 SMU
 L
 Texas State
 L
+Our Lady Of The Lake
+W
 Southern Miss
 L
 Southern Miss
 L
 UL Monroe
-W
+L
 Pacific
 L
 McNeese
@@ -19952,54 +20358,56 @@ L
 SE Louisiana
 L
 Nicholls
-L
+W
 East Texas A&M
 L
 Texas A&M-Corpus Christi
-L
-Incarnate Word
 W
+Incarnate Word
+L
 East Texas A&M
 L
 Northwestern State
-W
+L
 McNeese
-L
+W
 Northwestern State
 L
 Incarnate Word
-L
+W
 Texas A&M-Corpus Christi
-W
-Houston Christian
 L
 Houston Christian
 W
+Houston Christian
+L
 SE Louisiana
 L
 New Orleans
-W
+L
 Nicholls
 L
 Team: McNeese Cowboys
-Tulane
+Champion Christian
 W
+Tulane
+L
 Western Carolina
 L
 Lindenwood
 L
 Lamar
-L
-Baylor
 W
+Baylor
+L
 UT Martin
 L
 Tennessee
 L
 Northern Iowa
-L
-Iowa State
 W
+Iowa State
+L
 Louisiana
 L
 Southern Miss
@@ -20007,11 +20415,11 @@ L
 Houston
 L
 Lamar
-L
+W
 Northwestern State
 W
 East Texas A&M
-W
+L
 Northwestern State
 L
 Houston Christian
@@ -20029,56 +20437,60 @@ L
 East Texas A&M
 L
 SE Louisiana
-L
+W
 New Orleans
 W
 Incarnate Word
 W
 Texas A&M-Corpus Christi
-W
+L
 Houston Christian
 L
 SE Louisiana
 L
 New Orleans
-L
+W
 East Texas A&M
 W
 Nicholls
 W
 Texas A&M-Corpus Christi
-W
+L
 Team: New Orleans Privateers
 Butler
 L
-LSU
+St. Francis (IL)
 W
+LSU
+L
 The Citadel
 L
 IU Indianapolis
-L
-Denver
 W
+Denver
+L
 Louisiana
 L
 Portland
 L
 Boise State
 L
+Dillard
+W
 Purdue
 L
 Houston Christian
-W
+L
 Lamar
-L
+W
 Houston Christian
-L
+W
 Incarnate Word
 W
 Texas A&M-Corpus Christi
-W
+L
 East Texas A&M
-W
+L
 Northwestern State
 L
 SE Louisiana
@@ -20094,21 +20506,21 @@ L
 McNeese
 L
 East Texas A&M
-L
+W
 Northwestern State
-L
+W
 Nicholls
 W
 Lamar
 W
 McNeese
-W
+L
 Houston Christian
 W
 SE Louisiana
-L
-Northwestern State
 W
+Northwestern State
+L
 Team: Nicholls Colonels
 Arizona
 L
@@ -20116,61 +20528,71 @@ Wyoming
 L
 BYU
 L
-UC Irvine
+Jarvis Christian
 W
-San Diego
+UC Irvine
 L
+San Diego
+W
+Champion Christian
+W
 Texas Tech
+L
+Rust
 W
 SE Louisiana
 W
 Mississippi State
 L
-Baylor
+Trinity Baptist
 W
+Baylor
+L
 East Texas A&M
 W
 Northwestern State
 L
 Lamar
-W
+L
 Northwestern State
-L
+W
 McNeese
 W
 McNeese
-L
+W
 Texas A&M-Corpus Christi
 L
 Incarnate Word
-W
-East Texas A&M
-W
+L
 Houston Christian
-W
+P
 New Orleans
-L
-SE Louisiana
-L
-Incarnate Word
 W
+SE Louisiana
+W
+Texas A&M-Corpus Christi
+W
+Incarnate Word
+L
 East Texas A&M
 W
 New Orleans
-W
+L
 Houston Christian
 L
 Lamar
 W
 McNeese
-L
+W
 Team: Northwestern State Demons
 Texas Tech
 L
-Illinois State
+Ouachita Baptist
 W
-TCU
+Illinois State
 L
+TCU
+W
 Illinois State
 W
 Central Arkansas
@@ -20184,7 +20606,7 @@ W
 UL Monroe
 W
 Rice
-W
+L
 Baylor
 L
 Texas A&M
@@ -20194,13 +20616,13 @@ L
 McNeese
 L
 Nicholls
-L
+W
 McNeese
 W
 Nicholls
-W
-SE Louisiana
 L
+SE Louisiana
+W
 New Orleans
 W
 Houston Christian
@@ -20218,31 +20640,37 @@ W
 SE Louisiana
 W
 New Orleans
-W
-Incarnate Word
 L
+Incarnate Word
+W
 Texas A&M-Corpus Christi
-W
-Incarnate Word
 L
+Incarnate Word
+W
 New Orleans
 W
 Texas A&M-Corpus Christi
-W
+L
 Team: SE Louisiana Lions
+Loyola New Orleans
+W
 Colorado State
-W
+L
 Wyoming
-L
-Kennesaw State
 W
-Campbell
+Kennesaw State
 L
+Campbell
+W
 App State
+L
+William Carey
 W
 Xavier
 L
 Dayton
+L
+Belhaven
 W
 Nicholls
 L
@@ -20253,64 +20681,70 @@ W
 Vanderbilt
 L
 Houston Christian
-L
+W
 Lamar
 W
 Texas A&M-Corpus Christi
-L
+W
 Incarnate Word
 W
 Northwestern State
-W
+L
 East Texas A&M
 W
 New Orleans
 W
 New Orleans
-L
+W
 Incarnate Word
 W
 Texas A&M-Corpus Christi
-W
+L
 McNeese
-W
+L
 Nicholls
-W
+L
 Northwestern State
 L
 East Texas A&M
-L
+W
 Lamar
-L
+W
 McNeese
-L
+W
 Houston Christian
 W
 New Orleans
-W
+L
 Team: Stephen F. Austin Lumberjacks
+LeTourneau
+W
 Gardner-Webb
 W
 Alcorn State
-W
-South Dakota State
 L
-Quinnipiac
+South Dakota State
 W
+Quinnipiac
+L
 Middle Tennessee
 L
 UNC Greensboro
-L
+W
 Northwestern State
+L
+Paul Quinn
 W
 Louisiana Tech
-L
+W
 Furman
+L
+North American
 W
 Jackson State
 W
 Abilene Christian
-L
+W
 UT Arlington
 W
 New Mexico State
@@ -20320,21 +20754,21 @@ W
 Utah Tech
 W
 Southern Utah
-W
+L
 Sam Houston
-W
+L
 UT Rio Grande Valley
 W
 Seattle U
-L
+W
 New Mexico State
 L
 Grand Canyon
-W
+L
 UT Rio Grande Valley
 W
 Tarleton State
-L
+W
 UT Arlington
 L
 Abilene Christian
@@ -20344,54 +20778,58 @@ W
 Sam Houston
 L
 Utah Valley
-W
-Utah Tech
-W
-Team: Texas A&M-Corpus Christi Islanders
-Southeast Missouri State
-W
-Alabama
 L
+Utah Tech
+L
+Team: Texas A&M-Corpus Christi Islanders
 Mississippi State
 L
 UTSA
 W
+Trinity (TX)
+W
 UT Rio Grande Valley
 W
 Cal State Bakersfield
-W
-Alcorn State
 L
-UTEP
+Alcorn State
 W
+UTEP
+L
 UT Rio Grande Valley
 L
+Texas Lutheran
+W
 Arizona
 L
+Schreiner
+W
 Oklahoma State
+L
+Our Lady Of The Lake
 W
 Northwestern State
-L
+W
 Incarnate Word
 W
 Incarnate Word
-L
+W
 SE Louisiana
-W
+L
 New Orleans
 W
 Lamar
-W
-Houston Christian
-W
-Nicholls
 L
+Houston Christian
+L
+Nicholls
+W
 McNeese
 W
 New Orleans
-L
+W
 SE Louisiana
-L
+W
 Houston Christian
 W
 Lamar
@@ -20401,7 +20839,7 @@ W
 McNeese
 W
 East Texas A&M
-W
+L
 Northwestern State
 W
 East Texas A&M
@@ -20409,73 +20847,83 @@ W
 McNeese
 W
 Northwestern State
-L
+W
 Team: UT Rio Grande Valley Vaqueros
 Kansas State
 L
-Texas A&M-Corpus Christi
+Southwestern Adventist
 W
+St. Francis (IL)
+W
+Texas A&M-Corpus Christi
+L
 Western Illinois
 W
 Northern Arizona
-L
-Texas
 W
+Texas
+L
 Texas A&M-Corpus Christi
 W
 Western Illinois
 L
 Houston Christian
 W
+Southwestern Christian
+W
 Houston Christian
-L
+W
 Utah Tech
-W
+L
 Southern Utah
-W
+L
 Seattle U
-W
+L
 Utah Valley
 L
 Abilene Christian
-L
+W
 Chicago State
-L
+W
 UT Arlington
 L
 Sam Houston
-W
-Stephen F. Austin
-W
-California Baptist
 L
+Stephen F. Austin
+L
+California Baptist
+W
 Sam Houston
 L
 Tarleton State
-L
-UT Arlington
 W
+UT Arlington
+L
 Stephen F. Austin
 L
 Grand Canyon
 W
 New Mexico State
-L
+W
+Southwestern Assemblies of God
+W
 Utah Tech
 L
 Tarleton State
 W
 California Baptist
-W - Forfeit
+L
 Tarleton State
-W
+L
 Team: Denver Pioneers
 Idaho
 W
-Sacramento State
+Colorado College
 W
-Idaho State
+Sacramento State
 L
+Idaho State
+W
 IU Indianapolis
 W
 The Citadel
@@ -20487,102 +20935,108 @@ W
 East Texas A&M
 W
 Sacramento State
-W
+L
 UCLA
 L
+Colorado Christian
+W
 Omaha
 L
 Oregon State
-W
-Kansas City
 L
+Kansas City
+W
 Oral Roberts
 L
 St. Thomas-Minnesota
-W
+L
 Western Illinois
 L
 North Dakota State
 L
 North Dakota
-L
+W
 South Dakota
-L
+W
 South Dakota State
-W
+L
 Oral Roberts
-W
+L
 Kansas City
 L
 Western Illinois
-L
+W
 St. Thomas-Minnesota
 L
 North Dakota
-W
+L
 North Dakota State
 L
 South Dakota State
 L
 South Dakota
-L
+W
 Omaha
-L
-North Dakota
 W
+North Dakota
+L
 Team: Kansas City Roos
+Lincoln (MO)
+L
 LSU
 L
 Illinois
 L
+Calvary
+W
 Kansas State
 L
 Toledo
 W
 Indiana State
-L
+W
 Florida Gulf Coast
-W
+L
 SIU Edwardsville
-W
+L
 Idaho State
 L
 Lindenwood
-L
+W
 Oklahoma
 L
 Green Bay
-W
+L
 South Dakota
-L
-South Dakota State
-L
+W
 Denver
-W
+P
+Omaha
+L
 Oral Roberts
-L
+W
 St. Thomas-Minnesota
-W
-Western Illinois
 L
-North Dakota
+Western Illinois
 W
+North Dakota
+L
 North Dakota State
 L
 Omaha
-L
+W
 Denver
 W
 South Dakota State
 W
 Oral Roberts
-W
+L
 Western Illinois
 L
 St. Thomas-Minnesota
-L
-North Dakota State
 W
+North Dakota State
+L
 North Dakota
 L
 South Dakota State
@@ -20602,23 +21056,27 @@ Elon
 W
 Montana State
 L
+Wisconsin-Stout
+W
 Utah Tech
 W
 Cal State Fullerton
 W
 Iowa State
-W
+L
 Portland
 L
 Idaho
 L
 Seattle U
 L
+North Central (MN)
+W
 St. Thomas-Minnesota
 L
-Western Illinois
-W
 North Dakota State
+P
+South Dakota
 L
 South Dakota State
 L
@@ -20629,9 +21087,9 @@ L
 Kansas City
 L
 Oral Roberts
-L
-Western Illinois
 W
+Western Illinois
+L
 North Dakota State
 L
 South Dakota State
@@ -20639,19 +21097,19 @@ L
 South Dakota
 L
 Denver
-L
+W
 Omaha
 W
 Oral Roberts
 W
 Kansas City
-W
+L
 Western Illinois
-L
-St. Thomas-Minnesota
 W
-Denver
+St. Thomas-Minnesota
 L
+Denver
+W
 Oral Roberts
 W
 Team: North Dakota State Bison
@@ -20663,8 +21121,10 @@ Pacific
 L
 Indiana State
 L
-Northern Colorado
+Crown College
 W
+Northern Colorado
+L
 New Mexico
 L
 Jacksonville State
@@ -20672,17 +21132,19 @@ L
 Eastern Washington
 L
 Portland
-L
+W
 Montana
+L
+Waldorf College
 W
 Western Illinois
 L
 St. Thomas-Minnesota
-W
+L
 North Dakota
-L
+W
 South Dakota State
-L
+W
 South Dakota
 W
 Denver
@@ -20690,33 +21152,33 @@ W
 Omaha
 W
 Oral Roberts
-W
-Kansas City
-W
-North Dakota
 L
+Kansas City
+L
+North Dakota
+W
 South Dakota
 L
 South Dakota State
-W
+L
 Omaha
-L
+W
 Denver
-L
+W
 Kansas City
 W
 Oral Roberts
-W
+L
 St. Thomas-Minnesota
 W
 Western Illinois
-L
+W
 South Dakota
 W
 South Dakota State
 W
 Oral Roberts
-W
+L
 Team: Omaha Mavericks
 Kansas
 L
@@ -20740,10 +21202,12 @@ Drake
 L
 Montana State
 L
+Midland University
+W
 Denver
 W
-Iowa State
-W
+Oral Roberts
+C
 Kansas City
 L
 Western Illinois
@@ -20781,42 +21245,48 @@ L
 South Dakota State
 W
 Team: Oral Roberts Golden Eagles
-Duke
-L
 Saint Mary's
 L
-Houston
+John Brown
 W
-Texas Southern
+Houston
 L
+Texas Southern
+W
+Oklahoma Baptist
+W
 Utah State
+L
+Rogers State
+W
+Ozark Christian
 W
 Tulsa
 W
 Central Arkansas
-L
+W
 Liberty
 W
 Missouri State
 W
 South Dakota State
 W
-South Dakota
-W
 Omaha
-W
+P
 Denver
 W
 Kansas City
 W
-Western Illinois
+New Mexico
 W
+Western Illinois
+L
 St. Thomas-Minnesota
 W
 North Dakota State
 W
 North Dakota
-L
+W
 Denver
 W
 Omaha
@@ -20848,50 +21318,54 @@ Wisconsin
 L
 Lipscomb
 W
+Dakota State
+W
 Mississippi State
-W
-Long Island University
 L
-Sam Houston
+Long Island University
 W
+Sam Houston
+L
 Coastal Carolina
 L
+Mount Marty College
+W
 BYU
-L
+W
 Air Force
-W
+L
 UC Irvine
-W
+L
 Coastal Carolina
 L
 Kansas City
 L
-Oral Roberts
-L
 St. Thomas-Minnesota
-L
+P
+Western Illinois
+W
 North Dakota
 W
 North Dakota State
 W
 South Dakota State
-W
+L
 Denver
 L
 Omaha
 L
 Western Illinois
-L
+W
 St. Thomas-Minnesota
-W
+L
 Oral Roberts
-L
+W
 North Dakota State
-W
-North Dakota
 L
-South Dakota State
+North Dakota
 W
+South Dakota State
+L
 Omaha
 L
 Denver
@@ -20901,7 +21375,7 @@ L
 Kansas City
 L
 North Dakota State
-L
+W
 Team: South Dakota State Jackrabbits
 Akron
 L
@@ -20925,10 +21399,14 @@ Montana
 L
 Eastern Washington
 W
-Oral Roberts
+Mount Marty College
 W
+Oral Roberts
+C
 Western Illinois
 L
+St. Thomas-Minnesota
+P
 North Dakota State
 W
 North Dakota
@@ -20980,113 +21458,127 @@ Milwaukee
 W
 Utah
 L
-Montana State
+North Central (MN)
 W
+Crown College
+W
+Montana State
+L
 Idaho State
 W
 Green Bay
-L
+W
 North Dakota
 W
 North Dakota State
 W
 South Dakota
-W
+L
 South Dakota State
-W
+L
 Denver
-L
+W
 Omaha
-L
+W
 Kansas City
-W
+L
 Oral Roberts
-W
+L
 Western Illinois
 L
 South Dakota State
-L
+W
 South Dakota
 L
 Omaha
 W
 Denver
-L
-Oral Roberts
 W
+Oral Roberts
+L
 Kansas City
 W
 Western Illinois
-L
+W
 North Dakota State
-W
-North Dakota
-W
-Western Illinois
 L
+North Dakota
+L
+Western Illinois
+W
 Oral Roberts
 L
 Team: App State Mountaineers
+Warren Wilson
+W
 North Carolina Central
 W
 Louisville
 W
 Campbell
-W
+L
 Kennesaw State
 L
 SE Louisiana
-L
+W
 East Tennessee State
 W
 Furman
-W
+L
 Charlotte
 L
+Carlow
+W
 Wake Forest
 L
-UC Santa Barbara
+Regent
 W
+UC Santa Barbara
+L
 Marshall
 L
 Southern Miss
-W
+L
 Coastal Carolina
-L
+W
 James Madison
-L
+W
 Georgia Southern
 L
 Troy
 W
 Coastal Carolina
-W
-Old Dominion
 L
+Old Dominion
+W
 Georgia State
 W
 Arkansas State
-L
+W
 Marshall
-W
+L
 James Madison
-W
+L
 UL Monroe
 W
 South Alabama
 L
 Texas State
-L
+W
 Old Dominion
-W
-Georgia State
 L
-Georgia Southern
+Georgia State
 W
+Georgia Southern
+L
 South Alabama
 L
 Team: Arkansas State Red Wolves
+Harding
+W
 LSU
+L
+Lyon
 W
 UC Davis
 L
@@ -21094,26 +21586,28 @@ UT Martin
 W
 Prairie View A&M
 L
+Bethel (TN)
+W
 Mississippi Valley State
 W
 Central Arkansas
 L
 Air Force
-W
+L
 Southeast Missouri State
 W
 Alabama State
-L
+W
 Little Rock
-L
+W
 Old Dominion
 W
 UL Monroe
-W
+L
 South Alabama
-W
+L
 Troy
-W
+L
 Texas State
 L
 Southern Miss
@@ -21129,36 +21623,42 @@ L
 South Alabama
 L
 Coastal Carolina
-L
+W
 Texas State
 L
 Georgia Southern
 L
 Troy
-W
-Georgia State
 L
+Georgia State
+W
 Louisiana
 L
 UL Monroe
-L
+W
 Coastal Carolina
 W
 Troy
 L
 Team: Coastal Carolina Chanticleers
+St. Mary's (MD)
+W
+Methodist
+W
 South Carolina Upstate
-W
-Missouri
-W
-South Dakota
 L
+Missouri
+L
+South Dakota
+W
 UNC Wilmington
 L
 Winthrop
 W
 Wofford
 L
+Regent
+W
 South Dakota
 W
 Charleston
@@ -21166,25 +21666,25 @@ L
 Louisiana
 W
 Georgia Southern
-W
+L
 App State
 L
 Marshall
-W
-Old Dominion
 L
+Old Dominion
+W
 Georgia State
 L
 App State
-L
+W
 South Alabama
 W
 Chicago State
 L
 James Madison
-W
+L
 Old Dominion
-W
+L
 UL Monroe
 L
 Arkansas State
@@ -21194,13 +21694,13 @@ L
 James Madison
 L
 Georgia State
-L
+W
 Texas State
 L
 Georgia Southern
 L
 Troy
-W
+L
 Arkansas State
 L
 Team: Georgia Southern Eagles
@@ -21208,13 +21708,19 @@ San José State
 L
 Santa Clara
 L
-Rice
+Trinity Baptist
 W
-Houston Christian
+Rice
 L
+Houston Christian
+W
 Western Michigan
 W
+Oglethorpe
+W
 Florida Gulf Coast
+L
+Piedmont
 W
 Wofford
 W
@@ -21223,19 +21729,19 @@ L
 Campbell
 W
 Ball State
-W
-South Alabama
 L
+South Alabama
+W
 Coastal Carolina
 W
 Marshall
-L
-Old Dominion
 W
+Old Dominion
+L
 App State
 W
 James Madison
-W
+L
 UL Monroe
 L
 Georgia State
@@ -21245,72 +21751,78 @@ L
 Louisiana
 L
 Georgia State
-W
+L
 Old Dominion
 L
 James Madison
-L
+W
 Arkansas State
-L
+W
 Marshall
 L
 Southern Miss
-W
+L
 Coastal Carolina
 W
 App State
-L
+W
 UL Monroe
-L
+W
 Louisiana
-W
+L
 Team: Georgia State Panthers
+Coastal Georgia
+W
 Georgia Tech
-W
+L
 Mercer
-L
-Eastern Kentucky
 W
-East Texas A&M
+Eastern Kentucky
 L
+East Texas A&M
+W
 UNC Asheville
 W
 Belmont
+L
+Middle Georgia State
 W
 Northeastern
 L
 Auburn
-W
-Rhode Island
 L
+Rhode Island
+W
+Toccoa Falls
+W
 James Madison
 L
 South Alabama
 W
 UL Monroe
-W
+L
 Louisiana
 L
 Troy
-W
-Coastal Carolina
 L
+Coastal Carolina
+W
 Old Dominion
 L
 Georgia Southern
 L
 App State
-W
+L
 Marshall
 L
 Georgia Southern
-L
+W
 Southern Miss
 L
 Old Dominion
 L
 Marshall
-W
+L
 Coastal Carolina
 L
 Arkansas State
@@ -21322,6 +21834,8 @@ L
 Texas State
 L
 Team: James Madison Dukes
+Valley Forge
+W
 Hampton
 W
 Buffalo
@@ -21329,15 +21843,19 @@ W
 Howard
 W
 North Carolina
+L
+Coastal Georgia
 W
 South Dakota State
-L
-Valparaiso
 W
+Valparaiso
+L
 Eastern Kentucky
 W
 Virginia
 L
+Gallaudet
+W
 Long Island University
 W
 Coppin State
@@ -21349,13 +21867,13 @@ W
 Texas State
 L
 App State
-W
+L
 South Alabama
-W
+L
 Georgia Southern
-L
+W
 Troy
-L
+W
 Southern Miss
 L
 Coastal Carolina
@@ -21363,19 +21881,19 @@ W
 UL Monroe
 W
 Old Dominion
-L
+W
 App State
 W
 Georgia Southern
-W
+L
 Coastal Carolina
 W
 Old Dominion
 W
 Louisiana
-L
-Marshall
 W
+Marshall
+L
 Georgia State
 W
 Troy
@@ -21383,8 +21901,8 @@ W
 South Alabama
 L
 Team: Louisiana Ragin' Cajuns
-Tennessee
-L
+Centenary (LA)
+W
 Harvard
 W
 East Tennessee State
@@ -21394,25 +21912,29 @@ W
 SMU
 W
 Drake
+L
+Loyola New Orleans
 W
 New Orleans
-L
+W
 Samford
+W
+Louisiana Christian
 W
 McNeese
 W
 Texas
-W
+L
 Coastal Carolina
-W
+L
 Old Dominion
-W
+L
 Southern Miss
-L
+W
 Georgia State
-L
+W
 UL Monroe
-L
+W
 South Alabama
 W
 Arkansas State
@@ -21428,19 +21950,19 @@ W
 Marshall
 W
 Southern Miss
-W
+L
 Troy
-W
+L
 UL Monroe
 W
 James Madison
 L
 Arkansas State
-L
+W
 South Alabama
 W
 Georgia Southern
-L
+W
 Texas State
 W
 South Alabama
@@ -21470,14 +21992,16 @@ UNC Greensboro
 L
 Toledo
 W
+Glenville State
+W
 App State
 W
 James Madison
-W
+L
 Georgia Southern
 L
 Coastal Carolina
-L
+W
 Southern Miss
 W
 Old Dominion
@@ -21487,15 +22011,15 @@ W
 Arkansas State
 W
 UL Monroe
-W
-Georgia State
 L
+Georgia State
+W
 App State
 W
 Louisiana
-W
-Coastal Carolina
 L
+Coastal Carolina
+W
 Georgia State
 W
 Georgia Southern
@@ -21505,7 +22029,7 @@ W
 James Madison
 W
 Old Dominion
-W
+L
 Texas State
 L
 Team: Old Dominion Monarchs
@@ -21513,18 +22037,20 @@ Maryland Eastern Shore
 W
 Drexel
 L
+Virginia Wesleyan
+W
 Virginia Tech
-W
+L
 Furman
-L
+W
 Davidson
-W
+L
 East Carolina
-L
-Charleston
 W
-Norfolk State
+Charleston
 L
+Norfolk State
+W
 William & Mary
 W
 Gardner-Webb
@@ -21532,70 +22058,74 @@ W
 George Mason
 W
 Arkansas State
-W
+L
 Louisiana
-L
+W
 Troy
-W
-Georgia Southern
 L
-Coastal Carolina
+Georgia Southern
 W
+Coastal Carolina
+L
 Marshall
 L
 Georgia State
-L
-App State
 W
-South Alabama
+App State
 L
+South Alabama
+W
 Coastal Carolina
 W
 James Madison
-W
-Georgia Southern
 L
+Georgia Southern
+W
 Georgia State
 W
 Texas State
 W
 James Madison
-W
-App State
 L
+App State
+W
 Southern Miss
 W
 Marshall
 W
 Texas State
-W
+L
 Team: South Alabama Jaguars
-New Mexico
+Mobile
 W
+New Mexico
+L
 Alabama
 L
 Oklahoma
 L
 Evansville
-L
+W
 Towson
-W
-Robert Morris
 L
-Florida Atlantic
+Robert Morris
 W
+Florida Atlantic
+L
 UAB
 L
 Alabama A&M
-L
+W
+Spring Hill
+W
 Jacksonville State
 W
 Georgia Southern
-W
-Georgia State
-W
-Arkansas State
 L
+Georgia State
+L
+Arkansas State
+W
 Texas State
 L
 James Madison
@@ -21603,41 +22133,45 @@ W
 Louisiana
 L
 Southern Miss
-W
+L
 Coastal Carolina
 L
 Old Dominion
 L
 Troy
-L
+W
 Arkansas State
-L
+W
 UL Monroe
 W
 Troy
-W
+L
 App State
 W
+Hartford
+W
 Southern Miss
-L
+W
 UL Monroe
 W
 Texas State
 W
 Louisiana
-W
+L
 App State
 W
 Southern Miss
 W
 James Madison
-L
-Louisiana
 W
-Team: Southern Miss Golden Eagles
-UAB
+Louisiana
 L
+Team: Southern Miss Golden Eagles
+William Carey
+W
 Vanderbilt
+W
+Loyola New Orleans
 W
 Liberty
 W
@@ -21645,18 +22179,20 @@ Winthrop
 W
 Purdue Fort Wayne
 W
+Mobile
+W
 Montana
 W
 Northwestern State
-W
+L
 Lamar
 W
 Lamar
 W
 McNeese
-L
-UNLV
 W
+UNLV
+L
 Troy
 W
 App State
@@ -21666,13 +22202,13 @@ L
 UL Monroe
 W
 Marshall
-W
-Arkansas State
 L
+Arkansas State
+W
 South Alabama
 W
 James Madison
-L
+W
 Arkansas State
 W
 Texas State
@@ -21686,35 +22222,41 @@ W
 UL Monroe
 W
 South Alabama
-W
+L
 Georgia Southern
 W
 Old Dominion
-W
-Texas State
 L
-South Alabama
+Texas State
 W
+South Alabama
+L
 Team: Texas State Bobcats
 Washington State
 L
+Mid-America Christian
+W
 Rhode Island
 W
 UTSA
-W
-California
 L
+California
+W
 Southern Utah
 W
 Hawai'i
-W
-Lamar
 L
-Rice
+Lamar
 W
+Rice
+L
 UT Arlington
+W
+Mary Hardin-Baylor
 L
 Sam Houston
+L
+Science & Arts (OK)
 W
 UL Monroe
 L
@@ -21723,25 +22265,25 @@ L
 James Madison
 W
 South Alabama
-L
+W
 Arkansas State
-L
+W
 UL Monroe
-W
-Marshall
-W
-Louisiana
-W
-Georgia Southern
 L
+Marshall
+L
+Louisiana
+L
+Georgia Southern
+W
 Southern Miss
 L
 Louisiana
 L
 Troy
-W
-Arkansas State
 L
+Arkansas State
+W
 Old Dominion
 L
 App State
@@ -21755,46 +22297,52 @@ L
 Georgia State
 W
 Old Dominion
-L
-Marshall
-L
-Louisiana
 W
+Marshall
+W
+Louisiana
+L
 Team: Troy Trojans
+Montevallo
+W
+Mississippi University For Women
+W
 Florida State
 W
 Merrimack
 W
 St. Thomas-Minnesota
-W
+L
 Montana
+W
+Southern-New Orleans
 W
 Arkansas
 L
 SIU Edwardsville
-W
+L
 San Diego State
-W
+L
 Tennessee Tech
-L
+W
 SE Louisiana
-L
+W
 Mercer
 L
 Southern Miss
-W
+L
 Texas State
 W
 Old Dominion
-L
+W
 Arkansas State
-L
+W
 Georgia State
 W
 App State
-W
+L
 James Madison
-W
+L
 UL Monroe
 W
 Louisiana
@@ -21802,38 +22350,44 @@ L
 South Alabama
 L
 Southern Miss
-W
+L
 Texas State
-L
+W
 South Alabama
-L
+W
 Louisiana
-L
+W
 Arkansas State
 W
 Marshall
-W
+L
 UL Monroe
 W
 Coastal Carolina
 W
 Arkansas State
-L
-James Madison
 W
+James Madison
+L
 Team: UL Monroe Warhawks
 Texas A&M
 L
+Dallas Christian
+W
+Central Baptist College
+W
 TCU
-W
+L
 Louisiana Tech
-W
+L
 Omaha
 L
 Loyola Maryland
 L
 Tulane
 L
+Champion Christian
+W
 Northwestern State
 L
 Sam Houston
@@ -21843,33 +22397,33 @@ W
 Jacksonville
 L
 Texas State
-L
+W
 Arkansas State
 W
 Georgia State
-L
+W
 Southern Miss
-W
+L
 Louisiana
-W
+L
 Texas State
 W
 Georgia Southern
-L
+W
 Troy
 L
 Marshall
 W
 James Madison
-W
-Coastal Carolina
 L
-South Alabama
+Coastal Carolina
 W
+South Alabama
+L
 App State
 L
 Southern Miss
-W
+L
 Louisiana
 L
 South Alabama
@@ -21885,40 +22439,48 @@ Jackson State
 W
 Texas A&M
 L
-Wright State
+McMurry
 W
+Wright State
+L
 Weber State
 L
 UC Riverside
 L
 Northern Arizona
-L
-Kansas State
 W
+North American
+W
+Arlington Baptist
+W
+Kansas State
+L
 East Texas A&M
 W
 Cal State Bakersfield
+W
+Howard Payne
 W
 Stephen F. Austin
 L
 Tarleton State
 W
 Southern Utah
-W
+L
 UT Rio Grande Valley
-W
+L
 Tarleton State
 L
 Utah Valley
-W
-UT Arlington
 L
+UT Arlington
+W
 Grand Canyon
 L
 Utah Tech
-L
+W
 Seattle U
-L
+W
 California Baptist
 W
 Sam Houston
@@ -21926,13 +22488,13 @@ L
 New Mexico State
 W
 Grand Canyon
-W
+L
 Stephen F. Austin
-W
+L
 Utah Valley
 L
 New Mexico State
-W - Forfeit
+W
 Sam Houston
 L
 California Baptist
@@ -21960,42 +22522,46 @@ Weber State
 W
 San Diego
 W
-Portland State
+Sonoma State
 W
+Portland State
+L
 Grand Canyon
 L
 Seattle U
 L
 Utah Tech
-L
+W
 New Mexico State
 W
 Utah Valley
-W
-Grand Canyon
 L
+Grand Canyon
+W
 Tarleton State
 W
 UT Arlington
 W
 UT Rio Grande Valley
-W
+L
 Southern Utah
 L
 Abilene Christian
 L
 Utah Valley
 L
+West Coast Baptist
+W
 New Mexico State
-L
+W
 Seattle U
 W
 Sam Houston
-W - Forfeit
-Stephen F. Austin
-W
-UT Rio Grande Valley
 L
+Stephen F. Austin
+L
+UT Rio Grande Valley
+W
 Southern Utah
 L
 Abilene Christian
@@ -22003,62 +22569,64 @@ W
 Sam Houston
 L
 Team: Southern Utah Thunderbirds
-North Alabama
-W
-Rice
-W
-Eastern Kentucky
-L
 New Mexico
 L
+La Verne
+W
+University of Saint Katherine
+W
+Bethesda University
+W
 Kansas
-W
+L
 Texas State
-W
+L
 Sacramento State
 W
 Montana State
 L
 Idaho State
-L
+W
+West Coast Baptist
+W
 Cal State Fullerton
 W
 Northern Arizona
-L
-Colorado
 W
+Colorado
+L
 New Mexico State
 W
 UT Rio Grande Valley
 W
 Tarleton State
-W
-Abilene Christian
 L
+Abilene Christian
+W
 Sam Houston
 W
 Stephen F. Austin
 W
 New Mexico State
-L
-Seattle U
 W
+Seattle U
+L
 Utah Valley
 W
 California Baptist
 W
 Utah Tech
-W
-Tarleton State
 L
-Utah Valley
+Tarleton State
 W
+Utah Valley
+L
 Utah Tech
 W
 UT Arlington
-L
-Sam Houston
 W
+Sam Houston
+L
 Grand Canyon
 L
 California Baptist
@@ -22066,55 +22634,59 @@ W
 Utah Tech
 W
 Utah Valley
-L
+W
 Grand Canyon
 L
 Team: Tarleton State Texans
-Radford
-L
 Arizona State
 L
+Kansas Christian
+W
 Belmont
 W
 Boston College
 W
 Drake
-W
+L
 Wichita State
 L
 Weber State
-L
+W
+Wiley
+W
 Baylor
-W
+L
 UCF
-W
+L
 Air Force
 L
+Huston-Tillotson
+W
 UT Arlington
-L
+W
 Abilene Christian
 L
 Southern Utah
 W
 Sam Houston
-W
-Chicago State
 L
+Chicago State
+W
 Abilene Christian
 W
 Seattle U
 L
 California Baptist
-W
+L
 Utah Tech
 W
 Grand Canyon
-L
-UT Arlington
-L
-UT Rio Grande Valley
 W
+UT Rio Grande Valley
+P
 UT Arlington
+L
+Southern Utah
 W
 Utah Tech
 L
@@ -22123,40 +22695,48 @@ W
 Sam Houston
 L
 Utah Valley
-W
+L
 UT Rio Grande Valley
+W
+Southwestern Assemblies of God
 L
 New Mexico State
-L
+W
 UT Rio Grande Valley
 W
 Utah Valley
-L
+W
 Team: UT Arlington Mavericks
 Oklahoma State
 L
+Southwestern (TX)
+W
+Hardin-Simmons
+W
 Nevada
-W
-Drexel
-W
-Northern Kentucky
 L
+Drexel
+L
+Northern Kentucky
+W
 East Carolina
 L
-LSU
+Howard Payne
 W
+LSU
+L
 North Texas
 L
 Texas State
-W
-San Francisco
 L
+San Francisco
+W
 California
 L
 Tarleton State
 L
 Stephen F. Austin
-W
+L
 Utah Valley
 L
 Seattle U
@@ -22164,18 +22744,18 @@ L
 Grand Canyon
 L
 New Mexico State
-L
+W
 UT Rio Grande Valley
-L
+W
 Abilene Christian
 L
 California Baptist
-W
-Tarleton State
-W
-Sam Houston
 L
+Sam Houston
+P
 Tarleton State
+W
+UT Rio Grande Valley
 L
 Sam Houston
 W
@@ -22190,7 +22770,7 @@ W
 Seattle U
 L
 Grand Canyon
-W
+L
 Team: Utah Tech Trailblazers
 Nevada
 L
@@ -22210,74 +22790,78 @@ Utah State
 L
 Weber State
 W
+Chapman
+W
+Master's University
+W
+Westmont
+W
 Lindenwood
 W
 UT Rio Grande Valley
 W
 Utah Valley
-W
+L
 California Baptist
-W
+L
 Stephen F. Austin
-W
+L
 Sam Houston
 L
 Grand Canyon
 L
 New Mexico State
-L
+W
 Tarleton State
 L
 Abilene Christian
 L
 Utah Valley
-W
-Southern Utah
 L
+Southern Utah
+W
 Seattle U
 L
 Tarleton State
 L
 Southern Utah
-W
-UT Rio Grande Valley
 L
+UT Rio Grande Valley
+W
 UT Arlington
 L
 Seattle U
-L
+W
 Grand Canyon
-W
+L
 Stephen F. Austin
-L
+W
 Southern Utah
-W
-Team: Utah Valley Wolverines
-New Mexico
-W
-Colorado
-W
-Cincinnati
-W
-UAB
 L
+Team: Utah Valley Wolverines
 Utah State
 L
+Western Colorado
+W
 Northern Arizona
 W
 Wake Forest
-W
+L
 Morgan State
 L
 Green Bay
-L
-Boise State
 W
-Long Beach State
+Boise State
 L
+Long Beach State
+W
 BYU
 W
 Northern Arizona
+W
+Nelson
+W
+Antelope Valley
 W
 Oregon
 W
@@ -22292,7 +22876,7 @@ W
 California Baptist
 W
 Seattle U
-W
+L
 Abilene Christian
 W
 Grand Canyon
@@ -22304,32 +22888,24 @@ W
 Utah Tech
 W
 California Baptist
-L
+W
 Southern Utah
 W
 Seattle U
 W
 Tarleton State
-W
+L
 Abilene Christian
 W
 UT Arlington
 W
 Stephen F. Austin
-L
+W
 Tarleton State
 W
 Southern Utah
-W
-Team: Gonzaga Bulldogs
-Grand Canyon
-W
-TCU
-W
-UCLA
-W
-UConn
 L
+Team: Gonzaga Bulldogs
 North Florida
 W
 Michigan State
@@ -22356,6 +22932,8 @@ Alabama
 W
 Montana
 W
+Eastern Oregon
+W
 Pepperdine
 W
 San Francisco
@@ -22367,17 +22945,17 @@ W
 Portland
 W
 Loyola Marymount
-W
-Pacific
 L
+Pacific
+W
 Portland
 W
 Santa Clara
 W
 Saint Mary's
-W
-San Francisco
 L
+San Francisco
+W
 BYU
 W
 Loyola Marymount
@@ -22395,14 +22973,16 @@ W
 Saint Mary's
 W
 Team: Loyola Marymount Lions
+Life Pacific
+W
 UC Riverside
-W
+L
 UC Davis
-L
-UC Irvine
 W
-Georgetown
+UC Irvine
 L
+Georgetown
+W
 Wake Forest
 W
 Morgan State
@@ -22410,29 +22990,29 @@ W
 Bellarmine
 W
 Colorado State
-W
-Nevada
 L
+Nevada
+W
 Grand Canyon
 W
 Utah State
-W
-Cleveland State
 L
+Cleveland State
+W
 Tulsa
 W
 Portland
 W
 Pacific
-W
-BYU
 L
-San Francisco
+BYU
 W
+San Francisco
+L
 Saint Mary's
 L
 San Diego
-L
+W
 Gonzaga
 W
 Portland
@@ -22440,28 +23020,30 @@ W
 Pepperdine
 W
 BYU
-W
+L
 San Diego
 L
 Saint Mary's
-L
-Santa Clara
 W
+Santa Clara
+L
 Gonzaga
 L
 Pacific
-L
+W
 Pepperdine
 W
 BYU
-W
+L
 Team: Oregon State Beavers
 Tulsa
 W
 Florida A&M
 W
-Portland State
+Bushnell
 W
+Portland State
+L
 Duke
 L
 Florida
@@ -22469,19 +23051,19 @@ L
 Portland State
 L
 Washington
-L
-USC
 W
+USC
+L
 Texas A&M
 L
 Seattle U
-L
+W
 Green Bay
 W
 Denver
 W
 Oregon
-W
+L
 Utah
 L
 Colorado
@@ -22493,21 +23075,21 @@ L
 Stanford
 L
 California
-L
+W
 Utah
-W
-Colorado
 L
-Arizona State
+Colorado
 W
+Arizona State
+L
 Arizona
 L
 UCLA
 L
 USC
-L
-Washington State
 W
+Washington State
+L
 Washington
 L
 Oregon
@@ -22515,9 +23097,9 @@ L
 Stanford
 L
 California
-L
-Arizona State
 W
+Arizona State
+L
 Team: Pacific Tigers
 Stanford
 L
@@ -22541,46 +23123,50 @@ Northern Arizona
 L
 Fresno State
 W
-San José State
+Cal State East Bay
 L
+Stanislaus State
+W
+San José State
+W
 Lamar
 W
 BYU
-W
+L
 Loyola Marymount
 W
 San Diego
-L
+W
 Pepperdine
 W
 Santa Clara
-W
+L
 San Francisco
-W
+L
 Gonzaga
 L
 Santa Clara
-L
+W
 Pepperdine
-L
+W
 BYU
-W
-Portland
-W
-San Diego
 L
+Portland
+L
+San Diego
+W
 San Francisco
 L
 Loyola Marymount
-W
+L
 Saint Mary's
 L
 Portland
-L
-Pepperdine
-L
-San Francisco
 W
+Pepperdine
+W
+San Francisco
+L
 Team: Pepperdine Waves
 Rice
 W
@@ -22588,26 +23174,30 @@ Cal State Fullerton
 L
 Alabama State
 W
+Vanguard
+W
 UC Irvine
 W
 UCLA
-W
-Cal Poly
 L
+Northern Arizona
+C
 Nevada
 W
 UC Santa Barbara
 L
 Grand Canyon
 L
+Cal State LA
+L
 Hawai'i
-L
+W
 George Washington
-W
-Iona
 L
-Gonzaga
+Iona
 W
+Gonzaga
+L
 Santa Clara
 L
 Pacific
@@ -22629,11 +23219,11 @@ L
 Portland
 L
 BYU
-L
+W
 San Francisco
 W
 Gonzaga
-W
+L
 Santa Clara
 L
 Loyola Marymount
@@ -22641,32 +23231,36 @@ L
 Pacific
 L
 Team: Portland Pilots
+Lewis & Clark
+W
 Florida A&M
 W
 Portland State
 W
 Kent State
-W
-Air Force
 L
-Seattle U
+Air Force
 W
+Seattle U
+L
 North Carolina
 L
 Villanova
-L
+W
 Michigan State
+L
+Multnomah University
 W
 North Dakota
-L
-North Dakota State
 W
+North Dakota State
+L
 New Orleans
 W
 Oregon
 L
 UC Riverside
-W
+L
 Loyola Marymount
 L
 BYU
@@ -22674,19 +23268,19 @@ L
 Saint Mary's
 L
 San Francisco
-L
+W
 Gonzaga
 L
 San Diego
 W
 Pepperdine
-L
+W
 Loyola Marymount
-W
-Gonzaga
-W
-San Diego
 L
+Gonzaga
+L
+San Diego
+W
 Pepperdine
 L
 Pacific
@@ -22694,20 +23288,16 @@ W
 Saint Mary's
 L
 Santa Clara
-W
+L
 San Francisco
 L
 Pacific
 L
 San Diego
-L
+W
 BYU
 L
 Team: Saint Mary's Gaels
-VCU
-W
-UConn
-L
 Oral Roberts
 W
 Vermont
@@ -22740,6 +23330,8 @@ San Diego
 W
 Santa Clara
 W
+Academy of Art
+W
 Portland
 W
 Loyola Marymount
@@ -22757,9 +23349,9 @@ W
 Gonzaga
 W
 Loyola Marymount
-W
-Portland
 L
+Portland
+W
 San Diego
 W
 BYU
@@ -22767,62 +23359,66 @@ W
 Pacific
 W
 Gonzaga
-W
-BYU
 L
-Gonzaga
+BYU
 W
+Gonzaga
+L
 Team: San Diego Toreros
+Sonoma State
+W
 Florida Gulf Coast
 W
 NJIT
 W
 Utah State
+L
+San Diego Christian
 W
 New Mexico State
 L
 Nicholls
-W
+L
 Longwood
-L
-UC San Diego
-L
-UNLV
 W
+UNLV
+P
+California Baptist
+L
 UC San Diego
 L
 Arizona State
-L
+W
 UC Riverside
-W
-Cal State Northridge
 L
-Saint Mary's
+Cal State Northridge
 W
+Saint Mary's
+L
 San Francisco
 L
 Pacific
-L
-BYU
 W
+BYU
+L
 Pepperdine
 L
 Loyola Marymount
-L
-Portland
 W
+Portland
+L
 Pepperdine
 L
 San Francisco
-L
-Portland
 W
+Portland
+L
 Loyola Marymount
 L
 Santa Clara
-L
-Pacific
 W
+Pacific
+L
 Saint Mary's
 L
 Gonzaga
@@ -22836,6 +23432,8 @@ Texas Southern
 W
 Cal Poly
 W
+UC Merced
+W
 Fresno State
 W
 Northern Iowa
@@ -22843,62 +23441,62 @@ W
 Wichita State
 W
 Davidson
-W
+L
 Little Rock
-L
+W
 Utah State
-W
+L
 Merrimack
-L
+W
 New Mexico
-W
+L
 UNLV
-L
+W
 UT Arlington
-W
-Arizona State
 L
+Arizona State
+W
+Hartford
+W
 Santa Clara
-W
+L
 San Diego
-W
+L
 Gonzaga
 L
 Loyola Marymount
-L
+W
 Portland
 L
 Saint Mary's
-W
+L
 Pacific
-L
+W
 BYU
-L
+W
 San Diego
 W
 Saint Mary's
-W
+L
 Santa Clara
-W
+L
 Gonzaga
 L
 Pepperdine
-L
+W
 Pacific
-L
+W
 Portland
 W
 BYU
-W
+L
 Pacific
 W
 Santa Clara
-L
-Gonzaga
 W
-Team: Santa Clara Broncos
-Sam Houston
+Gonzaga
 L
+Team: Santa Clara Broncos
 Eastern Washington
 W
 Georgia Southern
@@ -22909,6 +23507,8 @@ DePaul
 W
 UCF
 L
+Menlo
+W
 Iona
 W
 Wyoming
@@ -22918,9 +23518,9 @@ W
 New Mexico State
 W
 San José State
-W
-Portland State
 L
+Portland State
+W
 UC Irvine
 W
 California
@@ -22930,23 +23530,23 @@ W
 San Francisco
 W
 Saint Mary's
-W
+L
 Pepperdine
-L
-Gonzaga
 W
-Pacific
+Gonzaga
 L
+Pacific
+W
 BYU
 W
 Saint Mary's
-W
+L
 Pacific
 L
 Gonzaga
 L
 San Francisco
-L
+W
 San Diego
 W
 Loyola Marymount
@@ -22960,32 +23560,36 @@ W
 San Diego
 W
 San Francisco
-W
+L
 Team: Seattle U Redhawks
 UC San Diego
+W
+Puget Sound
 W
 Portland State
 W
 Portland
 W
-Washington
+Pacific Lutheran
 W
+Washington
+L
 Cal State Fullerton
 W
 North Dakota
-L
-Oregon State
 W
+Oregon State
+L
 Alcorn State
 W
 Utah State
 L
 Iona
-W
+L
 George Washington
-L
+W
 California Baptist
-L
+W
 UT Rio Grande Valley
 W
 UT Arlington
@@ -22999,23 +23603,23 @@ W
 Southern Utah
 W
 Sam Houston
-W
+L
 Stephen F. Austin
-W
+L
 Abilene Christian
 L
 New Mexico State
 L
 Utah Tech
-L
+W
 Grand Canyon
-L
+W
 California Baptist
-W
-Utah Valley
-W
-Grand Canyon
 L
+Utah Valley
+L
+Grand Canyon
+W
 Utah Tech
 L
 UT Arlington
@@ -23023,8 +23627,6 @@ W
 Grand Canyon
 L
 Team: Washington State Cougars
-Eastern Washington
-L
 Texas State
 W
 Boise State
