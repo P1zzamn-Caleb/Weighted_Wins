@@ -1,158 +1,158 @@
 Team: Boston College
 BC
-23
+25
 24
 4
 1.2
-2.53
-24.22
+2.49
+24.21
 Team: California
 CAL
-23
+25
 13
 16
 0.97
-1.2
-14.77
+1.19
+14.98
 Team: Clemson
 CLEM
-23
+25
 16
 15
 1.01
-1.32
-18.61
+1.28
+18.58
 Team: Duke
 DUKE
-23
+25
 25
 5
 1.2
-2.73
-25.68
+2.72
+25.99
 Team: Florida State
 FSU
-23
+25
 12
-18
-0.94
-1.46
-16.98
+19
+0.93
+1.47
+16.34
 Team: Georgia Tech
 GT
-23
+25
 19
 11
 1.08
-1.8
-25.95
+1.79
+25.99
 Team: Louisville
 LOU
-23
-27
+25
+29
 4
-1.23
-2.96
-26.67
+1.25
+2.79
+27.1
 Team: Miami
 MIA
-23
+25
 16
 12
 1.04
-1.5
-23.01
+1.48
+23.07
 Team: NC State
 NCSU
-23
+25
 19
 13
 1.06
 1.48
-25.68
+25.77
 Team: North Carolina
 UNC
-23
+25
 27
 4
 1.23
 2.53
-34.77
+35.02
 Team: Notre Dame
 ND
-23
+25
 17
 11
 1.06
-1.65
-18.65
+1.62
+18.57
 Team: Pittsburgh
 PITT
-23
+25
 20
 8
 1.12
-2.02
-22.39
+2
+22.26
 Team: SMU
 SMU
-23
+25
 14
-13
-1.01
-1.74
-14.67
+14
+1
+1.04
+13.61
 Team: Stanford
 STAN
-23
+25
 18
 12
 1.06
-1.73
-20.5
+1.75
+20.82
 Team: Syracuse
 SYR
-23
+25
 27
 6
 1.21
-2.38
+2.35
 30.82
 Team: Virginia
 UVA
-23
+25
 14
 15
 0.99
-1.49
-25.33
+1.45
+25.47
 Team: Virginia Tech
 VT
-23
+25
 15
 13
 1.02
-1.32
-24.95
+1.33
+24.79
 Team: Wake Forest
 WAKE
-23
+25
 26
 5
 1.21
 2.85
-36.66
+36.92
 Team: Austin Peay
 APSU
-23
+25
 13
 19
 0.94
-0.93
-16.53
+0.88
+16.42
 Team: Bellarmine
 BELL
-23
+25
 0
 0
 1
@@ -160,7 +160,7 @@ BELL
 0
 Team: Central Arkansas
 CARK
-23
+25
 0
 0
 1
@@ -168,15 +168,15 @@ CARK
 0
 Team: Eastern Kentucky
 EKU
-23
-17
+25
+22
 8
-1.09
-1.34
-17.87
+1.14
+1.13
+17.02
 Team: Florida Gulf Coast
 FGCU
-23
+25
 0
 0
 1
@@ -184,23 +184,23 @@ FGCU
 0
 Team: Jacksonville
 JAX
-23
-15
-11
-1.04
-1.16
-14.92
+25
+16
+13
+1.03
+1
+13.08
 Team: Lipscomb
 LIP
-23
-13
-11
-1.02
+25
+16
+12
 1.04
-12.89
+1.09
+11.14
 Team: North Alabama
 UNA
-23
+25
 0
 0
 1
@@ -208,15 +208,15 @@ UNA
 0
 Team: North Florida
 UNF
-23
+25
 0
 1
 0.99
 0.99
-0.17
+0.0099999999999999
 Team: Queens University
 QUC
-23
+25
 0
 0
 1
@@ -224,15 +224,15 @@ QUC
 0
 Team: Stetson
 STET
-23
+25
 10
-16
-0.94
-0.74
-11.8
+17
+0.93
+0.66
+11.02
 Team: West Georgia
 WGA
-23
+25
 0
 0
 1
@@ -240,15 +240,15 @@ WGA
 0
 Team: Binghamton
 BING
-23
-11
-16
+25
+12
+17
 0.95
-0.92
-12.91
+0.75
+11.07
 Team: Bryant
 BRY
-23
+25
 0
 0
 1
@@ -256,15 +256,15 @@ BRY
 0
 Team: Maine
 MAI
-23
-12
+25
 14
-0.98
-0.89
-13.83
+15
+0.99
+1.08
+11.38
 Team: NJIT
 NJIT
-23
+25
 0
 0
 1
@@ -272,31 +272,31 @@ NJIT
 0
 Team: New Hampshire
 UNH
-23
-8
-17
-0.91
-0.7
-10.82
+25
+9
+19
+0.9
+0.51
+8.55
 Team: UAlbany
 ALB
-23
+25
 13
-13
-1
-1.1
-13.4
+15
+0.98
+0.77
+11.26
 Team: UMBC
 UMBC
-23
-9
-17
-0.92
-0.39
-9.27
+25
+0
+0
+1
+1
+0
 Team: UMass Lowell
 UML
-23
+25
 0
 0
 1
@@ -304,559 +304,559 @@ UML
 0
 Team: Vermont
 VT
-23
-22
+25
+24
 6
-1.16
-1.82
-20.52
+1.18
+1.83
+21.17
 Team: Charlotte
 CLT
-23
+25
 21
 7
 1.14
-1.83
-22.19
+1.78
+22.08
 Team: East Carolina
 ECU
-23
-9
-17
-0.92
-1.13
-15.59
-Team: Florida Atlantic
-FAU
-23
-10
-17
-0.93
-0.96
-11.52
-Team: Memphis
-MEM
-23
-19
-14
-1.05
-1.99
-27.66
-Team: North Texas
-UNT
-23
-14
-12
-1.02
-1.35
-14.05
-Team: Rice
-RICE
-23
-18
-10
-1.08
-2.41
-21.85
-Team: South Florida
-USF
-23
-14
-16
-0.98
-1.15
-19.49
-Team: Temple
-TEM
-23
-16
-13
-1.03
-1.45
-19.05
-Team: Tulane
-TULN
-23
-9
-17
-0.92
-0.86
-14.73
-Team: Tulsa
-TLSA
-23
-9
-20
-0.89
-1.14
-15.17
-Team: UAB
-UAB
-23
-21
-10
-1.11
-1.61
-26.56
-Team: UTSA
-UTSA
-23
-13
-12
-1.01
-1.25
-13.28
-Team: Wichita State
-WICH
-23
-20
-9
-1.11
-1.62
-20.17
-Team: Davidson
-DAV
-23
-19
-7
-1.12
-1.71
-20.84
-Team: Dayton
-DAY
-23
-18
-11
-1.07
-1.28
-17.96
-Team: Duquesne
-DUQ
-23
-8
-22
-0.86
-0.63
-13.94
-Team: Fordham
-FOR
-23
-13
-16
-0.97
-0.83
-13.11
-Team: George Mason
-GMU
-23
-16
-13
-1.03
-1.37
-16.09
-Team: George Washington
-GW
-23
-22
-7
-1.15
-1.65
-22.63
-Team: La Salle
-LAS
-23
-10
-19
-0.91
-0.56
-13.26
-Team: Loyola Chicago
-LUC
-23
-13
-16
-0.97
-1.03
-15.12
-Team: Rhode Island
-URI
-23
-6
-22
-0.84
-0.37
-10
-Team: Richmond
-RICH
-23
-14
-15
-0.99
-1.22
-17.55
-Team: Saint Joseph's
-JOES
-23
-19
-11
-1.08
-1.45
-19.78
-Team: Saint Louis
-SLU
-23
-9
-21
-0.88
-0.88
-19.17
-Team: St. Bonaventure
-STBK
-23
-2
-26
-0.76
-0.09
-10.9
-Team: VCU
-VCU
-23
-19
-12
-1.07
-1.61
-21.19
-Team: Arizona State
-ASU
-23
-18
-13
-1.05
-1.33
-20.82
-Team: Arizona
-ARIZ
-23
-27
-6
-1.21
-2.29
-31.58
-Team: BYU
-BYU
-23
+25
 9
 19
 0.9
-0.92
-15.1
-Team: Baylor
-BAY
-23
-9
+0.98
+13.88
+Team: Florida Atlantic
+FAU
+25
+10
 17
-0.92
-1.16
-11.88
-Team: Cincinnati
-CIN
-23
-24
-7
-1.17
-2.21
-32.16
-Team: Colorado
-COLO
-23
+0.93
+0.93
+11.25
+Team: Memphis
+MEM
+25
+19
+15
+1.04
+1.7
+26.75
+Team: North Texas
+UNT
+25
+14
+14
+1
+1.11
+12.5
+Team: Rice
+RICE
+25
+19
+11
+1.08
+1.19
+18.55
+Team: South Florida
+USF
+25
 14
 16
 0.98
-1.36
-16.44
-Team: Houston
-HOU
-23
+1.14
+18.19
+Team: Temple
+TEM
+25
+16
+13
+1.03
+1.42
+19.4
+Team: Tulane
+TULN
+25
+10
 18
-12
+0.92
+0.83
+13.13
+Team: Tulsa
+TLSA
+25
+9
+20
+0.89
+1
+12.36
+Team: UAB
+UAB
+25
+21
+10
+1.11
+1.6
+25.72
+Team: UTSA
+UTSA
+25
+15
+13
+1.02
 1.06
-1.91
-25.32
-Team: Iowa State
-ISU
-23
+12.09
+Team: Wichita State
+WICH
+25
+20
+9
+1.11
+1.58
+19.71
+Team: Davidson
+DAV
+25
+21
+8
+1.13
+1.63
+19.6
+Team: Dayton
+DAY
+25
 18
 11
 1.07
-1.79
-19.8
+1.25
+17.88
+Team: Duquesne
+DUQ
+25
+8
+22
+0.86
+0.6
+14.41
+Team: Fordham
+FOR
+25
+13
+16
+0.97
+0.82
+12.98
+Team: George Mason
+GMU
+25
+16
+13
+1.03
+1.38
+15.76
+Team: George Washington
+GW
+25
+22
+7
+1.15
+1.64
+22.63
+Team: La Salle
+LAS
+25
+10
+19
+0.91
+0.55
+13.09
+Team: Loyola Chicago
+LUC
+25
+13
+17
+0.96
+0.68
+14.27
+Team: Rhode Island
+URI
+25
+6
+22
+0.84
+0.36
+10.03
+Team: Richmond
+RICH
+25
+14
+15
+0.99
+1.21
+17.34
+Team: Saint Joseph's
+JOES
+25
+19
+11
+1.08
+1.44
+19.66
+Team: Saint Louis
+SLU
+25
+9
+21
+0.88
+0.84
+18.09
+Team: St. Bonaventure
+STBK
+25
+2
+26
+0.76
+0.07
+10.6
+Team: VCU
+VCU
+25
+19
+12
+1.07
+1.61
+21.43
+Team: Arizona State
+ASU
+25
+18
+13
+1.05
+1.31
+21.05
+Team: Arizona
+ARIZ
+25
+27
+6
+1.21
+2.28
+32
+Team: BYU
+BYU
+25
+0
+0
+1
+1
+0
+Team: Baylor
+BAY
+25
+9
+19
+0.9
+0.79
+9.78
+Team: Cincinnati
+CIN
+25
+24
+7
+1.17
+2.18
+31.36
+Team: Colorado
+COLO
+25
+14
+16
+0.98
+1.33
+16.19
+Team: Houston
+HOU
+25
+18
+13
+1.05
+1.72
+22.59
+Team: Iowa State
+ISU
+25
+18
+11
+1.07
+1.77
+19.02
 Team: Kansas
 KU
-23
+25
 23
 6
 1.17
 3.09
-27.82
+28.14
 Team: Kansas State
 KSU
-23
+25
 17
-11
-1.06
-1.72
-25.59
+12
+1.05
+1.25
+24.07
 Team: Oklahoma State
 OKST
-23
-23
+25
+24
 6
-1.17
-3.11
-32.59
+1.18
+2.84
+30.93
 Team: TCU
 TCU
-23
+25
 19
-12
-1.07
-2.1
-31.82
+13
+1.06
+1.36
+28.84
 Team: Texas Tech
 TTU
-23
+25
 20
-9
-1.11
-2.72
-33.07
+10
+1.1
+2.16
+28.77
 Team: UCF
 UCF
-23
-22
+25
+24
 8
-1.14
-1.36
-19.75
+1.16
+1.52
+19.45
 Team: Utah
 UTAH
-23
-26
-4
+25
+27
+5
 1.22
-2.27
-27.12
+1.81
+26.12
 Team: West Virginia
 WVU
-23
+25
 21
 10
 1.11
 1.84
-29.23
+28.81
 Team: Butler
 BUT
-23
+25
 13
-14
-0.99
+15
+0.98
 0.73
-13.03
+11.55
 Team: Creighton
 CREI
-23
+25
 23
 10
 1.13
-1.92
-24.07
+1.89
+23.93
 Team: DePaul
 DEP
-23
+25
 19
 10
 1.09
-1.87
-27.68
+1.83
+26.01
 Team: Georgetown
 GTWN
-23
+25
 17
 12
 1.05
-1.54
-23.18
+1.51
+23.76
 Team: Marquette
 MARQ
-23
+25
 19
 11
 1.08
-1.6
-31.38
+1.52
+28.87
 Team: Providence
 PROV
-23
+25
 14
-16
-0.98
-2.08
-27.86
+17
+0.97
+1.2
+27.41
 Team: Seton Hall
 HALL
-23
+25
 12
 16
 0.96
-1.18
-21.92
+1.17
+20.94
 Team: St. John's
 SJU
-23
+25
 9
 18
 0.91
-1.06
-24.53
+0.95
+21.47
 Team: UConn
 CONN
-23
+25
 22
 7
 1.15
-2.5
-36.49
+2.51
+34.25
 Team: Villanova
 VILL
-23
+25
 22
 7
 1.15
 2.41
-37.61
+35.77
 Team: Xavier
 XAV
-23
+25
 17
 12
 1.05
 1.38
-19.45
+19.16
 Team: Eastern Washington
 EWU
-23
-8
-19
-0.89
-1.01
-12.03
-Team: Idaho State
-IDST
-23
-9
-16
-0.93
-0.55
-10.12
-Team: Idaho
-IDHO
-23
+25
 8
 20
 0.88
-0.61
-10.16
+0.58
+11.37
+Team: Idaho State
+IDST
+25
+9
+18
+0.91
+0.57
+7.64
+Team: Idaho
+IDHO
+25
+8
+22
+0.86
+0.45
+7.78
 Team: Montana
 MONT
-23
-16
+25
+18
 12
-1.04
-0.95
-15.68
+1.06
+1.08
+14.12
 Team: Montana State
 MTST
-23
-13
-13
+25
+14
+14
 1
-0.9
-11.65
+0.66
+10.12
 Team: Northern Arizona
 NAU
-23
+25
 11
-15
-0.96
-0.71
-12.46
+17
+0.94
+0.52
+9.07
 Team: Northern Colorado
 UNCO
-23
-7
-18
-0.89
-0.61
-14.14
+25
+8
+21
+0.87
+0.47
+10.71
 Team: Portland State
 PRST
-23
+25
 19
-7
-1.12
-1.22
-15.87
+9
+1.1
+1.01
+12.32
 Team: Sacramento State
 SAC
-23
-11
-15
+25
+12
+16
 0.96
-0.63
-10.11
+0.59
+7.41
 Team: Weber State
 WEB
-23
+25
 14
-15
-0.99
-0.89
-12.79
+16
+0.98
+1.05
+9.85
 Team: Charleston Southern
 CHSO
-23
-11
-15
+25
+13
+17
 0.96
-0.92
-13.08
+0.42
+8.99
 Team: Gardner-Webb
 GWEB
-23
-17
-11
+25
+18
+12
 1.06
-1.14
-17.19
+1.08
+15.86
 Team: High Point
 HPU
-23
-12
-14
-0.98
-0.47
-13.55
+25
+13
+18
+0.95
+0.16
+6.16
 Team: Longwood
 LONG
-23
+25
 1
-28
-0.73
--0.47
-10.63
+30
+0.71
+-0.81
+7.67
 Team: Presbyterian
 PRES
-23
+25
 0
 0
 1
@@ -864,15 +864,15 @@ PRES
 0
 Team: Radford
 RAD
-23
-10
-13
-0.97
-0.76
-8.59
+25
+12
+16
+0.96
+0.15
+0.83
 Team: South Carolina Upstate
 UPST
-23
+25
 0
 1
 0.99
@@ -880,175 +880,175 @@ UPST
 0.07
 Team: UNC Asheville
 UNCA
-23
-10
-14
-0.96
-1.01
-11.33
+25
+11
+17
+0.94
+0.58
+4.99
 Team: Winthrop
 WIN
-23
-21
-5
-1.16
-1.07
-18.42
+25
+26
+6
+1.2
+1.02
+12.31
 Team: Illinois
 ILL
-23
+25
 32
 1
 1.31
-3.28
-33.97
+3.25
+34.15
 Team: Indiana
 IU
-23
+25
 15
 13
 1.02
-1.74
-22.05
+1.73
+22.17
 Team: Iowa
 IOWA
-23
+25
 21
-10
-1.11
-2.41
-30.92
+11
+1.1
+2.02
+29.6
 Team: Maryland
 MD
-23
+25
 16
 12
 1.04
-1.71
-31.59
+1.72
+30.74
 Team: Michigan State
 MSU
-23
+25
 22
 6
 1.16
-2.01
-30.08
+1.97
+28.95
 Team: Michigan
 MICH
-23
+25
 13
 18
 0.95
-1
-26.02
+0.96
+23.25
 Team: Minnesota
 MINN
-23
+25
 21
 10
 1.11
-1.81
-31.82
+1.8
+31.16
 Team: Nebraska
 NEB
-23
+25
 14
 14
 1
-1.43
-28.75
+1.44
+26.14
 Team: Northwestern
 NWST
-23
+25
 15
 16
 0.99
-1.07
-31.02
+1.05
+29.88
 Team: Ohio State
 OSU
-23
+25
 20
 12
 1.08
-1.99
-34.17
+1.98
+32.34
 Team: Oregon
 ORE
-23
+25
 14
 13
 1.01
-1.43
-21.15
+1.48
+21.32
 Team: Penn State
 PSU
-23
+25
 7
-22
-0.85
-0.82
-25.15
+23
+0.84
+0.58
+23.83
 Team: Purdue
 PUR
-23
+25
 7
 21
 0.86
-0.88
-28.15
+0.85
+25.77
 Team: Rutgers
 RUTG
-23
+25
 10
-18
-0.92
-1.39
-29.33
+19
+0.91
+1.09
+26.04
 Team: UCLA
 UCLA
-23
+25
 18
 10
 1.08
-1.55
-26.4
+1.54
+26.41
 Team: USC
 USC
-23
+25
 13
 17
 0.96
-1.17
-22.49
+1.14
+22.83
 Team: Washington
 WASH
-23
-26
+25
+27
 5
-1.21
-3.04
-36.73
+1.22
+2.71
+36.4
 Team: Wisconsin
 WIS
-23
+25
 22
 8
 1.14
-2.42
-39.17
+2.4
+37.81
 Team: Cal Poly
 CP
-23
+25
 5
-21
-0.84
-0.55
-8.99
+22
+0.83
+-0.1
+7.34
 Team: Cal State Bakersfield
 CSUB
-23
+25
 0
 0
 1
@@ -1056,207 +1056,207 @@ CSUB
 0
 Team: Cal State Fullerton
 CSUF
-23
+25
 19
-9
-1.1
-1.53
-16.62
+10
+1.09
+1.18
+13.89
 Team: Cal State Northridge
 CSUN
-23
+25
 18
 13
 1.05
-1.15
-17.37
+1.11
+15.32
 Team: Hawai'i
 HAW
-23
+25
 16
 13
 1.03
-1.54
-18.33
+1.52
+17
 Team: Long Beach State
 LBSU
-23
+25
 10
 20
 0.9
-0.52
-13.87
+0.49
+11.42
 Team: UC Davis
 UCD
-23
-10
+25
+11
 17
-0.93
-0.52
-9.29
+0.94
+0.61
+6.01
 Team: UC Irvine
 UCI
-23
+25
 16
-12
-1.04
-1.18
-12.69
+13
+1.03
+0.81
+10.02
 Team: UC Riverside
 UCR
-23
+25
 9
-18
-0.91
-0.45
-9.14
+19
+0.9
+0.13
+5.19
 Team: UC San Diego
 UCSD
-23
+25
 0
 2
 0.98
 0.91
-0.01
+0
 Team: UC Santa Barbara
 UCSB
-23
+25
 11
 18
 0.93
-0.61
-11.39
+0.6
+7.52
 Team: Campbell
 CAM
-23
+25
 2
 25
 0.77
-0.34
-8.93
+0.28
+8.67
 Team: Charleston
 COFC
-23
+25
 18
 10
 1.08
-1.45
-19.4
+1.38
+18.57
 Team: Drexel
 DREX
-23
+25
 17
 11
 1.06
-1.46
-20.08
+1.45
+20.25
 Team: Elon
 ELON
+25
+8
 23
-7
-22
 0.85
-1
-14.68
+0.61
+13.06
 Team: Hampton
 HAMP
-23
+25
 17
-12
-1.05
-0.91
-16.21
+13
+1.04
+0.93
+14.76
 Team: Hofstra
 HOF
-23
+25
 21
 8
 1.13
-1.6
-22.32
+1.47
+21.62
 Team: Monmouth
 MONM
-23
+25
 16
 13
 1.03
-0.5
-14.77
+0.74
+14.7
 Team: North Carolina A&T
 NCAT
-23
+25
 6
 24
 0.82
-0.24
-12.08
+0.18
+10.9
 Team: Northeastern
 NE
-23
-19
-8
-1.11
-1.94
-20.11
+25
+21
+9
+1.12
+1.26
+18.44
 Team: Stony Brook
 STNSLS
-23
-11
-15
-0.96
-0.78
-15.3
+25
+12
+17
+0.95
+0.51
+10.95
 Team: Towson
 TOW
-23
+25
 5
 24
 0.81
-0.14
-14.82
+0.18
+15.06
 Team: UNC Wilmington
 UNCW
-23
+25
 19
 10
 1.09
 1.47
-22.54
+21.22
 Team: William & Mary
 W&M
-23
+25
 8
-20
-0.88
-0.65
-12.86
+21
+0.87
+0.34
+11.55
 Team: Delaware
 DEL
-23
+25
 11
 20
 0.91
-0.79
-15.59
+0.86
+15.61
 Team: Florida International
 FIU
-23
+25
 13
-16
-0.97
-1.09
-17.77
+17
+0.96
+1.06
+16.62
 Team: Jacksonville State
 JXST
-23
+25
 7
-19
-0.88
-0.53
-10
+22
+0.85
+0.48
+7.3
 Team: Kennesaw State
 KENN
-23
+25
 0
 0
 1
@@ -1264,111 +1264,111 @@ KENN
 0
 Team: Liberty
 LIB
-23
-11
-14
-0.97
-0.73
-10.58
+25
+13
+15
+0.98
+0.48
+5.11
 Team: Louisiana Tech
 LT
-23
+25
 14
 15
 0.99
-1.28
-21.51
+1.07
+17.33
 Team: Middle Tennessee
 MTSU
-23
-18
-11
+25
+19
+12
 1.07
-1.41
-21.09
+1.24
+18.41
 Team: Missouri State
 MSU
-23
+25
 18
 12
 1.06
-1.94
-22
+1.88
+21.83
 Team: New Mexico State
 NMSU
-23
-5
-23
+25
+6
+24
 0.82
-0.97
-12.61
+0.52
+10.73
 Team: Sam Houston
 SHSU
-23
-17
-9
-1.08
-1.58
-20.24
+25
+18
+12
+1.06
+1.23
+16.42
 Team: UTEP
 UTEP
-23
 25
+27
 7
-1.18
-1.99
-33.69
+1.2
+1.72
+26.77
 Team: Western Kentucky
 WKU
-23
+25
 21
-7
-1.14
-1.62
-21.86
+8
+1.13
+1.56
+19.59
 Team: Cleveland State
 CLE
-23
+25
 9
-15
-0.94
-0.7
-11.23
+17
+0.92
+0.68
+8.9
 Team: Detroit Mercy
 DETM
-23
+25
 14
-15
-0.99
-1.3
-16.39
+16
+0.98
+0.84
+14.19
 Team: Green Bay
 GB
-23
+25
 17
-10
-1.07
-1.42
-18.39
+11
+1.06
+1.17
+15.17
 Team: IU Indianapolis
 IUIN
-23
-15
-10
-1.05
-1.55
-17.86
+25
+16
+13
+1.03
+0.9
+14.49
 Team: Milwaukee
 MILW
-23
-23
+25
+24
 5
-1.18
-1.44
-26.04
+1.19
+1.34
+22.91
 Team: Northern Kentucky
 NKU
-23
+25
 0
 0
 1
@@ -1376,151 +1376,151 @@ NKU
 0
 Team: Oakland
 OAK
-23
-10
+25
+12
 18
-0.92
-1.13
-17.49
+0.94
+0.98
+15.45
 Team: Purdue Fort Wayne
 PFW
-23
-6
-21
+25
+7
+22
 0.85
-0.45
-11.69
+0.66
+10.52
 Team: Robert Morris
 RMU
-23
+25
 14
-14
-1
-0.38
-13.71
+15
+0.99
+0.79
+11.5
 Team: Wright State
 WSU
-23
+25
 15
 15
 1
-1.09
-18.53
+0.98
+14.89
 Team: Youngstown State
 YSU
-23
+25
 5
-21
-0.84
-0.42
-9.79
+23
+0.82
+0.05
+5.95
 Team: Brown
 BRWN
-23
+25
 11
-16
-0.95
-0.54
-12.36
+17
+0.94
+0.67
+9.68
 Team: Columbia
 COLU
-23
+25
 12
 15
 0.97
-0.56
-9.28
+0.42
+8.62
 Team: Cornell
 COR
-23
-12
-14
-0.98
-0.71
-11.8
-Team: Dartmouth
-DART
-23
-10
-15
-0.95
-0.94
-9.86
-Team: Harvard
-HARV
-23
+25
 12
 15
 0.97
-0.86
-11.87
+0.67
+8.18
+Team: Dartmouth
+DART
+25
+10
+17
+0.93
+0.57
+6.91
+Team: Harvard
+HARV
+25
+12
+15
+0.97
+0.82
+10.26
 Team: Pennsylvania
 PENN
-23
+25
 20
 8
 1.12
-1.39
-20.81
+1.35
+19.05
 Team: Princeton
 PRIN
-23
+25
 15
-12
-1.03
-1.41
-17.34
+13
+1.02
+1.22
+15.21
 Team: Yale
 YALE
-23
+25
 11
-15
-0.96
-1.04
-13.36
+16
+0.95
+0.82
+11.65
 Team: Canisius
 CAN
-23
+25
 11
 18
 0.93
 0.43
-10.67
+10.4
 Team: Fairfield
 FAIR
-23
+25
 15
 15
 1
 0.96
-14.72
+13.96
 Team: Iona
 IONA
-23
+25
 15
 16
 0.99
-0.81
-15.31
+0.8
+14.45
 Team: Manhattan
 MAN
-23
+25
 15
 14
 1.01
-0.93
-14.84
+0.91
+14.72
 Team: Marist
 MAR
-23
+25
 11
-16
-0.95
-0.39
-9.24
+17
+0.94
+0.64
+7.09
 Team: Merrimack
 MRMK
-23
+25
 0
 0
 1
@@ -1528,111 +1528,111 @@ MRMK
 0
 Team: Mount St. Mary's
 MSM
-23
+25
 7
 20
 0.87
-0.4
-4.76
+0.18
+3.3
 Team: Niagara
 NIA
-23
+25
 20
 9
 1.11
-1.14
-16.08
+1.1
+15.28
 Team: Quinnipiac
 QUIN
-23
+25
 10
-16
-0.94
--0.03
-5.55
+17
+0.93
+0.46
+3.52
 Team: Rider
 RID
-23
+25
 19
-10
-1.09
-1.16
-14.51
+11
+1.08
+1.07
+13.22
 Team: Sacred Heart
 SHU
-23
+25
 4
 23
 0.81
-0.15
-5.2
+-0.14
+2.1
 Team: Saint Peter's
 SPU
-23
+25
 15
 13
 1.02
 0.99
-11.43
+11.68
 Team: Siena
 SIE
-23
+25
 6
 24
 0.82
-0.5
-8.88
+0.41
+8.55
 Team: Coppin State
 COPP
-23
+25
 14
 15
 0.99
-1.09
-16.95
+0.87
+16.27
 Team: Delaware State
 DSU
-23
-19
-13
-1.06
-1.13
-20.58
+25
+18
+14
+1.04
+0.85
+18.82
 Team: Howard
 HOW
-23
+25
 5
 23
 0.82
--0.15
-6.39
+-0.19
+4.3
 Team: Maryland Eastern Shore
 UMES
-23
+25
 2
 26
 0.76
--0.08
-5.95
+-0.33
+4.21
 Team: Morgan State
 MORG
-23
+25
 14
 16
 0.98
-0.56
-6.81
+0.27
+5.27
 Team: Norfolk State
 NORF
-23
+25
 13
-12
-1.01
-0.66
-7.28
+14
+0.99
+0.7
+3.49
 Team: North Carolina Central
 NCCU
-23
+25
 0
 0
 1
@@ -1640,327 +1640,327 @@ NCCU
 0
 Team: South Carolina State
 SCST
-23
+25
+19
+12
+1.07
+0.98
+5.73
+Team: Akron
+AKR
+25
+19
+10
+1.09
+1.71
+17.12
+Team: Ball State
+BALL
+25
+15
+13
+1.02
+1.24
+15.61
+Team: Bowling Green
+BGSU
+25
 18
 11
 1.07
-0.92
-9.67
-Team: Akron
-AKR
-23
-19
-9
-1.1
-1.82
-18.47
-Team: Ball State
-BALL
-23
-15
-12
-1.03
-1.45
-17.93
-Team: Bowling Green
-BGSU
-23
-18
-10
-1.08
-1.53
-19.99
+1.44
+17.4
 Team: Buffalo
 BUF
-23
+25
 22
 9
 1.13
-1.89
-24.6
+1.82
+23.48
 Team: Central Michigan
 CMU
-23
+25
 10
-17
-0.93
-1.23
-14.91
+18
+0.92
+0.82
+12.38
 Team: Eastern Michigan
 EMU
-23
+25
 12
 18
 0.94
-0.59
-14.61
+0.55
+12.36
 Team: Kent State
 KENT
-23
+25
 20
-11
-1.09
-1.92
-25.53
+12
+1.08
+1.84
+23.02
 Team: Massachusetts
 MASS
-23
+25
 16
-11
-1.05
-1.14
-20.06
+12
+1.04
+1.59
+17.98
 Team: Miami (OH)
 M-OH
-23
+25
 19
-9
-1.1
-2.16
-27.65
+10
+1.09
+1.69
+24.68
 Team: Northern Illinois
 NIU
-23
+25
 11
 17
 0.94
-1.27
-19.99
+1.24
+16.9
 Team: Ohio
 OHIO
-23
+25
 21
 10
 1.11
-2.02
-31.26
+1.94
+27.69
 Team: Toledo
 TOL
-23
+25
 16
-12
-1.04
-1.74
-26.88
+13
+1.03
+1.38
+22.65
 Team: Western Michigan
 WMU
-23
+25
 19
-11
-1.08
-1.5
-29.83
+12
+1.07
+1.43
+24.13
 Team: Belmont
 BEL
-23
+25
 14
 16
 0.98
-0.9
-14.5
+0.96
+13.97
 Team: Bradley
 BRAD
-23
+25
 13
 15
 0.98
-1.19
-20.59
+1.13
+19.74
 Team: Drake
 DRK
-23
+25
 13
 16
 0.97
-1.24
-21.57
+1.21
+21.59
 Team: Evansville
 EVAN
-23
+25
 11
 17
 0.94
-0.98
-19.02
+0.92
+17.54
 Team: Illinois State
 ILLST
-23
+25
 17
-12
-1.05
-1.49
-24.02
+13
+1.04
+1.21
+21.41
 Team: Indiana State
 ISU
-23
+25
 11
-20
-0.91
-1.04
-22.24
+21
+0.9
+0.88
+20.09
 Team: Murray State
 MUR
-23
+25
 17
-10
-1.07
-1.34
-18.83
+11
+1.06
+1.32
+15.76
 Team: Northern Iowa
 UNI
-23
+25
 21
-9
-1.12
-2.3
-30.7
+10
+1.11
+1.83
+27.08
 Team: Southern Illinois
 SIU
-23
+25
 26
-6
-1.2
-2.38
-37.85
+7
+1.19
+2.23
+33.94
 Team: UIC
 UIC
-23
-14
-13
-1.01
-1.27
-18.98
-Team: Valparaiso
-VAL
-23
+25
 15
 14
 1.01
-1.05
-21.92
+1.09
+12.92
+Team: Valparaiso
+VAL
+25
+15
+16
+0.99
+0.94
+17.26
 Team: Air Force
 AFA
-23
+25
 18
-11
-1.07
-1.48
-21.94
+12
+1.06
+1.24
+19.36
 Team: Boise State
 BOIS
-23
+25
 16
-17
-0.99
-1.17
-23.79
+18
+0.98
+1.12
+17.37
 Team: Colorado State
 CSU
-23
+25
 11
-16
-0.95
-1.17
-17.11
+17
+0.94
+0.8
+13.46
 Team: Fresno State
 FRES
-23
+25
 16
 14
 1.02
-1.29
-23.23
+1.27
+19.07
 Team: Grand Canyon
 GCU
-23
+25
 0
 3
 0.97
 0.95
-0.56
+0.54
 Team: Nevada
 NEV
-23
+25
 24
-5
-1.19
-2.11
-33.39
+6
+1.18
+1.81
+28.49
 Team: New Mexico
 NM
-23
 25
+26
 6
-1.19
-1.84
-28.82
+1.2
+1.78
+25.06
 Team: San Diego State
 SDSU
-23
+25
 11
 18
 0.93
-0.98
-22.22
+0.92
+18.58
 Team: San José State
 SJSU
-23
+25
 6
 23
 0.83
-0.78
-22.29
+0.74
+14.94
 Team: UNLV
 UNLV
-23
+25
 16
-12
-1.04
-1.76
-25.91
+13
+1.03
+1.17
+21.69
 Team: Utah State
 USU
-23
+25
 24
 7
 1.17
-1.82
-21.2
+1.74
+17.69
 Team: Wyoming
 WYO
-23
+25
 15
 13
 1.02
-1.49
-26.48
+1.47
+21.7
 Team: Central Connecticut
 CCSU
-23
+25
 12
 16
 0.96
-0.79
-7
+0.56
+4.4
 Team: Chicago State
 CHST
-23
-8
-18
+25
+9
+19
 0.9
 0.54
-16.44
+11.36
 Team: Fairleigh Dickinson
 FDU
-23
-19
+25
+20
 12
-1.07
-0.59
-11.78
+1.08
+0.73
+9.32
 Team: Le Moyne
 LEM
-23
+25
 0
 0
 1
@@ -1968,15 +1968,15 @@ LEM
 0
 Team: Long Island University
 LIU
-23
+25
 14
-14
-1
-0.59
-5.16
+15
+0.99
+0.38
+1.53
 Team: Mercyhurst
 MERC
-23
+25
 0
 0
 1
@@ -1984,7 +1984,7 @@ MERC
 0
 Team: New Haven
 Brand new Team
-23
+25
 0
 0
 1
@@ -1992,15 +1992,15 @@ Brand new Team
 0
 Team: Saint Francis
 SFPA
-23
+25
 15
-12
-1.03
-0.8
-7.12
+13
+1.02
+0.96
+4.11
 Team: Stonehill
 STO
-23
+25
 0
 0
 1
@@ -2008,23 +2008,23 @@ STO
 0
 Team: Wagner
 WAG
-23
+25
 13
 17
 0.96
-0.85
-3.37
+0.77
+4.58
 Team: Eastern Illinois
 EIU
-23
+25
 12
-15
-0.97
-0.72
-14.88
+16
+0.96
+0.63
+12.82
 Team: Lindenwood
 LIN
-23
+25
 0
 0
 1
@@ -2032,39 +2032,39 @@ LIN
 0
 Team: Little Rock
 LR
-23
-16
-9
-1.07
-1.92
-22.96
+25
+18
+10
+1.08
+1.81
+20.25
 Team: Morehead State
 MORE
-23
-10
-14
-0.96
+25
+11
+16
 0.95
-11.39
+0.8
+8.31
 Team: SIU Edwardsville
 SIUE
-23
+25
 0
 1
 0.99
 0.99
-0.35
+0.33
 Team: Southeast Missouri State
 SEMO
-23
-13
-13
-1
-0.85
-15.89
+25
+15
+14
+1.01
+0.99
+13.2
 Team: Southern Indiana
 USI
-23
+25
 0
 0
 1
@@ -2072,423 +2072,423 @@ USI
 0
 Team: Tennessee State
 TNST
-23
-13
-16
+25
+14
+17
 0.97
-1.01
-18.08
+0.99
+15.88
 Team: Tennessee Tech
 TNTC
-23
-17
-10
-1.07
-0.99
-14.14
-Team: UT Martin
-UTM
-23
-5
-19
-0.86
-0.4
-9.73
-Team: Western Illinois
-WIU
-23
-8
-16
-0.92
-0.81
-14.11
-Team: American University
-AMER
-23
-16
-12
-1.04
-1.27
-16.61
-Team: Army
-ARMY
-23
-3
-22
-0.81
-0.22
-5.33
-Team: Boston University
-BU
-23
-20
-6
-1.14
-1.48
-19.89
-Team: Bucknell
-BUCK
-23
-22
-9
-1.13
-1.89
-23.18
-Team: Colgate
-COLG
-23
-12
-14
-0.98
-1.02
-14.94
-Team: Holy Cross
-HC
-23
-24
-6
-1.18
-1.64
-25.97
-Team: Lafayette
-LAF
-23
-9
-18
-0.91
-0.74
-14.75
-Team: Lehigh
-LEH
-23
-14
-14
-1
-0.86
-12.94
-Team: Loyola Maryland
-MD
-23
-6
-22
-0.84
-0.18
-5.9
-Team: Navy
-NAVY
-23
-9
-17
-0.92
-0.76
-10
-Team: Alabama
-ALA
-23
-24
-6
-1.18
-2.7
-29.15
-Team: Arkansas
-ARK
-23
+25
 18
 11
 1.07
-1.94
-22.52
-Team: Auburn
-AUB
-23
-14
-17
-0.97
-1.28
-23.79
-Team: Florida
-FLA
-23
-23
-7
-1.16
-2.45
-31.94
-Team: Georgia
-UGA
-23
-8
-19
-0.89
-1.17
-19.36
-Team: Kentucky
-UK
-23
+0.8
+12.06
+Team: UT Martin
+UTM
 25
-5
-1.2
-2.43
-37.42
-Team: LSU
-LSU
-23
+6
+21
+0.85
+0.46
+5.68
+Team: Western Illinois
+WIU
+25
+11
+17
+0.94
+0.84
+9.43
+Team: American University
+AMER
+25
+16
+12
+1.04
+1.41
+16.59
+Team: Army
+ARMY
+25
+3
+24
+0.79
+-0.17
+2.21
+Team: Boston University
+BU
+25
 20
-9
-1.11
-2.01
-34.12
-Team: Mississippi State
-MSU
-23
+8
+1.12
+1.24
+16.24
+Team: Bucknell
+BUCK
+25
 22
 9
 1.13
-2.25
-36.61
+1.85
+22.7
+Team: Colgate
+COLG
+25
+12
+16
+0.96
+0.66
+11.4
+Team: Holy Cross
+HC
+25
+24
+6
+1.18
+1.72
+23.19
+Team: Lafayette
+LAF
+25
+9
+19
+0.9
+0.61
+11.5
+Team: Lehigh
+LEH
+25
+14
+15
+0.99
+0.61
+8.4
+Team: Loyola Maryland
+MD
+25
+6
+22
+0.84
+0.22
+6.01
+Team: Navy
+NAVY
+25
+9
+19
+0.9
+0.34
+5.3
+Team: Alabama
+ALA
+25
+24
+7
+1.17
+2.31
+27.74
+Team: Arkansas
+ARK
+25
+18
+12
+1.06
+1.41
+20.6
+Team: Auburn
+AUB
+25
+14
+17
+0.97
+1.24
+20.4
+Team: Florida
+FLA
+25
+23
+7
+1.16
+2.4
+28.84
+Team: Georgia
+UGA
+25
+8
+20
+0.88
+1
+17.18
+Team: Kentucky
+UK
+25
+25
+5
+1.2
+2.41
+34.98
+Team: LSU
+LSU
+25
+20
+9
+1.11
+1.99
+31.33
+Team: Mississippi State
+MSU
+25
+22
+10
+1.12
+1.77
+33.41
 Team: Missouri
 MIZ
-23
+25
 16
 16
 1
 1.83
-37.84
+34.72
 Team: Oklahoma
 OU
-23
+25
 24
 7
 1.17
-2.45
-45.09
+2.44
+40.52
 Team: Ole Miss
 MISS
-23
+25
 14
 17
 0.97
-1.32
-31.65
+1.33
+27.47
 Team: South Carolina
 SCU
-23
+25
 15
 13
 1.02
-1.57
-30.55
+1.6
+28.61
 Team: Tennessee
 TENN
-23
+25
 14
 17
 0.97
-1.52
-34.84
+1.49
+32.32
 Team: Texas A&M
 TAM
-23
-18
-8
-1.1
-2
-33.64
-Team: Texas
-TEX
-23
+25
 19
 9
 1.1
-2.2
-42.83
+1.54
+28.5
+Team: Texas
+TEX
+25
+20
+10
+1.1
+1.76
+36
 Team: Vanderbilt
 VAN
-23
+25
 18
 13
 1.05
-1.56
-37.06
+1.52
+33.55
 Team: Alabama A&M
 AAMU
-23
-15
+25
+18
 13
-1.02
-0.76
-15.36
+1.05
+0.43
+13.14
 Team: Alabama State
 ALST
-23
+25
 15
-14
-1.01
-0.57
-16.4
+15
+1
+0.59
+13
 Team: Alcorn State
 ALCN
-23
+25
+7
+22
+0.85
+0.02
+6.98
+Team: Arkansas-Pine Bluff
+UAPB
+25
 7
 21
 0.86
--0.09
-9.06
-Team: Arkansas-Pine Bluff
-UAPB
-23
-7
-19
-0.88
-0.72
-9.67
+0.37
+5.5
 Team: Bethune-Cookman
 BCU
-23
-12
-16
+25
+13
+17
 0.96
-0.22
-6.68
+0.39
+2.58
 Team: Florida A&M
 FAMU
-23
-13
+25
 14
+15
 0.99
-0.68
-11.43
+0.94
+8.41
 Team: Grambling
 GRAM
-23
-13
-11
+25
+14
+12
 1.02
-0.78
-12.51
+0.59
+7.81
 Team: Jackson State
 JKST
-23
+25
 15
-16
-0.99
-0.44
-13.08
+17
+0.98
+0.96
+9.52
 Team: Mississippi Valley State
 MVSU
-23
+25
 13
 15
 0.98
-0.87
-8.75
+0.79
+8.38
 Team: Prairie View A&M
 PVAM
-23
+25
 5
 23
 0.82
-0.17
-5.49
+0.11
+3.33
 Team: Southern
 SOU
-23
-13
+25
 14
+15
 0.99
-0.46
-6.33
+0.62
+4.11
 Team: Texas Southern
 TXSO
-23
-10
+25
+11
 15
-0.95
-0.08
-1.94
+0.96
+0.37
+1.62
 Team: Chattanooga
 UTC
-23
-17
-9
-1.08
-1.32
-20.27
+25
+20
+10
+1.1
+1.17
+16.72
 Team: East Tennessee State
 ETSU
-23
-9
-17
-0.92
-0.73
-15.71
+25
+10
+19
+0.91
+0.75
+11.33
 Team: Furman
 FUR
-23
-15
-11
-1.04
-1.54
-18.01
+25
+16
+13
+1.03
+0.98
+13.96
 Team: Mercer
 MER
-23
-13
-11
-1.02
-0.86
-14.05
+25
+16
+12
+1.04
+1.22
+12.69
 Team: Samford
 SAM
-23
+25
 15
-11
-1.04
-0.94
-15.23
+13
+1.02
+0.98
+10.17
 Team: The Citadel
 CIT
-23
+25
 12
-10
-1.02
-1.23
-15.21
+16
+0.96
+0.82
+6.67
 Team: UNC Greensboro
 UNCG
-23
-16
-11
-1.05
-1.61
-22.89
+25
+18
+12
+1.06
+1.22
+18.5
 Team: VMI
 VMI
-23
-7
-16
+25
+9
+18
 0.91
-0.31
-1.78
+-0.23
+-7.47
 Team: Western Carolina
 WCU
-23
+25
 8
-19
-0.89
-0.52
-18.5
+22
+0.86
+0.27
+11.56
 Team: Wofford
 WOF
-23
-12
-12
+25
+14
+14
 1
-1.13
-17.73
+0.81
+11.12
 Team: East Texas A&M
 ETAM
-23
+25
 0
 0
 1
@@ -2496,15 +2496,15 @@ ETAM
 0
 Team: Houston Christian
 HCU
-23
+25
 0
 1
 0.99
-0.99
-0.01
+0.96
+-0.02
 Team: Incarnate Word
 UIW
-23
+25
 0
 0
 1
@@ -2512,95 +2512,95 @@ UIW
 0
 Team: Lamar
 LAM
-23
-16
-9
+25
+18
+11
 1.07
-1.72
-20.65
+1.28
+15.27
 Team: McNeese
 MCN
-23
-11
+25
 13
+15
 0.98
-1.28
-16.99
+1.1
+13.1
 Team: New Orleans
 UNO
-23
-0
-0
-1
-1
-0
+25
+13
+17
+0.96
+1.02
+16.24
 Team: Nicholls
 NICH
-23
+25
 6
-19
-0.87
-0.48
-10.92
+21
+0.85
+0.57
+7.77
 Team: Northwestern State
 NWST
-23
-17
-11
-1.06
-1.55
-27.75
+25
+21
+12
+1.09
+1.35
+22.9
 Team: SE Louisiana
 SELA
-23
-20
-7
-1.13
-1.55
-24.54
+25
+24
+8
+1.16
+1.47
+19.3
 Team: Stephen F. Austin
 SFA
-23
+25
 12
-12
-1
-1.41
-15.47
+15
+0.97
+0.9
+10.23
 Team: Texas A&M-Corpus Christi
 AMCC
-23
-16
-6
-1.1
-1.29
-16.45
+25
+20
+8
+1.12
+1.2
+12.4
 Team: UT Rio Grande Valley
 RGV
-23
-11
-11
-1
-1
-14.76
+25
+12
+16
+0.96
+0.47
+6.67
 Team: Denver
 DEN
-23
+25
 20
 10
 1.1
-1.61
-24.83
+1.57
+20.75
 Team: Kansas City
 KC
-23
-15
-11
+25
+16
+12
 1.04
-1.23
-17.5
+1.1
+13.45
 Team: North Dakota
 UND
-23
+25
 0
 0
 1
@@ -2608,31 +2608,31 @@ UND
 0
 Team: North Dakota State
 NDSU
-23
+25
 0
 8
 0.92
-0.78
-2.43
+0.8
+1.24
 Team: Omaha
 OMA
-23
+25
 0
 1
 0.99
-0.94
-0.18
+0.93
+-0.19
 Team: Oral Roberts
 ORU
-23
-23
-6
-1.17
-1.45
-26.05
+25
+25
+7
+1.18
+1.34
+20.99
 Team: South Dakota
 SDAK
-23
+25
 0
 0
 1
@@ -2640,15 +2640,15 @@ SDAK
 0
 Team: South Dakota State
 SDST
-23
+25
 2
-11
-0.91
-0.86
-5.38
+12
+0.9
+0.79
+4.24
 Team: St. Thomas-Minnesota
 STMN
-23
+25
 0
 0
 1
@@ -2656,119 +2656,119 @@ STMN
 0
 Team: App State
 APP
-23
-17
-11
+25
+18
+12
 1.06
-0.93
-18.27
+1.1
+12.42
 Team: Arkansas State
 ARST
-23
-14
-12
-1.02
-1.55
-21.32
+25
+16
+13
+1.03
+1.3
+17.15
 Team: Coastal Carolina
 CCU
-23
-9
-15
-0.94
-0.66
-8.9
+25
+10
+19
+0.91
+0.44
+-2.62
 Team: Georgia Southern
 GASO
-23
-16
-9
-1.07
-1.41
-22.51
+25
+18
+13
+1.05
+1.32
+13.9
 Team: Georgia State
 GAST
-23
-0
-0
-1
-1
-0
+25
+14
+15
+0.99
+1.24
+16.77
 Team: James Madison
 JMU
-23
+25
 6
 22
 0.84
-0.1
-9.41
+0.05
+8.61
 Team: Louisiana
 UL
-23
-19
+25
+20
 10
-1.09
-1.82
-31.44
+1.1
+1.73
+28.05
 Team: Marshall
 MRSH
-23
+25
 6
 22
 0.84
-0.89
-24.96
+0.86
+21.56
 Team: Old Dominion
 ODU
-23
-27
+25
+28
 5
-1.22
-2.12
-27.87
+1.23
+2.18
+24.65
 Team: South Alabama
 USA
-23
-9
-16
-0.93
-0.93
-19.6
+25
+10
+18
+0.92
+0.7
+15.27
 Team: Southern Miss
 USM
-23
-10
-14
-0.96
-1.2
-22.58
+25
+11
+17
+0.94
+0.9
+17.3
 Team: Texas State
 TXST
-23
-13
-12
-1.01
-0.94
-17.57
+25
+14
+14
+1
+0.91
+10.67
 Team: Troy
 TROY
-23
+25
 12
-17
-0.95
-0.76
-14.32
+18
+0.94
+0.86
+14
 Team: UL Monroe
 ULM
-23
-7
-15
-0.92
-1
-15.46
+25
+8
+19
+0.89
+0.69
+6.74
 Team: Abilene Christian
 ACU
-23
+25
 0
 0
 1
@@ -2776,23 +2776,23 @@ ACU
 0
 Team: California Baptist
 CBU
-23
+25
 0
 1
 0.99
 0.99
-0.16
+0.12
 Team: Southern Utah
 SUU
-23
-12
-12
-1
-1.08
-13.58
+25
+13
+15
+0.98
+0.74
+8.25
 Team: Tarleton State
 TAR
-23
+25
 0
 0
 1
@@ -2800,15 +2800,15 @@ TAR
 0
 Team: UT Arlington
 UTA
-23
-12
-12
-1
-1.04
-19.46
+25
+13
+15
+0.98
+0.96
+11.5
 Team: Utah Tech
 UTU
-23
+25
 0
 0
 1
@@ -2816,105 +2816,105 @@ UTU
 0
 Team: Utah Valley
 UVU
-23
-15
-12
-1.03
-1.02
-9.31
-Team: Gonzaga
-GONZ
-23
 25
-4
-1.21
-2.45
-31.82
-Team: Loyola Marymount
-LMU
-23
-11
-17
-0.94
-1.07
-17.88
-Team: Oregon State
-ORST
-23
-17
-14
-1.03
-1.21
-28.91
-Team: Pacific
-PAC
-23
-26
-3
-1.23
-2.39
-27.36
-Team: Pepperdine
-PEPP
-23
-17
-13
-1.04
-1.4
-21.6
-Team: Portland
-PORT
-23
-15
-15
-1
-1.41
-18.16
-Team: Saint Mary's
-SMC
-23
-24
-7
-1.17
-2.05
-32.78
-Team: San Diego
-USD
-23
 16
 12
 1.04
-1.83
-25.34
+0.9
+6.53
+Team: Gonzaga
+GONZ
+25
+25
+4
+1.21
+2.41
+31.13
+Team: Loyola Marymount
+LMU
+25
+11
+17
+0.94
+1.03
+16.27
+Team: Oregon State
+ORST
+25
+17
+14
+1.03
+1.19
+26.81
+Team: Pacific
+PAC
+25
+26
+3
+1.23
+2.36
+23.85
+Team: Pepperdine
+PEPP
+25
+17
+14
+1.03
+1.12
+19.35
+Team: Portland
+PORT
+25
+15
+15
+1
+1.38
+16.14
+Team: Saint Mary's
+SMC
+25
+25
+8
+1.17
+1.64
+28.43
+Team: San Diego
+USD
+25
+16
+13
+1.03
+0.96
+22.09
 Team: San Francisco
 SF
-23
+25
 16
 13
 1.03
 1.65
-28.25
+24.21
 Team: Santa Clara
 SCU
-23
+25
 15
-15
-1
-1.47
-27.99
+16
+0.99
+1.51
+23.25
 Team: Seattle U
 SEA
-23
+25
 0
 1
 0.99
 0.99
-0.42
+0.39
 Team: Washington State
 WSC
-23
+25
 12
 17
 0.95
-1.37
-30.32
+1.25
+26.56

@@ -128,14 +128,14 @@
 		//outputs names with data for testing
 		function outputResults(){
 			echo "Team: ", $this->names, "   ", $this->initials, "    ", 
-				 "Actual:$this->actualGames <br>",$this->totalGames, "   ", $this->wins, "    ",$this->losses, "    ", 
+				 $this->totalGames, "   ", $this->wins, "    ",$this->losses, "    ", 
 				 $this->initialWeight, "   ", $this->finalWeight, 
 				 " ", $this->weightedWins, "<br>";
-			print_r($this->opponentsWonAgainstWeightedWins);
-			echo "<br>";
-			print_r($this->teamsWonAgainst);
-			echo "<br>";
-			print_r($this->teamsLostAgainst);
+			//print_r($this->opponentsWonAgainstWeightedWins);
+			//echo "<br>";
+			//print_r($this->teamsWonAgainst);
+			//echo "<br>";
+			//print_r($this->teamsLostAgainst);
 
 		}
 		function writeResultsToFile($year, $mode){
@@ -289,11 +289,23 @@
 
 		//sorts opponentWeightedWins in ascending order
 		function sortOpponentsWeightedWins() {
-			$indexes = array_keys($this->opponentsWonAgainstWeightedWins);
-			usort($this->opponentsWonAgainstWeightedWins, function($a, $b) {
-				return (float)$this->opponentsWonAgainstWeightedWins[(int)$a] <=> (float)$this->opponentsWonAgainstWeightedWins[(int)$b];
+			$combined = [];
+			for ($i = 0; $i < count($this->opponentsWonAgainstWeightedWins); $i++) {
+				$combined[] = [
+					'win' => $this->opponentsWonAgainstWeightedWins[$i],
+					'team' => $this->teamsWonAgainst[$i]
+				];
+			}
+
+			// Sort by weighted win
+			usort($combined, function($a, $b) {
+				return $a['win'] <=> $b['win']; // ascending
 			});
-			$this->opponentsWonAgainstWeightedWins = array_replace(array_flip($indexes), $this->opponentsWonAgainstWeightedWins);
+		
+
+			// Split back into separate arrays
+			$this->opponentsWonAgainstWeightedWins = array_column($combined, 'win');
+			$this->teamsWonAgainst = array_column($combined, 'team');
     	}
 
 		//sets the order of opponentNames equal to the order of opponent weighted wins
@@ -396,7 +408,6 @@
 		global $teams;
 		#$file = file("scoreData$year.txt");
 		$winLossData = fopen("scoreData$year.txt", "r") or die("failed to open");
-        $gameIndex=0;
 
 		$teamIndex=0;
 
@@ -455,6 +466,8 @@
 		$teamNames = fopen("newData.txt", "r") or die;
         $teamNamesWithMascots = fopen("teamNames.txt", "r") or die;
 		$i=0;
+
+	
 		
 		while(!feof($teamNames)){
 			$teams[$i] = new Team();
@@ -473,7 +486,11 @@
 		//will be used to add up weighted wins
 		$lossValue = "lost";
 		$winValue = "win";
-		$teamFound=False;
+		$teamNameIndexMap = [];
+
+		foreach ($teams as $index => $team) {
+			$teamNameIndexMap[cleanStr($team->getName())] = $index;
+		}
 
 
 		foreach ($teams as $team){
@@ -488,12 +505,14 @@
 			//adjusts weights for losses
 			for($j=0;$j<count($teamsLostAgainst);$j++){
 
-				$opponentsIndex = linearTeamSearch($teamsLostAgainst[$j]);
+				//$opponentsIndex = linearTeamSearch($teamsLostAgainst[$j]);
+				$cleanOpponent = cleanStr($teamsLostAgainst[$j]);
 				
-				if ($opponentsIndex != -1){
+				if (isset($teamNameIndexMap[$cleanOpponent])){
+					$opponentsIndex = $teamNameIndexMap[$cleanOpponent];
+
 					$teams[$i]->adjustFinalWeightForLoss($teams[$opponentsIndex]->getWins(), $teams[$opponentsIndex]->getLosses());
 					$teams[$i]->addWeightedWins($teams[$opponentsIndex]->returnFinalWeight(), $lossValue);
-					$teamFound=True;
 				}else{
 					//adjust weights if the team is non-d1
 					$teams[$i]->adjustFinalWeightForLossAgainstNonD1();
@@ -504,9 +523,11 @@
 			//adjust weights for wins
 			for($j=0;$j<count($teamsWonAgainst);$j++){
 
-				$opponentsIndex = linearTeamSearch($teamsWonAgainst[$j]);
+				$cleanOpponent = cleanStr($teamsWonAgainst[$j]);
+				
+				if (isset($teamNameIndexMap[$cleanOpponent])){
+					$opponentsIndex = $teamNameIndexMap[$cleanOpponent];
 
-				if( $opponentsIndex != -1){
 					$teams[$i]->adjustFinalWeightForWin($teams[$opponentsIndex]->getWins(), $teams[$opponentsIndex]->getLosses(), $teams[$opponentsIndex]->getName());
 					$teams[$i]->addWeightedWins($teams[$opponentsIndex]->returnFinalWeight(), $winValue);
 				}else{
