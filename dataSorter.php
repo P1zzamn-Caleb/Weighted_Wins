@@ -118,6 +118,8 @@
             fclose($teamNames);
             fclose($teamNamesWithMascots);
 
+			$i=0;
+
             while(!feof($weightedWinsFile)){
                 $teams[$i] = new Team();
                 $teams[$i]->readInNames(fgets($weightedWinsFile), fgets($weightedWinsFile));
@@ -136,11 +138,13 @@
             });
         }
 
-        function printData(){
+        function printData($year, $mode){
             global $teams;
+            $sortedFile = fopen("sortedWeightedWins$year.txt", "$mode");
 
             $rank =0;
             
+			echo "Rank          Team           Wins            Losses                   IW                        FW                        WW        <br>";
 
             foreach($teams as $index => $team){
                 $rank = $index+1;
@@ -152,14 +156,36 @@
                 $teamWeightedWins = $team->returnWeightedWins();
 
                 
-                echo "Rank          Team           Wins            Losses                   IW                        FW                        WW        <br>";
-                echo "$rank       $teamName      $teamWins       $teamLosses         $teamInitialWeight         $teamFinalWeight        $teamWeightedWins <br>";
+                
+                fwrite($sortedFile, $rank);
+				fwrite($sortedFile, "\n");
+				fwrite($sortedFile, $teamName);
+				fwrite($sortedFile, "\n");
+				fwrite($sortedFile, $teamWins);
+				fwrite($sortedFile, $teamLosses);
+				fwrite($sortedFile, $teamInitialWeight);
+				fwrite($sortedFile, $teamFinalWeight);
+				fwrite($sortedFile, $teamWeightedWins);
             }
+
+            fclose($sortedFile);
         }
 
-        getData(2025);
-        sortTeams();
-        printData();
+		function reset_data(){
+			global $teams;
+			foreach($teams as $index => $team){
+				$team->resetData();
+			}
+		}
+
+        $mode = "w";
+
+        for($year = 2025; $year >= 2003; $year--){
+            getData($year);
+            sortTeams();
+            printData($year, $mode);
+			reset_data();
+        }
 
 
 
