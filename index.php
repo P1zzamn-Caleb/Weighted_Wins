@@ -61,8 +61,10 @@
   
 
   <?php
+  
 	const ABBRV_LENGTH= 3;
 	const TOTAL_TEAMS=365;
+	const LOSS_AGAINST_NON_D1_TEAM_WW_ADJUSTMENT = -0.950;
 	const NON_D1_TEAM_STRING = "Non-D1 Team";
 
 
@@ -230,7 +232,7 @@
 
 		//calculates the initial weights for all teams
 		function calculateInitialWeight(){
-			$this->initialWeight = 1 + (($this->wins - $this->losses) *.01);
+			$this->initialWeight = 1 + (($this->wins - ($this->actualGames - $this->totalGames) - $this->losses) *.01);
 			$this->finalWeight = 1 + (($this->wins - $this->losses) *.01);
 		}
 
@@ -244,6 +246,7 @@
 			
 		}
 
+		//adjust Final weight for loss against non d1 team
 		function adjustFinalWeightForLossAgainstNonD1(){
 			$this->finalWeight -= 0.10;
 		}
@@ -256,7 +259,7 @@
 			$lossValue = "loss";
 
 			if($opponentWeight == -1 and $result == $lossValue){
-				//$this->weightedWins -= LOSS_AGAINST_NON_D1_TEAM_WW_ADJUSTMENT;
+				$this->weightedWins -= LOSS_AGAINST_NON_D1_TEAM_WW_ADJUSTMENT;
 				return;
 			}else{
 				if($opponentWeight == -1 and $result == $winValue){
@@ -580,6 +583,318 @@
 	}
 
   ?>
+
+  <?php
+/*
+        class Team{
+            private $initials;
+            private $names;
+            private $nameWithMascots;
+            private $totalGames;
+            private $wins; 
+            private $losses;
+            private $initialWeight;
+            private $finalWeight;
+            private $weightedWins;
+
+            //starts each team out with 0 wins and 0 losses
+            function __construct(){
+                $this->totalGames= 0;
+                $this->wins=0;
+                $this->losses=0;
+                $this->initialWeight=1;
+                $this->finalWeight=1;
+                $this->weightedWins=0;
+                $this->initials="";
+                $this->names="";
+                $this->nameWithMascots="";
+            }
+
+            function resetData(){
+                $this->totalGames= 0;
+                $this->wins=0;
+                $this->losses=0;
+                $this->initialWeight=1;
+                $this->finalWeight=1;
+                $this->weightedWins=0;
+                $this->initials="";
+                $this->names="";
+                $this->nameWithMascots="";
+            }
+
+            //reads in names and initials of the teams
+            function readInNames($name, $initial){
+                $this->names= trim($name);
+                $this->initials= trim($initial);
+            }
+            //reads in all game results for the team
+            function readInGameResults($totalGame, $totalWins, $totalLosses){
+                $this->totalGames = $totalGame;
+                $this->wins = $totalWins;
+                $this->losses = $totalLosses;
+            }
+            //reads in all weights of the team
+            function readInWeights($initialWeights, $finalWeights, $weightedWin){
+                $this->initialWeight = $initialWeights;
+                $this->finalWeight = $finalWeights;
+                $this->weightedWins = $weightedWin;
+            }
+
+            //returns the weighted wins of a team
+            function returnWeightedWins(){
+                return $this->weightedWins;
+            }
+
+            //returns initial weight
+            function returninitialWeight(){
+                return $this->initialWeight;
+            }
+
+            //returns final weight
+            function returnFinalWeight(){
+                return $this->finalWeight;
+            }
+
+            //returns name without the mascots
+            function returnNameWithoutMascot(){
+                return $this->names;
+            }
+
+            //returns the name with the mascots
+            function returnNameWithMascots(){
+                return $this->nameWithMascots;
+            }
+
+            //returns total wins
+            function returnTotalWins(){
+                return $this->wins;
+            }
+
+            //returns total losses
+            function returnTotalLosses(){
+                return $this->losses;
+            }
+            
+
+        }
+
+        $teams = [];
+
+        function getData($year){
+            global $teams;
+            $teamNames = fopen("newData.txt", "r") or die;
+            $teamNamesWithMascots = fopen("teamNames.txt", "r") or die;
+            $weightedWinsFile = fopen("weightedWinsData$year.txt", "r") or die;
+            $namesWithoutMascots = [];
+            $namesWithMascots = [];
+            $i=0;
+
+        
+            
+            while(!feof($teamNames)){
+                $namesWithoutMascots[$i] = fgets($teamNames);
+                $namesWithMascots[$i] = fgets($teamNamesWithMascots);
+                $i++;		
+            }
+
+            fclose($teamNames);
+            fclose($teamNamesWithMascots);
+
+			$i=0;
+
+            while(!feof($weightedWinsFile)){
+                $teams[$i] = new Team();
+                $teams[$i]->readInNames(fgets($weightedWinsFile), fgets($weightedWinsFile));
+                $teams[$i]->readInGameResults(fgets($weightedWinsFile), fgets($weightedWinsFile), fgets($weightedWinsFile));
+                $teams[$i]->readInWeights(fgets($weightedWinsFile), fgets($weightedWinsFile), fgets($weightedWinsFile));
+
+                $i++;
+            }
+        }
+
+        function sortTeams(){
+            global $teams;
+
+            usort($teams, function($a, $b) {
+                return $b->returnWeightedWins() <=> $a->returnWeightedWins();
+            });
+        }
+
+        function printData($year, $mode){
+            global $teams;
+            $sortedFile = fopen("sortedWeightedWins$year.txt", "$mode");
+
+            $rank =0;
+            
+			echo "Rank          Team           Wins            Losses                   IW                        FW                        WW        <br>";
+
+            foreach($teams as $index => $team){
+                $rank = $index+1;
+                $teamName = $team->returnNameWithoutMascot();
+                $teamWins = $team->returnTotalWins();
+                $teamLosses = $team->returnTotalLosses();
+                $teamInitialWeight = $team->returnInitialWeight();
+                $teamFinalWeight = $team->returnFinalWeight();
+                $teamWeightedWins = $team->returnWeightedWins();
+
+                
+                
+                fwrite($sortedFile, $rank);
+				fwrite($sortedFile, "\n");
+				fwrite($sortedFile, $teamName);
+				fwrite($sortedFile, "\n");
+				fwrite($sortedFile, $teamWins);
+				fwrite($sortedFile, $teamLosses);
+				fwrite($sortedFile, $teamInitialWeight);
+				fwrite($sortedFile, $teamFinalWeight);
+				fwrite($sortedFile, $teamWeightedWins);
+            }
+
+            fclose($sortedFile);
+        }
+
+		function reset_data(){
+			global $teams;
+			foreach($teams as $index => $team){
+				$team->resetData();
+			}
+		}
+
+        $mode = "w";
+
+        for($year = 2025; $year >= 2003; $year--){
+            getData($year);
+            sortTeams();
+            printData($year, $mode);
+			reset_data();
+        }
+
+*/
+
+    ?>
+
+
+	
 </body>
 </html>
+<!--
 
+<?php
+/*
+		$sortedFileName = "sortedWeightedWins2025.txt";
+		$teams=[];
+
+		$sortedFile = fopen($sortedFileName,"r");
+
+
+		
+		while(($line = fgets($sortedFile)) != false){
+			$data[] = trim($line);
+		}
+
+		$chunkSize=8;
+		for($i=0; $i < count($data);$i++){
+			$teams[] = array_slice($data, $i, $chunkSize);
+		}
+*/
+	?>
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Weighted Wins NCAA Basketball</title>
+  <link rel="icon" type="image/x-icon" href="http://www.weightedwins.com/football.gif">
+  
+  <style>
+  body
+  {
+	text-align:center;
+  }
+  h1
+  {
+	font-family: Arial, sans-serif;
+  }
+  
+  a:link, a:visited
+  {
+	color: rgb(0,0,255);
+	text-decoration: none;
+  }  
+  a:hover, a:active
+  {
+	color: rgb(0, 0, 139);
+	text-decoration: underline;
+  }  
+  #buttons:link, #buttons:visited
+  {
+	background-color: rgb(0,0,145);
+	color: white;
+	padding: 15px 25px;
+	text-decoration: none;
+	display: in-line block;
+  }
+  #buttons:hover, #buttons:active
+  {
+	background-color: rgb(0,0,255);
+	color: white;
+	padding: 15px 25px;
+	text-decoration: none;
+	display: in-line block;
+  }
+
+  table { 
+	border-collapse: collapse; width: 90%; margin: 20px auto; background: #fff; 
+  }
+  th, td { 
+	border: 1px solid #333; padding: 8px; text-align: center; 
+  }
+  th { 
+	background-color: #f2f2f2; 
+  }
+  tr:nth-child(even) { 
+	background-color: #f7f7f7; 
+  }
+  
+  
+  </style>
+</head>
+<body>
+
+  <h1>
+  <img src="https://pics.clipartpng.com/Under_Construction_Warning_Sign_PNG_Clipart-839.png" style="float:left; width:200px;height200px;">
+  <img src="https://static.vecteezy.com/system/resources/previews/045/809/909/non_2x/a-yellow-hard-hat-on-a-transparent-background-free-png.png" 
+  style="float:right; width:200px;height200px;">
+  This website is currently under construction!
+  </h1>
+  
+  <p>The current <a href="http://www.weightedwins.com" target="_blank">website</a> for NCAA D1 football rankings.<br></p>
+  
+  
+  
+  <p><a href="http://www.weightedwins.com"target="_blank" id="buttons">A button for funsies</a></p>
+
+  <h1>TeamStats</h1>
+  <table>
+	<tr>
+		<th>Rank</th>
+		<th>Teams</th>
+		<th>Wins</th>
+		<th>Losses</th>
+		<th>IW</th>
+		<th>FW</th>
+		<th>WW</th>
+		<th>Extra</th>
+	</tr>
+  
+  <?php /*foreach ($teams as $team): ?>
+	
+        <tr>
+            <?php foreach ($team as $item): ?>
+                <td><?php echo htmlspecialchars($item); ?></td>
+            <?php endforeach; ?>
+        </tr>
+        <?php endforeach; */?>
+    </table>
+</body>
+</html> -->
