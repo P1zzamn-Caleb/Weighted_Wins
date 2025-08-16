@@ -61,8 +61,10 @@
   
 
   <?php
+  
 	const ABBRV_LENGTH= 3;
 	const TOTAL_TEAMS=365;
+	const LOSS_AGAINST_NON_D1_TEAM_WW_ADJUSTMENT = -0.950;
 	const NON_D1_TEAM_STRING = "Non-D1 Team";
 
 
@@ -73,6 +75,10 @@
         private $teamsWonAgainst;
         private $teamsLostAgainst;
 		private $opponentsWonAgainstWeightedWins;
+		private $opponentResults;
+		private $opponentNames;
+		private $teamsPlayedAgainst;
+		private $FWadj;
 		private $wins; 
 		private $losses;
 		private $actualGames;
@@ -94,7 +100,11 @@
             $this->nameWithMascots="";
             $this->teamsWonAgainst=[];
             $this->teamsLostAgainst=[];
+			$this->teamsPlayedAgainst = [];
 			$this->opponentsWonAgainstWeightedWins=[];
+			$this->opponentResults = [];
+			$this->opponentNames = [];
+			$this->FWadj = [];
 		}
 		
 		//reads in the names and abbreviations of each team for that year
@@ -122,7 +132,11 @@
 			$this->actualGames=0;
             $this->teamsWonAgainst=[];
             $this->teamsLostAgainst=[];
+			$this->teamsPlayedAgainst = [];
 			$this->opponentsWonAgainstWeightedWins=[];
+			$this->opponentResults = [];
+			$this->opponentNames = [];
+			$this->FWadj = [];
 		}
 		
 		//outputs names with data for testing
@@ -131,6 +145,14 @@
 				 $this->totalGames, "   ", $this->wins, "    ",$this->losses, "    ", 
 				 $this->initialWeight, "   ", $this->finalWeight, 
 				 " ", $this->weightedWins, "<br>";
+
+			foreach($this->opponentNames as $index => $names){
+				$result = $this->opponentResults[$index];
+				$finalAdj = $this->FWadj[$index];
+				echo "Name: $names  Result: $result FWadj: $finalAdj<br>";
+			}
+			echo "countResults: ". count($this->opponentResults) . "countFWadj: ". 
+			     count($this->FWadj). "countNames: ". count($this->opponentNames). "<br>";
 			//print_r($this->opponentsWonAgainstWeightedWins);
 			//echo "<br>";
 			//print_r($this->teamsWonAgainst);
@@ -174,6 +196,13 @@
 		function getNamesWithMascots(){
 			return $this->nameWithMascots;
 		}
+
+		//returns the counted wins
+		function getCountedWins(){
+			$countedWins = $this->wins - ($this->actualGames - $this->totalGames);
+			//echo"$countedWins<br>";
+			return $countedWins;
+		}
 		
 		//adds a win
 		function addWin(){
@@ -185,16 +214,23 @@
 			$this->losses++;
 		}
 
+		function addExtraData($data, $arrayName){
+			$this->{$arrayName}[] = $data;
+		}
+
 		//saves the teams that the team wins and loses against
         function addTeamWonOrLostAgainst($opponentName, $resultLetter){
             if($resultLetter=="W"){
                 $this->teamsWonAgainst[]=$opponentName;
-				
+				$this->teamsPlayedAgainst[]=$opponentName;
             }else{
                 $this->teamsLostAgainst[]=$opponentName;
+				$this->teamsPlayedAgainst[] = $opponentName;
             }
 			$this->actualGames++;
 
+			$this->addExtraData($opponentName, "opponentNames");
+			$this->addExtraData($resultLetter, "opponentResults");
         }
 
 		//returns a teams win total
@@ -217,6 +253,15 @@
 			return $this->teamsWonAgainst;
 		}
 
+		//gets all teams played against
+		function getTeamsPlayedAgainst(){
+			return $this->teamsPlayedAgainst;
+		}
+
+		function getOpponentResults(){
+			return $this->opponentResults;
+		}
+
 		//returns the initial weight of a team
 		function returnInitialWeight(){
 			return $this->initialWeight;
@@ -230,58 +275,70 @@
 
 		//calculates the initial weights for all teams
 		function calculateInitialWeight(){
-			$this->initialWeight = 1 + (($this->wins - $this->losses) *.01);
-			$this->finalWeight = 1 + (($this->wins - $this->losses) *.01);
+			$this->initialWeight = 1 + (($this->wins - ($this->actualGames - $this->totalGames) - $this->losses) *.01);
+			$this->finalWeight = 1 + (($this->wins - ($this->actualGames - $this->totalGames) - $this->losses) *.01);
 		}
 
 		//adjusts the final weights for a loss for all teams
 		function adjustFinalWeightForLoss($opponentWins, $opponentLosses){
+			$deduction = 0;
 			
 			if($opponentWins < $opponentLosses){
 				$deduction = ($opponentWins-$opponentLosses) * 0.01;
 				$this->finalWeight += $deduction;
 			}
+
+			//echo "$deduction <br>";
+			
+			$this->addExtraData($deduction, "FWadj");
 			
 		}
 
+		//adjust Final weight for loss against non d1 team
 		function adjustFinalWeightForLossAgainstNonD1(){
 			$this->finalWeight -= 0.10;
+			$this->addExtraData(-0.10, "FWadj");
 		}
 
 		
 
 		//adds up the weightedWins
 		function addWeightedWins($opponentWeight, $result){
-			$winValue = "win";
-			$lossValue = "loss";
+			$winValue = "W";
+			$lossValue = "L";
 
 			if($opponentWeight == -1 and $result == $lossValue){
-				//$this->weightedWins -= LOSS_AGAINST_NON_D1_TEAM_WW_ADJUSTMENT;
-				return;
+				$this->weightedWins -= LOSS_AGAINST_NON_D1_TEAM_WW_ADJUSTMENT;
 			}else{
 				if($opponentWeight == -1 and $result == $winValue){
 					$this->opponentsWonAgainstWeightedWins[] = -.01;
-					return;
+				}else{ 
+					if($result == $winValue){
+						$this->weightedWins += $opponentWeight;
+						$this->opponentsWonAgainstWeightedWins[] = $opponentWeight;
+					}else{
+						$this->weightedWins += ($opponentWeight - $this->initialWeight);
+					}
 				}
 			}
 
-			if($result == $winValue){
-				$this->weightedWins += $opponentWeight;
-				$this->opponentsWonAgainstWeightedWins[] = $opponentWeight;
-			}else{
-				$this->weightedWins += ($opponentWeight - $this->initialWeight);
-			}
+
+
+			
 		}
 
 		//adjusts the final weights for a win for all teams
-		function adjustFinalWeightForWin($opponentWins, $opponentLosses){
+		function adjustFinalWeightForWin($opponentWins, $opponentLosses, $opponentName){
 			$addition=0;
 
-			
-			if($opponentWins > $opponentLosses){
-				$addition = ($opponentWins-$opponentLosses) * 0.01;
-				$this->finalWeight += $addition;
+			if($opponentName != NON_D1_TEAM_STRING){
+				if($opponentWins > $opponentLosses){
+					$addition = ($opponentWins-$opponentLosses) * 0.01;
+					$this->finalWeight += $addition;
+				}
 			}
+			//echo "$addition <br>";
+			$this->addExtraData($addition, "FWadj");
 			
 
 			
@@ -306,6 +363,8 @@
 			// Split back into separate arrays
 			$this->opponentsWonAgainstWeightedWins = array_column($combined, 'win');
 			$this->teamsWonAgainst = array_column($combined, 'team');
+
+			
     	}
 
 		//sets the order of opponentNames equal to the order of opponent weighted wins
@@ -333,26 +392,6 @@
 		$teams[$i]->outputResults();
 	}
 	
-	
-	//searches for the matching abbreviation using a binary search algorithm
-		function linearTeamAbbrvSearch($teamAbbrv){
-			global $teams;
-			$i=0;
-
-			$tempInitials=trim($teams[$i]->getInitials());
-
-			while($i<count($teams)){
-				if($tempInitials == $teamAbbrv){
-					return $i;
-				}else{
-					$i++;
-					if($i<140){$tempInitials=trim($teams[$i]->getInitials());}
-				}
-			}
-
-            
-			
-		}
 		//cleans the string
 		function cleanStr($str) {
 			//converts encoding to UTF-8
@@ -386,23 +425,6 @@
 			return -1;
         }   
 		
-		function linearTeamSearch($teamName){
-			global $teams;
-			$i=0;
-
-			while($i<count($teams)){
-				$tempTeamName=trim($teams[$i]->getName());
-
-				if(cleanStr($tempTeamName) == cleanStr($teamName)){
-					return $i;
-				}else{
-					$i++;
-				}
-			}
-
-			//returns -1 if not found
-			return -1;
-        }  
 	//adds wins and losses to all teams
 	function addWinsAndLossesToAllTeams($year){
 		global $teams;
@@ -428,7 +450,7 @@
 
         $newTeamString = "Team: ";
 
-		
+		//get win and loss data
 		while(!feof($winLossData)){
 			$opponentName=trim(fgets($winLossData));
 
@@ -468,7 +490,7 @@
 		$i=0;
 
 	
-		
+		//reads in teamNames, teamNamesWithMascots, and teamAbbrv
 		while(!feof($teamNames)){
 			$teams[$i] = new Team();
 			$teams[$i]->readInNames(fgets($teamNames), fgets($teamNames));
@@ -484,65 +506,90 @@
 		global $teams;
 
 		//will be used to add up weighted wins
-		$lossValue = "lost";
-		$winValue = "win";
+		$lossValue = "L";
+		$winValue = "W";
 		$teamNameIndexMap = [];
 
+		//creates an associative array/hashmap
 		foreach ($teams as $index => $team) {
 			$teamNameIndexMap[cleanStr($team->getName())] = $index;
 		}
 
-
+		//calculates initial weights for each team
 		foreach ($teams as $team){
 			$team->calculateInitialWeight();
 		}
 
+		//adjust finalWeights
 		for($i=0;$i<count($teams);$i++){
-			$teamsLostAgainst = $teams[$i]->getTeamsLostAgainst();
-			$teamsWonAgainst = $teams[$i]->getTeamsWonAgainst();
+			$teamsPlayedAgainst = $teams[$i]->getTeamsPlayedAgainst();
+			$opponentResults = $teams[$i]->getOpponentResults();
+
 			
 
 			//adjusts weights for losses
-			for($j=0;$j<count($teamsLostAgainst);$j++){
+			for($j=0;$j<count($teamsPlayedAgainst);$j++){
+				if($opponentResults[$j] == "W"){
+					if (isset($teamNameIndexMap[$teamsPlayedAgainst[$j]])){
+						$opponentsIndex = $teamNameIndexMap[$teamsPlayedAgainst[$j]];
 
-				//$opponentsIndex = linearTeamSearch($teamsLostAgainst[$j]);
-				$cleanOpponent = cleanStr($teamsLostAgainst[$j]);
-				
-				if (isset($teamNameIndexMap[$cleanOpponent])){
-					$opponentsIndex = $teamNameIndexMap[$cleanOpponent];
-
-					$teams[$i]->adjustFinalWeightForLoss($teams[$opponentsIndex]->getWins(), $teams[$opponentsIndex]->getLosses());
-					$teams[$i]->addWeightedWins($teams[$opponentsIndex]->returnFinalWeight(), $lossValue);
+						//echo "$opponentsIndex<br>";
+						$teams[$i]->adjustFinalWeightForWin($teams[$opponentsIndex]->getCountedWins(), $teams[$opponentsIndex]->getLosses(), $teamsPlayedAgainst[$j]);
+					}else{
+						$teams[$i]->adjustFinalWeightForWin(0, 0, NON_D1_TEAM_STRING);
+					}
 				}else{
-					//adjust weights if the team is non-d1
-					$teams[$i]->adjustFinalWeightForLossAgainstNonD1();
-					$teams[$i]->addWeightedWins(-1, $lossValue);
-				}
-			}
+					if (isset($teamNameIndexMap[$teamsPlayedAgainst[$j]])){
+						$opponentsIndex = $teamNameIndexMap[$teamsPlayedAgainst[$j]];
 
-			//adjust weights for wins
-			for($j=0;$j<count($teamsWonAgainst);$j++){
-
-				$cleanOpponent = cleanStr($teamsWonAgainst[$j]);
-				
-				if (isset($teamNameIndexMap[$cleanOpponent])){
-					$opponentsIndex = $teamNameIndexMap[$cleanOpponent];
-
-					$teams[$i]->adjustFinalWeightForWin($teams[$opponentsIndex]->getWins(), $teams[$opponentsIndex]->getLosses(), $teams[$opponentsIndex]->getName());
-					$teams[$i]->addWeightedWins($teams[$opponentsIndex]->returnFinalWeight(), $winValue);
-				}else{
-					$teams[$i]->addWeightedWins(-1, $winValue);
-				
+						//echo "$opponentsIndex<br>";
+						$teams[$i]->adjustFinalWeightForLoss($teams[$opponentsIndex]->getCountedWins(), $teams[$opponentsIndex]->getLosses());
+					}else{
+						$teams[$i]->adjustFinalWeightForLossAgainstNonD1();
+					}
 				}
 			}
 		}
 
-		//removes extra wins
+		//calculates weightedWins
 		for($i=0;$i<count($teams);$i++){
-			$teams[$i]->sortOpponentsWeightedWins();
-			$teams[$i]->sortOpponentsNames();
-			$teams[$i]->removeExtraWins();
-		}	
+				$teamsPlayedAgainst = $teams[$i]->getTeamsPlayedAgainst();
+				$opponentResults = $teams[$i]->getOpponentResults();
+
+				//adjusts WeightedWins
+				for($j=0;$j<count($teamsPlayedAgainst);$j++){
+					if($opponentResults[$j] == "W"){
+						if (isset($teamNameIndexMap[$teamsPlayedAgainst[$j]])){
+							$opponentsIndex = $teamNameIndexMap[$teamsPlayedAgainst[$j]];
+
+							//echo "$opponentsIndex<br>";
+							$teams[$i]->addWeightedWins($teams[$opponentsIndex]->returnFinalWeight(), $winValue);
+						}else{
+							$teams[$i]->addWeightedWins(-1, $winValue);
+						}
+					}else{
+						if (isset($teamNameIndexMap[$teamsPlayedAgainst[$j]])){
+							$opponentsIndex = $teamNameIndexMap[$teamsPlayedAgainst[$j]];
+
+							//echo "$opponentsIndex<br>";
+							$teams[$i]->addWeightedWins($teams[$opponentsIndex]->returnFinalWeight(), $lossValue);
+						}else{
+							$teams[$i]->addWeightedWins(-1, $lossValue);
+						}
+					}
+				}
+			}
+		
+
+			//removes extra wins
+			for($k=0;$k<count($teams);$k++){
+				$teams[$k]->sortOpponentsWeightedWins();
+				$teams[$k]->sortOpponentsNames();
+				$teams[$k]->removeExtraWins();
+			}	
+
+		
+
 
 
 		
@@ -580,6 +627,6 @@
 	}
 
   ?>
-</body>
-</html>
 
+ </body>
+ </html>
