@@ -1,0 +1,4757 @@
+Team: Boston College
+resultW
+teamNon-D1 Team
+FWadj0
+oppFW2.68
+WWadj0
+resultL
+teamYale
+FWadj0
+oppFW2.68
+WWadjDrop
+resultW
+teamHoly Cross
+FWadj0
+oppFW2.68
+WWadj0.02
+resultW
+teamTexas A&M
+FWadj0
+oppFW2.68
+WWadjDrop
+resultL
+teamWisconsin
+FWadj0
+oppFW2.68
+WWadjDrop
+resultW
+teamCalifornia
+FWadj-0.05
+oppFW2.68
+WWadjDrop
+resultW
+teamIndiana
+FWadj0
+oppFW2.68
+WWadjDrop
+resultW
+teamMassachusetts
+FWadj0
+oppFW2.68
+WWadj-0.04
+resultW
+teamProvidence
+FWadj-0.01
+oppFW2.68
+WWadjDrop
+resultW
+teamMaryland
+FWadj0
+oppFW2.68
+WWadj0.1
+resultW
+teamBryant
+FWadj0
+oppFW2.68
+WWadj0.12
+resultW
+teamBucknell
+FWadj0
+oppFW2.68
+WWadjDrop
+resultL
+teamRhode Island
+FWadj0.03
+oppFW2.68
+WWadjDrop
+resultW
+teamSouth Carolina
+FWadj0.1
+oppFW2.68
+WWadjDrop
+resultL
+teamHarvard
+FWadj0.26
+oppFW2.68
+WWadjDrop
+resultW
+teamGeorgia Tech
+FWadj0.11
+oppFW2.68
+WWadjDrop
+resultW
+teamNC State
+FWadj0
+oppFW2.68
+WWadjDrop
+resultL
+teamMiami
+FWadj0.16
+oppFW2.68
+WWadjDrop
+resultW
+teamVirginia
+FWadj0.05
+oppFW2.68
+WWadj1.07
+resultL
+teamFlorida State
+FWadj0
+oppFW2.68
+WWadjDrop
+resultL
+teamDuke
+FWadj0.19
+oppFW2.68
+WWadjDrop
+resultL
+teamNorth Carolina
+FWadj0.2
+oppFW2.68
+WWadjDrop
+resultW
+teamVirginia Tech
+FWadj0.22
+oppFW2.68
+WWadj1.13
+resultL
+teamClemson
+FWadj0.03
+oppFW2.68
+WWadjDrop
+resultW
+teamMaryland
+FWadj0
+oppFW2.68
+WWadj0
+resultL
+teamNorth Carolina
+FWadj0.19
+oppFW2.68
+WWadjDrop
+resultL
+teamMiami
+FWadj0.01
+oppFW2.68
+WWadjDrop
+resultW
+teamVirginia
+FWadj0.1
+oppFW2.68
+WWadj0
+resultW
+teamVirginia Tech
+FWadj0
+oppFW2.68
+WWadj1.03
+resultW
+teamWake Forest
+FWadj0.08
+oppFW2.68
+WWadjDrop
+resultW
+teamWake Forest
+FWadj0
+oppFW2.68
+WWadjDrop
+resultL
+teamClemson
+FWadj
+oppFW2.68
+WWadjDrop
+Team: California
+resultW
+teamCal State Northridge
+FWadj0
+oppFW2.47
+WWadjDrop
+resultW
+teamNew Mexico
+FWadj0
+oppFW2.47
+WWadjDrop
+resultW
+teamTemple
+FWadj0
+oppFW2.47
+WWadjDrop
+resultL
+teamNotre Dame
+FWadj0
+oppFW2.47
+WWadjDrop
+resultL
+teamBoston College
+FWadj0
+oppFW2.47
+WWadjDrop
+resultW
+teamUC Davis
+FWadj-0.05
+oppFW2.47
+WWadjDrop
+resultW
+teamIowa State
+FWadj0
+oppFW2.47
+WWadjDrop
+resultL
+teamSan Diego State
+FWadj0
+oppFW2.47
+WWadjDrop
+resultL
+teamSouthern Miss
+FWadj-0.01
+oppFW2.47
+WWadjDrop
+resultW
+teamCal Poly
+FWadj0
+oppFW2.47
+WWadj0.14
+resultL
+teamKansas
+FWadj0
+oppFW2.47
+WWadjDrop
+resultW
+teamNon-D1 Team
+FWadj0
+oppFW2.47
+WWadj0.18
+resultL
+teamStanford
+FWadj0
+oppFW2.47
+WWadjDrop
+resultL
+teamArizona
+FWadj-0.01
+oppFW2.47
+WWadjDrop
+resultW
+teamArizona State
+FWadj0.08
+oppFW2.47
+WWadj2.68
+resultW
+teamWashington State
+FWadj0.03
+oppFW2.47
+WWadj0
+resultL
+teamWashington
+FWadj0.1
+oppFW2.47
+WWadjDrop
+resultL
+teamUCLA
+FWadj0.26
+oppFW2.47
+WWadj1.17
+resultW
+teamUSC
+FWadj0.11
+oppFW2.47
+WWadjDrop
+resultW
+teamOregon State
+FWadj0
+oppFW2.47
+WWadj0
+resultW
+teamOregon
+FWadj0.05
+oppFW2.47
+WWadjDrop
+resultW
+teamArizona State
+FWadj0
+oppFW2.47
+WWadj0
+resultL
+teamArizona
+FWadj0.19
+oppFW2.47
+WWadjDrop
+resultL
+teamWashington
+FWadj0.2
+oppFW2.47
+WWadjDrop
+resultL
+teamWashington State
+FWadj0.22
+oppFW2.47
+WWadj1.13
+resultL
+teamUSC
+FWadj0.03
+oppFW2.47
+WWadjDrop
+resultW
+teamUCLA
+FWadj0
+oppFW2.47
+WWadj0
+resultW
+teamOregon
+FWadj0.19
+oppFW2.47
+WWadjDrop
+resultW
+teamOregon State
+FWadj0.01
+oppFW2.47
+WWadj1.11
+resultW
+teamStanford
+FWadj0.1
+oppFW2.47
+WWadjDrop
+resultL
+teamUSC
+FWadj
+oppFW2.47
+WWadjDrop
+Team: Clemson
+resultW
+teamWestern Carolina
+FWadj0
+oppFW2.78
+WWadjDrop
+resultW
+teamWofford
+FWadj0
+oppFW2.78
+WWadjDrop
+resultW
+teamLong Beach State
+FWadj0
+oppFW2.78
+WWadjDrop
+resultL
+teamOld Dominion
+FWadj0
+oppFW2.78
+WWadjDrop
+resultW
+teamSeton Hall
+FWadj0
+oppFW2.78
+WWadjDrop
+resultW
+teamSouth Carolina State
+FWadj-0.05
+oppFW2.78
+WWadjDrop
+resultL
+teamMichigan
+FWadj0
+oppFW2.78
+WWadjDrop
+resultL
+teamSouth Carolina
+FWadj0
+oppFW2.78
+WWadjDrop
+resultL
+teamFlorida State
+FWadj-0.01
+oppFW2.78
+WWadjDrop
+resultW
+teamNon-D1 Team
+FWadj0
+oppFW2.78
+WWadj0.08
+resultW
+teamUNC Greensboro
+FWadj0
+oppFW2.78
+WWadjDrop
+resultW
+teamCharleston
+FWadj0.08
+oppFW2.78
+WWadj2.68
+resultW
+teamDelaware State
+FWadj0.03
+oppFW2.78
+WWadj0
+resultW
+teamEast Carolina
+FWadj0.1
+oppFW2.78
+WWadjDrop
+resultW
+teamThe Citadel
+FWadj0.26
+oppFW2.78
+WWadjDrop
+resultW
+teamMiami
+FWadj0.11
+oppFW2.78
+WWadj1.05
+resultW
+teamGeorgia Tech
+FWadj0.16
+oppFW2.78
+WWadj0
+resultL
+teamNorth Carolina
+FWadj0.05
+oppFW2.78
+WWadjDrop
+resultL
+teamMaryland
+FWadj0
+oppFW2.78
+WWadjDrop
+resultW
+teamNC State
+FWadj0.19
+oppFW2.78
+WWadj0
+resultW
+teamFlorida State
+FWadj0.2
+oppFW2.78
+WWadjDrop
+resultL
+teamVirginia
+FWadj0.22
+oppFW2.78
+WWadjDrop
+resultW
+teamGeorgia Tech
+FWadj0.03
+oppFW2.78
+WWadj1.15
+resultW
+teamBoston College
+FWadj0
+oppFW2.78
+WWadj0
+resultL
+teamNorth Carolina
+FWadj0.19
+oppFW2.78
+WWadjDrop
+resultL
+teamNC State
+FWadj0.01
+oppFW2.78
+WWadj1.11
+resultW
+teamMiami
+FWadj0.1
+oppFW2.78
+WWadj0
+resultW
+teamWake Forest
+FWadj0
+oppFW2.78
+WWadjDrop
+resultL
+teamDuke
+FWadj0.08
+oppFW2.78
+WWadjDrop
+resultW
+teamVirginia Tech
+FWadj0
+oppFW2.78
+WWadjDrop
+resultW
+teamBoston College
+FWadj0
+oppFW2.78
+WWadj1.25
+resultL
+teamNorth Carolina
+FWadj
+oppFW2.78
+WWadjDrop
+Team: Duke
+resultW
+teamPrinceton
+FWadj0
+oppFW3.1
+WWadjDrop
+resultW
+teamMiami (OH)
+FWadj0
+oppFW3.1
+WWadjDrop
+resultW
+teamColgate
+FWadj0
+oppFW3.1
+WWadjDrop
+resultW
+teamMarquette
+FWadj0
+oppFW3.1
+WWadjDrop
+resultW
+teamKansas State
+FWadj0.08
+oppFW3.1
+WWadjDrop
+resultW
+teamOregon
+FWadj0.03
+oppFW3.1
+WWadj0
+resultW
+teamMichigan State
+FWadj0.1
+oppFW3.1
+WWadjDrop
+resultW
+teamButler
+FWadj0.26
+oppFW3.1
+WWadjDrop
+resultW
+teamBradley
+FWadj0.11
+oppFW3.1
+WWadj1.05
+resultW
+teamSaint Louis
+FWadj0
+oppFW3.1
+WWadjDrop
+resultW
+teamElon
+FWadj0.16
+oppFW3.1
+WWadjDrop
+resultW
+teamUNC Greensboro
+FWadj0.05
+oppFW3.1
+WWadjDrop
+resultW
+teamMiami
+FWadj0
+oppFW3.1
+WWadj0
+resultW
+teamUAB
+FWadj0.19
+oppFW3.1
+WWadj1.11
+resultW
+teamMaryland
+FWadj0.2
+oppFW3.1
+WWadjDrop
+resultL
+teamFlorida State
+FWadj0.22
+oppFW3.1
+WWadjDrop
+resultW
+teamVirginia
+FWadj0.03
+oppFW3.1
+WWadjDrop
+resultW
+teamNC State
+FWadj0
+oppFW3.1
+WWadj0
+resultW
+teamWake Forest
+FWadj0.19
+oppFW3.1
+WWadj1.11
+resultW
+teamBoston College
+FWadj0.01
+oppFW3.1
+WWadjDrop
+resultL
+teamSt. John's
+FWadj0.1
+oppFW3.1
+WWadjDrop
+resultW
+teamMaryland
+FWadj0
+oppFW3.1
+WWadjDrop
+resultW
+teamNC State
+FWadj0.08
+oppFW3.1
+WWadj1.01
+resultW
+teamNorth Carolina
+FWadj0
+oppFW3.1
+WWadj1.25
+resultW
+teamMiami
+FWadj0
+oppFW3.1
+WWadj0
+resultW
+teamVirginia
+FWadj0
+oppFW3.1
+WWadjDrop
+resultW
+teamGeorgia Tech
+FWadj0
+oppFW3.1
+WWadjDrop
+resultW
+teamTemple
+FWadj0.08
+oppFW3.1
+WWadjDrop
+resultL
+teamVirginia Tech
+FWadj0.04
+oppFW3.1
+WWadj0
+resultW
+teamClemson
+FWadj0
+oppFW3.1
+WWadj1.23
+resultL
+teamNorth Carolina
+FWadj0
+oppFW3.1
+WWadj0
+resultW
+teamMaryland
+FWadj0
+oppFW3.1
+WWadjDrop
+resultW
+teamVirginia Tech
+FWadj0
+oppFW3.1
+WWadj0
+resultW
+teamNorth Carolina
+FWadj0
+oppFW3.1
+WWadj1.25
+Team: Florida State
+resultW
+teamNorth Florida
+FWadj0
+oppFW2.8
+WWadjDrop
+resultW
+teamUNC Greensboro
+FWadj0
+oppFW2.8
+WWadjDrop
+resultW
+teamGardner-Webb
+FWadj0
+oppFW2.8
+WWadjDrop
+resultW
+teamFlorida International
+FWadj0
+oppFW2.8
+WWadjDrop
+resultW
+teamMercer
+FWadj0
+oppFW2.8
+WWadjDrop
+resultL
+teamFlorida
+FWadj-0.05
+oppFW2.8
+WWadjDrop
+resultL
+teamOhio State
+FWadj0
+oppFW2.8
+WWadjDrop
+resultW
+teamNon-D1 Team
+FWadj0
+oppFW2.8
+WWadj-0.08
+resultW
+teamClemson
+FWadj-0.01
+oppFW2.8
+WWadjDrop
+resultW
+teamStetson
+FWadj0
+oppFW2.8
+WWadjDrop
+resultW
+teamLoyola Marymount
+FWadj0.08
+oppFW2.8
+WWadj2.68
+resultW
+teamHawai'i
+FWadj0.03
+oppFW2.8
+WWadjDrop
+resultL
+teamButler
+FWadj0.1
+oppFW2.8
+WWadjDrop
+resultW
+teamBaylor
+FWadj0.26
+oppFW2.8
+WWadjDrop
+resultL
+teamAuburn
+FWadj0.11
+oppFW2.8
+WWadjDrop
+resultL
+teamVirginia Tech
+FWadj0.16
+oppFW2.8
+WWadjDrop
+resultW
+teamDuke
+FWadj0.05
+oppFW2.8
+WWadjDrop
+resultW
+teamNC State
+FWadj0
+oppFW2.8
+WWadj0
+resultW
+teamMiami
+FWadj0.19
+oppFW2.8
+WWadj0
+resultW
+teamBoston College
+FWadj0.2
+oppFW2.8
+WWadjDrop
+resultL
+teamClemson
+FWadj0.22
+oppFW2.8
+WWadjDrop
+resultW
+teamWake Forest
+FWadj0.03
+oppFW2.8
+WWadj1.15
+resultL
+teamNorth Carolina
+FWadj0
+oppFW2.8
+WWadjDrop
+resultW
+teamGeorgia Tech
+FWadj0.19
+oppFW2.8
+WWadjDrop
+resultW
+teamVirginia
+FWadj0.01
+oppFW2.8
+WWadj1.11
+resultW
+teamWake Forest
+FWadj0.1
+oppFW2.8
+WWadj0
+resultL
+teamMaryland
+FWadj0
+oppFW2.8
+WWadjDrop
+resultW
+teamMiami
+FWadj0.08
+oppFW2.8
+WWadj0
+resultL
+teamNorth Carolina
+FWadj0
+oppFW2.8
+WWadjDrop
+resultW
+teamNC State
+FWadj0
+oppFW2.8
+WWadj1.25
+resultL
+teamVirginia Tech
+FWadj
+oppFW2.8
+WWadjDrop
+Team: Georgia Tech
+resultW
+teamCharleston Southern
+FWadj0
+oppFW1.98
+WWadjDrop
+resultL
+teamKennesaw State
+FWadj0
+oppFW1.98
+WWadjDrop
+resultW
+teamUAlbany
+FWadj0
+oppFW1.98
+WWadjDrop
+resultW
+teamNiagara
+FWadj0
+oppFW1.98
+WWadjDrop
+resultW
+teamUTEP
+FWadj0
+oppFW1.98
+WWadjDrop
+resultL
+teamSyracuse
+FWadj-0.05
+oppFW1.98
+WWadjDrop
+resultL
+teamNorthwestern
+FWadj0
+oppFW1.98
+WWadjDrop
+resultL
+teamGeorgia
+FWadj0
+oppFW1.98
+WWadjDrop
+resultW
+teamNon-D1 Team
+FWadj-0.01
+oppFW1.98
+WWadj0.04
+resultW
+teamRichmond
+FWadj0
+oppFW1.98
+WWadjDrop
+resultL
+teamSiena
+FWadj0
+oppFW1.98
+WWadjDrop
+resultL
+teamMercer
+FWadj0
+oppFW1.98
+WWadjDrop
+resultW
+teamCharlotte
+FWadj0
+oppFW1.98
+WWadj0.08
+resultL
+teamBoston College
+FWadj-0.01
+oppFW1.98
+WWadjDrop
+resultL
+teamClemson
+FWadj0
+oppFW1.98
+WWadjDrop
+resultL
+teamNorth Carolina
+FWadj0
+oppFW1.98
+WWadjDrop
+resultW
+teamWake Forest
+FWadj0
+oppFW1.98
+WWadj0.14
+resultW
+teamVirginia
+FWadj-0.16
+oppFW1.98
+WWadj-0.12
+resultL
+teamVirginia Tech
+FWadj0.08
+oppFW1.98
+WWadj2.68
+resultW
+teamMaryland
+FWadj0.03
+oppFW1.98
+WWadj0
+resultL
+teamMiami
+FWadj0.1
+oppFW1.98
+WWadjDrop
+resultL
+teamClemson
+FWadj0.26
+oppFW1.98
+WWadjDrop
+resultL
+teamFlorida State
+FWadj0
+oppFW1.98
+WWadjDrop
+resultL
+teamVirginia Tech
+FWadj0.16
+oppFW1.98
+WWadj0
+resultL
+teamChattanooga
+FWadj0.05
+oppFW1.98
+WWadjDrop
+resultW
+teamDuke
+FWadj0
+oppFW1.98
+WWadjDrop
+resultL
+teamVirginia
+FWadj0.19
+oppFW1.98
+WWadj0
+resultL
+teamNC State
+FWadj0.2
+oppFW1.98
+WWadjDrop
+resultL
+teamWake Forest
+FWadj0.22
+oppFW1.98
+WWadj1.13
+resultW
+teamMiami
+FWadj0.03
+oppFW1.98
+WWadjDrop
+resultW
+teamVirginia Tech
+FWadj
+oppFW1.98
+WWadj0
+Team: Louisville
+resultW
+teamButler
+FWadj0
+oppFW2.94
+WWadjDrop
+resultW
+teamJackson State
+FWadj0
+oppFW2.94
+WWadjDrop
+resultW
+teamChattanooga
+FWadj0
+oppFW2.94
+WWadjDrop
+resultW
+teamMarshall
+FWadj0
+oppFW2.94
+WWadjDrop
+resultW
+teamFlorida International
+FWadj0
+oppFW2.94
+WWadjDrop
+resultW
+teamSouth Alabama
+FWadj-0.05
+oppFW2.94
+WWadjDrop
+resultW
+teamSan Francisco
+FWadj0
+oppFW2.94
+WWadjDrop
+resultW
+teamUNLV
+FWadj0
+oppFW2.94
+WWadj-0.1
+resultL
+teamDrexel
+FWadj-0.01
+oppFW2.94
+WWadjDrop
+resultW
+teamGardner-Webb
+FWadj0.08
+oppFW2.94
+WWadj2.68
+resultW
+teamWestern Kentucky
+FWadj0.03
+oppFW2.94
+WWadjDrop
+resultW
+teamMorgan State
+FWadj0.1
+oppFW2.94
+WWadjDrop
+resultL
+teamKentucky
+FWadj0.26
+oppFW2.94
+WWadjDrop
+resultW
+teamSeton Hall
+FWadj0.11
+oppFW2.94
+WWadjDrop
+resultW
+teamSouth Florida
+FWadj0
+oppFW2.94
+WWadj0
+resultL
+teamVillanova
+FWadj0.16
+oppFW2.94
+WWadjDrop
+resultW
+teamMarquette
+FWadj0.05
+oppFW2.94
+WWadj0
+resultW
+teamSt. John's
+FWadj0
+oppFW2.94
+WWadjDrop
+resultL
+teamProvidence
+FWadj0.19
+oppFW2.94
+WWadj1.11
+resultW
+teamWest Virginia
+FWadj0.2
+oppFW2.94
+WWadj1.13
+resultW
+teamUConn
+FWadj0.22
+oppFW2.94
+WWadjDrop
+resultL
+teamGeorgetown
+FWadj0.03
+oppFW2.94
+WWadjDrop
+resultW
+teamDePaul
+FWadj0
+oppFW2.94
+WWadj0
+resultL
+teamNotre Dame
+FWadj0.19
+oppFW2.94
+WWadjDrop
+resultW
+teamSyracuse
+FWadj0.01
+oppFW2.94
+WWadjDrop
+resultL
+teamCincinnati
+FWadj0.1
+oppFW2.94
+WWadjDrop
+resultW
+teamUConn
+FWadj0
+oppFW2.94
+WWadjDrop
+resultW
+teamRutgers
+FWadj0.08
+oppFW2.94
+WWadj1.01
+resultW
+teamPittsburgh
+FWadj0
+oppFW2.94
+WWadj1.25
+resultW
+teamProvidence
+FWadj0
+oppFW2.94
+WWadj0
+resultL
+teamWest Virginia
+FWadj0
+oppFW2.94
+WWadj0
+resultW
+teamMarquette
+FWadj0
+oppFW2.94
+WWadj0
+resultW
+teamNotre Dame
+FWadj0.08
+oppFW2.94
+WWadjDrop
+resultL
+teamUConn
+FWadj0.04
+oppFW2.94
+WWadjDrop
+Team: Miami
+resultW
+teamJacksonville
+FWadj0
+oppFW2.71
+WWadjDrop
+resultL
+teamMemphis
+FWadj0
+oppFW2.71
+WWadjDrop
+resultW
+teamNorth Carolina Central
+FWadj0
+oppFW2.71
+WWadjDrop
+resultL
+teamRutgers
+FWadj0
+oppFW2.71
+WWadjDrop
+resultW
+teamMcNeese
+FWadj0
+oppFW2.71
+WWadjDrop
+resultW
+teamFlorida Gulf Coast
+FWadj-0.05
+oppFW2.71
+WWadjDrop
+resultW
+teamOle Miss
+FWadj0
+oppFW2.71
+WWadjDrop
+resultW
+teamWest Virginia
+FWadj0
+oppFW2.71
+WWadjDrop
+resultW
+teamStetson
+FWadj-0.01
+oppFW2.71
+WWadjDrop
+resultL
+teamUCF
+FWadj0
+oppFW2.71
+WWadjDrop
+resultW
+teamOral Roberts
+FWadj0
+oppFW2.71
+WWadjDrop
+resultW
+teamRice
+FWadj0
+oppFW2.71
+WWadj0.18
+resultW
+teamAkron
+FWadj0
+oppFW2.71
+WWadj0
+resultW
+teamPepperdine
+FWadj-0.01
+oppFW2.71
+WWadjDrop
+resultL
+teamDuke
+FWadj0.08
+oppFW2.71
+WWadjDrop
+resultL
+teamClemson
+FWadj0.03
+oppFW2.71
+WWadjDrop
+resultW
+teamBoston College
+FWadj0.1
+oppFW2.71
+WWadj2.78
+resultL
+teamFlorida State
+FWadj0.26
+oppFW2.71
+WWadjDrop
+resultL
+teamNC State
+FWadj0.11
+oppFW2.71
+WWadjDrop
+resultL
+teamNorth Carolina
+FWadj0
+oppFW2.71
+WWadjDrop
+resultL
+teamVirginia Tech
+FWadj0.16
+oppFW2.71
+WWadjDrop
+resultW
+teamGeorgia Tech
+FWadj0.05
+oppFW2.71
+WWadj0
+resultW
+teamVirginia
+FWadj0
+oppFW2.71
+WWadj0
+resultW
+teamWake Forest
+FWadj0.19
+oppFW2.71
+WWadjDrop
+resultL
+teamDuke
+FWadj0.2
+oppFW2.71
+WWadjDrop
+resultW
+teamUNC Greensboro
+FWadj0.22
+oppFW2.71
+WWadj1.15
+resultL
+teamClemson
+FWadj0.03
+oppFW2.71
+WWadjDrop
+resultW
+teamBoston College
+FWadj0
+oppFW2.71
+WWadj0
+resultL
+teamFlorida State
+FWadj0.19
+oppFW2.71
+WWadjDrop
+resultW
+teamMaryland
+FWadj0.01
+oppFW2.71
+WWadj0
+resultL
+teamGeorgia Tech
+FWadj0.1
+oppFW2.71
+WWadj1.03
+resultW
+teamVirginia
+FWadj0
+oppFW2.71
+WWadj0
+resultL
+teamNorth Carolina
+FWadj0.08
+oppFW2.71
+WWadjDrop
+Team: NC State
+resultW
+teamTennessee Tech
+FWadj0
+oppFW2.48
+WWadjDrop
+resultW
+teamEast Carolina
+FWadj0
+oppFW2.48
+WWadjDrop
+resultW
+teamGeorge Mason
+FWadj0
+oppFW2.48
+WWadjDrop
+resultL
+teamGeorgetown
+FWadj0
+oppFW2.48
+WWadjDrop
+resultW
+teamFairleigh Dickinson
+FWadj0
+oppFW2.48
+WWadjDrop
+resultL
+teamWisconsin
+FWadj-0.05
+oppFW2.48
+WWadjDrop
+resultL
+teamSyracuse
+FWadj0
+oppFW2.48
+WWadjDrop
+resultW
+teamSouth Carolina Upstate
+FWadj0
+oppFW2.48
+WWadjDrop
+resultW
+teamYoungstown State
+FWadj-0.01
+oppFW2.48
+WWadjDrop
+resultL
+teamArizona
+FWadj0
+oppFW2.48
+WWadjDrop
+resultW
+teamDelaware State
+FWadj0
+oppFW2.48
+WWadjDrop
+resultW
+teamAlabama A&M
+FWadj0
+oppFW2.48
+WWadjDrop
+resultW
+teamSan Diego
+FWadj0
+oppFW2.48
+WWadjDrop
+resultW
+teamElon
+FWadj-0.01
+oppFW2.48
+WWadj0
+resultW
+teamWake Forest
+FWadj0
+oppFW2.48
+WWadj0.18
+resultL
+teamBoston College
+FWadj0
+oppFW2.48
+WWadjDrop
+resultL
+teamFlorida State
+FWadj0.08
+oppFW2.48
+WWadjDrop
+resultL
+teamDuke
+FWadj0.03
+oppFW2.48
+WWadjDrop
+resultW
+teamMiami
+FWadj0.1
+oppFW2.48
+WWadj2.78
+resultL
+teamClemson
+FWadj0.26
+oppFW2.48
+WWadj3.1
+resultL
+teamNorth Carolina
+FWadj0.11
+oppFW2.48
+WWadjDrop
+resultL
+teamVirginia Tech
+FWadj0
+oppFW2.48
+WWadjDrop
+resultL
+teamDuke
+FWadj0.16
+oppFW2.48
+WWadjDrop
+resultW
+teamWake Forest
+FWadj0.05
+oppFW2.48
+WWadj0
+resultW
+teamClemson
+FWadj0
+oppFW2.48
+WWadj0
+resultL
+teamMaryland
+FWadj0.19
+oppFW2.48
+WWadjDrop
+resultL
+teamNorth Carolina
+FWadj0.2
+oppFW2.48
+WWadjDrop
+resultW
+teamGeorgia Tech
+FWadj0.22
+oppFW2.48
+WWadj1.15
+resultL
+teamVirginia
+FWadj0.03
+oppFW2.48
+WWadjDrop
+resultL
+teamFlorida State
+FWadj0
+oppFW2.48
+WWadjDrop
+resultL
+teamMaryland
+FWadj0.19
+oppFW2.48
+WWadjDrop
+Team: North Carolina
+resultW
+teamLipscomb
+FWadj0
+oppFW2.99
+WWadjDrop
+resultW
+teamHofstra
+FWadj0
+oppFW2.99
+WWadjDrop
+resultL
+teamMinnesota
+FWadj0
+oppFW2.99
+WWadjDrop
+resultL
+teamVanderbilt
+FWadj0
+oppFW2.99
+WWadjDrop
+resultW
+teamUNC Asheville
+FWadj0
+oppFW2.99
+WWadjDrop
+resultW
+teamCharleston
+FWadj-0.05
+oppFW2.99
+WWadjDrop
+resultL
+teamIllinois
+FWadj0
+oppFW2.99
+WWadjDrop
+resultW
+teamKentucky
+FWadj0.08
+oppFW2.99
+WWadjDrop
+resultW
+teamEvansville
+FWadj0.03
+oppFW2.99
+WWadjDrop
+resultW
+teamLong Beach State
+FWadj0.1
+oppFW2.99
+WWadjDrop
+resultL
+teamTexas
+FWadj0.26
+oppFW2.99
+WWadjDrop
+resultW
+teamWilliam & Mary
+FWadj0.11
+oppFW2.99
+WWadjDrop
+resultW
+teamRutgers
+FWadj0
+oppFW2.99
+WWadjDrop
+resultW
+teamSaint Francis
+FWadj0.16
+oppFW2.99
+WWadjDrop
+resultW
+teamVirginia
+FWadj0.05
+oppFW2.99
+WWadjDrop
+resultW
+teamVirginia Tech
+FWadj0
+oppFW2.99
+WWadjDrop
+resultL
+teamGeorgia Tech
+FWadj0.19
+oppFW2.99
+WWadjDrop
+resultW
+teamClemson
+FWadj0.2
+oppFW2.99
+WWadj1.13
+resultW
+teamMiami
+FWadj0.22
+oppFW2.99
+WWadj1.15
+resultW
+teamNC State
+FWadj0.03
+oppFW2.99
+WWadj0
+resultW
+teamBoston College
+FWadj0
+oppFW2.99
+WWadj0
+resultW
+teamFlorida State
+FWadj0.19
+oppFW2.99
+WWadj1.11
+resultL
+teamDuke
+FWadj0.01
+oppFW2.99
+WWadjDrop
+resultW
+teamClemson
+FWadj0.1
+oppFW2.99
+WWadj1.03
+resultW
+teamWake Forest
+FWadj0
+oppFW2.99
+WWadjDrop
+resultW
+teamBoston College
+FWadj0.08
+oppFW2.99
+WWadj1.01
+resultW
+teamNC State
+FWadj0
+oppFW2.99
+WWadj1.25
+resultW
+teamMaryland
+FWadj0
+oppFW2.99
+WWadj0
+resultW
+teamFlorida State
+FWadj0
+oppFW2.99
+WWadj0
+resultW
+teamDuke
+FWadj0
+oppFW2.99
+WWadjDrop
+resultW
+teamMiami
+FWadj0.08
+oppFW2.99
+WWadj1.03
+resultW
+teamClemson
+FWadj0.04
+oppFW2.99
+WWadj0
+resultL
+teamDuke
+FWadj0
+oppFW2.99
+WWadjDrop
+Team: Notre Dame
+resultW
+teamGeorgia Southern
+FWadj0
+oppFW3.01
+WWadjDrop
+resultW
+teamLiberty
+FWadj0
+oppFW3.01
+WWadjDrop
+resultW
+teamChicago State
+FWadj0
+oppFW3.01
+WWadjDrop
+resultW
+teamMaine
+FWadj0
+oppFW3.01
+WWadjDrop
+resultW
+teamGeorgia
+FWadj0
+oppFW3.01
+WWadjDrop
+resultW
+teamCalifornia
+FWadj-0.05
+oppFW3.01
+WWadjDrop
+resultW
+teamWisconsin
+FWadj0.08
+oppFW3.01
+WWadjDrop
+resultW
+teamIndiana State
+FWadj0.03
+oppFW3.01
+WWadjDrop
+resultL
+teamKentucky
+FWadj0.1
+oppFW3.01
+WWadjDrop
+resultW
+teamGonzaga
+FWadj0.26
+oppFW3.01
+WWadjDrop
+resultW
+teamStony Brook
+FWadj0.11
+oppFW3.01
+WWadjDrop
+resultW
+teamUMBC
+FWadj0
+oppFW3.01
+WWadjDrop
+resultW
+teamGeorgetown
+FWadj0.16
+oppFW3.01
+WWadjDrop
+resultL
+teamSyracuse
+FWadj0.05
+oppFW3.01
+WWadjDrop
+resultW
+teamUConn
+FWadj0
+oppFW3.01
+WWadj0
+resultW
+teamSt. John's
+FWadj0.19
+oppFW3.01
+WWadj2.99
+resultL
+teamMarquette
+FWadj0.2
+oppFW3.01
+WWadj2.26
+resultL
+teamSt. John's
+FWadj0.22
+oppFW3.01
+WWadj1.15
+resultW
+teamCincinnati
+FWadj0.03
+oppFW3.01
+WWadjDrop
+resultW
+teamMarquette
+FWadj0
+oppFW3.01
+WWadj0
+resultW
+teamPittsburgh
+FWadj0.19
+oppFW3.01
+WWadjDrop
+resultW
+teamDePaul
+FWadj0.01
+oppFW3.01
+WWadj0
+resultW
+teamRutgers
+FWadj0.1
+oppFW3.01
+WWadjDrop
+resultW
+teamLouisville
+FWadj0
+oppFW3.01
+WWadjDrop
+resultW
+teamSouth Florida
+FWadj0.08
+oppFW3.01
+WWadj1.01
+resultL
+teamWest Virginia
+FWadj0
+oppFW3.01
+WWadjDrop
+resultW
+teamProvidence
+FWadj0
+oppFW3.01
+WWadj0
+resultW
+teamSeton Hall
+FWadj0
+oppFW3.01
+WWadj0
+resultW
+teamVillanova
+FWadj0
+oppFW3.01
+WWadjDrop
+resultW
+teamUConn
+FWadj0.08
+oppFW3.01
+WWadj1.03
+resultW
+teamCincinnati
+FWadj0.04
+oppFW3.01
+WWadjDrop
+resultL
+teamLouisville
+FWadj0
+oppFW3.01
+WWadjDrop
+Team: Pittsburgh
+resultW
+teamRhode Island
+FWadj0
+oppFW3.08
+WWadjDrop
+resultW
+teamUIC
+FWadj0
+oppFW3.08
+WWadjDrop
+resultW
+teamNorth Florida
+FWadj0
+oppFW3.08
+WWadjDrop
+resultW
+teamMaryland
+FWadj0
+oppFW3.08
+WWadjDrop
+resultW
+teamTexas
+FWadj0
+oppFW3.08
+WWadjDrop
+resultW
+teamRobert Morris
+FWadj0.08
+oppFW3.08
+WWadjDrop
+resultW
+teamPennsylvania
+FWadj0.03
+oppFW3.08
+WWadjDrop
+resultW
+teamDuquesne
+FWadj0.1
+oppFW3.08
+WWadjDrop
+resultW
+teamRider
+FWadj0.26
+oppFW3.08
+WWadjDrop
+resultW
+teamDelaware State
+FWadj0.11
+oppFW3.08
+WWadjDrop
+resultL
+teamTennessee
+FWadj0
+oppFW3.08
+WWadjDrop
+resultW
+teamMaryland Eastern Shore
+FWadj0.16
+oppFW3.08
+WWadjDrop
+resultW
+teamAmerican University
+FWadj0.05
+oppFW3.08
+WWadjDrop
+resultW
+teamUConn
+FWadj0
+oppFW3.08
+WWadjDrop
+resultW
+teamProvidence
+FWadj0.19
+oppFW3.08
+WWadj2.99
+resultW
+teamMarquette
+FWadj0.2
+oppFW3.08
+WWadjDrop
+resultW
+teamGeorgetown
+FWadj0.22
+oppFW3.08
+WWadj2.55
+resultW
+teamSeton Hall
+FWadj0.03
+oppFW3.08
+WWadjDrop
+resultW
+teamSyracuse
+FWadj0
+oppFW3.08
+WWadj0
+resultW
+teamDePaul
+FWadj0.19
+oppFW3.08
+WWadjDrop
+resultL
+teamNotre Dame
+FWadj0.01
+oppFW3.08
+WWadjDrop
+resultW
+teamRutgers
+FWadj0.1
+oppFW3.08
+WWadjDrop
+resultW
+teamCincinnati
+FWadj0
+oppFW3.08
+WWadj0
+resultW
+teamWest Virginia
+FWadj0.08
+oppFW3.08
+WWadj1.01
+resultW
+teamVillanova
+FWadj0
+oppFW3.08
+WWadj1.25
+resultW
+teamSouth Florida
+FWadj0
+oppFW3.08
+WWadjDrop
+resultL
+teamSt. John's
+FWadj0
+oppFW3.08
+WWadjDrop
+resultW
+teamWest Virginia
+FWadj0
+oppFW3.08
+WWadj0
+resultL
+teamLouisville
+FWadj0.08
+oppFW3.08
+WWadjDrop
+resultW
+teamSouth Florida
+FWadj0.04
+oppFW3.08
+WWadjDrop
+resultW
+teamVillanova
+FWadj0
+oppFW3.08
+WWadj1.23
+resultL
+teamUConn
+FWadj0
+oppFW3.08
+WWadjDrop
+Team: SMU
+resultL
+teamLittle Rock
+FWadj0
+oppFW2.53
+WWadjDrop
+resultL
+teamTCU
+FWadj0
+oppFW2.53
+WWadjDrop
+resultW
+teamPortland State
+FWadj0
+oppFW2.53
+WWadjDrop
+resultL
+teamUC Riverside
+FWadj0
+oppFW2.53
+WWadjDrop
+resultW
+teamLamar
+FWadj0
+oppFW2.53
+WWadjDrop
+resultW
+teamNon-D1 Team
+FWadj-0.05
+oppFW2.53
+WWadj1.01
+resultW
+teamCentral Arkansas
+FWadj0
+oppFW2.53
+WWadjDrop
+resultL
+teamLouisiana Tech
+FWadj0
+oppFW2.53
+WWadjDrop
+resultW
+teamGrambling
+FWadj-0.01
+oppFW2.53
+WWadjDrop
+resultW
+teamNon-D1 Team
+FWadj0
+oppFW2.53
+WWadj2.02
+resultW
+teamAlabama State
+FWadj0
+oppFW2.53
+WWadjDrop
+resultW
+teamSoutheast Missouri State
+FWadj0
+oppFW2.53
+WWadjDrop
+resultW
+teamNon-D1 Team
+FWadj0
+oppFW2.53
+WWadj-0.06
+resultL
+teamOle Miss
+FWadj-0.01
+oppFW2.53
+WWadjDrop
+resultL
+teamTulane
+FWadj0.08
+oppFW2.53
+WWadjDrop
+resultW
+teamMemphis
+FWadj0.03
+oppFW2.53
+WWadjDrop
+resultL
+teamHouston
+FWadj0.26
+oppFW2.53
+WWadj0
+resultL
+teamUAB
+FWadj0.11
+oppFW2.53
+WWadjDrop
+resultW
+teamSouthern Miss
+FWadj0.16
+oppFW2.53
+WWadjDrop
+resultW
+teamTulsa
+FWadj0.05
+oppFW2.53
+WWadjDrop
+resultW
+teamRice
+FWadj0.19
+oppFW2.53
+WWadj2.94
+resultW
+teamEast Carolina
+FWadj0.2
+oppFW2.53
+WWadj0
+resultW
+teamTulane
+FWadj0.22
+oppFW2.53
+WWadjDrop
+resultL
+teamUTEP
+FWadj0.03
+oppFW2.53
+WWadjDrop
+resultW
+teamHouston
+FWadj0
+oppFW2.53
+WWadj3.01
+resultL
+teamTulsa
+FWadj0.19
+oppFW2.53
+WWadjDrop
+resultW
+teamRice
+FWadj0.01
+oppFW2.53
+WWadj0
+resultL
+teamMarshall
+FWadj0.1
+oppFW2.53
+WWadjDrop
+resultL
+teamUCF
+FWadj
+oppFW2.53
+WWadjDrop
+resultL
+teamUTEP
+FWadj
+oppFW2.53
+WWadjDrop
+resultL
+teamRice
+FWadj
+oppFW2.53
+WWadj1.03
+Team: Stanford
+resultW
+teamSan Diego
+FWadj0
+oppFW2.48
+WWadjDrop
+resultW
+teamVirginia
+FWadj0
+oppFW2.48
+WWadj1.54
+resultW
+teamArkansas-Pine Bluff
+FWadj0
+oppFW2.48
+WWadjDrop
+resultL
+teamMurray State
+FWadj0
+oppFW2.48
+WWadjDrop
+resultL
+teamTulsa
+FWadj0
+oppFW2.48
+WWadjDrop
+resultW
+teamDePaul
+FWadj-0.05
+oppFW2.48
+WWadjDrop
+resultW
+teamUC Riverside
+FWadj0
+oppFW2.48
+WWadjDrop
+resultW
+teamNorth Carolina A&T
+FWadj0
+oppFW2.48
+WWadj1.78
+resultL
+teamButler
+FWadj-0.01
+oppFW2.48
+WWadjDrop
+resultL
+teamOklahoma State
+FWadj0
+oppFW2.48
+WWadjDrop
+resultW
+teamYale
+FWadj0
+oppFW2.48
+WWadjDrop
+resultW
+teamCalifornia
+FWadj0
+oppFW2.48
+WWadj2.15
+resultW
+teamArizona State
+FWadj0
+oppFW2.48
+WWadj1.6
+resultL
+teamArizona
+FWadj-0.01
+oppFW2.48
+WWadjDrop
+resultL
+teamWashington
+FWadj0
+oppFW2.48
+WWadj0.18
+resultW
+teamWashington State
+FWadj0
+oppFW2.48
+WWadjDrop
+resultL
+teamUSC
+FWadj0.08
+oppFW2.48
+WWadjDrop
+resultL
+teamUCLA
+FWadj0.03
+oppFW2.48
+WWadjDrop
+resultL
+teamOregon
+FWadj0.1
+oppFW2.48
+WWadjDrop
+resultL
+teamOregon State
+FWadj0.26
+oppFW2.48
+WWadjDrop
+resultW
+teamArizona
+FWadj0.11
+oppFW2.48
+WWadjDrop
+resultL
+teamArizona State
+FWadj0
+oppFW2.48
+WWadj0
+resultW
+teamWashington State
+FWadj0.16
+oppFW2.48
+WWadjDrop
+resultW
+teamWashington
+FWadj0.05
+oppFW2.48
+WWadj0
+resultL
+teamUCLA
+FWadj0
+oppFW2.48
+WWadjDrop
+resultL
+teamUSC
+FWadj0.19
+oppFW2.48
+WWadjDrop
+resultL
+teamOregon State
+FWadj0.2
+oppFW2.48
+WWadjDrop
+resultL
+teamOregon
+FWadj0.22
+oppFW2.48
+WWadjDrop
+resultW
+teamSeattle U
+FWadj0.03
+oppFW2.48
+WWadj0
+resultW
+teamCalifornia
+FWadj0
+oppFW2.48
+WWadj0
+resultL
+teamOregon State
+FWadj0.19
+oppFW2.48
+WWadjDrop
+Team: Syracuse
+resultW
+teamNorthern Iowa
+FWadj0
+oppFW2.99
+WWadjDrop
+resultW
+teamCanisius
+FWadj0
+oppFW2.99
+WWadjDrop
+resultW
+teamDetroit Mercy
+FWadj0
+oppFW2.99
+WWadjDrop
+resultW
+teamWilliam & Mary
+FWadj0
+oppFW2.99
+WWadjDrop
+resultW
+teamMichigan
+FWadj0
+oppFW2.99
+WWadjDrop
+resultW
+teamGeorgia Tech
+FWadj-0.05
+oppFW2.99
+WWadjDrop
+resultW
+teamCornell
+FWadj0
+oppFW2.99
+WWadjDrop
+resultW
+teamNC State
+FWadj0.08
+oppFW2.99
+WWadjDrop
+resultW
+teamMichigan State
+FWadj0.03
+oppFW2.99
+WWadjDrop
+resultW
+teamColgate
+FWadj0.1
+oppFW2.99
+WWadjDrop
+resultW
+teamIona
+FWadj0.26
+oppFW2.99
+WWadjDrop
+resultW
+teamMorgan State
+FWadj0.11
+oppFW2.99
+WWadjDrop
+resultW
+teamDrexel
+FWadj0
+oppFW2.99
+WWadjDrop
+resultW
+teamProvidence
+FWadj0.16
+oppFW2.99
+WWadjDrop
+resultW
+teamNotre Dame
+FWadj0.05
+oppFW2.99
+WWadjDrop
+resultW
+teamSeton Hall
+FWadj0
+oppFW2.99
+WWadj0
+resultW
+teamSt. John's
+FWadj0.19
+oppFW2.99
+WWadj2.99
+resultW
+teamCincinnati
+FWadj0.2
+oppFW2.99
+WWadj3.01
+resultL
+teamPittsburgh
+FWadj0.22
+oppFW2.99
+WWadjDrop
+resultL
+teamVillanova
+FWadj0.03
+oppFW2.99
+WWadj0
+resultL
+teamSeton Hall
+FWadj0
+oppFW2.99
+WWadj0
+resultL
+teamMarquette
+FWadj0.19
+oppFW2.99
+WWadjDrop
+resultW
+teamUConn
+FWadj0.01
+oppFW2.99
+WWadj0
+resultW
+teamSouth Florida
+FWadj0.1
+oppFW2.99
+WWadjDrop
+resultL
+teamGeorgetown
+FWadj0
+oppFW2.99
+WWadjDrop
+resultL
+teamLouisville
+FWadj0.08
+oppFW2.99
+WWadjDrop
+resultW
+teamWest Virginia
+FWadj0
+oppFW2.99
+WWadj1.25
+resultW
+teamRutgers
+FWadj0
+oppFW2.99
+WWadj0
+resultW
+teamVillanova
+FWadj0
+oppFW2.99
+WWadj0
+resultW
+teamGeorgetown
+FWadj0
+oppFW2.99
+WWadjDrop
+resultW
+teamDePaul
+FWadj0.08
+oppFW2.99
+WWadj1.03
+resultW
+teamSt. John's
+FWadj0.04
+oppFW2.99
+WWadj0
+resultL
+teamUConn
+FWadj0
+oppFW2.99
+WWadj1.23
+Team: Virginia
+resultW
+teamWilliam & Mary
+FWadj0
+oppFW2.51
+WWadjDrop
+resultW
+teamSouth Carolina Upstate
+FWadj0
+oppFW2.51
+WWadj1.52
+resultL
+teamStanford
+FWadj0
+oppFW2.51
+WWadjDrop
+resultL
+teamWashington
+FWadj0
+oppFW2.51
+WWadjDrop
+resultW
+teamOklahoma
+FWadj0
+oppFW2.51
+WWadjDrop
+resultL
+teamWichita State
+FWadj-0.05
+oppFW2.51
+WWadjDrop
+resultW
+teamMinnesota
+FWadj0
+oppFW2.51
+WWadjDrop
+resultW
+teamVirginia Tech
+FWadj0
+oppFW2.51
+WWadj1.76
+resultW
+teamRadford
+FWadj-0.01
+oppFW2.51
+WWadj1.53
+resultW
+teamOregon
+FWadj0
+oppFW2.51
+WWadjDrop
+resultW
+teamNorfolk State
+FWadj0
+oppFW2.51
+WWadjDrop
+resultL
+teamSeattle U
+FWadj0
+oppFW2.51
+WWadjDrop
+resultL
+teamIowa State
+FWadj0
+oppFW2.51
+WWadjDrop
+resultW
+teamLSU
+FWadj-0.01
+oppFW2.51
+WWadj1.53
+resultW
+teamHoward
+FWadj0
+oppFW2.51
+WWadjDrop
+resultL
+teamNorth Carolina
+FWadj0.08
+oppFW2.51
+WWadjDrop
+resultL
+teamDuke
+FWadj0.03
+oppFW2.51
+WWadjDrop
+resultL
+teamBoston College
+FWadj0.1
+oppFW2.51
+WWadjDrop
+resultW
+teamGeorgia Tech
+FWadj0.26
+oppFW2.51
+WWadj3.1
+resultL
+teamMaryland
+FWadj0.11
+oppFW2.51
+WWadj2.8
+resultL
+teamWake Forest
+FWadj0
+oppFW2.51
+WWadjDrop
+resultW
+teamClemson
+FWadj0.16
+oppFW2.51
+WWadjDrop
+resultL
+teamMiami
+FWadj0.05
+oppFW2.51
+WWadjDrop
+resultL
+teamFlorida State
+FWadj0
+oppFW2.51
+WWadjDrop
+resultL
+teamDuke
+FWadj0.19
+oppFW2.51
+WWadjDrop
+resultW
+teamVirginia Tech
+FWadj0.2
+oppFW2.51
+WWadj3.01
+resultW
+teamGeorgia Tech
+FWadj0.22
+oppFW2.51
+WWadj3.08
+resultL
+teamBoston College
+FWadj0.03
+oppFW2.51
+WWadjDrop
+resultW
+teamNC State
+FWadj0
+oppFW2.51
+WWadjDrop
+resultW
+teamMaryland
+FWadj0.19
+oppFW2.51
+WWadj2.99
+resultL
+teamMiami
+FWadj0.01
+oppFW2.51
+WWadjDrop
+Team: Virginia Tech
+resultW
+teamCampbell
+FWadj0
+oppFW2.78
+WWadjDrop
+resultL
+teamKansas State
+FWadj0
+oppFW2.78
+WWadjDrop
+resultW
+teamUNC Greensboro
+FWadj0
+oppFW2.78
+WWadj1.75
+resultW
+teamCal State Northridge
+FWadj0
+oppFW2.78
+WWadjDrop
+resultW
+teamOklahoma State
+FWadj0
+oppFW2.78
+WWadjDrop
+resultL
+teamUNLV
+FWadj-0.05
+oppFW2.78
+WWadjDrop
+resultL
+teamPurdue
+FWadj0
+oppFW2.78
+WWadjDrop
+resultL
+teamVirginia
+FWadj0
+oppFW2.78
+WWadjDrop
+resultW
+teamPenn State
+FWadj-0.01
+oppFW2.78
+WWadjDrop
+resultW
+teamMississippi State
+FWadj0
+oppFW2.78
+WWadj1.96
+resultW
+teamSt. Bonaventure
+FWadj0
+oppFW2.78
+WWadjDrop
+resultW
+teamSouth Carolina Upstate
+FWadj0.08
+oppFW2.78
+WWadjDrop
+resultW
+teamMount St. Mary's
+FWadj0.03
+oppFW2.78
+WWadj0
+resultW
+teamFlorida State
+FWadj0.1
+oppFW2.78
+WWadj2.78
+resultL
+teamNorth Carolina
+FWadj0.26
+oppFW2.78
+WWadjDrop
+resultW
+teamWake Forest
+FWadj0.11
+oppFW2.78
+WWadj2.8
+resultW
+teamMaryland
+FWadj0
+oppFW2.78
+WWadjDrop
+resultW
+teamLongwood
+FWadj0.16
+oppFW2.78
+WWadjDrop
+resultL
+teamGeorgia Tech
+FWadj0.05
+oppFW2.78
+WWadj0
+resultW
+teamMiami
+FWadj0
+oppFW2.78
+WWadjDrop
+resultW
+teamNC State
+FWadj0.19
+oppFW2.78
+WWadjDrop
+resultL
+teamBoston College
+FWadj0.2
+oppFW2.78
+WWadjDrop
+resultW
+teamGeorgia Tech
+FWadj0.22
+oppFW2.78
+WWadj3.08
+resultW
+teamMaryland
+FWadj0.03
+oppFW2.78
+WWadjDrop
+resultL
+teamVirginia
+FWadj0
+oppFW2.78
+WWadjDrop
+resultW
+teamWake Forest
+FWadj0.19
+oppFW2.78
+WWadj2.99
+resultW
+teamDuke
+FWadj0.01
+oppFW2.78
+WWadj0
+resultL
+teamBoston College
+FWadj0.1
+oppFW2.78
+WWadjDrop
+resultL
+teamClemson
+FWadj0
+oppFW2.78
+WWadjDrop
+resultW
+teamGeorgia Tech
+FWadj0.08
+oppFW2.78
+WWadj1.01
+resultW
+teamFlorida State
+FWadj0
+oppFW2.78
+WWadj1.25
+resultL
+teamDuke
+FWadj0
+oppFW2.78
+WWadj0
+Team: Wake Forest
+resultL
+teamStetson
+FWadj0
+oppFW1.01
+WWadjDrop
+resultW
+teamHampton
+FWadj0
+oppFW1.01
+WWadj1.7
+resultL
+teamVCU
+FWadj0
+oppFW1.01
+WWadjDrop
+resultW
+teamElon
+FWadj0
+oppFW1.01
+WWadj2.33
+resultL
+teamWinthrop
+FWadj0
+oppFW1.01
+WWadjDrop
+resultW
+teamMarist
+FWadj-0.05
+oppFW1.01
+WWadj1.21
+resultW
+teamIowa
+FWadj0
+oppFW1.01
+WWadjDrop
+resultW
+teamHoly Cross
+FWadj0
+oppFW1.01
+WWadj1.94
+resultL
+teamUNC Wilmington
+FWadj-0.01
+oppFW1.01
+WWadjDrop
+resultW
+teamUNC Greensboro
+FWadj0
+oppFW1.01
+WWadj2.22
+resultL
+teamXavier
+FWadj0
+oppFW1.01
+WWadjDrop
+resultL
+teamPresbyterian
+FWadj0
+oppFW1.01
+WWadjDrop
+resultL
+teamRichmond
+FWadj0
+oppFW1.01
+WWadjDrop
+resultL
+teamGonzaga
+FWadj-0.01
+oppFW1.01
+WWadjDrop
+resultW
+teamHigh Point
+FWadj0
+oppFW1.01
+WWadj2.22
+resultL
+teamNC State
+FWadj0
+oppFW1.01
+WWadjDrop
+resultL
+teamMaryland
+FWadj0
+oppFW1.01
+WWadjDrop
+resultL
+teamVirginia Tech
+FWadj-0.16
+oppFW1.01
+WWadjDrop
+resultL
+teamGeorgia Tech
+FWadj0
+oppFW1.01
+WWadjDrop
+resultL
+teamDuke
+FWadj0
+oppFW1.01
+WWadjDrop
+resultW
+teamVirginia
+FWadj-0.19
+oppFW1.01
+WWadj0
+resultL
+teamFlorida State
+FWadj-0.01
+oppFW1.01
+WWadjDrop
+resultL
+teamMaryland
+FWadj-0.12
+oppFW1.01
+WWadjDrop
+resultL
+teamMiami
+FWadj0
+oppFW1.01
+WWadjDrop
+resultL
+teamNC State
+FWadj0.08
+oppFW1.01
+WWadjDrop
+resultL
+teamNorth Carolina
+FWadj0.03
+oppFW1.01
+WWadjDrop
+resultL
+teamFlorida State
+FWadj0.1
+oppFW1.01
+WWadjDrop
+resultL
+teamVirginia Tech
+FWadj0.26
+oppFW1.01
+WWadjDrop
+resultL
+teamClemson
+FWadj0.11
+oppFW1.01
+WWadjDrop
+resultL
+teamGeorgia Tech
+FWadj0
+oppFW1.01
+WWadjDrop
+resultL
+teamBoston College
+FWadj0.16
+oppFW1.01
+WWadjDrop
+resultL
+teamBoston College
+FWadj0.05
+oppFW1.01
+WWadjDrop
+Team: Austin Peay
+resultW
+teamSaint Louis
+FWadj0
+oppFW2.76
+WWadjDrop
+resultW
+teamChattanooga
+FWadj0
+oppFW2.76
+WWadj1.46
+resultL
+teamLipscomb
+FWadj0
+oppFW2.76
+WWadjDrop
+resultL
+teamSouthern Illinois
+FWadj0
+oppFW2.76
+WWadjDrop
+resultL
+teamPurdue
+FWadj0
+oppFW2.76
+WWadjDrop
+resultW
+teamCharleston Southern
+FWadj-0.05
+oppFW2.76
+WWadjDrop
+resultL
+teamOakland
+FWadj0
+oppFW2.76
+WWadjDrop
+resultW
+teamSoutheast Missouri State
+FWadj0
+oppFW2.76
+WWadj1.7
+resultW
+teamEastern Illinois
+FWadj-0.01
+oppFW2.76
+WWadj1.47
+resultL
+teamLipscomb
+FWadj0
+oppFW2.76
+WWadjDrop
+resultW
+teamNon-D1 Team
+FWadj0
+oppFW2.76
+WWadj2
+resultL
+teamMemphis
+FWadj0
+oppFW2.76
+WWadjDrop
+resultW
+teamEastern Kentucky
+FWadj0.08
+oppFW2.76
+WWadj2.68
+resultW
+teamMorehead State
+FWadj0.03
+oppFW2.76
+WWadjDrop
+resultW
+teamNon-D1 Team
+FWadj0.1
+oppFW2.76
+WWadj2.78
+resultW
+teamChattanooga
+FWadj0.26
+oppFW2.76
+WWadj3.1
+resultW
+teamMurray State
+FWadj0.11
+oppFW2.76
+WWadjDrop
+resultW
+teamUT Martin
+FWadj0.16
+oppFW2.76
+WWadjDrop
+resultL
+teamTennessee State
+FWadj0.05
+oppFW2.76
+WWadj2.94
+resultL
+teamTennessee Tech
+FWadj0.19
+oppFW2.76
+WWadjDrop
+resultW
+teamJacksonville State
+FWadj0.2
+oppFW2.76
+WWadjDrop
+resultW
+teamEastern Kentucky
+FWadj0.22
+oppFW2.76
+WWadj2.99
+resultL
+teamMorehead State
+FWadj0.03
+oppFW2.76
+WWadjDrop
+resultW
+teamUT Martin
+FWadj0
+oppFW2.76
+WWadjDrop
+resultL
+teamMurray State
+FWadj0.19
+oppFW2.76
+WWadjDrop
+resultL
+teamTennessee Tech
+FWadj0.01
+oppFW2.76
+WWadjDrop
+resultW
+teamTennessee State
+FWadj0.1
+oppFW2.76
+WWadj2.99
+resultW
+teamJacksonville State
+FWadj0
+oppFW2.76
+WWadjDrop
+resultL
+teamFairfield
+FWadj0.08
+oppFW2.76
+WWadjDrop
+resultW
+teamEastern Illinois
+FWadj0
+oppFW2.76
+WWadj0
+resultW
+teamSoutheast Missouri State
+FWadj
+oppFW2.76
+WWadj2.76
+resultW
+teamSoutheast Missouri State
+FWadj
+oppFW2.76
+WWadj1.25
+Team: Bellarmine
+Team: Central Arkansas
+resultW
+teamNon-D1 Team
+FWadj0
+oppFW0.43
+WWadj1.91
+resultL
+teamKansas City
+FWadj0
+oppFW0.43
+WWadjDrop
+resultL
+teamHawai'i
+FWadj0
+oppFW0.43
+WWadjDrop
+resultW
+teamNon-D1 Team
+FWadj0
+oppFW0.43
+WWadj2.33
+resultL
+teamSMU
+FWadj0
+oppFW0.43
+WWadjDrop
+resultL
+teamOklahoma State
+FWadj-0.05
+oppFW0.43
+WWadjDrop
+resultL
+teamMissouri State
+FWadj0
+oppFW0.43
+WWadjDrop
+resultL
+teamUT Martin
+FWadj0
+oppFW0.43
+WWadjDrop
+resultW
+teamChicago State
+FWadj-0.01
+oppFW0.43
+WWadj1.71
+resultL
+teamGrambling
+FWadj0
+oppFW0.43
+WWadjDrop
+resultL
+teamMissouri
+FWadj0
+oppFW0.43
+WWadjDrop
+resultW
+teamNon-D1 Team
+FWadj0
+oppFW0.43
+WWadj2.31
+resultL
+teamOklahoma
+FWadj0
+oppFW0.43
+WWadjDrop
+resultL
+teamLamar
+FWadj-0.01
+oppFW0.43
+WWadjDrop
+resultL
+teamStephen F. Austin
+FWadj0
+oppFW0.43
+WWadjDrop
+resultL
+teamNorthwestern State
+FWadj0
+oppFW0.43
+WWadjDrop
+resultL
+teamNicholls
+FWadj0
+oppFW0.43
+WWadjDrop
+resultL
+teamLamar
+FWadj-0.16
+oppFW0.43
+WWadjDrop
+resultW
+teamSE Louisiana
+FWadj0
+oppFW0.43
+WWadjDrop
+resultL
+teamMcNeese
+FWadj0
+oppFW0.43
+WWadjDrop
+resultL
+teamNorthwestern State
+FWadj-0.19
+oppFW0.43
+WWadjDrop
+resultL
+teamUT Arlington
+FWadj-0.01
+oppFW0.43
+WWadjDrop
+resultL
+teamTexas State
+FWadj-0.12
+oppFW0.43
+WWadjDrop
+resultL
+teamMcNeese
+FWadj0
+oppFW0.43
+WWadjDrop
+resultL
+teamSam Houston
+FWadj0.1
+oppFW0.43
+WWadjDrop
+resultL
+teamNicholls
+FWadj0.11
+oppFW0.43
+WWadjDrop
+resultL
+teamSE Louisiana
+FWadj
+oppFW0.43
+WWadjDrop
+resultL
+teamUTSA
+FWadj
+oppFW0.43
+WWadjDrop
+resultL
+teamTexas A&M-Corpus Christi
+FWadj
+oppFW0.43
+WWadjDrop
+Team: Eastern Kentucky
+resultL
+teamLoyola Chicago
+FWadj0
+oppFW2.27
+WWadjDrop
+resultL
+teamUT Rio Grande Valley
+FWadj0
+oppFW2.27
+WWadjDrop
+resultW
+teamIndiana State
+FWadj0
+oppFW2.27
+WWadjDrop
+resultW
+teamSIU Edwardsville
+FWadj0
+oppFW2.27
+WWadj2.17
+resultL
+teamPresbyterian
+FWadj0
+oppFW2.27
+WWadjDrop
+resultW
+teamNon-D1 Team
+FWadj-0.05
+oppFW2.27
+WWadj1.05
+resultL
+teamMurray State
+FWadj0
+oppFW2.27
+WWadjDrop
+resultW
+teamUT Martin
+FWadj0
+oppFW2.27
+WWadjDrop
+resultW
+teamNon-D1 Team
+FWadj-0.01
+oppFW2.27
+WWadj1.55
+resultL
+teamMinnesota
+FWadj0
+oppFW2.27
+WWadjDrop
+resultL
+teamAustin Peay
+FWadj0
+oppFW2.27
+WWadjDrop
+resultL
+teamTennessee State
+FWadj0
+oppFW2.27
+WWadjDrop
+resultL
+teamGeorgia
+FWadj0
+oppFW2.27
+WWadjDrop
+resultW
+teamGeorgia Southern
+FWadj-0.01
+oppFW2.27
+WWadj1.55
+resultW
+teamJacksonville State
+FWadj0
+oppFW2.27
+WWadjDrop
+resultL
+teamTennessee Tech
+FWadj0
+oppFW2.27
+WWadjDrop
+resultW
+teamEastern Illinois
+FWadj0.08
+oppFW2.27
+WWadjDrop
+resultW
+teamSoutheast Missouri State
+FWadj0.03
+oppFW2.27
+WWadj0
+resultW
+teamSIU Edwardsville
+FWadj0.26
+oppFW2.27
+WWadj0
+resultW
+teamMorehead State
+FWadj0
+oppFW2.27
+WWadjDrop
+resultL
+teamAustin Peay
+FWadj0.16
+oppFW2.27
+WWadjDrop
+resultW
+teamTennessee State
+FWadj0.05
+oppFW2.27
+WWadjDrop
+resultL
+teamTennessee Tech
+FWadj0
+oppFW2.27
+WWadjDrop
+resultW
+teamJacksonville State
+FWadj0.19
+oppFW2.27
+WWadjDrop
+resultW
+teamSoutheast Missouri State
+FWadj0.2
+oppFW2.27
+WWadj0
+resultW
+teamEastern Illinois
+FWadj0.22
+oppFW2.27
+WWadjDrop
+resultL
+teamMorehead State
+FWadj0.03
+oppFW2.27
+WWadjDrop
+resultL
+teamWestern Carolina
+FWadj0
+oppFW2.27
+WWadjDrop
+resultL
+teamUT Martin
+FWadj0.19
+oppFW2.27
+WWadjDrop
+resultL
+teamMurray State
+FWadj
+oppFW2.27
+WWadjDrop
+resultL
+teamSoutheast Missouri State
+FWadj
+oppFW2.27
+WWadj2.99
+Team: Florida Gulf Coast
+resultL
+teamIndiana
+FWadj0
+oppFW1.2
+WWadjDrop
+resultW
+teamSoutheast Missouri State
+FWadj0
+oppFW1.2
+WWadj1.64
+resultW
+teamGrambling
+FWadj0
+oppFW1.2
+WWadj1.95
+resultL
+teamArkansas
+FWadj0
+oppFW1.2
+WWadjDrop
+resultL
+teamMiami
+FWadj0
+oppFW1.2
+WWadjDrop
+resultL
+teamNorth Florida
+FWadj-0.05
+oppFW1.2
+WWadj1.15
+resultL
+teamJacksonville
+FWadj0
+oppFW1.2
+WWadj2.11
+resultL
+teamOhio State
+FWadj0
+oppFW1.2
+WWadjDrop
+resultL
+teamToledo
+FWadj-0.01
+oppFW1.2
+WWadjDrop
+resultW
+teamNorth Carolina Central
+FWadj0
+oppFW1.2
+WWadjDrop
+resultL
+teamIU Indianapolis
+FWadj0
+oppFW1.2
+WWadjDrop
+resultL
+teamBelmont
+FWadj0
+oppFW1.2
+WWadjDrop
+resultL
+teamLipscomb
+FWadj0
+oppFW1.2
+WWadjDrop
+resultL
+teamEast Tennessee State
+FWadj-0.01
+oppFW1.2
+WWadjDrop
+resultL
+teamKennesaw State
+FWadj0
+oppFW1.2
+WWadj2.16
+resultL
+teamMercer
+FWadj0
+oppFW1.2
+WWadjDrop
+resultL
+teamCampbell
+FWadj0
+oppFW1.2
+WWadjDrop
+resultW
+teamStetson
+FWadj-0.16
+oppFW1.2
+WWadjDrop
+resultW
+teamBelmont
+FWadj0
+oppFW1.2
+WWadjDrop
+resultL
+teamLipscomb
+FWadj0
+oppFW1.2
+WWadjDrop
+resultL
+teamEast Tennessee State
+FWadj-0.19
+oppFW1.2
+WWadjDrop
+resultL
+teamSouth Carolina Upstate
+FWadj0.08
+oppFW1.2
+WWadjDrop
+resultW
+teamKennesaw State
+FWadj0.03
+oppFW1.2
+WWadj0
+resultL
+teamMercer
+FWadj0.1
+oppFW1.2
+WWadjDrop
+resultL
+teamWestern Kentucky
+FWadj0.26
+oppFW1.2
+WWadjDrop
+resultL
+teamCampbell
+FWadj0.11
+oppFW1.2
+WWadjDrop
+resultW
+teamStetson
+FWadj0
+oppFW1.2
+WWadjDrop
+resultW
+teamJacksonville
+FWadj0.16
+oppFW1.2
+WWadj2.94
+resultW
+teamNorth Florida
+FWadj0.05
+oppFW1.2
+WWadj0
+resultL
+teamSouth Carolina Upstate
+FWadj0
+oppFW1.2
+WWadjDrop
+Team: Jacksonville
+resultL
+teamMiami
+FWadj0
+oppFW2.67
+WWadjDrop
+resultW
+teamNon-D1 Team
+FWadj0
+oppFW2.67
+WWadj1.44
+resultW
+teamNon-D1 Team
+FWadj0
+oppFW2.67
+WWadj1.75
+resultW
+teamSamford
+FWadj0
+oppFW2.67
+WWadjDrop
+resultW
+teamAuburn
+FWadj0
+oppFW2.67
+WWadjDrop
+resultW
+teamStetson
+FWadj-0.05
+oppFW2.67
+WWadjDrop
+resultW
+teamFlorida Gulf Coast
+FWadj0
+oppFW2.67
+WWadj1.91
+resultL
+teamWinthrop
+FWadj0
+oppFW2.67
+WWadjDrop
+resultL
+teamSaint Louis
+FWadj-0.01
+oppFW2.67
+WWadjDrop
+resultW
+teamFlorida
+FWadj0
+oppFW2.67
+WWadjDrop
+resultW
+teamBethune-Cookman
+FWadj0
+oppFW2.67
+WWadjDrop
+resultW
+teamCampbell
+FWadj0.1
+oppFW2.67
+WWadj0
+resultW
+teamLipscomb
+FWadj0.26
+oppFW2.67
+WWadjDrop
+resultL
+teamBelmont
+FWadj0.11
+oppFW2.67
+WWadjDrop
+resultW
+teamSouth Carolina Upstate
+FWadj0
+oppFW2.67
+WWadjDrop
+resultL
+teamEast Tennessee State
+FWadj0.16
+oppFW2.67
+WWadjDrop
+resultL
+teamMercer
+FWadj0.05
+oppFW2.67
+WWadjDrop
+resultW
+teamKennesaw State
+FWadj0
+oppFW2.67
+WWadj2.94
+resultW
+teamNorth Florida
+FWadj0.19
+oppFW2.67
+WWadjDrop
+resultW
+teamCampbell
+FWadj0.2
+oppFW2.67
+WWadj0
+resultL
+teamBelmont
+FWadj0.22
+oppFW2.67
+WWadjDrop
+resultW
+teamLipscomb
+FWadj0.03
+oppFW2.67
+WWadjDrop
+resultW
+teamNorth Florida
+FWadj0
+oppFW2.67
+WWadjDrop
+resultL
+teamEast Tennessee State
+FWadj0.19
+oppFW2.67
+WWadjDrop
+resultW
+teamSouth Carolina Upstate
+FWadj0.01
+oppFW2.67
+WWadjDrop
+resultW
+teamKennesaw State
+FWadj0.1
+oppFW2.67
+WWadj2.99
+resultW
+teamMercer
+FWadj0
+oppFW2.67
+WWadjDrop
+resultL
+teamFlorida Gulf Coast
+FWadj0.08
+oppFW2.67
+WWadj2.78
+resultL
+teamStetson
+FWadj
+oppFW2.67
+WWadjDrop
+resultL
+teamNorth Florida
+FWadj
+oppFW2.67
+WWadjDrop
+Team: Lipscomb
+resultL
+teamNorth Carolina
+FWadj0
+oppFW2.58
+WWadjDrop
+resultW
+teamNon-D1 Team
+FWadj0
+oppFW2.58
+WWadj1.48
+resultW
+teamAustin Peay
+FWadj0
+oppFW2.58
+WWadj1.79
+resultL
+teamBaylor
+FWadj0
+oppFW2.58
+WWadjDrop
+resultW
+teamUT Martin
+FWadj0
+oppFW2.58
+WWadjDrop
+resultW
+teamMercer
+FWadj-0.05
+oppFW2.58
+WWadjDrop
+resultW
+teamAustin Peay
+FWadj0
+oppFW2.58
+WWadj1.95
+resultW
+teamTennessee Tech
+FWadj0
+oppFW2.58
+WWadj1.72
+resultW
+teamKennesaw State
+FWadj-0.01
+oppFW2.58
+WWadjDrop
+resultL
+teamAlabama
+FWadj0
+oppFW2.58
+WWadjDrop
+resultL
+teamMemphis
+FWadj0
+oppFW2.58
+WWadjDrop
+resultL
+teamStetson
+FWadj0
+oppFW2.58
+WWadjDrop
+resultW
+teamFlorida Gulf Coast
+FWadj0
+oppFW2.58
+WWadj1.54
+resultL
+teamJacksonville
+FWadj0.03
+oppFW2.58
+WWadjDrop
+resultW
+teamNorth Florida
+FWadj0.1
+oppFW2.58
+WWadj0
+resultL
+teamBelmont
+FWadj0.26
+oppFW2.58
+WWadjDrop
+resultW
+teamCampbell
+FWadj0.11
+oppFW2.58
+WWadjDrop
+resultL
+teamEast Tennessee State
+FWadj0
+oppFW2.58
+WWadjDrop
+resultW
+teamSouth Carolina Upstate
+FWadj0.16
+oppFW2.58
+WWadjDrop
+resultW
+teamBelmont
+FWadj0.05
+oppFW2.58
+WWadjDrop
+resultW
+teamStetson
+FWadj0
+oppFW2.58
+WWadjDrop
+resultW
+teamFlorida Gulf Coast
+FWadj0.19
+oppFW2.58
+WWadj0
+resultL
+teamNorth Florida
+FWadj0.2
+oppFW2.58
+WWadj2.99
+resultL
+teamJacksonville
+FWadj0.22
+oppFW2.58
+WWadjDrop
+resultW
+teamCampbell
+FWadj0.03
+oppFW2.58
+WWadjDrop
+resultW
+teamSouth Carolina Upstate
+FWadj0
+oppFW2.58
+WWadjDrop
+resultL
+teamEast Tennessee State
+FWadj0.19
+oppFW2.58
+WWadjDrop
+resultW
+teamKennesaw State
+FWadj0.01
+oppFW2.58
+WWadjDrop
+resultL
+teamMercer
+FWadj0.1
+oppFW2.58
+WWadjDrop
+resultL
+teamMercer
+FWadj
+oppFW2.58
+WWadjDrop
+Team: North Alabama
+resultL
+teamMissouri
+FWadj0
+oppFW1.23
+WWadjDrop
+Team: North Florida
+resultL
+teamFlorida State
+FWadj0
+oppFW2.26
+WWadjDrop
+resultL
+teamPittsburgh
+FWadj0
+oppFW2.26
+WWadjDrop
+resultW
+teamWyoming
+FWadj0
+oppFW2.26
+WWadj1.91
+resultL
+teamMissouri
+FWadj0
+oppFW2.26
+WWadjDrop
+resultW
+teamPrairie View A&M
+FWadj0
+oppFW2.26
+WWadj1.93
+resultW
+teamMorgan State
+FWadj-0.05
+oppFW2.26
+WWadj1.11
+resultW
+teamFlorida Gulf Coast
+FWadj0
+oppFW2.26
+WWadj2.07
+resultL
+teamStetson
+FWadj0
+oppFW2.26
+WWadjDrop
+resultL
+teamPurdue
+FWadj-0.01
+oppFW2.26
+WWadjDrop
+resultL
+teamTexas
+FWadj0
+oppFW2.26
+WWadjDrop
+resultL
+teamFurman
+FWadj0
+oppFW2.26
+WWadjDrop
+resultL
+teamMaryland
+FWadj0
+oppFW2.26
+WWadjDrop
+resultL
+teamKansas State
+FWadj0
+oppFW2.26
+WWadjDrop
+resultW
+teamCampbell
+FWadj-0.01
+oppFW2.26
+WWadj1.61
+resultL
+teamBelmont
+FWadj0
+oppFW2.26
+WWadjDrop
+resultL
+teamLipscomb
+FWadj0
+oppFW2.26
+WWadj1.64
+resultL
+teamEast Tennessee State
+FWadj0
+oppFW2.26
+WWadjDrop
+resultW
+teamSouth Carolina Upstate
+FWadj-0.16
+oppFW2.26
+WWadj0.14
+resultW
+teamKennesaw State
+FWadj0
+oppFW2.26
+WWadjDrop
+resultW
+teamMercer
+FWadj0.08
+oppFW2.26
+WWadj2.68
+resultL
+teamJacksonville
+FWadj0.03
+oppFW2.26
+WWadj0
+resultL
+teamCampbell
+FWadj0.1
+oppFW2.26
+WWadj2.78
+resultW
+teamLipscomb
+FWadj0.26
+oppFW2.26
+WWadj3.1
+resultL
+teamBelmont
+FWadj0.11
+oppFW2.26
+WWadjDrop
+resultL
+teamJacksonville
+FWadj0
+oppFW2.26
+WWadj0
+resultW
+teamSouth Carolina Upstate
+FWadj0.16
+oppFW2.26
+WWadj2.94
+resultL
+teamEast Tennessee State
+FWadj0.05
+oppFW2.26
+WWadjDrop
+resultL
+teamMercer
+FWadj0
+oppFW2.26
+WWadj0
+resultW
+teamKennesaw State
+FWadj0.19
+oppFW2.26
+WWadjDrop
+resultW
+teamStetson
+FWadj0.2
+oppFW2.26
+WWadjDrop
+resultW
+teamFlorida Gulf Coast
+FWadj0.22
+oppFW2.26
+WWadj3.08
+resultW
+teamJacksonville
+FWadj0.03
+oppFW2.26
+WWadj0
+resultW
+teamEast Tennessee State
+FWadj0
+oppFW2.26
+WWadjDrop
+resultL
+teamBelmont
+FWadj0.19
+oppFW2.26
+WWadjDrop
+Team: Queens University
+resultL
+teamWinthrop
+FWadj0
+oppFW1.23
+WWadjDrop
+Team: Stetson
+resultW
+teamWake Forest
+FWadj0
+oppFW0.8
+WWadj1.89
+resultL
+teamBethune-Cookman
+FWadj0
+oppFW0.8
+WWadjDrop
+resultL
+teamUCF
+FWadj-0.1
+oppFW0.8
+WWadjDrop
+resultL
+teamNon-D1 Team
+FWadj0
+oppFW0.8
+WWadj2.31
+resultW
+teamNon-D1 Team
+FWadj0
+oppFW0.8
+WWadj2.01
+resultL
+teamJacksonville
+FWadj-0.05
+oppFW0.8
+WWadj1.19
+resultW
+teamNorth Florida
+FWadj0
+oppFW0.8
+WWadj2.15
+resultL
+teamMiami
+FWadj0
+oppFW0.8
+WWadjDrop
+resultL
+teamFlorida State
+FWadj-0.01
+oppFW0.8
+WWadjDrop
+resultL
+teamRice
+FWadj0
+oppFW0.8
+WWadjDrop
+resultL
+teamAkron
+FWadj0
+oppFW0.8
+WWadjDrop
+resultL
+teamLittle Rock
+FWadj0
+oppFW0.8
+WWadjDrop
+resultW
+teamLipscomb
+FWadj-0.1
+oppFW0.8
+WWadjDrop
+resultL
+teamBelmont
+FWadj-0.01
+oppFW0.8
+WWadjDrop
+resultW
+teamSouth Carolina Upstate
+FWadj0
+oppFW0.8
+WWadj2.2
+resultL
+teamEast Tennessee State
+FWadj0
+oppFW0.8
+WWadjDrop
+resultW
+teamMercer
+FWadj0
+oppFW0.8
+WWadj1.99
+resultL
+teamKennesaw State
+FWadj-0.16
+oppFW0.8
+WWadjDrop
+resultL
+teamNon-D1 Team
+FWadj0
+oppFW0.8
+WWadj1.97
+resultL
+teamCampbell
+FWadj0
+oppFW0.8
+WWadjDrop
+resultL
+teamFlorida Gulf Coast
+FWadj-0.19
+oppFW0.8
+WWadjDrop
+resultL
+teamLipscomb
+FWadj-0.01
+oppFW0.8
+WWadjDrop
+resultL
+teamBelmont
+FWadj-0.12
+oppFW0.8
+WWadjDrop
+resultL
+teamSouth Carolina Upstate
+FWadj0.08
+oppFW0.8
+WWadj2.68
+resultW
+teamEast Tennessee State
+FWadj0.1
+oppFW0.8
+WWadjDrop
+resultL
+teamMercer
+FWadj0.26
+oppFW0.8
+WWadj2.78
+resultL
+teamKennesaw State
+FWadj0.11
+oppFW0.8
+WWadjDrop
+resultL
+teamCampbell
+FWadj0
+oppFW0.8
+WWadjDrop
+resultL
+teamFlorida Gulf Coast
+FWadj0.16
+oppFW0.8
+WWadjDrop
+resultL
+teamNorth Florida
+FWadj0.05
+oppFW0.8
+WWadj2.94
+resultW
+teamJacksonville
+FWadj
+oppFW0.8
+WWadj0
+Team: West Georgia
+Team: Binghamton
+resultW
+teamColgate
+FWadj0
+oppFW0.77
+WWadj1.89
+resultL
+teamBucknell
+FWadj0
+oppFW0.77
+WWadjDrop
+resultL
+teamSt. Bonaventure
+FWadj0
+oppFW0.77
+WWadjDrop
+resultL
+teamArmy
+FWadj0
+oppFW0.77
+WWadjDrop
+resultL
+teamDrexel
+FWadj0
+oppFW0.77
+WWadjDrop
+resultL
+teamCanisius
+FWadj-0.05
+oppFW0.77
+WWadjDrop
+resultL
+teamHofstra
+FWadj0
+oppFW0.77
+WWadjDrop
+resultW
+teamManhattan
+FWadj0
+oppFW0.77
+WWadj1.92
+resultW
+teamCornell
+FWadj-0.01
+oppFW0.77
+WWadj1.69
+resultL
+teamSaint Peter's
+FWadj0
+oppFW0.77
+WWadjDrop
+resultL
+teamMarshall
+FWadj0
+oppFW0.77
+WWadjDrop
+resultL
+teamMorehead State
+FWadj-0.1
+oppFW0.77
+WWadjDrop
+resultL
+teamLa Salle
+FWadj0
+oppFW0.77
+WWadjDrop
+resultW
+teamNew Hampshire
+FWadj-0.01
+oppFW0.77
+WWadjDrop
+resultW
+teamStony Brook
+FWadj0
+oppFW0.77
+WWadjDrop
+resultW
+teamUMBC
+FWadj0
+oppFW0.77
+WWadj1.72
+resultL
+teamMaine
+FWadj0
+oppFW0.77
+WWadjDrop
+resultL
+teamNon-D1 Team
+FWadj-0.16
+oppFW0.77
+WWadj0.22
+resultL
+teamUAlbany
+FWadj0
+oppFW0.77
+WWadjDrop
+resultL
+teamVermont
+FWadj0
+oppFW0.77
+WWadjDrop
+resultL
+teamBoston University
+FWadj-0.19
+oppFW0.77
+WWadjDrop
+resultL
+teamMaine
+FWadj-0.01
+oppFW0.77
+WWadjDrop
+resultL
+teamUMBC
+FWadj-0.12
+oppFW0.77
+WWadj0.41
+resultL
+teamNew Hampshire
+FWadj0.08
+oppFW0.77
+WWadjDrop
+resultL
+teamVermont
+FWadj0.03
+oppFW0.77
+WWadjDrop
+resultW
+teamNon-D1 Team
+FWadj0.1
+oppFW0.77
+WWadj2.78
+resultL
+teamUAlbany
+FWadj0.26
+oppFW0.77
+WWadjDrop
+resultL
+teamBoston University
+FWadj0.11
+oppFW0.77
+WWadjDrop
+resultL
+teamStony Brook
+FWadj0
+oppFW0.77
+WWadjDrop
+resultW
+teamUMBC
+FWadj0.05
+oppFW0.77
+WWadj0
+resultL
+teamVermont
+FWadj
+oppFW0.77
+WWadjDrop
+Team: Bryant
+resultL
+teamCleveland State
+FWadj0
+oppFW1.1
+WWadjDrop
+resultL
+teamKent State
+FWadj0
+oppFW1.1
+WWadjDrop
+resultW
+teamIona
+FWadj0
+oppFW1.1
+WWadj1.95
+resultL
+teamArmy
+FWadj0
+oppFW1.1
+WWadjDrop
+resultL
+teamHarvard
+FWadj0
+oppFW1.1
+WWadjDrop
+resultL
+teamLehigh
+FWadj-0.05
+oppFW1.1
+WWadjDrop
+resultL
+teamFairleigh Dickinson
+FWadj0
+oppFW1.1
+WWadjDrop
+resultL
+teamYale
+FWadj0
+oppFW1.1
+WWadjDrop
+resultL
+teamColumbia
+FWadj-0.01
+oppFW1.1
+WWadjDrop
+resultL
+teamBoston College
+FWadj0
+oppFW1.1
+WWadjDrop
+resultL
+teamMichigan
+FWadj-0.1
+oppFW1.1
+WWadjDrop
+resultL
+teamNon-D1 Team
+FWadj0
+oppFW1.1
+WWadjDrop
+resultW
+teamBrown
+FWadj0
+oppFW1.1
+WWadj1.7
+resultL
+teamMonmouth
+FWadj-0.1
+oppFW1.1
+WWadj0
+resultL
+teamLong Island University
+FWadj0
+oppFW1.1
+WWadjDrop
+resultL
+teamNon-D1 Team
+FWadj0
+oppFW1.1
+WWadjDrop
+resultW
+teamQuinnipiac
+FWadj0
+oppFW1.1
+WWadj1.95
+resultW
+teamSacred Heart
+FWadj-0.16
+oppFW1.1
+WWadjDrop
+resultW
+teamFairleigh Dickinson
+FWadj0
+oppFW1.1
+WWadjDrop
+resultW
+teamMonmouth
+FWadj0
+oppFW1.1
+WWadj0.42
+resultL
+teamWagner
+FWadj-0.1
+oppFW1.1
+WWadjDrop
+resultL
+teamMount St. Mary's
+FWadj0.08
+oppFW1.1
+WWadjDrop
+resultW
+teamRobert Morris
+FWadj0.03
+oppFW1.1
+WWadjDrop
+resultL
+teamSaint Francis
+FWadj0.1
+oppFW1.1
+WWadjDrop
+resultW
+teamCentral Connecticut
+FWadj0.26
+oppFW1.1
+WWadj3.1
+resultL
+teamCentral Connecticut
+FWadj0.11
+oppFW1.1
+WWadj2.8
+resultW
+teamQuinnipiac
+FWadj0
+oppFW1.1
+WWadj0
+resultL
+teamSacred Heart
+FWadj0.16
+oppFW1.1
+WWadjDrop
+resultL
+teamLong Island University
+FWadj0.05
+oppFW1.1
+WWadjDrop
+resultL
+teamNon-D1 Team
+FWadj0
+oppFW1.1
+WWadjDrop
+Team: Maine
+resultW
+teamUtah Valley
+FWadj0
+oppFW2.17
+WWadjDrop
+resultL
+teamMaryland
+FWadj0
+oppFW2.17
+WWadjDrop
+resultW
+teamNon-D1 Team
+FWadj0
+oppFW2.17
+WWadj1.83
+resultL
+teamNotre Dame
+FWadj0
+oppFW2.17
+WWadjDrop
+resultL
+teamQuinnipiac
+FWadj0
+oppFW2.17
+WWadjDrop
+resultL
+teamBrown
+FWadj-0.05
+oppFW2.17
+WWadjDrop
+resultL
+teamDelaware State
+FWadj-0.1
+oppFW2.17
+WWadjDrop
+resultW
+teamMassachusetts
+FWadj0
+oppFW2.17
+WWadjDrop
+resultW
+teamNorfolk State
+FWadj-0.01
+oppFW2.17
+WWadjDrop
+resultW
+teamColgate
+FWadj-0.1
+oppFW2.17
+WWadjDrop
+resultW
+teamPenn State
+FWadj0
+oppFW2.17
+WWadj2.06
+resultL
+teamColumbia
+FWadj0
+oppFW2.17
+WWadjDrop
+resultW
+teamBoston University
+FWadj0
+oppFW2.17
+WWadjDrop
+resultL
+teamNon-D1 Team
+FWadj-0.01
+oppFW2.17
+WWadj1.53
+resultW
+teamUMBC
+FWadj-0.1
+oppFW2.17
+WWadjDrop
+resultW
+teamUAlbany
+FWadj0.08
+oppFW2.17
+WWadj2.68
+resultW
+teamBinghamton
+FWadj0.1
+oppFW2.17
+WWadj0
+resultW
+teamVermont
+FWadj0.26
+oppFW2.17
+WWadjDrop
+resultW
+teamStony Brook
+FWadj0.11
+oppFW2.17
+WWadjDrop
+resultW
+teamNew Hampshire
+FWadj0
+oppFW2.17
+WWadj2.8
+resultW
+teamBinghamton
+FWadj0.16
+oppFW2.17
+WWadj0
+resultL
+teamBoston University
+FWadj0.05
+oppFW2.17
+WWadjDrop
+resultL
+teamUMBC
+FWadj0
+oppFW2.17
+WWadjDrop
+resultL
+teamNon-D1 Team
+FWadj0.19
+oppFW2.17
+WWadj0
+resultL
+teamStony Brook
+FWadj0.2
+oppFW2.17
+WWadjDrop
+resultL
+teamVermont
+FWadj0.22
+oppFW2.17
+WWadjDrop
+resultL
+teamSiena
+FWadj0.03
+oppFW2.17
+WWadjDrop
+resultW
+teamNew Hampshire
+FWadj0
+oppFW2.17
+WWadj0
+resultL
+teamUAlbany
+FWadj0.19
+oppFW2.17
+WWadj0
+resultL
+teamNon-D1 Team
+FWadj
+oppFW2.17
+WWadj2.99
+Team: NJIT
+resultL
+teamManhattan
+FWadj0
+oppFW2.04
+WWadjDrop
+resultW
+teamNon-D1 Team
+FWadj0
+oppFW2.04
+WWadj1.52
+resultL
+teamArmy
+FWadj0
+oppFW2.04
+WWadjDrop
+resultL
+teamVermont
+FWadj0
+oppFW2.04
+WWadjDrop
+resultL
+teamRutgers
+FWadj0
+oppFW2.04
+WWadjDrop
+resultW
+teamNon-D1 Team
+FWadj-0.05
+oppFW2.04
+WWadj1.03
+resultL
+teamLafayette
+FWadj0
+oppFW2.04
+WWadjDrop
+resultL
+teamSeton Hall
+FWadj0
+oppFW2.04
+WWadjDrop
+resultL
+teamMaryland
+FWadj-0.1
+oppFW2.04
+WWadjDrop
+resultL
+teamLong Island University
+FWadj0
+oppFW2.04
+WWadjDrop
+resultL
+teamNon-D1 Team
+FWadj0
+oppFW2.04
+WWadj2.06
+resultL
+teamLehigh
+FWadj0
+oppFW2.04
+WWadjDrop
+resultW
+teamNon-D1 Team
+FWadj0
+oppFW2.04
+WWadj1.58
+resultW
+teamUT Rio Grande Valley
+FWadj-0.01
+oppFW2.04
+WWadjDrop
+resultW
+teamHouston Christian
+FWadj0
+oppFW2.04
+WWadjDrop
+resultL
+teamLongwood
+FWadj0.26
+oppFW2.04
+WWadjDrop
+resultW
+teamChicago State
+FWadj0.11
+oppFW2.04
+WWadj0
+resultW
+teamNon-D1 Team
+FWadj0
+oppFW2.04
+WWadj0
+resultL
+teamUtah Valley
+FWadj0.05
+oppFW2.04
+WWadjDrop
+resultW
+teamFairleigh Dickinson
+FWadj0
+oppFW2.04
+WWadjDrop
+resultW
+teamLongwood
+FWadj0.19
+oppFW2.04
+WWadjDrop
+resultW
+teamNorth Dakota
+FWadj0.2
+oppFW2.04
+WWadjDrop
+resultW
+teamSouth Dakota
+FWadj0.22
+oppFW2.04
+WWadjDrop
+resultW
+teamHouston Christian
+FWadj0.03
+oppFW2.04
+WWadjDrop
+resultW
+teamUT Rio Grande Valley
+FWadj0
+oppFW2.04
+WWadjDrop
+resultL
+teamSouth Dakota
+FWadj0.19
+oppFW2.04
+WWadjDrop
+resultW
+teamNorth Dakota
+FWadj
+oppFW2.04
+WWadjDrop
+resultL
+teamUtah Valley
+FWadj
+oppFW2.04
+WWadjDrop
+resultW
+teamChicago State
+FWadj
