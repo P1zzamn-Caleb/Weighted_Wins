@@ -161,7 +161,7 @@
 				 $this->initialWeight, "   ", $this->finalWeight, 
 				 " ", $this->weightedWins, "<br>";
 
-			foreach($this->opponentNames as $index => $names){
+			/*foreach($this->opponentNames as $index => $names){
 				$result = $this->opponentResults[$index];
 				$finalAdj = $this->FWadj[$index];
 				$wwAdjsts = $this->wwAdj[$index];
@@ -171,7 +171,7 @@
 				echo "Name: $names  Record: $oppWins - $oppLosses Result: $result FW: $opponentFW FWadj: $finalAdj WWadj: $wwAdjsts <br>";
 			}
 			echo "countResults: ". count($this->opponentResults) . "countFWadj: ". 
-			     count($this->FWadj). "countNames: ". count($this->opponentNames). "<br>";
+			     count($this->FWadj). "countNames: ". count($this->opponentNames). "<br>";*/
 			//print_r($this->opponentsWonAgainstWeightedWins);
 			//echo "<br>";
 			//print_r($this->teamsWonAgainst);
@@ -204,6 +204,22 @@
 
 		function writeDetailedResultsToFile($year, $mode){
 			$file = fopen("detailedFile$year.txt", "$mode");
+
+			fwrite($file, "Team: ");
+			fwrite($file, $this->names);
+
+			for($i=0;$i<$this->actualGames;$i++){
+				fwrite($file, "\n". $this->opponentNames[$i]);
+				fwrite($file, "\n". $this->opponentWins[$i]);
+				fwrite($file, "\n". $this->opponentLosses[$i]);
+				fwrite($file, "\n". $this->opponentResults[$i]);
+				fwrite($file, "\n". $this->FWadj[$i]);
+				fwrite($file, "\n". $this->oppFW[$i]);
+				fwrite($file, "\n". $this->wwAdj[$i]);
+			}
+
+			fclose($file);
+			
 		}
 
 		function makeWeightsNull(){
@@ -686,6 +702,7 @@
 		for($i=0;$i<count($teams);$i++){
 			$teams[$i]->outputResults();
 			$teams[$i]->writeResultsToFile($year, $mode);
+			$teams[$i]->writeDetailedResultsToFile($year, $mode);
 			$mode = "a";
 		}
 	}
