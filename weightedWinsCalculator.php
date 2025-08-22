@@ -177,6 +177,12 @@
 			return $this->losses;
 		}
 
+		//returns totalGames
+		function getTotalGames(){
+			return $this->totalGames;
+		}
+
+
 		//gets the teams that the team has lost against
 		function getTeamsLostAgainst(){
 			return $this->teamsLostAgainst;
@@ -349,8 +355,6 @@
 					}
 				}
 				$this->opponentsWonAgainstIndexes = array_slice($this->opponentsWonAgainstIndexes,0,$lengthArraySlice);
-			}else{
-				//ask Dr.Terwilliger what to do here
 			}
 		}
 
@@ -412,19 +416,13 @@
 		
 
 		//changes the game count for covid year
-		if($year==2021 or $year==2022){
-			$gameCountFile = fopen("gameCount2021.txt", "r") or die;
-			$gameCount = fgets($gameCountFile);
-			for($i=0;$i<count($teams);$i++){
-				$teams[$i]->readInGameCount($gameCount);
-			}
-		}else{
+		
 			$gameCountFile = fopen("gamesCountedEveryYearButCOVIDYear.txt", "r") or die;
 			$gameCount = fgets($gameCountFile);
 			for($i=0;$i<count($teams);$i++){
 				$teams[$i]->readInGameCount($gameCount);
 			}
-		}
+		
 
         $newTeamString = "Team: ";
 
@@ -593,10 +591,11 @@
 	function printData($year){
 		global $teams;
 
-		echo "$year<br>";
-
-		for($i=0;$i<count($teams);$i++){
-			$teams[$i]->outputResults();
+		for($i=0;$i<count($teams); $i++){
+			echo "<tr><td>", $teams[$i]->getName(), "</td><td>", $teams[$i]->getInitials(), "</td><td>", 
+				 $teams[$i]->getTotalGames(), "</td><td>", $teams[$i]->getWins(), "</td><td>", $teams[$i]->getLosses(), "</td><td>", 
+				 number_format($teams[$i]->returnInitialWeight(), 2), "</td><td>", number_format($teams[$i]->returnFinalWeight(), 2), 
+				 "</td><td>", number_format($teams[$i]->returnWeightedWins(), 2), "</tr>";
 		}
 	}
 
@@ -615,6 +614,7 @@ function runProgram($year){
 	calculateWeights();
 	sortTeams();
 	printData($year);
+	
 }
 	
 
