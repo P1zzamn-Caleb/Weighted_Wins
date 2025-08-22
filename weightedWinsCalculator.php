@@ -1,66 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>Weighted Wins NCAA Basketball</title>
-  <link rel="icon" type="image/x-icon" href="http://www.weightedwins.com/football.gif">
-  
-  <style>
-  body
-  {
-	text-align:center;
-  }
-  h1
-  {
-	font-family: Arial, sans-serif;
-  }
-  
-  a:link, a:visited
-  {
-	color: rgb(0,0,255);
-	text-decoration: none;
-  }  
-  a:hover, a:active
-  {
-	color: rgb(0, 0, 139);
-	text-decoration: underline;
-  }  
-  #buttons:link, #buttons:visited
-  {
-	background-color: rgb(0,0,145);
-	color: white;
-	padding: 15px 25px;
-	text-decoration: none;
-	display: in-line block;
-  }
-  #buttons:hover, #buttons:active
-  {
-	background-color: rgb(0,0,255);
-	color: white;
-	padding: 15px 25px;
-	text-decoration: none;
-	display: in-line block;
-  }
-  
-  
-  </style>
-</head>
-<body>
-
-  <h1>
-  <img src="https://pics.clipartpng.com/Under_Construction_Warning_Sign_PNG_Clipart-839.png" style="float:left; width:200px;height200px;">
-  <img src="https://static.vecteezy.com/system/resources/previews/045/809/909/non_2x/a-yellow-hard-hat-on-a-transparent-background-free-png.png" 
-  style="float:right; width:200px;height200px;">
-  This website is currently under construction!
-  </h1>
-  
-  <p>The current <a href="http://www.weightedwins.com" target="_blank">website</a> for NCAA D1 football rankings.<br></p>
-  
-  
-  <p><a href="http://www.weightedwins.com"target="_blank" id="buttons">A button for funsies</a></p>
-  
-
-  <?php
+<?php
   
 	const ABBRV_LENGTH= 3;
 	const TOTAL_TEAMS=365;
@@ -161,49 +99,6 @@
 				 $this->initialWeight, "   ", $this->finalWeight, 
 				 " ", $this->weightedWins, "<br>";
 
-			foreach($this->opponentNames as $index => $names){
-				$result = $this->opponentResults[$index];
-				$finalAdj = $this->FWadj[$index];
-				$wwAdjsts = $this->wwAdj[$index];
-				$opponentFW = $this->oppFW[$index];
-				$oppWins = $this->opponentWins[$index];
-				$oppLosses = $this->opponentLosses[$index];
-				echo "Name: $names  Record: $oppWins - $oppLosses Result: $result FW: $opponentFW FWadj: $finalAdj WWadj: $wwAdjsts <br>";
-			}
-			echo "countResults: ". count($this->opponentResults) . "countFWadj: ". 
-			     count($this->FWadj). "countNames: ". count($this->opponentNames). "<br>";
-			//print_r($this->opponentsWonAgainstWeightedWins);
-			//echo "<br>";
-			//print_r($this->teamsWonAgainst);
-			//echo "<br>";
-			//print_r($this->teamsLostAgainst);
-
-		}
-		function writeResultsToFile($year, $mode){
-			$file = fopen("weightedWinsData$year.txt", "$mode");
-			
-			fwrite($file, "Team: ");
-			fwrite($file, $this->names);
-			fwrite($file, "\n");
-			fwrite($file, $this->initials);
-			fwrite($file, "\n");
-			fwrite($file, $this->totalGames);
-			fwrite($file, "\n");
-			fwrite($file, $this->wins);
-			fwrite($file, "\n");
-			fwrite($file, $this->losses); 
-			fwrite($file,"\n");
-			fwrite($file, $this->initialWeight);
-			fwrite($file,"\n");
-			fwrite($file, $this->finalWeight);
-			fwrite($file,"\n");
-			fwrite($file, $this->weightedWins);
-			fwrite($file, "\n");
-
-		}
-
-		function writeDetailedResultsToFile($year, $mode){
-			$file = fopen("detailedFile$year.txt", "$mode");
 		}
 
 		function makeWeightsNull(){
@@ -232,6 +127,10 @@
 			$countedWins = $this->wins - ($this->actualGames - $this->totalGames);
 			//echo"$countedWins<br>";
 			return $countedWins;
+		}
+
+		function returnWeightedWins(){
+			return $this->weightedWins;
 		}
 		
 		//adds a win
@@ -310,8 +209,8 @@
 
 		//calculates the initial weights for all teams
 		function calculateInitialWeight(){
-			$this->initialWeight = 1 + (($this->wins - ($this->actualGames - $this->totalGames) - $this->losses) *.01);
-			$this->finalWeight = 1 + (($this->wins - ($this->actualGames - $this->totalGames) - $this->losses) *.01);
+			$this->initialWeight = 3 + (($this->wins - ($this->actualGames - $this->totalGames) - $this->losses) *.01);
+			$this->finalWeight = 3 + (($this->wins - ($this->actualGames - $this->totalGames) - $this->losses) *.01);
 		}
 
 		//adjusts the final weights for a loss for all teams
@@ -421,16 +320,15 @@
 			// Split back into separate arrays
 			$this->opponentsWonAgainstWeightedWins = array_column($combined, 'win');
 			$this->teamsWonAgainst = array_column($combined, 'team');
-			$this->opponentsWonAgainstIndexes[$i] = array_column($combined, 'indexes');
+			$this->opponentsWonAgainstIndexes = array_column($combined, 'indexes');
 			
     	}
 
 		//sets the order of opponentNames equal to the order of opponent weighted wins
 		function sortOpponentsNames() {
-			$this->opponentsWonAgainstIndexes = array_pop($this->opponentsWonAgainstIndexes);
 
 			array_multisort(
-       $this->opponentsWonAgainstWeightedWins, SORT_ASC, SORT_NUMERIC,
+	   $this->opponentsWonAgainstWeightedWins, SORT_ASC, SORT_NUMERIC,
     	  $this->teamsWonAgainst, SORT_ASC,
     			$this->opponentsWonAgainstIndexes, SORT_ASC
 			) ;
@@ -438,15 +336,19 @@
 		
 		//removes extra wins
 		function removeExtraWins(){
-			if(0 <= $this->wins - ($this->actualGames-$this->totalGames)){
-				$this->teamsWonAgainst = array_slice($this->teamsWonAgainst,0,$this->actualGames-$this->totalGames);
-				$this->opponentsWonAgainstWeightedWins = array_slice($this->opponentsWonAgainstWeightedWins,0,$this->actualGames-$this->totalGames);
+			$lengthArraySlice = $this->actualGames-$this->totalGames;
 
-				for($i= 0;$i<($this->actualGames-$this->totalGames);$i++){
-					$this->weightedWins -= $this->wwAdj[$this->opponentsWonAgainstIndexes[$i]];
-					$this->wwAdj[$this->opponentsWonAgainstIndexes[$i]] = "Drop";
+			if($lengthArraySlice > 0){
+				$this->teamsWonAgainst = array_slice($this->teamsWonAgainst,0,$this->actualGames-$this->totalGames);
+				$this->opponentsWonAgainstWeightedWins = array_slice($this->opponentsWonAgainstWeightedWins,0,$lengthArraySlice);
+
+				for($i= 0;$i<($lengthArraySlice);$i++){
+					if (isset($this->opponentsWonAgainstIndexes[$i])) {
+						$this->weightedWins -= $this->wwAdj[$this->opponentsWonAgainstIndexes[$i]];
+						$this->wwAdj[$this->opponentsWonAgainstIndexes[$i]] = "Drop";
+					}
 				}
-				$this->opponentsWonAgainstIndexes = array_slice($this->opponentsWonAgainstIndexes,0,$this->actualGames-$this->totalGames);
+				$this->opponentsWonAgainstIndexes = array_slice($this->opponentsWonAgainstIndexes,0,$lengthArraySlice);
 			}else{
 				//ask Dr.Terwilliger what to do here
 			}
@@ -675,18 +577,26 @@
 		$teams[TOTAL_TEAMS]->makeWeightsNull();
 
 
-//was working on adjusting the weight for non-d1 teams
+
 		
 	}
 
-	function printandWriteData($year){
+	//sorts teams by weighted wins
+	 function sortTeams(){
+            global $teams;
+
+            usort($teams, function($a, $b) {
+                return $b->returnWeightedWins() <=> $a->returnWeightedWins();
+            });
+        }
+
+	function printData($year){
 		global $teams;
-		$mode = "w";
+
+		echo "$year<br>";
 
 		for($i=0;$i<count($teams);$i++){
 			$teams[$i]->outputResults();
-			$teams[$i]->writeResultsToFile($year, $mode);
-			$mode = "a";
 		}
 	}
 
@@ -698,22 +608,14 @@
 		}
 	}
 
-	getData();
-
-	foreach($teams as $index => $team){
-		$teamNameIndexMap[cleanStr($team->getName())] = $index;
-	}
-
-	for($year=$currYear;$year>=$earliestYear;$year--){
-		addWinsAndLossesToAllTeams($year);
-		calculateWeights();
-		echo "$year <br>";
 	
-		printandWriteData($year);
+function runProgram($year){
+	callResetValues();
+	addWinsAndLossesToAllTeams($year);
+	calculateWeights();
+	sortTeams();
+	printData($year);
+}
+	
 
-		callResetValues();
-	}
-
-  ?>
-</body>
-</html>
+?>
