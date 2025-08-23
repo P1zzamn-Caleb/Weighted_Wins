@@ -10,6 +10,7 @@
   body
   {
 	text-align:center;
+	background-color: #d3d3d3ff;
   }
   h1
   {
@@ -83,34 +84,41 @@
   
   <p><a href="http://www.weightedwins.com"target="_blank" id="buttons">A button for funsies</a></p>
 
-<form method="post" target = "_blank">
-    <select name="year" onchange="this.form.submit()">
-		<option value="">Select an option</option>
-		<option value="2025">2024-2025</option>
-		<option value="2024">2023-2024</option>
-		<option value="2023">2022-2023</option>
-		<option value="2022">2021-2022</option>
-		<option value="2021">2020-2021</option>
-		<option value="2020">2019-2020</option>
-		<option value="2019">2018-2019</option>
-		<option value="2018">2017-2018</option>
-		<option value="2017">2016-2017</option>
-		<option value="2016">2015-2016</option>
-		<option value="2015">2014-2015</option>
-		<option value="2014">2013-2014</option>
-		<option value="2013">2012-2013</option>
-		<option value="2012">2011-2012</option>
-		<option value="2011">2010-2011</option>
-		<option value="2010">2009-2010</option>
-		<option value="2009">2008-2009</option>
-		<option value="2008">2007-2008</option>
-		<option value="2007">2006-2007</option>
-		<option value="2006">2005-2006</option>
-		<option value="2005">2004-2005</option>
-		<option value="2004">2003-2004</option>
-		<option value="2003">2002-2003</option>
+  
+
+  <?php
+   if(!isset($_POST['year']) && !isset($_POST['team'])){
+	echo "<form method='post' target = '_blank'>
+    <select name='year' onchange='this.form.submit()'>
+		<option value=''>Select an option</option>
+		<option value='2025'>2024-2025</option>
+		<option value='2024'>2023-2024</option>
+		<option value='2023'>2022-2023</option>
+		<option value='2022'>2021-2022</option>
+		<option value='2021'>2020-2021</option>
+		<option value='2020'>2019-2020</option>
+		<option value='2019'>2018-2019</option>
+		<option value='2018'>2017-2018</option>
+		<option value='2017'>2016-2017</option>
+		<option value='2016'>2015-2016</option>
+		<option value='2015'>2014-2015</option>
+		<option value='2014'>2013-2014</option>
+		<option value='2013'>2012-2013</option>
+		<option value='2012'>2011-2012</option>
+		<option value='2011'>2010-2011</option>
+		<option value='2010'>2009-2010</option>
+		<option value='2009'>2008-2009</option>
+		<option value='2008'>2007-2008</option>
+		<option value='2007'>2006-2007</option>
+		<option value='2006'>2005-2006</option>
+		<option value='2005'>2004-2005</option>
+		<option value='2004'>2003-2004</option>
+		<option value='2003'>2002-2003</option>
 </select>
-</form>
+</form>";
+   }
+?>
+
 <?php
 	getData();
 
@@ -119,26 +127,61 @@
 	}
 ?>  
 <table>
-    <thead>
-        <tr>
-            <th>Team</th>
-            <th>Initials</th>
-			<th>Counted Games</th>
-			<th>Wins</th>
-			<th>Losses</th>
-			<th>IW</th>
-			<th>FW</th>
-			<th>WW</th>
-        </tr>
-    </thead>
-	<tbody>
+    
 	<?php
+		session_start();
+
 		if (isset($_POST['year'])) {
-		$selectedYear = $_POST['year'];
+			$_SESSION['year'] = $_POST['year'];
+			$selectedYear = $_POST['year'];
 
 		echo "<h1>$selectedYear Results</h1><br>";
+		echo "<thead>
+				<tr>
+					<th>Team</th>
+					<th>Initials</th>
+					<th>Counted Games</th>
+					<th>Wins</th>
+					<th>Losses</th>
+					<th>IW</th>
+					<th>FW</th>
+					<th>WW</th>
+				</tr>
+			</thead>";
 	
 		runProgram($selectedYear);
+		printData();
+
+		
+
+		}
+	?>
+	</tbody>
+</table>
+
+<table>
+    
+	<?php
+		if (isset($_POST['team'])) {
+		$selectedTeam = $_POST['team'];
+		$selectedYear = $_SESSION['year'];
+
+		echo "<h1>$selectedTeam Results</h1><br>";
+		echo "<thead>
+				<tr>
+					<th>Opponent</th>
+					<th>Counted Games</th>
+					<th>Result</th>
+					<th>Opponent FW</th>
+					<th>FW Adj</th>
+					<th>Value Added</th>
+				</tr>
+			</thead>";
+	
+		runProgram($selectedYear);
+		callPrintDetailedData($selectedTeam);
+
+		
 
 		}
 	?>

@@ -4,6 +4,7 @@
 	const TOTAL_TEAMS=365;
 	const LOSS_AGAINST_NON_D1_TEAM_WW_ADJUSTMENT = -0.950;
 	const NON_D1_TEAM_STRING = "Non-D1 Team";
+	const BRAND_NEW_TEAM_STRING ="Brand new Team";
 
 
 	class Team{
@@ -99,6 +100,16 @@
 				 $this->initialWeight, "   ", $this->finalWeight, 
 				 " ", $this->weightedWins, "<br>";
 
+		}
+
+		//outputs detailed opponent details
+		function outputDetailedResults(){
+			for($i=0;$i<count($this->teamsPlayedAgainst); $i++){
+				echo "<tr><td>", $this->teamsPlayedAgainst[$i], " (", $this->opponentWins[$i], "-", $this->opponentLosses[$i],  ")</td><td>", $this->totalGames, "</td><td>",
+				 $this->opponentResults[$i], "</td><td>", number_format($this->oppFW[$i], 2), "</td><td>", 
+					$this->FWadj[$i], "</td><td>", $this->wwAdj[$i], 
+					"</td></tr>";
+			}
 		}
 
 		function makeWeightsNull(){
@@ -215,8 +226,14 @@
 
 		//calculates the initial weights for all teams
 		function calculateInitialWeight(){
-			$this->initialWeight = 3 + (($this->wins - ($this->actualGames - $this->totalGames) - $this->losses) *.01);
-			$this->finalWeight = 3 + (($this->wins - ($this->actualGames - $this->totalGames) - $this->losses) *.01);
+
+			if($this->initials == BRAND_NEW_TEAM_STRING){
+				$this->initialWeight = 0;
+				$this->finalWeight = 0;
+			}else{
+				$this->initialWeight = 3 + (($this->wins - ($this->actualGames - $this->totalGames) - $this->losses) *.01);
+				$this->finalWeight = 3 + (($this->wins - ($this->actualGames - $this->totalGames) - $this->losses) *.01);
+			}
 		}
 
 		//adjusts the final weights for a loss for all teams
@@ -367,6 +384,8 @@
 	$currYear = 2025;
 	$earliestYear=2003;
 	$teamNameIndexMap = [];
+
+	
 	
 	for($i=0;$i<count($teams);$i++){
 		$teams[$i]->outputResults();
@@ -581,18 +600,24 @@
 
 	//sorts teams by weighted wins
 	 function sortTeams(){
-            global $teams;
+			global $teams;
 
             usort($teams, function($a, $b) {
                 return $b->returnWeightedWins() <=> $a->returnWeightedWins();
             });
+
+			
         }
 
-	function printData($year){
+	function printData(){
 		global $teams;
 
+		
+
 		for($i=0;$i<count($teams); $i++){
-			echo "<tr><td>", $teams[$i]->getName(), "</td><td>", $teams[$i]->getInitials(), "</td><td>", 
+			$name = $teams[$i]->getName();
+			$safeTeamName = htmlspecialchars($name, ENT_QUOTES, 'UTF-8');
+			echo "<tr><td><form method='post' action='index.php' target='_blank'><button type = 'submit' name='team' value='$safeTeamName'>", $teams[$i]->getName(), "</form></button></td><td>", $teams[$i]->getInitials(), "</td><td>", 
 				 $teams[$i]->getTotalGames(), "</td><td>", $teams[$i]->getWins(), "</td><td>", $teams[$i]->getLosses(), "</td><td>", 
 				 number_format($teams[$i]->returnInitialWeight(), 2), "</td><td>", number_format($teams[$i]->returnFinalWeight(), 2), 
 				 "</td><td>", number_format($teams[$i]->returnWeightedWins(), 2), "</tr>";
@@ -607,13 +632,25 @@
 		}
 	}
 
+	function callPrintDetailedData($teamName){
+		global $teams;
+		$teamNameIndexMap = [];
+
+		foreach($teams as $index => $team){
+			$teamNameIndexMap[cleanStr($team->getName())] = $index;
+		}
+
+		$teams[$teamNameIndexMap[$teamName]]->outputDetailedResults();
+	}
 	
+
+	
+
 function runProgram($year){
 	callResetValues();
 	addWinsAndLossesToAllTeams($year);
 	calculateWeights();
 	sortTeams();
-	printData($year);
 	
 }
 	
