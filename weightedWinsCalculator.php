@@ -4,7 +4,6 @@
 	const TOTAL_TEAMS=365;
 	const LOSS_AGAINST_NON_D1_TEAM_WW_ADJUSTMENT = -0.950;
 	const NON_D1_TEAM_STRING = "Non-D1 Team";
-	const BRAND_NEW_TEAM_STRING ="Brand new Team";
 
 
 	class Team{
@@ -227,7 +226,7 @@
 		//calculates the initial weights for all teams
 		function calculateInitialWeight(){
 
-			if($this->initials == BRAND_NEW_TEAM_STRING){
+			if($this->actualGames == 0){
 				$this->initialWeight = 0;
 				$this->finalWeight = 0;
 			}else{
