@@ -15,6 +15,7 @@
   h1
   {
 	font-family: Arial, sans-serif;
+	font-size: 3.5em;
   }
   p {
 	font-family: 'Courier New', Courier, monospace;
@@ -51,7 +52,9 @@
   }
 
   #headerTable {
-	width: 100%;
+	align-items: center;
+	margin: 0 auto;
+	width: 50%;
 	border-collapse: collapse;
 	background-color: #7d7d7dff;
   }
@@ -60,11 +63,23 @@
 	background-color: #aaababff;
   }
 
-  #sideBar {
-	width: 20%;
+  .container{
+	display: flex;
+	height: 100vh;
+  }
+
+  #sideBarandInfo {
+	margin: auto;
+	width: 50%;
 	border-collapse: collapse;
 	height: 15vh;
   }
+  #sideBarandInfo tr:nth-child(even),
+  #sideBarandInfo tr:nth-child(odd){
+	margin: 0 auto;
+	background-color: transparent !important;
+  }
+
   #sideBarTR {
 	background-color: #b0dbffff;
   }
@@ -78,9 +93,16 @@
 	font-family: 'Courier New', Courier, monospace;
 	color: white;
   }
+
+  iframe {
+	background: transparent;
+	border: none;
+	vertical-align: top;
+  }
   
 
 	table {
+		
 		width: 100%;
 		border-collapse: collapse;
 	}
@@ -89,6 +111,14 @@
 		border: 1px solid #dbfbffff;
 		padding: 8px;
 		text-align: left;
+	}
+
+	ul{
+		text-decoration: underline;
+		font-family: 'Courier New', Courier, monospace;
+		color: white;
+		line-height: 1;
+		font-size: 1.1em;
 	}
 
 	th {
@@ -101,6 +131,14 @@
 
 	tr:nth-child(odd) {
 		background-color: #afd6ffff;
+	}
+	#infoTD {
+		
+		border: none;
+		background-color: transparent;
+		width: 80vw;
+		vertical-align: top;
+		text-align: center;
 	}
   
   
@@ -116,23 +154,45 @@
    if(!isset($_POST['year']) && !isset($_POST['team'])){
 	echo "<table id='headerTable'>
 			<tr>
-				<th id='headerTh'><h1>Weighted Wins <br></h1><i>NCAA Division I Basketball Standings</i></th>
+				<th id='headerTh'>
+					<div style='display:flex;'>
+					<img src='basketball_Logo.png' style='width:10vw; height:20vh; item-align:left;'>
+						<div style= 'text-align:left;'>
+							<h1>Weighted Wins <br></h1>
+								<i style='font-size: 1.5em;'>NCAA Division I Basketball Standings</i>
+						</div>
+					</div>
+				</th>
 			</tr>
   		  </table>";
-
-	echo "<table id='sideBar'>
+//make new HTML files to output the random data and attatch it to these
+	echo "<table id='sideBarandInfo'>
 			<tr id='sideBarTR'>
 				<th id='sideBarTH'> 
 					<b id='sideBarH1'>Menu <br></b>
-					<p>
-					WW Home<br>
-					How Weights are Determined<br>
-					WW Criteria<br>
-					<a href='weightedWinsProgramOutput.php' target='contentFrame'>WW Standings</a><br>
-					About WW<br>
-					Administration<br>
-					</p>
+					
+					<ul>
+					WW Home<br><br>
+					</ul>
+					<ul>
+					How Weights are Determined<br><br>
+					</ul>
+					<ul>
+					WW Criteria<br><br>
+					</ul>
+					<ul>
+					<a href='weightedWinsProgramOutput.php'; target='weightedWinsStandings';>WW Standings</a><br><br>
+					</ul>
+					<ul>
+					About WW<br><br>
+					</ul>
+					<ul>
+					Administration<br><br>
+					</ul>
 				</th>
+				<td id='infoTD'>
+					<iframe name='weightedWinsStandings'></iframe>
+				</td>
 			</tr>
 			<tr>
 			<th id='sideBarTH'><b id='sideBarH1'>
@@ -141,10 +201,9 @@
 				<p>
 				</p>
 				</th>
+				
 			</tr>
 		  </table>";
-
-		   echo "<iframe name='contentFrame' width='80%' height='600px' style='border:none;'></iframe>";
    }
 ?>
 
