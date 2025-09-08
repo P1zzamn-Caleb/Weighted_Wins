@@ -177,6 +177,11 @@
 			$this->opponentLosses[] = $oppLosses;
 		}
 
+		//makes finalWeight 0
+		function makeWWZero(){
+			$this->weightedWins=0;
+		}
+
 		//returns a teams win total
 		function getWins(){
 			return $this->wins;
@@ -219,6 +224,7 @@
 
 		//returns final weight of a team
 		function returnFinalWeight(){
+			
 			return $this->finalWeight;
 		}
 
@@ -551,6 +557,8 @@
 					}
 				}
 			}
+
+			
 		}
 
 		//calculates weightedWins
@@ -580,6 +588,7 @@
 						}
 					}
 				}
+
 			}
 		
 
@@ -589,6 +598,13 @@
 				$teams[$k]->sortOpponentsNames();
 				$teams[$k]->removeExtraWins();
 			}	
+
+			//if weightedWins < 0 it removes it makes the weighted wins 0
+			for($k=0;$k<count($teams);$k++){
+				if($teams[$k]->returnWeightedWins() < 0){
+						$teams[$k]->makeWWZero();
+				}
+			}
 
 		$teams[TOTAL_TEAMS]->makeWeightsNull();
 
@@ -616,7 +632,7 @@
 		for($i=0;$i<count($teams); $i++){
 			$name = $teams[$i]->getName();
 			$safeTeamName = htmlspecialchars($name, ENT_QUOTES, 'UTF-8');
-			echo "<tr><td><form method='post' action='index.php' target='_blank'><button type = 'submit' name='team' value='$safeTeamName'>", $teams[$i]->getName(), "</form></button></td><td>", $teams[$i]->getInitials(), "</td><td>", 
+			echo "<tr><td><form method='post' action='weightedWinsProgramOutput.php' target='_blank'><button type = 'submit' name='team' value='$safeTeamName'>", $teams[$i]->getName(), "</button></form></td><td>",
 				 $teams[$i]->getTotalGames(), "</td><td>", $teams[$i]->getWins(), "</td><td>", $teams[$i]->getLosses(), "</td><td>", 
 				 number_format($teams[$i]->returnInitialWeight(), 2), "</td><td>", number_format($teams[$i]->returnFinalWeight(), 2), 
 				 "</td><td>", number_format($teams[$i]->returnWeightedWins(), 2), "</tr>";
@@ -646,7 +662,10 @@
 	
 
 function runProgram($year){
-	callResetValues();
+	global $teams;
+	if(count($teams)>0){
+		callResetValues();
+	}
 	addWinsAndLossesToAllTeams($year);
 	calculateWeights();
 	sortTeams();

@@ -1,4 +1,5 @@
 <?php require "weightedWinsCalculator.php"?>
+<?php session_start(); ?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -156,7 +157,6 @@
 <table>
     
 	<?php
-		session_start();
 
 		if (isset($_POST['year'])) {
 			$_SESSION['year'] = $_POST['year'];
@@ -166,7 +166,6 @@
 		echo "<thead>
 				<tr>
 					<th>Team</th>
-					<th>Initials</th>
 					<th>Counted Games</th>
 					<th>Wins</th>
 					<th>Losses</th>
@@ -190,23 +189,23 @@
     
 	<?php
 		if (isset($_POST['team'])) {
-		$selectedTeam = $_POST['team'];
-		$selectedYear = $_SESSION['year'];
+			$selectedTeam = $_POST['team'];
+			$selectedYear = $_SESSION['year'];
 
-		echo "<h1>$selectedTeam $selectedYear Results</h1><br>";
-		echo "<thead>
-				<tr>
-					<th>Opponent</th>
-					<th>Counted Games</th>
-					<th>Result</th>
-					<th>Opponent FW</th>
-					<th>FW Adj</th>
-					<th>Value Added</th>
-				</tr>
-			</thead>";
-	
-		runProgram($selectedYear);
-		callPrintDetailedData($selectedTeam);
+			echo "<h1>$selectedTeam $selectedYear Results</h1><br>";
+			echo "<thead>
+					<tr>
+						<th>Opponent</th>
+						<th>Counted Games</th>
+						<th>Result</th>
+						<th>Opponent FW</th>
+						<th>FW Adj</th>
+						<th>Value Added</th>
+					</tr>
+				</thead>";
+		
+			runProgram($selectedYear);
+			callPrintDetailedData($selectedTeam);
 
 		
 

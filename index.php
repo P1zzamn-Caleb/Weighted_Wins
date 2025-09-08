@@ -53,13 +53,12 @@
 
   #headerTable {
 	align-items: center;
-	margin: 0 auto;
-	width: 50%;
 	border-collapse: collapse;
 	background-color: #7d7d7dff;
   }
 
   #headerTh {
+	
 	background-color: #aaababff;
   }
 
@@ -68,15 +67,18 @@
 	height: 100vh;
   }
 
+  #headerTable, #sideBarandInfo {
+	width: 100%;
+	max-width:1200px;
+  }
+
   #sideBarandInfo {
-	margin: auto;
-	width: 50%;
+	margin: 0 auto;
 	border-collapse: collapse;
 	height: 15vh;
   }
   #sideBarandInfo tr:nth-child(even),
   #sideBarandInfo tr:nth-child(odd){
-	margin: 0 auto;
 	background-color: transparent !important;
   }
 
@@ -95,15 +97,25 @@
   }
 
   iframe {
+	margin: 0 auto;
 	background: transparent;
 	border: none;
 	vertical-align: top;
   }
   
+  img {
+	width: 25%;
+	height: 50%;
+  }
+
+  .center-container {
+	width: 50%;
+	margin: 0 auto;
+	flex-direction: column;
+	align-items: center;
+  }
 
 	table {
-		
-		width: 100%;
 		border-collapse: collapse;
 	}
 
@@ -151,60 +163,79 @@
   
 
   <?php
+	$iframeSRC = "";
+
+
    if(!isset($_POST['year']) && !isset($_POST['team'])){
-	echo "<table id='headerTable'>
-			<tr>
-				<th id='headerTh'>
-					<div style='display:flex;'>
-					<img src='basketball_Logo.png' style='width:10vw; height:20vh; item-align:left;'>
-						<div style= 'text-align:left;'>
-							<h1>Weighted Wins <br></h1>
-								<i style='font-size: 1.5em;'>NCAA Division I Basketball Standings</i>
-						</div>
-					</div>
-				</th>
-			</tr>
-  		  </table>";
-//make new HTML files to output the random data and attatch it to these
-	echo "<table id='sideBarandInfo'>
-			<tr id='sideBarTR'>
-				<th id='sideBarTH'> 
-					<b id='sideBarH1'>Menu <br></b>
-					
-					<ul>
-					WW Home<br><br>
-					</ul>
-					<ul>
-					How Weights are Determined<br><br>
-					</ul>
-					<ul>
-					WW Criteria<br><br>
-					</ul>
-					<ul>
-					<a href='weightedWinsProgramOutput.php'; target='weightedWinsStandings';>WW Standings</a><br><br>
-					</ul>
-					<ul>
-					About WW<br><br>
-					</ul>
-					<ul>
-					Administration<br><br>
-					</ul>
-				</th>
-				<td id='infoTD'>
-					<iframe name='weightedWinsStandings'></iframe>
-				</td>
-			</tr>
-			<tr>
-			<th id='sideBarTH'><b id='sideBarH1'>
-				Other Links
-			</b>
-				<p>
-				</p>
-				</th>
-				
-			</tr>
-		  </table>";
-   }
+		if(isset($_GET['choice'])){
+			switch($_GET['choice']){
+				case 'home':
+					$iframeSRC = "home.html";
+					break;
+				case 'wwStandings':
+					$iframeSRC = "weightedWinsProgramOutput.php";
+					break;
+				case "":
+					$iframeSRC = "home.html";
+					break;
+			}
+		}
+
+		echo "<div class= 'center-container'>
+				<table id='headerTable'>
+					<tr>
+						<th id='headerTh'>
+							<div style='display:flex;'>
+							<img src='basketball_Logo-removebg-preview.png' item-align:left;'>
+								<div style= 'text-align:left;'>
+									<h1>Weighted Wins <br></h1>
+										<i style='font-size: 1.5em;'>NCAA Division I Basketball Standings</i>
+								</div>
+							</div>
+						</th>
+					</tr>
+				</table>";
+	//make new HTML files to output the random data and attatch it to these
+			echo "<table id='sideBarandInfo'>
+					<tr id='sideBarTR'>
+						<th id='sideBarTH'> 
+							<b id='sideBarH1'>Menu <br></b>
+							
+							<ul>
+							<a href= '?choice=home'>WW Home</a><br><br>
+							</ul>
+							<ul>
+							How Weights are Determined<br><br>
+							</ul>
+							<ul>
+							WW Criteria<br><br>
+							</ul>
+							<ul>
+							<a href='?choice=wwStandings'>WW Standings</a><br><br>
+							</ul>
+							<ul>
+							About WW<br><br>
+							</ul>
+							<ul>
+							Administration<br><br>
+							</ul>
+						</th>
+						<td id='infoTD'>
+							<iframe name='contentOutput' src='$iframeSRC'></iframe>
+						</td>
+					</tr>
+					<tr>
+					<th id='sideBarTH'><b id='sideBarH1'>
+						Other Links
+					</b>
+						<p>
+						</p>
+						</th>
+						
+					</tr>
+				</table>
+				</div>";
+	}
 ?>
 
 
