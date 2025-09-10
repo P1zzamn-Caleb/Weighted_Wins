@@ -632,7 +632,7 @@
 		for($i=0;$i<count($teams); $i++){
 			$name = $teams[$i]->getName();
 			$safeTeamName = htmlspecialchars($name, ENT_QUOTES, 'UTF-8');
-			echo "<tr><td><form method='post' action='weightedWinsProgramOutput.php' target='_blank'><button type = 'submit' name='team' value='$safeTeamName'>", $teams[$i]->getName(), "</button></form></td><td>",
+			echo "<tr><td>", $i+1, "</td><td><form method='post' action='weightedWinsProgramOutput.php' target='_blank'><button type = 'submit' name='team' value='$safeTeamName'>", $teams[$i]->getName(), "</button></form></td><td>",
 				 $teams[$i]->getTotalGames(), "</td><td>", $teams[$i]->getWins(), "</td><td>", $teams[$i]->getLosses(), "</td><td>", 
 				 number_format($teams[$i]->returnInitialWeight(), 2), "</td><td>", number_format($teams[$i]->returnFinalWeight(), 2), 
 				 "</td><td>", number_format($teams[$i]->returnWeightedWins(), 2), "</tr>";

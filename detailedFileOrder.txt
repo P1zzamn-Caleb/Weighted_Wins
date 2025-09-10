@@ -1,6 +1,7 @@
 Team Name
 Opponent Name
-Opponent Record
+Opponent Wins
+Opponent Losses
 Result
 FW adj
 Opponent FW

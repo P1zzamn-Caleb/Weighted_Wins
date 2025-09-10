@@ -165,6 +165,7 @@
 		echo "<h1>$selectedYear Results</h1><br>";
 		echo "<thead>
 				<tr>
+					<th>Rank</th>
 					<th>Team</th>
 					<th>Counted Games</th>
 					<th>Wins</th>

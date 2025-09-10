@@ -68,7 +68,7 @@
   }
 
   #headerTable, #sideBarandInfo {
-	width: 100%;
+	width: 80%;
 	max-width:1200px;
   }
 
@@ -101,15 +101,17 @@
 	background: transparent;
 	border: none;
 	vertical-align: top;
+	width:100%;
+	height:100%;
   }
   
   img {
-	width: 25%;
-	height: 50%;
+	width: 10%;
+	height: 25%;
   }
 
   .center-container {
-	width: 50%;
+	width: 80vw;
 	margin: 0 auto;
 	flex-direction: column;
 	align-items: center;
@@ -117,6 +119,7 @@
 
 	table {
 		border-collapse: collapse;
+		height: 100%;
 	}
 
 	th, td {
@@ -147,8 +150,8 @@
 	#infoTD {
 		
 		border: none;
-		background-color: transparent;
-		width: 80vw;
+		background-color: white;
+		width: 100vw;
 		vertical-align: top;
 		text-align: center;
 	}
@@ -170,7 +173,13 @@
 		if(isset($_GET['choice'])){
 			switch($_GET['choice']){
 				case 'home':
-					$iframeSRC = "home.html";
+					$iframeSRC = 'home.html?v='. time();
+					break;
+				case 'weightsDetermined':
+					$iframeSRC = "weightedWinsDetermined.html";
+					break;
+				case 'standingsDetermined':
+					$iframeSRC = "standingsDetermined.html";
 					break;
 				case 'wwStandings':
 					$iframeSRC = "weightedWinsProgramOutput.php";
@@ -182,11 +191,11 @@
 		}
 
 		echo "<div class= 'center-container'>
-				<table id='headerTable'>
+				<table>
 					<tr>
-						<th id='headerTh'>
+						<th id='headerTh' colspan='2'>
 							<div style='display:flex;'>
-							<img src='basketball_Logo-removebg-preview.png' item-align:left;'>
+							<img src='basketball_Logo-removebg-preview.png' style='float:left'>
 								<div style= 'text-align:left;'>
 									<h1>Weighted Wins <br></h1>
 										<i style='font-size: 1.5em;'>NCAA Division I Basketball Standings</i>
@@ -194,9 +203,9 @@
 							</div>
 						</th>
 					</tr>
-				</table>";
+				";
 	//make new HTML files to output the random data and attatch it to these
-			echo "<table id='sideBarandInfo'>
+			echo "
 					<tr id='sideBarTR'>
 						<th id='sideBarTH'> 
 							<b id='sideBarH1'>Menu <br></b>
@@ -205,7 +214,10 @@
 							<a href= '?choice=home'>WW Home</a><br><br>
 							</ul>
 							<ul>
-							How Weights are Determined<br><br>
+							<a href = '?choice=weightsDetermined'>How Weights are Determined</a><br><br>
+							</ul>
+							<ul>
+							<a href = '?choice=standingsDetermined'>How Standingss are Determined</a><br><br>
 							</ul>
 							<ul>
 							WW Criteria<br><br>
@@ -220,7 +232,7 @@
 							Administration<br><br>
 							</ul>
 						</th>
-						<td id='infoTD'>
+						<td id='infoTD' rowspan='2'>
 							<iframe name='contentOutput' src='$iframeSRC'></iframe>
 						</td>
 					</tr>
