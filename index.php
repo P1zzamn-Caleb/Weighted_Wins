@@ -181,6 +181,15 @@
 				case 'standingsDetermined':
 					$iframeSRC = "standingsDetermined.html";
 					break;
+				case 'criteria':
+					$iframeSRC = "criteria.html";
+					break;
+				case 'discussion':
+					$iframeSRC = "discussion.html";
+					break;
+				case 'about':
+					$iframeSRC = "about.html";
+					break;
 				case 'wwStandings':
 					$iframeSRC = "weightedWinsProgramOutput.php";
 					break;
@@ -220,13 +229,16 @@
 							<a href = '?choice=standingsDetermined'>How Standingss are Determined</a><br><br>
 							</ul>
 							<ul>
-							WW Criteria<br><br>
+							<a href= '?choice=criteria'>WW Criteria</a><br><br>
 							</ul>
 							<ul>
 							<a href='?choice=wwStandings'>WW Standings</a><br><br>
 							</ul>
 							<ul>
-							About WW<br><br>
+							<a href='?choice=discussion'>Discussion</a><br><br>
+							</ul>
+							<ul>
+							<a href='?choice=about'>About WW</a><br><br>
 							</ul>
 							<ul>
 							Administration<br><br>
