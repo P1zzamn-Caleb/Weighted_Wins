@@ -9,6 +9,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.keys import Keys
 import os.path
 import time
+import re
 
 
 
@@ -51,6 +52,9 @@ canceledPath = '//td[contains(@class, "tc ttu Table__TD")]'
 fullRowPath = '//tr[contains(@class, "Table__TR Table__TR--sm Table__even") and descendant ::*[contains(@data-testid, "date")] ] '
 scoreClassName ="Table__TD"
 noDataPath = '//div[contains(@class, "Schedule__no-data")]'
+postSeasonPathName="tl ttu Table__TD"
+postSeasonPath='//td[contains(@class, "tl ttu Table__TD")]'
+allTeamPath='//span[contains(@class, "tc pr2")]'
 drivers = {}
 
 def open_driver():
@@ -109,6 +113,8 @@ def get_Data(year, fileName, mode, team, driver, wait):
    #waits until the website is loaded
    #driver.implicitly_wait(1)
    data=driver.find_elements(by='xpath', value=dataPath.strip())
+   teamNames = []
+   dataTexts = []
 
    
 
@@ -117,6 +123,7 @@ def get_Data(year, fileName, mode, team, driver, wait):
       print(fileName)
       opponentIndex=0
       dataIndex=0
+      isTherePostSeason=True
 
       time.sleep(0.5)
 
@@ -128,13 +135,20 @@ def get_Data(year, fileName, mode, team, driver, wait):
       except TimeoutException:
         print("there is data")
         pass
+
+      try:
+         WebDriverWait(driver, 1).until(EC.presence_of_element_located((By.CSS_SELECTOR, ".tl.ttu.Table__TD")))
+         postSeason = [elem.text for elem in driver.find_elements(By.XPATH, postSeasonPath)]
+      except TimeoutException:
+        print("there is no postseason")
+        isTherePostSeason=False
+        pass
       driver.implicitly_wait(20)
+
 
       for attempts in range(5):
          try:
             fullRow = [elem.text for elem in driver.find_elements(By.XPATH, fullRowPath)]
-            dataTexts = [elem.text for elem in driver.find_elements(By.XPATH, dataPath)]
-            opponentTexts = [elem.text for elem in driver.find_elements(By.XPATH, opponentNamePath)]
             break
          except:
             try:
@@ -146,16 +160,43 @@ def get_Data(year, fileName, mode, team, driver, wait):
             print("went stale")
             continue
 
+      i=0
+      for row in fullRow:
+         teamName = row.split("\n")
+
+
+         teamNames.append(teamName[2]) #append new Team Name
+         teamNames[i] = re.sub(r'\d+', '', teamNames[i])          # remove numbers
+         teamNames[i] = re.sub(r'\*', '', teamNames[i])
+         teamNames[i] = re.sub(r'\s+', ' ', teamNames[i])      # collapse multiple spaces
+         teamNames[i] = teamNames[i].strip()
+         i+=1
+
+         dataText = teamName[3]
+         dataTexts.append(dataText[0])
+
+      postSeasonGameCount = 0
       for rows in fullRow:
          if "CANCELLED" in rows or "POSTPONED" in rows or "CANCELED" in rows:
             opponentIndex+=1
             continue
          try:
-            print(opponentTexts[opponentIndex] + " " + dataTexts[dataIndex])
-            #writes the data to the file
-            gameDataFile.write(opponentTexts[opponentIndex] + "\n" + dataTexts[dataIndex] + "\n")
+            if(isTherePostSeason):
+               if(postSeasonGameCount > len(postSeason)-1):
+                  print(teamNames[opponentIndex] + " " + dataTexts[dataIndex])
+                  #writes the data to the file
+                  gameDataFile.write(teamNames[opponentIndex] + "\n" + dataTexts[dataIndex] + "\n")
+
+               else:
+                  postSeasonGameCount+=1
+            else:
+               print(teamNames[opponentIndex] + " " + dataTexts[dataIndex])
+               #writes the data to the file
+               gameDataFile.write(teamNames[opponentIndex] + "\n" + dataTexts[dataIndex] + "\n")
+
             opponentIndex+=1
             dataIndex+=1
+
          #skips over the data if it fails
          except:
             print("failed to write")
@@ -226,12 +267,8 @@ def run_data_getter(hasBeenOpened):
                hasBeenOpened[yearNum]=True
             
             
-
-                    
-
-        #fix this
         drivers[currIndexText].quit()
-        time.sleep(3)
+        time.sleep(1)
 
 
         currIndex+=1
