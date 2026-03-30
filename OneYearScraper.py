@@ -7,6 +7,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.common.exceptions import TimeoutException    
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.chrome.service import Service
 
 from concurrent.futures import ThreadPoolExecutor
 import threading
@@ -34,7 +35,6 @@ service = webdriver.ChromeService(chromedriver_path)
 
 chrome_options = Options()
 chrome_options.add_experimental_option("detach", False)
-chrome_options.add_argument(chromePath)
 chrome_options.add_argument(r'--profile-directory=Profile 1')
 
 lock = threading.Lock()
@@ -59,19 +59,16 @@ noDataPath = '//div[contains(@class, "Schedule__no-data")]'
 postSeasonPathName="tl ttu Table__TD"
 postSeasonPath='//td[contains(@class, "tl ttu Table__TD")]'
 allTeamPath='//span[contains(@class, "tc pr2")]'
-drivers = {}
 
 def open_driver():
-   driver = webdriver.Chrome(service = service, options = chrome_options)
-   
-   driver.maximize_window() # For maximizing window
-   driver.implicitly_wait(20) # gives an implicit wait for 20 seconds
+   service = Service(ChromeDriverManager().install())
 
-   driver.get(url)
+   options = Options()
+   options.add_argument("--start-maximized")
 
+   driver = webdriver.Chrome(service=service, options=options)
    driver.implicitly_wait(20)
-   window_handles = driver.window_handles
-   driver.switch_to.window(window_handles[-1])
+   driver.get(url)
 
    return driver
 
@@ -201,40 +198,39 @@ def run_data_getter(currIndex, row, column):
    
 
    
-    currIndexText=f"driver{currIndex}"
-        
-            
-    #creates a new driver using the driversdict
-    drivers[currIndexText] = open_driver()
-    wait = WebDriverWait(drivers[currIndexText], 10)
+    
+   driver = None
 
-    team_links = drivers[currIndexText].find_elements(By.XPATH, '//a[contains(@class, "AnchorLink") and contains(@href, "/schedule/")]')
-    urls = [link.get_attribute("href") for link in team_links]
-        
+   try:
+      driver = open_driver()
+      wait = WebDriverWait(driver, 4)
 
-    teamName = get_team_name(drivers[currIndexText], currIndex, wait)
-    drivers[currIndexText].get(urls[currIndex])
-               
+      team_links = driver.find_elements(By.XPATH, '//a[contains(@href, "/schedule/")]')
+      urls = [link.get_attribute("href") for link in team_links]
 
-    if teamName == -1:
-        return
+      teamName = get_team_name(driver, currIndex, wait)
+      driver.get(urls[currIndex])
 
-    #teamNameText=teamName.text
-    print ("TeamName: " + teamName)
+      if teamName == -1:
+         return
 
-        
-    call_Get_Data(CURR_YEAR, teamName, "a", drivers[currIndexText], wait)
-            
-            
-    drivers[currIndexText].quit()
-    time.sleep(1)
+      print("TeamName:", teamName)
+
+      call_Get_Data(CURR_YEAR, teamName, "a", driver, wait)
+
+   except Exception as e:
+      print(f"[ERROR {currIndex}] {e}")
+
+   finally:
+      if driver:
+         driver.quit() 
 
 
             
 def run_all_teams():
     row=1
     column=1
-    max_threads = 4  # number of browsers to run in parallel
+    max_threads = 2  # number of browsers to run in parallel
     with ThreadPoolExecutor(max_workers=max_threads) as executor:
         futures = []
         for currIndex in range(NUM_TEAMS):
