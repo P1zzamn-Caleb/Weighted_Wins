@@ -1,3 +1,68 @@
+Team: California Golden Bears
+Cal State Bakersfield
+W
+Wright State
+W
+Cal State Fullerton
+W
+Kansas State
+L
+Presbyterian
+W
+Sacramento State
+W
+UCLA
+W
+Utah
+W
+Pacific
+W
+Dominican (CA)
+W
+Northwestern State
+W
+Morgan State
+W
+Columbia
+W
+Louisville
+L
+Notre Dame
+W
+Virginia
+L
+Virginia Tech
+L
+Duke
+L
+North Carolina
+W
+Stanford
+W
+Florida State
+L
+Miami
+W
+Georgia Tech
+W
+Clemson
+L
+Syracuse
+L
+Boston College
+W
+Stanford
+W
+SMU
+W
+Pittsburgh
+L
+Georgia Tech
+W
+Wake Forest
+L
+Florida State
+L
 Team: Boston College Eagles
 Florida Atlantic
 L
@@ -60,6 +125,75 @@ L
 Virginia Tech
 L
 Notre Dame
+W
+Team: Duke Blue Devils
+Texas
+W
+Western Carolina
+W
+Army
+W
+Indiana State
+W
+Kansas
+W
+Niagara
+W
+Howard
+W
+Arkansas
+W
+Florida
+W
+Michigan State
+W
+Lipscomb
+W
+Texas Tech
+L
+Georgia Tech
+W
+Florida State
+W
+Louisville
+W
+SMU
+W
+California
+W
+Stanford
+W
+Wake Forest
+W
+Louisville
+W
+Virginia Tech
+W
+Boston College
+W
+North Carolina
+L
+Pittsburgh
+W
+Clemson
+W
+Syracuse
+W
+Michigan
+W
+Notre Dame
+W
+Virginia
+W
+NC State
+W
+North Carolina
+W
+Florida State
+W
+Clemson
+W
+Virginia
 W
 Team: Clemson Tigers
 New Hampshire
@@ -130,77 +264,69 @@ North Carolina
 W
 Duke
 L
-Team: Duke Blue Devils
-St. John's
-6
-Texas
+Team: Georgia Tech Yellow Jackets
+Maryland Eastern Shore
 W
-Western Carolina
+Bryant
 W
-Army
+SE Louisiana
 W
-Indiana State
-W
-Kansas
-W
-Niagara
-W
-Howard
-W
-Arkansas
-W
-Florida
-W
-Michigan State
-W
-Lipscomb
-W
-Texas Tech
+Georgia
 L
-Georgia Tech
+Georgia Southern
 W
-Florida State
+West Georgia
 W
-Louisville
+DePaul
+L
+Drake
+L
+Mississippi State
+L
+Monmouth
 W
-SMU
+Marist
 W
-California
+Lafayette
 W
-Stanford
+Florida A&M
 W
-Wake Forest
-W
-Louisville
-W
-Virginia Tech
-W
+Duke
+L
 Boston College
 W
-North Carolina
+Syracuse
+L
+Miami
 L
 Pittsburgh
-W
-Clemson
-W
-Syracuse
-W
-Michigan
-W
-Notre Dame
-W
-Virginia
-W
+L
 NC State
 W
-North Carolina
-W
-Florida State
-W
 Clemson
-W
+L
+Virginia Tech
+L
+North Carolina
+L
+California
+L
+Stanford
+L
+Wake Forest
+L
+Notre Dame
+L
 Virginia
-W
+L
+Louisville
+L
+Florida State
+L
+California
+L
+Clemson
+L
 Team: Florida State Seminoles
 Alcorn State
 W
@@ -267,6 +393,73 @@ W
 California
 W
 Duke
+L
+Team: Miami Hurricanes
+Jacksonville
+W
+Bethune-Cookman
+W
+Stetson
+W
+Florida
+L
+Elon
+W
+Delaware State
+W
+BYU
+L
+Georgetown
+W
+Ole Miss
+W
+Southern Miss
+W
+UL Monroe
+W
+Florida International
+W
+North Florida
+W
+Pittsburgh
+W
+Wake Forest
+W
+Georgia Tech
+W
+Notre Dame
+W
+Clemson
+L
+Florida State
+L
+Syracuse
+W
+Stanford
+W
+California
+L
+Boston College
+W
+North Carolina
+W
+NC State
+W
+Virginia Tech
+W
+Virginia
+L
+Florida State
+W
+Boston College
+W
+SMU
+W
+Louisville
+L
+Louisville
+W
+Virginia
 L
 Team: Louisville Cardinals
 South Carolina State
@@ -335,133 +528,135 @@ SMU
 W
 Miami
 L
-Team: Georgia Tech Yellow Jackets
-Maryland Eastern Shore
+Team: North Carolina Tar Heels
+Central Arkansas
 W
-Bryant
+Kansas
 W
-SE Louisiana
+Radford
 W
-Georgia
-L
-Georgia Southern
+North Carolina Central
 W
-West Georgia
+Navy
 W
-DePaul
-L
-Drake
-L
-Mississippi State
-L
-Monmouth
+St. Bonaventure
 W
-Marist
+Michigan State
+L
+Kentucky
 W
-Lafayette
-W
-Florida A&M
-W
-Duke
-L
-Boston College
-W
-Syracuse
-L
-Miami
-L
-Pittsburgh
-L
-NC State
-W
-Clemson
-L
-Virginia Tech
-L
-North Carolina
-L
-California
-L
-Stanford
-L
-Wake Forest
-L
-Notre Dame
-L
-Virginia
-L
-Louisville
-L
-Florida State
-L
-California
-L
-Clemson
-L
-Team: Miami Hurricanes
-Jacksonville
-W
-Bethune-Cookman
-W
-Stetson
-W
-Florida
-L
-Elon
-W
-Delaware State
-W
-BYU
-L
 Georgetown
 W
-Ole Miss
+South Carolina Upstate
 W
-Southern Miss
+East Tennessee State
 W
-UL Monroe
+Ohio State
 W
-Florida International
+East Carolina
 W
-North Florida
+Florida State
 W
-Pittsburgh
-W
+SMU
+L
 Wake Forest
+W
+Stanford
+L
+California
+L
+Notre Dame
+W
+Virginia
 W
 Georgia Tech
 W
-Notre Dame
+Syracuse
 W
-Clemson
+Duke
+W
+Miami
 L
-Florida State
+Pittsburgh
+W
+NC State
 L
 Syracuse
 W
-Stanford
-W
-California
-L
-Boston College
-W
-North Carolina
-W
-NC State
+Louisville
 W
 Virginia Tech
 W
+Clemson
+W
+Duke
+L
+Clemson
+L
+Team: NC State Wolfpack
+North Carolina Central
+W
+UAB
+W
+UNC Greensboro
+W
+VCU
+W
+Seton Hall
+L
+Boise State
+W
+Texas
+L
+Auburn
+L
+UNC Asheville
+W
+Liberty
+W
+Kansas
+L
+Texas Southern
+W
+Ole Miss
+W
+Wake Forest
+W
 Virginia
 L
+Boston College
+W
 Florida State
 W
-Boston College
+Georgia Tech
+L
+Clemson
+W
+Pittsburgh
+W
+Syracuse
+W
+Wake Forest
 W
 SMU
 W
+Virginia Tech
+W
 Louisville
 L
-Louisville
+Miami
+L
+North Carolina
+W
+Virginia
+L
+Notre Dame
+L
+Duke
+L
+Stanford
+L
+Pittsburgh
 W
 Virginia
 L
@@ -595,6 +790,73 @@ Stanford
 L
 Boston College
 L
+Team: Stanford Cardinal
+West Virginia
+7
+Portland State
+W
+Montana
+W
+Montana State
+W
+Louisiana
+W
+Seattle U
+L
+Minnesota
+W
+Saint Louis
+W
+Portland
+W
+UNLV
+L
+San Josï¿½ State
+W
+UT Arlington
+W
+Colorado
+W
+Cal State Northridge
+W
+Notre Dame
+L
+Louisville
+W
+Virginia Tech
+W
+Virginia
+L
+North Carolina
+W
+Duke
+L
+California
+L
+Miami
+L
+Florida State
+L
+Clemson
+L
+Georgia Tech
+W
+Boston College
+W
+Wake Forest
+L
+California
+L
+Pittsburgh
+W
+SMU
+W
+Notre Dame
+W
+NC State
+W
+Pittsburgh
+L
 Team: SMU Mustangs
 Tarleton State
 W
@@ -661,203 +923,6 @@ L
 Syracuse
 W
 Louisville
-L
-Team: Stanford Cardinal
-West Virginia
-7
-Portland State
-W
-Montana
-W
-Montana State
-W
-Louisiana
-W
-Seattle U
-L
-Minnesota
-W
-Saint Louis
-W
-Portland
-W
-UNLV
-L
-San José State
-W
-UT Arlington
-W
-Colorado
-W
-Cal State Northridge
-W
-Notre Dame
-L
-Louisville
-W
-Virginia Tech
-W
-Virginia
-L
-North Carolina
-W
-Duke
-L
-California
-L
-Miami
-L
-Florida State
-L
-Clemson
-L
-Georgia Tech
-W
-Boston College
-W
-Wake Forest
-L
-California
-L
-Pittsburgh
-W
-SMU
-W
-Notre Dame
-W
-NC State
-W
-Pittsburgh
-L
-Team: Virginia Tech Hokies
-Charleston Southern
-W
-Providence
-W
-Saint Joseph's
-W
-Charlotte
-W
-Bryant
-W
-Colorado State
-W
-Saint Mary's
-L
-VCU
-L
-South Carolina
-W
-George Mason
-W
-Western Carolina
-W
-Maryland Eastern Shore
-W
-Elon
-W
-Virginia
-W
-Wake Forest
-L
-Stanford
-L
-California
-W
-SMU
-L
-Notre Dame
-W
-Syracuse
-W
-Louisville
-L
-Georgia Tech
-W
-Duke
-L
-NC State
-L
-Clemson
-W
-Florida State
-L
-Miami
-L
-Wake Forest
-W
-North Carolina
-L
-Boston College
-W
-Virginia
-L
-Wake Forest
-L
-Team: Syracuse Orange
-Binghamton
-W
-Delaware State
-W
-Drexel
-W
-Monmouth
-W
-Houston
-L
-Kansas
-L
-Iowa State
-L
-Tennessee
-W
-Saint Joseph's
-W
-Hofstra
-L
-Mercyhurst
-W
-Northeastern
-W
-Stonehill
-W
-Clemson
-L
-Georgia Tech
-W
-Pittsburgh
-W
-Florida State
-W
-Boston College
-L
-Virginia Tech
-L
-Miami
-L
-NC State
-L
-Notre Dame
-W
-North Carolina
-L
-Virginia
-L
-California
-W
-SMU
-W
-Duke
-L
-North Carolina
-L
-Wake Forest
-L
-Louisville
-L
-Pittsburgh
-L
-SMU
 L
 Team: Virginia Cavaliers
 Rider
@@ -928,69 +993,203 @@ Miami
 W
 Duke
 L
-Team: Austin Peay Governors
-Bryan (TN)
+Team: Syracuse Orange
+Binghamton
 W
-Air Force
+Delaware State
 W
-Wyoming
+Drexel
+W
+Monmouth
+W
+Houston
 L
-UNC Greensboro
-W
-Ole Miss
+Kansas
 L
-Tulsa
+Iowa State
 L
-Northern Illinois
+Tennessee
 W
-Kent State
+Saint Joseph's
+W
+Hofstra
 L
-UT Rio Grande Valley
+Mercyhurst
+W
+Northeastern
+W
+Stonehill
+W
+Clemson
 L
-East Tennessee State
+Georgia Tech
 W
-Fisk
-C
-North Florida
+Pittsburgh
 W
-Jacksonville
+Florida State
 W
-Florida Gulf Coast
-W
-Stetson
-W
-Eastern Kentucky
-W
-Lipscomb
-W
-Florida Gulf Coast
+Boston College
 L
-Stetson
+Virginia Tech
+L
+Miami
+L
+NC State
+L
+Notre Dame
 W
-Eastern Kentucky
+North Carolina
+L
+Virginia
+L
+California
 W
-West Georgia
+SMU
 W
-Lipscomb
+Duke
+L
+North Carolina
+L
+Wake Forest
+L
+Louisville
+L
+Pittsburgh
+L
+SMU
+L
+Team: Wake Forest Demon Deacons
+American University
 W
-North Alabama
+Morehead State
+W
+Michigan
+L
+UMass Lowell
+W
+Texas Tech
+L
+Memphis
+W
+Campbell
+W
+Northeastern
+W
+Oklahoma
+L
+West Virginia
 W
 Queens University
 W
-Bellarmine
+Longwood
 W
-North Florida
-W
-Jacksonville
-W
-Central Arkansas
-W
-Bellarmine
+Vanderbilt
 L
-Stetson
+NC State
 L
-Queens University
+Virginia Tech
 W
+Miami
+L
+North Carolina
+L
+Florida State
+W
+SMU
+L
+Duke
+L
+Pittsburgh
+L
+NC State
+L
+Louisville
+L
+Georgia Tech
+W
+Stanford
+W
+Clemson
+W
+Virginia Tech
+L
+Boston College
+L
+Syracuse
+W
+Virginia
+L
+California
+W
+Virginia Tech
+W
+Clemson
+L
+Team: Virginia Tech Hokies
+Charleston Southern
+W
+Providence
+W
+Saint Joseph's
+W
+Charlotte
+W
+Bryant
+W
+Colorado State
+W
+Saint Mary's
+L
+VCU
+L
+South Carolina
+W
+George Mason
+W
+Western Carolina
+W
+Maryland Eastern Shore
+W
+Elon
+W
+Virginia
+W
+Wake Forest
+L
+Stanford
+L
+California
+W
+SMU
+L
+Notre Dame
+W
+Syracuse
+W
+Louisville
+L
+Georgia Tech
+W
+Duke
+L
+NC State
+L
+Clemson
+W
+Florida State
+L
+Miami
+L
+Wake Forest
+W
+North Carolina
+L
+Boston College
+W
+Virginia
+L
+Wake Forest
+L
 Team: Bellarmine Knights
 Georgia
 L
@@ -1056,6 +1255,138 @@ Jacksonville
 W
 Central Arkansas
 W
+Team: Austin Peay Governors
+Bryan (TN)
+W
+Air Force
+W
+Wyoming
+L
+UNC Greensboro
+W
+Ole Miss
+L
+Tulsa
+L
+Northern Illinois
+W
+Kent State
+L
+UT Rio Grande Valley
+L
+East Tennessee State
+W
+Fisk
+C
+North Florida
+W
+Jacksonville
+W
+Florida Gulf Coast
+W
+Stetson
+W
+Eastern Kentucky
+W
+Lipscomb
+W
+Florida Gulf Coast
+L
+Stetson
+W
+Eastern Kentucky
+W
+West Georgia
+W
+Lipscomb
+W
+North Alabama
+W
+Queens University
+W
+Bellarmine
+W
+North Florida
+W
+Jacksonville
+W
+Central Arkansas
+W
+Bellarmine
+L
+Stetson
+L
+Queens University
+W
+Team: Central Arkansas Bears
+North Carolina
+L
+Champion Christian
+W
+Arkansas
+L
+Samford
+L
+North Texas
+L
+Eastern Washington
+W
+Eastern Illinois
+W
+East Tennessee State
+L
+Little Rock
+W
+East Texas A&M
+L
+Vanderbilt
+L
+Kansas Christian
+W
+SMU
+L
+Florida Gulf Coast
+W
+Stetson
+W
+Bellarmine
+L
+Eastern Kentucky
+L
+Jacksonville
+W
+North Florida
+W
+West Georgia
+W
+Queens University
+W
+Eastern Kentucky
+W
+North Alabama
+W
+Lipscomb
+W
+North Alabama
+W
+Bellarmine
+W
+West Georgia
+W
+Stetson
+W
+Florida Gulf Coast
+L
+Austin Peay
+W
+Queens University
+W
+Bellarmine
+W
+Florida Gulf Coast
+W
+Queens University
+L
 Team: Eastern Kentucky Colonels
 Midway University
 W
@@ -1120,6 +1451,140 @@ L
 Lipscomb
 L
 Stetson
+L
+Team: Florida Gulf Coast Eagles
+New College (FL)
+W
+Illinois
+L
+Georgia Southern
+L
+Chattanooga
+W
+Samford
+W
+Oral Roberts
+W
+Rice
+W
+Kennesaw State
+L
+Florida International
+L
+Florida Atlantic
+L
+New Mexico
+L
+UCF
+L
+Fort Lauderdale
+W
+Central Arkansas
+L
+North Alabama
+W
+Austin Peay
+L
+Lipscomb
+L
+Queens University
+L
+West Georgia
+W
+Austin Peay
+L
+Lipscomb
+L
+North Alabama
+W
+Jacksonville
+W
+Eastern Kentucky
+L
+Bellarmine
+L
+North Florida
+W
+Stetson
+W
+Jacksonville
+W
+Central Arkansas
+W
+North Florida
+L
+Stetson
+L
+North Alabama
+W
+Lipscomb
+W
+Central Arkansas
+L
+Team: Jacksonville Dolphins
+Miami
+L
+Trinity (FL)
+W
+High Point
+L
+VMI
+W
+George Mason
+L
+Bethune-Cookman
+W
+Pacific
+L
+Florida A&M
+W
+Florida International
+L
+Trinity College of Jacksonville
+W
+Texas A&M
+L
+Florida A&M
+L
+Florida State
+L
+Lipscomb
+L
+Austin Peay
+L
+Queens University
+L
+West Georgia
+W
+Central Arkansas
+L
+North Alabama
+W
+Bellarmine
+L
+Eastern Kentucky
+W
+Lipscomb
+W
+Florida Gulf Coast
+L
+Queens University
+L
+West Georgia
+L
+Stetson
+L
+North Florida
+W
+Florida Gulf Coast
+L
+Austin Peay
+L
+Stetson
+W
+North Florida
+W
+Bellarmine
 L
 Team: North Alabama Lions
 Mississippi State
@@ -1247,136 +1712,6 @@ Eastern Kentucky
 W
 Florida Gulf Coast
 L
-Team: Jacksonville Dolphins
-Miami
-L
-Trinity (FL)
-W
-High Point
-L
-VMI
-W
-George Mason
-L
-Bethune-Cookman
-W
-Pacific
-L
-Florida A&M
-W
-Florida International
-L
-Trinity College of Jacksonville
-W
-Texas A&M
-L
-Florida A&M
-L
-Florida State
-L
-Lipscomb
-L
-Austin Peay
-L
-Queens University
-L
-West Georgia
-W
-Central Arkansas
-L
-North Alabama
-W
-Bellarmine
-L
-Eastern Kentucky
-W
-Lipscomb
-W
-Florida Gulf Coast
-L
-Queens University
-L
-West Georgia
-L
-Stetson
-L
-North Florida
-W
-Florida Gulf Coast
-L
-Austin Peay
-L
-Stetson
-W
-North Florida
-W
-Bellarmine
-L
-Team: North Florida Ospreys
-Florida
-L
-Tennessee
-L
-New College (FL)
-W
-Wofford
-L
-Southern Miss
-L
-Prairie View A&M
-L
-Trinity College of Jacksonville
-W
-SIU Edwardsville
-L
-Gonzaga
-L
-Dayton
-L
-Charleston Southern
-L
-Miami
-L
-Columbia
-L
-Austin Peay
-L
-Lipscomb
-L
-West Georgia
-L
-Queens University
-L
-North Alabama
-W
-Central Arkansas
-L
-Eastern Kentucky
-W
-Bellarmine
-W
-Stetson
-L
-Lipscomb
-L
-West Georgia
-W
-Queens University
-L
-Florida Gulf Coast
-L
-Jacksonville
-L
-Austin Peay
-L
-Stetson
-L
-Florida Gulf Coast
-W
-Jacksonville
-L
-West Georgia
-L
 Team: Queens University Royals
 Winthrop
 L
@@ -1446,6 +1781,71 @@ Austin Peay
 W
 Central Arkansas
 W
+Team: North Florida Ospreys
+Florida
+L
+Tennessee
+L
+New College (FL)
+W
+Wofford
+L
+Southern Miss
+L
+Prairie View A&M
+L
+Trinity College of Jacksonville
+W
+SIU Edwardsville
+L
+Gonzaga
+L
+Dayton
+L
+Charleston Southern
+L
+Miami
+L
+Columbia
+L
+Austin Peay
+L
+Lipscomb
+L
+West Georgia
+L
+Queens University
+L
+North Alabama
+W
+Central Arkansas
+L
+Eastern Kentucky
+W
+Bellarmine
+W
+Stetson
+L
+Lipscomb
+L
+West Georgia
+W
+Queens University
+L
+Florida Gulf Coast
+L
+Jacksonville
+L
+Austin Peay
+L
+Stetson
+L
+Florida Gulf Coast
+W
+Jacksonville
+L
+West Georgia
+L
 Team: Stetson Hatters
 Rhode Island
 L
@@ -1513,69 +1913,71 @@ Eastern Kentucky
 W
 Austin Peay
 L
-Team: Binghamton Bearcats
-Syracuse
+Team: West Georgia Wolves
+Nebraska
 L
-RIT
+Huntingdon College (AL)
 W
-Niagara
+UCLA
 L
-Georgetown
-L
-Longwood
-L
-Misericordia
+The Citadel
 W
-Maryland Eastern Shore
-L
-Canisius
-L
-Lehigh
+Tennessee Tech
 W
-Le Moyne
-L
-Central Connecticut
-L
-Pittsburgh
-L
-Mercyhurst
-L
-Army
-L
-Elmira
+South Carolina Upstate
 W
-NJIT
+Georgia Tech
 L
-Vermont
-L
-UMass Lowell
-L
-UAlbany
-L
-UMBC
-L
-New Hampshire
-L
-Maine
-L
-Bryant
+Troy
 W
-UMBC
+Tennessee Tech
 L
-NJIT
+Georgia Southern
 L
-Vermont
-L
-UAlbany
-L
-Bryant
+Brewton-Parker
 W
-UMass Lowell
+Georgia
 L
-New Hampshire
+Bellarmine
 W
-Maine
+Eastern Kentucky
 W
+North Florida
+W
+Jacksonville
+L
+Stetson
+L
+Florida Gulf Coast
+L
+Central Arkansas
+L
+Queens University
+W
+Bellarmine
+L
+Austin Peay
+L
+North Florida
+L
+Jacksonville
+W
+North Alabama
+W
+Central Arkansas
+L
+Eastern Kentucky
+L
+Queens University
+L
+Lipscomb
+W
+North Alabama
+W
+North Florida
+W
+Queens University
+L
 Team: Bryant Bulldogs
 Siena
 L
@@ -1639,6 +2041,69 @@ New Hampshire
 L
 Vermont
 L
+Team: Binghamton Bearcats
+Syracuse
+L
+RIT
+W
+Niagara
+L
+Georgetown
+L
+Longwood
+L
+Misericordia
+W
+Maryland Eastern Shore
+L
+Canisius
+L
+Lehigh
+W
+Le Moyne
+L
+Central Connecticut
+L
+Pittsburgh
+L
+Mercyhurst
+L
+Army
+L
+Elmira
+W
+NJIT
+L
+Vermont
+L
+UMass Lowell
+L
+UAlbany
+L
+UMBC
+L
+New Hampshire
+L
+Maine
+L
+Bryant
+W
+UMBC
+L
+NJIT
+L
+Vermont
+L
+UAlbany
+L
+Bryant
+W
+UMass Lowell
+L
+New Hampshire
+W
+Maine
+W
 Team: NJIT Highlanders
 Fordham
 W
@@ -1771,67 +2236,6 @@ UMass Lowell
 L
 NJIT
 L
-Team: New Hampshire Wildcats
-Clemson
-L
-Curry College
-W
-Harvard
-L
-Emmanuel (MA)
-W
-George Mason
-L
-Providence
-L
-Brown
-L
-Fairfield
-L
-Dartmouth
-L
-Boston University
-W
-Stonehill
-W
-Saint Louis
-L
-Nebraska
-L
-Vermont
-L
-NJIT
-L
-UMBC
-L
-Maine
-W
-Binghamton
-W
-UAlbany
-W
-UMass Lowell
-W
-Bryant
-L
-Vermont
-L
-NJIT
-L
-UMBC
-L
-UMass Lowell
-L
-Maine
-L
-Binghamton
-L
-UAlbany
-L
-Bryant
-W
-UMBC
-L
 Team: UAlbany Great Danes
 Marquette
 L
@@ -1896,6 +2300,134 @@ W
 Vermont
 L
 UMass Lowell
+L
+Team: New Hampshire Wildcats
+Clemson
+L
+Curry College
+W
+Harvard
+L
+Emmanuel (MA)
+W
+George Mason
+L
+Providence
+L
+Brown
+L
+Fairfield
+L
+Dartmouth
+L
+Boston University
+W
+Stonehill
+W
+Saint Louis
+L
+Nebraska
+L
+Vermont
+L
+NJIT
+L
+UMBC
+L
+Maine
+W
+Binghamton
+W
+UAlbany
+W
+UMass Lowell
+W
+Bryant
+L
+Vermont
+L
+NJIT
+L
+UMBC
+L
+UMass Lowell
+L
+Maine
+L
+Binghamton
+L
+UAlbany
+L
+Bryant
+W
+UMBC
+L
+Team: UMass Lowell River Hawks
+Rivier
+W
+UConn
+L
+New Haven
+L
+Columbia
+L
+Wake Forest
+L
+Bradley
+L
+Saint Peter's
+L
+Stonehill
+W
+Emerson
+W
+Massachusetts
+L
+Fisher College
+W
+Quinnipiac
+L
+Sacred Heart
+W
+Boston University
+L
+Iowa
+L
+UAlbany
+W
+Bryant
+W
+Binghamton
+W
+NJIT
+L
+Vermont
+L
+UMBC
+L
+New Hampshire
+L
+Maine
+W
+NJIT
+L
+UAlbany
+W
+Bryant
+W
+New Hampshire
+W
+Binghamton
+W
+Vermont
+L
+UMBC
+L
+Maine
+W
+UAlbany
+W
+UMBC
 L
 Team: UMBC Retrievers
 Penn State-York
@@ -1962,75 +2494,6 @@ UMass Lowell
 W
 Vermont
 W
-Team: Vermont Catamounts
-Western New England
-W
-Plattsburgh St
-W
-Brown
-W
-Northeastern
-W
-Buffalo
-L
-Liberty
-L
-Rhode Island
-L
-Princeton
-W
-Yale
-L
-Oregon State
-L
-Pepperdine
-W
-Merrimack
-W
-Siena
-W
-Iona
-L
-Princeton
-L
-New Hampshire
-W
-Binghamton
-W
-Maine
-W
-UAlbany
-L
-UMass Lowell
-W
-Bryant
-W
-UMBC
-W
-NJIT
-L
-Maine
-L
-New Hampshire
-W
-Binghamton
-W
-Bryant
-W
-UMBC
-L
-NJIT
-W
-UMass Lowell
-W
-UAlbany
-W
-Bryant
-W
-NJIT
-W
-UMBC
-L
 Team: Charlotte 49ers
 Indiana State
 W
@@ -2100,72 +2563,141 @@ UAB
 W
 South Florida
 L
-Team: UMass Lowell River Hawks
-Rivier
+Team: Vermont Catamounts
+Western New England
 W
-UConn
-L
-New Haven
-L
-Columbia
-L
-Wake Forest
-L
-Bradley
-L
-Saint Peter's
-L
-Stonehill
+Plattsburgh St
 W
-Emerson
+Brown
 W
-Massachusetts
-L
-Fisher College
+Northeastern
 W
-Quinnipiac
+Buffalo
 L
-Sacred Heart
+Liberty
+L
+Rhode Island
+L
+Princeton
 W
-Boston University
+Yale
 L
-Iowa
+Oregon State
 L
-UAlbany
+Pepperdine
 W
-Bryant
+Merrimack
 W
-Binghamton
+Siena
 W
-NJIT
+Iona
 L
-Vermont
+Princeton
 L
-UMBC
-L
-New Hampshire
-L
-Maine
-W
-NJIT
-L
-UAlbany
-W
-Bryant
-W
 New Hampshire
 W
 Binghamton
 W
-Vermont
-L
-UMBC
-L
 Maine
 W
 UAlbany
+L
+UMass Lowell
+W
+Bryant
 W
 UMBC
+W
+NJIT
+L
+Maine
+L
+New Hampshire
+W
+Binghamton
+W
+Bryant
+W
+UMBC
+L
+NJIT
+W
+UMass Lowell
+W
+UAlbany
+W
+Bryant
+W
+NJIT
+W
+UMBC
+L
+Team: Florida Atlantic Owls
+Boston College
+W
+Charleston
+W
+Liberty
+L
+Coastal Georgia
+W
+Pacific
+W
+Loyola Marymount
+W
+George Mason
+L
+St. Bonaventure
+L
+Florida Gulf Coast
+W
+Saint Leo
+W
+UAlbany
+W
+Saint Mary's
+L
+UCF
+L
+UTSA
+W
+Tulane
+L
+UAB
+W
+Memphis
+W
+Wichita State
+W
+Temple
+W
+Tulane
+W
+South Florida
+L
+Memphis
+L
+East Carolina
+L
+Tulsa
+L
+Rice
+L
+South Florida
+L
+UTSA
+W
+North Texas
+L
+Temple
+W
+Charlotte
+W
+Wichita State
+L
+Temple
+W
+North Texas
 L
 Team: East Carolina Pirates
 Georgia Southern
@@ -2230,134 +2762,6 @@ Tulsa
 L
 UAB
 L
-Team: Memphis Tigers
-San Francisco
-W
-Ole Miss
-L
-UNLV
-L
-Purdue
-L
-Wake Forest
-L
-Southern Illinois
-W
-New Orleans
-W
-Baylor
-W
-Louisville
-L
-Vanderbilt
-L
-Mississippi State
-L
-Alabama State
-W
-North Texas
-W
-Rice
-W
-Florida Atlantic
-L
-Temple
-W
-UTSA
-W
-Tulsa
-L
-Wichita State
-L
-Florida Atlantic
-W
-Tulane
-L
-UAB
-W
-Charlotte
-W
-North Texas
-L
-Utah State
-L
-South Florida
-L
-UAB
-L
-Wichita State
-L
-East Carolina
-L
-South Florida
-L
-Tulane
-W
-Tulane
-L
-Team: Rice Owls
-College Of Biblical Studies
-W
-Oregon
-L
-Stephen F. Austin
-L
-East Texas A&M
-W
-Tennessee
-L
-Tarleton State
-L
-Kennesaw State
-L
-Florida Gulf Coast
-L
-Oral Roberts
-W
-Texas State
-W
-Arkansas State
-W
-Southwestern Christian
-W
-Pepperdine
-L
-Tulsa
-L
-Memphis
-L
-Wichita State
-W
-Charlotte
-L
-UTSA
-W
-Temple
-L
-Tulsa
-L
-East Carolina
-W
-Charlotte
-L
-North Texas
-W
-UAB
-L
-Florida Atlantic
-W
-East Carolina
-L
-Tulane
-L
-South Florida
-L
-Temple
-W
-North Texas
-L
-UTSA
-W
 Team: North Texas Mean Green
 New Mexico Highlands
 W
@@ -2424,6 +2828,71 @@ W
 Florida Atlantic
 W
 Tulsa
+L
+Team: Memphis Tigers
+San Francisco
+W
+Ole Miss
+L
+UNLV
+L
+Purdue
+L
+Wake Forest
+L
+Southern Illinois
+W
+New Orleans
+W
+Baylor
+W
+Louisville
+L
+Vanderbilt
+L
+Mississippi State
+L
+Alabama State
+W
+North Texas
+W
+Rice
+W
+Florida Atlantic
+L
+Temple
+W
+UTSA
+W
+Tulsa
+L
+Wichita State
+L
+Florida Atlantic
+W
+Tulane
+L
+UAB
+W
+Charlotte
+W
+North Texas
+L
+Utah State
+L
+South Florida
+L
+UAB
+L
+Wichita State
+L
+East Carolina
+L
+South Florida
+L
+Tulane
+W
+Tulane
 L
 Team: South Florida Bulls
 Florida A&M
@@ -2492,140 +2961,69 @@ Charlotte
 W
 Wichita State
 W
-Team: Temple Owls
-Delaware State
+Team: Rice Owls
+College Of Biblical Studies
 W
-La Salle
-W
-Boston College
+Oregon
 L
-Hofstra
-W
-UC San Diego
+Stephen F. Austin
 L
-Princeton
+East Texas A&M
 W
-Rhode Island
+Tennessee
 L
-Villanova
+Tarleton State
 L
-Saint Joseph's
+Kennesaw State
 L
-Georgian Court
-W
-Saint Francis
-W
-Davidson
-W
-Princeton
-W
-Charlotte
-W
-UTSA
-W
-East Carolina
-W
-Memphis
+Florida Gulf Coast
 L
-Florida Atlantic
-L
-Rice
-W
-UTSA
-W
-Charlotte
-L
-South Florida
-W
-East Carolina
-W
-Tulane
-L
-North Texas
-L
-UAB
-L
-Wichita State
-L
-Florida Atlantic
-L
-Rice
-L
-Tulane
-W
-Tulsa
-L
-Florida Atlantic
-L
-Team: Tulsa Golden Hurricane
-Wichita State
-6
-Oklahoma Christian
-W
-Rhode Island
-W
 Oral Roberts
 W
-Kansas State
+Texas State
+W
+Arkansas State
+W
+Southwestern Christian
+W
+Pepperdine
 L
-Austin Peay
-W
-San José State
-W
-Northern Iowa
-W
-Manhattan Christian
-W
-Missouri State
-W
-Arkansas-Pine Bluff
-W
-New Mexico State
-W
-Western Kentucky
-W
-Denver
-W
-Rice
-W
-North Texas
+Tulsa
 L
-South Florida
-L
-Charlotte
-W
-UAB
-W
 Memphis
-W
-Rice
-W
-North Texas
-W
-Wichita State
-W
-Florida Atlantic
-W
-South Florida
-L
-UAB
 L
 Wichita State
-L
+W
 Charlotte
-W
+L
 UTSA
 W
-Tulane
-W
+Temple
+L
+Tulsa
+L
 East Carolina
 W
+Charlotte
+L
+North Texas
+W
+UAB
+L
+Florida Atlantic
+W
+East Carolina
+L
+Tulane
+L
+South Florida
+L
 Temple
 W
 North Texas
-W
-Wichita State
 L
+UTSA
+W
 Team: Tulane Green Wave
 Samford
 W
@@ -2693,6 +3091,201 @@ Memphis
 W
 Charlotte
 L
+Team: Temple Owls
+Delaware State
+W
+La Salle
+W
+Boston College
+L
+Hofstra
+W
+UC San Diego
+L
+Princeton
+W
+Rhode Island
+L
+Villanova
+L
+Saint Joseph's
+L
+Georgian Court
+W
+Saint Francis
+W
+Davidson
+W
+Princeton
+W
+Charlotte
+W
+UTSA
+W
+East Carolina
+W
+Memphis
+L
+Florida Atlantic
+L
+Rice
+W
+UTSA
+W
+Charlotte
+L
+South Florida
+W
+East Carolina
+W
+Tulane
+L
+North Texas
+L
+UAB
+L
+Wichita State
+L
+Florida Atlantic
+L
+Rice
+L
+Tulane
+W
+Tulsa
+L
+Florida Atlantic
+L
+Team: Tulsa Golden Hurricane
+New Mexico
+6
+Oklahoma Christian
+W
+Rhode Island
+W
+Oral Roberts
+W
+Kansas State
+L
+Austin Peay
+W
+San Josï¿½ State
+W
+Northern Iowa
+W
+Manhattan Christian
+W
+Missouri State
+W
+Arkansas-Pine Bluff
+W
+New Mexico State
+W
+Western Kentucky
+W
+Denver
+W
+Rice
+W
+North Texas
+L
+South Florida
+L
+Charlotte
+W
+UAB
+W
+Memphis
+W
+Rice
+W
+North Texas
+W
+Wichita State
+W
+Florida Atlantic
+W
+South Florida
+L
+UAB
+L
+Wichita State
+L
+Charlotte
+W
+UTSA
+W
+Tulane
+W
+East Carolina
+W
+Temple
+W
+North Texas
+W
+Wichita State
+L
+Team: UTSA Roadrunners
+College Of Biblical Studies
+W
+SIU Edwardsville
+L
+Texas State
+L
+Denver
+W
+Southwestern Christian
+W
+Abilene Christian
+L
+Georgia Southern
+W
+South Alabama
+L
+Alabama
+L
+Colorado
+L
+USC
+L
+Seattle U
+L
+Florida Atlantic
+L
+Temple
+L
+Charlotte
+L
+Tulane
+L
+Rice
+L
+Memphis
+L
+North Texas
+L
+Temple
+L
+UAB
+L
+South Florida
+L
+North Texas
+L
+East Carolina
+L
+Charlotte
+W
+Florida Atlantic
+L
+Tulsa
+L
+East Carolina
+L
+Wichita State
+L
+Rice
+L
 Team: UAB Blazers
 Mississippi Valley State
 W
@@ -2757,67 +3350,6 @@ W
 East Carolina
 W
 Charlotte
-L
-Team: UTSA Roadrunners
-College Of Biblical Studies
-W
-SIU Edwardsville
-L
-Texas State
-L
-Denver
-W
-Southwestern Christian
-W
-Abilene Christian
-L
-Georgia Southern
-W
-South Alabama
-L
-Alabama
-L
-Colorado
-L
-USC
-L
-Seattle U
-L
-Florida Atlantic
-L
-Temple
-L
-Charlotte
-L
-Tulane
-L
-Rice
-L
-Memphis
-L
-North Texas
-L
-Temple
-L
-UAB
-L
-South Florida
-L
-North Texas
-L
-East Carolina
-L
-Charlotte
-W
-Florida Atlantic
-L
-Tulsa
-L
-East Carolina
-L
-Wichita State
-L
-Rice
 L
 Team: Davidson Wildcats
 DeSales
@@ -2886,6 +3418,73 @@ Loyola Chicago
 W
 Saint Joseph's
 L
+Team: Wichita State Shockers
+UNC Asheville
+W
+Prairie View A&M
+W
+Loyola Chicago
+W
+Boise State
+L
+Milwaukee
+W
+Saint Mary's
+L
+Colorado State
+L
+Western Kentucky
+L
+Mount Marty College
+W
+Northern Iowa
+W
+DePaul
+L
+Wofford
+W
+Eastern Kentucky
+W
+UAB
+W
+Charlotte
+L
+Rice
+L
+North Texas
+W
+Florida Atlantic
+L
+South Florida
+W
+East Carolina
+W
+Memphis
+W
+Tulsa
+L
+Charlotte
+W
+Tulane
+W
+South Florida
+L
+Tulsa
+W
+East Carolina
+W
+Temple
+W
+Memphis
+W
+UTSA
+W
+Florida Atlantic
+W
+Tulsa
+W
+South Florida
+L
 Team: Duquesne Dukes
 Niagara
 W
@@ -2953,137 +3552,74 @@ Rhode Island
 W
 VCU
 L
-Team: Fordham Rams
-NJIT
+Team: Dayton Flyers
+Canisius
+W
+UMBC
+W
+Cincinnati
 L
-Mount Saint Mary (NY)
+Bethune-Cookman
 W
-Wagner
+Marquette
 W
-Iona
+North Carolina Central
+W
+Georgetown
+W
+BYU
 L
-Manhattanville
+East Tennessee State
 W
-Long Island University
-W
-Franklin Pierce
-W
-UAlbany
-W
-Colgate
+Virginia
 L
-Holy Cross
-L
-Fairleigh Dickinson
+North Florida
 W
-Manhattan
+Florida State
 W
-New Haven
-W
-Dayton
+Liberty
 L
-Richmond
-L
-George Mason
-L
-St. Bonaventure
-W
-Saint Louis
-L
-Duquesne
-L
-Davidson
-L
-La Salle
-W
-George Washington
-W
-VCU
-L
-St. Bonaventure
-L
-Saint Joseph's
-W
-Rhode Island
+Fordham
 W
 Loyola Chicago
 W
-Davidson
+George Washington
 W
-VCU
-L
+Duquesne
+W
+Loyola Chicago
+W
 La Salle
 L
+Saint Joseph's
+L
 Rhode Island
-W
-George Washington
 L
-Team: Loyola Chicago Ramblers
-Cleveland State
-W
-Mercyhurst
-L
-North Texas
-L
-Wichita State
-L
-Colorado State
-L
-Northern Illinois
-L
-Northern Iowa
-L
-San José State
-L
-Central Michigan
-W
-Princeton
-W
-Chicago State
-L
-San Francisco
-L
-Santa Clara
-W
-Rhode Island
-W
-Dayton
-L
-Davidson
-L
-George Washington
-L
-George Mason
-L
-Dayton
+Saint Louis
 L
 St. Bonaventure
-L
-Duquesne
-L
-Saint Joseph's
-L
+W
 VCU
 L
-La Salle
-W
 Davidson
-L
-Saint Louis
-L
-Fordham
-L
-Saint Joseph's
-L
-Richmond
+W
+George Mason
+W
+Duquesne
 W
 Saint Louis
-L
+W
 George Washington
 W
 Richmond
 W
-Davidson
+VCU
+L
+St. Bonaventure
+W
+Saint Louis
+W
+VCU
 L
 Team: George Mason Patriots
 Wofford
@@ -3149,6 +3685,71 @@ L
 Saint Louis
 W
 St. Bonaventure
+L
+Team: Fordham Rams
+NJIT
+L
+Mount Saint Mary (NY)
+W
+Wagner
+W
+Iona
+L
+Manhattanville
+W
+Long Island University
+W
+Franklin Pierce
+W
+UAlbany
+W
+Colgate
+L
+Holy Cross
+L
+Fairleigh Dickinson
+W
+Manhattan
+W
+New Haven
+W
+Dayton
+L
+Richmond
+L
+George Mason
+L
+St. Bonaventure
+W
+Saint Louis
+L
+Duquesne
+L
+Davidson
+L
+La Salle
+W
+George Washington
+W
+VCU
+L
+St. Bonaventure
+L
+Saint Joseph's
+W
+Rhode Island
+W
+Loyola Chicago
+W
+Davidson
+W
+VCU
+L
+La Salle
+L
+Rhode Island
+W
+George Washington
 L
 Team: La Salle Explorers
 Coppin State
@@ -3347,74 +3948,74 @@ Fordham
 L
 Duquesne
 L
-Team: Richmond Spiders
-Southern Virginia
+Team: Loyola Chicago Ramblers
+Cleveland State
 W
-East Carolina
-W
-William & Mary
-W
-VMI
-W
-Gardner-Webb
-W
-Furman
+Mercyhurst
 L
-Charlotte
-W
-Belmont
-W
-Old Dominion
-W
-Southern Illinois
-W
-Elon
+North Texas
 L
-The Citadel
-W
-Charleston Southern
+Wichita State
 L
-George Washington
+Colorado State
 L
-Fordham
-W
-St. Bonaventure
-W
-Saint Joseph's
+Northern Illinois
 L
-La Salle
-W
-Saint Louis
+Northern Iowa
 L
+San Josï¿½ State
+L
+Central Michigan
+W
+Princeton
+W
+Chicago State
+L
+San Francisco
+L
+Santa Clara
+W
 Rhode Island
-L
-George Washington
-L
-VCU
+W
+Dayton
 L
 Davidson
 L
-Rhode Island
+George Washington
 L
 George Mason
-W
-VCU
-L
-Davidson
-L
-St. Bonaventure
-W
-Loyola Chicago
 L
 Dayton
 L
+St. Bonaventure
+L
 Duquesne
 L
-Loyola Chicago
+Saint Joseph's
+L
+VCU
+L
+La Salle
+W
+Davidson
+L
+Saint Louis
+L
+Fordham
+L
+Saint Joseph's
+L
+Richmond
+W
+Saint Louis
+L
+George Washington
+W
+Richmond
+W
+Davidson
 L
 Team: Saint Joseph's Hawks
-New Mexico
-8
 Lafayette
 W
 Drexel
@@ -3480,6 +4081,140 @@ W
 Davidson
 W
 VCU
+L
+Team: Richmond Spiders
+Southern Virginia
+W
+East Carolina
+W
+William & Mary
+W
+VMI
+W
+Gardner-Webb
+W
+Furman
+L
+Charlotte
+W
+Belmont
+W
+Old Dominion
+W
+Southern Illinois
+W
+Elon
+L
+The Citadel
+W
+Charleston Southern
+L
+George Washington
+L
+Fordham
+W
+St. Bonaventure
+W
+Saint Joseph's
+L
+La Salle
+W
+Saint Louis
+L
+Rhode Island
+L
+George Washington
+L
+VCU
+L
+Davidson
+L
+Rhode Island
+L
+George Mason
+W
+VCU
+L
+Davidson
+L
+St. Bonaventure
+W
+Loyola Chicago
+L
+Dayton
+L
+Duquesne
+L
+Loyola Chicago
+L
+Team: St. Bonaventure Bonnies
+Bradley
+W
+Canisius
+W
+Siena
+W
+Youngstown State
+W
+Robert Morris
+W
+North Carolina
+L
+East Carolina
+W
+Florida Atlantic
+W
+Bloomsburg
+W
+Buffalo
+W
+Colgate
+W
+Ohio
+L
+Le Moyne
+W
+VCU
+L
+Richmond
+L
+Fordham
+L
+Saint Joseph's
+L
+La Salle
+L
+Loyola Chicago
+W
+Saint Louis
+L
+Duquesne
+W
+George Mason
+L
+Dayton
+L
+Fordham
+W
+Duquesne
+L
+Saint Joseph's
+L
+Richmond
+L
+Rhode Island
+W
+George Mason
+L
+George Washington
+L
+Davidson
+L
+La Salle
+W
+George Mason
+W
+Dayton
 L
 Team: Saint Louis Billikens
 Southeast Missouri State
@@ -3547,6 +4282,73 @@ L
 George Washington
 W
 Dayton
+L
+Team: Arizona State Sun Devils
+Southern Utah
+W
+Utah Tech
+W
+Gonzaga
+L
+Georgia State
+W
+Hawai'i
+W
+Texas
+W
+Washington State
+W
+USC
+L
+Oklahoma
+W
+Northern Arizona
+W
+Santa Clara
+W
+UCLA
+L
+Oregon State
+L
+Colorado
+L
+BYU
+L
+Kansas State
+W
+Arizona
+L
+Houston
+L
+West Virginia
+L
+Cincinnati
+W
+UCF
+L
+Arizona
+L
+Utah
+W
+Colorado
+L
+Oklahoma State
+W
+Texas Tech
+W
+Baylor
+L
+TCU
+L
+Utah
+W
+Kansas
+W
+Iowa State
+L
+Baylor
+W
+Iowa State
 L
 Team: VCU Rams
 Wagner
@@ -3617,208 +4419,145 @@ Saint Joseph's
 W
 Dayton
 W
-Team: St. Bonaventure Bonnies
-Bradley
-W
-Canisius
-W
-Siena
-W
-Youngstown State
-W
-Robert Morris
-W
-North Carolina
-L
-East Carolina
-W
-Florida Atlantic
-W
-Bloomsburg
-W
-Buffalo
-W
-Colgate
-W
-Ohio
-L
-Le Moyne
-W
-VCU
-L
-Richmond
-L
-Fordham
-L
-Saint Joseph's
-L
-La Salle
-L
-Loyola Chicago
-W
-Saint Louis
-L
-Duquesne
-W
-George Mason
-L
-Dayton
-L
-Fordham
-W
-Duquesne
-L
-Saint Joseph's
-L
-Richmond
-L
-Rhode Island
-W
-George Mason
-L
-George Washington
-L
-Davidson
-L
-La Salle
-W
-George Mason
-W
-Dayton
-L
-Team: Colorado Buffaloes
-Oklahoma
+Team: Arizona Wildcats
+Michigan
 7
-Montana State
-W
-Eastern Washington
-W
-Providence
-W
-Alabama State
-W
-UC Davis
-W
-San Francisco
-W
-Washington
-W
-California Baptist
-W
-Colorado State
-L
-UTSA
-W
-Portland State
-W
-Stanford
-L
-Northern Colorado
-L
-Arizona State
-W
-Utah
-W
-Texas Tech
-L
-Cincinnati
-L
-West Virginia
-L
-Kansas
-L
-UCF
-L
-Iowa State
-L
-TCU
-W
-Baylor
-L
-Arizona State
-W
-Texas Tech
-L
-BYU
-L
-Oklahoma State
-W
-Kansas State
-W
-Houston
-L
-Utah
-W
-Arizona
-L
-Oklahoma State
-L
-Team: Arizona State Sun Devils
-Southern Utah
+Florida
 W
 Utah Tech
 W
-Gonzaga
-L
-Georgia State
-W
-Hawai'i
-W
-Texas
-W
-Washington State
-W
-USC
-L
-Oklahoma
-W
 Northern Arizona
 W
-Santa Clara
-W
 UCLA
-L
-Oregon State
-L
-Colorado
-L
-BYU
-L
+W
+UConn
+W
+Denver
+W
+Norfolk State
+W
+Auburn
+W
+Alabama
+W
+Abilene Christian
+W
+San Diego State
+W
+Bethune-Cookman
+W
+South Dakota State
+W
+Utah
+W
 Kansas State
 W
-Arizona
-L
-Houston
-L
-West Virginia
-L
-Cincinnati
+TCU
+W
+Arizona State
 W
 UCF
-L
-Arizona
-L
-Utah
 W
-Colorado
-L
+Cincinnati
+W
+West Virginia
+W
+BYU
+W
+Arizona State
+W
 Oklahoma State
 W
+Kansas
+L
 Texas Tech
+L
+BYU
+W
+Houston
 W
 Baylor
-L
-TCU
-L
-Utah
 W
 Kansas
 W
 Iowa State
+W
+Colorado
+W
+UCF
+W
+Iowa State
+W
+Houston
+W
+Team: BYU Cougars
+Villanova
+W
+Holy Cross
+W
+Delaware
+W
+UConn
+L
+Wisconsin
+W
+Miami
+W
+Dayton
+W
+California Baptist
+W
+Clemson
+W
+UC Riverside
+W
+Pacific
+W
+Abilene Christian
+W
+Eastern Washington
+W
+Kansas State
+W
+Arizona State
+W
+Utah
+W
+TCU
+W
+Texas Tech
+L
+Utah
+W
+Arizona
+L
+Kansas
+L
+Oklahoma State
+L
+Houston
 L
 Baylor
 W
+Colorado
+W
+Arizona
+L
 Iowa State
+W
+UCF
+L
+West Virginia
+L
+Cincinnati
+L
+Texas Tech
+W
+Kansas State
+W
+West Virginia
+W
+Houston
 L
 Team: Cincinnati Bearcats
 Western Carolina
@@ -3955,8 +4694,6 @@ W
 Arizona State
 L
 Team: Houston Cougars
-Illinois
-9
 Lehigh
 W
 Towson
@@ -4025,9 +4762,141 @@ Kansas
 W
 Arizona
 L
-Team: Iowa State Cyclones
+Team: Colorado Buffaloes
+Oklahoma
+7
+Montana State
+W
+Eastern Washington
+W
+Providence
+W
+Alabama State
+W
+UC Davis
+W
+San Francisco
+W
+Washington
+W
+California Baptist
+W
+Colorado State
+L
+UTSA
+W
+Portland State
+W
+Stanford
+L
+Northern Colorado
+L
+Arizona State
+W
+Utah
+W
+Texas Tech
+L
+Cincinnati
+L
+West Virginia
+L
+Kansas
+L
+UCF
+L
+Iowa State
+L
+TCU
+W
+Baylor
+L
+Arizona State
+W
+Texas Tech
+L
+BYU
+L
+Oklahoma State
+W
+Kansas State
+W
+Houston
+L
+Utah
+W
+Arizona
+L
+Oklahoma State
+L
+Team: Kansas Jayhawks
+Green Bay
+W
+North Carolina
+L
+Texas A&M-Corpus Christi
+W
+Princeton
+W
+Duke
+L
+Notre Dame
+W
+Syracuse
+W
 Tennessee
-9
+W
+UConn
+L
+Missouri
+W
+NC State
+W
+Towson
+W
+Davidson
+W
+UCF
+L
+TCU
+W
+West Virginia
+L
+Iowa State
+W
+Baylor
+W
+Colorado
+W
+Kansas State
+W
+BYU
+W
+Texas Tech
+W
+Utah
+W
+Arizona
+W
+Iowa State
+L
+Oklahoma State
+W
+Cincinnati
+L
+Houston
+W
+Arizona
+L
+Arizona State
+L
+Kansas State
+W
+TCU
+W
+Houston
+L
+Team: Iowa State Cyclones
 Fairleigh Dickinson
 W
 Grambling
@@ -4163,6 +5032,71 @@ Colorado
 W
 TCU
 L
+Team: Kansas State Wildcats
+UNC Greensboro
+W
+Bellarmine
+W
+California
+W
+Tulsa
+W
+Mississippi State
+W
+Nebraska
+L
+Indiana
+L
+Bowling Green
+L
+Seton Hall
+L
+Mississippi Valley State
+W
+Creighton
+W
+South Dakota
+W
+UL Monroe
+W
+BYU
+L
+Arizona
+L
+Arizona State
+L
+UCF
+L
+Oklahoma State
+L
+Utah
+W
+Kansas
+L
+West Virginia
+L
+Iowa State
+L
+TCU
+L
+Cincinnati
+L
+Houston
+L
+Baylor
+W
+Texas Tech
+L
+Colorado
+L
+TCU
+L
+West Virginia
+W
+Kansas
+L
+BYU
+L
 Team: Texas Tech Red Raiders
 Lindenwood
 W
@@ -4227,73 +5161,6 @@ L
 BYU
 L
 Iowa State
-L
-Team: Kansas Jayhawks
-Green Bay
-W
-North Carolina
-L
-Texas A&M-Corpus Christi
-W
-Princeton
-W
-Duke
-L
-Notre Dame
-W
-Syracuse
-W
-Tennessee
-W
-UConn
-L
-Missouri
-W
-NC State
-W
-Towson
-W
-Davidson
-W
-UCF
-L
-TCU
-W
-West Virginia
-L
-Iowa State
-W
-Baylor
-W
-Colorado
-W
-Kansas State
-W
-BYU
-W
-Texas Tech
-W
-Utah
-W
-Arizona
-W
-Iowa State
-L
-Oklahoma State
-W
-Cincinnati
-L
-Houston
-W
-Arizona
-L
-Arizona State
-L
-Kansas State
-W
-TCU
-W
-Houston
 L
 Team: TCU Horned Frogs
 New Orleans
@@ -4361,6 +5228,71 @@ W
 Oklahoma State
 W
 Kansas
+L
+Team: Utah Utes
+San Josï¿½ State
+W
+Weber State
+W
+Holy Cross
+W
+Sam Houston
+W
+Purdue Fort Wayne
+W
+Cal Poly
+L
+Grand Canyon
+L
+Ole Miss
+W
+California
+L
+California Baptist
+W
+Mississippi State
+L
+Eastern Washington
+W
+Washington
+L
+Arizona
+L
+Colorado
+L
+BYU
+L
+Texas Tech
+L
+TCU
+W
+Kansas State
+L
+BYU
+L
+Oklahoma State
+L
+Arizona State
+L
+Kansas
+L
+Houston
+L
+Cincinnati
+L
+West Virginia
+W
+UCF
+L
+Iowa State
+L
+Arizona State
+L
+Colorado
+L
+Baylor
+L
+Cincinnati
 L
 Team: UCF Knights
 Hofstra
@@ -4559,6 +5491,71 @@ UCF
 W
 BYU
 L
+Team: DePaul Blue Demons
+Chicago State
+W
+Stonehill
+W
+Buffalo
+L
+Northwestern
+L
+Gardner-Webb
+W
+Detroit Mercy
+W
+Georgia Tech
+W
+LSU
+L
+Arkansas-Pine Bluff
+W
+Morgan State
+W
+Wichita State
+W
+St. John's
+L
+UConn
+L
+Villanova
+L
+Xavier
+W
+Georgetown
+W
+UConn
+L
+Marquette
+W
+Butler
+L
+Seton Hall
+W
+Georgetown
+L
+Xavier
+L
+St. John's
+L
+Providence
+L
+Creighton
+W
+Seton Hall
+W
+Providence
+L
+Creighton
+W
+Marquette
+W
+Villanova
+L
+Butler
+L
+Georgetown
+L
 Team: Creighton Bluejays
 Rutgers
 9
@@ -4625,6 +5622,71 @@ L
 Butler
 W
 Seton Hall
+L
+Team: Marquette Golden Eagles
+UAlbany
+W
+Southern
+W
+Indiana
+L
+Little Rock
+W
+Maryland
+L
+Dayton
+L
+Central Michigan
+W
+Oklahoma
+L
+Valparaiso
+W
+Wisconsin
+L
+Purdue
+L
+Georgetown
+L
+Creighton
+L
+Seton Hall
+L
+UConn
+L
+Xavier
+W
+Villanova
+L
+St. John's
+L
+DePaul
+L
+Providence
+W
+Butler
+L
+Creighton
+W
+Seton Hall
+L
+Butler
+W
+Villanova
+L
+Xavier
+L
+St. John's
+L
+Georgetown
+W
+DePaul
+L
+Providence
+W
+UConn
+W
+Xavier
 L
 Team: Georgetown Hoyas
 Morgan State
@@ -4695,135 +5757,72 @@ Villanova
 W
 UConn
 L
-Team: DePaul Blue Demons
-Chicago State
+Team: Seton Hall Pirates
+Saint Peter's
 W
-Stonehill
+Wagner
 W
-Buffalo
+Fairfield
+W
+Monmouth
+W
+New Haven
+W
+NC State
+W
+USC
 L
-Northwestern
-L
-Gardner-Webb
+Washington State
 W
-Detroit Mercy
+Central Connecticut
 W
-Georgia Tech
+Kansas State
 W
-LSU
-L
-Arkansas-Pine Bluff
+Rutgers
 W
-Morgan State
+Providence
 W
-Wichita State
-W
-St. John's
-L
-UConn
-L
 Villanova
-L
-Xavier
-W
-Georgetown
-W
-UConn
 L
 Marquette
 W
-Butler
-L
-Seton Hall
-W
-Georgetown
-L
-Xavier
-L
-St. John's
-L
-Providence
-L
 Creighton
 W
-Seton Hall
-W
-Providence
-L
-Creighton
-W
-Marquette
-W
-Villanova
-L
-Butler
-L
 Georgetown
-L
-Team: Marquette Golden Eagles
-UAlbany
 W
-Southern
-W
-Indiana
-L
-Little Rock
-W
-Maryland
-L
-Dayton
-L
-Central Michigan
-W
-Oklahoma
-L
-Valparaiso
-W
-Wisconsin
-L
-Purdue
-L
-Georgetown
-L
-Creighton
-L
-Seton Hall
-L
 UConn
 L
-Xavier
-W
-Villanova
+Butler
 L
 St. John's
 L
 DePaul
 L
-Providence
+Xavier
 W
-Butler
-L
-Creighton
-W
-Seton Hall
-L
-Butler
+Marquette
 W
 Villanova
 L
-Xavier
-L
-St. John's
-L
-Georgetown
-W
-DePaul
+Creighton
 L
 Providence
 W
-UConn
+Butler
 W
+DePaul
+L
+Georgetown
+W
+UConn
+L
 Xavier
+W
+St. John's
+L
+Creighton
+W
+St. John's
 L
 Team: Providence Friars
 Holy Cross
@@ -4892,76 +5891,9 @@ Butler
 W
 St. John's
 L
-Team: Seton Hall Pirates
-Saint Peter's
-W
-Wagner
-W
-Fairfield
-W
-Monmouth
-W
-New Haven
-W
-NC State
-W
-USC
-L
-Washington State
-W
-Central Connecticut
-W
-Kansas State
-W
-Rutgers
-W
-Providence
-W
-Villanova
-L
-Marquette
-W
-Creighton
-W
-Georgetown
-W
-UConn
-L
-Butler
-L
-St. John's
-L
-DePaul
-L
-Xavier
-W
-Marquette
-W
-Villanova
-L
-Creighton
-L
-Providence
-W
-Butler
-W
-DePaul
-L
-Georgetown
-W
-UConn
-L
-Xavier
-W
-St. John's
-L
-Creighton
-W
-St. John's
-L
 Team: UConn Huskies
-Michigan State
-8
+Illinois
+5
 New Haven
 W
 UMass Lowell
@@ -5030,6 +5962,142 @@ Georgetown
 W
 St. John's
 L
+Team: St. John's Red Storm
+Quinnipiac
+W
+Alabama
+L
+William & Mary
+W
+Bucknell
+W
+Iowa State
+L
+Baylor
+W
+Auburn
+L
+Ole Miss
+W
+Iona
+W
+DePaul
+W
+Kentucky
+L
+Harvard
+W
+Georgetown
+W
+Providence
+L
+Butler
+W
+Creighton
+W
+Marquette
+W
+Villanova
+W
+Seton Hall
+W
+Xavier
+W
+Butler
+W
+DePaul
+W
+UConn
+W
+Xavier
+W
+Providence
+W
+Marquette
+W
+Creighton
+W
+UConn
+L
+Villanova
+W
+Georgetown
+W
+Seton Hall
+W
+Providence
+W
+Seton Hall
+W
+UConn
+W
+Team: Xavier Musketeers
+Marist
+W
+Le Moyne
+W
+Santa Clara
+L
+Iowa
+L
+Old Dominion
+W
+Georgia
+L
+West Virginia
+W
+Texas A&M-Corpus Christi
+W
+Saint Francis
+W
+Cincinnati
+W
+Missouri State
+W
+Creighton
+L
+Georgetown
+W
+UConn
+L
+DePaul
+L
+Marquette
+L
+Providence
+W
+Butler
+W
+Creighton
+L
+St. John's
+L
+Seton Hall
+L
+DePaul
+W
+UConn
+L
+St. John's
+L
+Marquette
+W
+Villanova
+L
+Butler
+L
+Providence
+L
+Georgetown
+W
+Seton Hall
+L
+Villanova
+L
+Marquette
+W
+UConn
+L
 Team: Villanova Wildcats
 BYU
 L
@@ -5094,73 +6162,6 @@ W
 Xavier
 W
 Georgetown
-L
-Team: Eastern Washington Eagles
-UCLA
-L
-Loyola Marymount
-L
-Colorado
-L
-Seattle U
-L
-Eastern Oregon
-W
-Central Arkansas
-L
-North Texas
-L
-Denver
-L
-Kansas City
-W
-California Baptist
-L
-Washington State
-L
-Utah
-L
-BYU
-L
-Idaho
-L
-Montana State
-L
-Montana
-W
-Weber State
-L
-Idaho State
-W
-Portland State
-L
-Sacramento State
-W
-Northern Arizona
-L
-Northern Colorado
-L
-Montana
-W
-Montana State
-W
-Idaho State
-W
-Weber State
-W
-Sacramento State
-W
-Portland State
-W
-Northern Colorado
-W
-Northern Arizona
-W
-Idaho
-L
-Weber State
-W
-Idaho
 L
 Team: Idaho State Bengals
 Park University Gilbert
@@ -5229,6 +6230,213 @@ Northern Arizona
 W
 Portland State
 L
+Team: Eastern Washington Eagles
+UCLA
+L
+Loyola Marymount
+L
+Colorado
+L
+Seattle U
+L
+Eastern Oregon
+W
+Central Arkansas
+L
+North Texas
+L
+Denver
+L
+Kansas City
+W
+California Baptist
+L
+Washington State
+L
+Utah
+L
+BYU
+L
+Idaho
+L
+Montana State
+L
+Montana
+W
+Weber State
+L
+Idaho State
+W
+Portland State
+L
+Sacramento State
+W
+Northern Arizona
+L
+Northern Colorado
+L
+Montana
+W
+Montana State
+W
+Idaho State
+W
+Weber State
+W
+Sacramento State
+W
+Portland State
+W
+Northern Colorado
+W
+Northern Arizona
+W
+Idaho
+L
+Weber State
+W
+Idaho
+L
+Team: Montana Grizzlies
+Northwest Indian
+W
+Ottawa (AZ)
+W
+Stanford
+L
+UNLV
+W
+Cal Poly
+W
+Texas A&M
+L
+Lamar
+L
+Oakland
+L
+North Dakota State
+L
+North Dakota
+W
+Salish Kootenai
+W
+Montana Tech
+L
+Louisville
+L
+Northern Arizona
+W
+Northern Colorado
+W
+Idaho
+W
+Eastern Washington
+L
+Montana State
+L
+Northern Arizona
+W
+Weber State
+W
+Idaho State
+W
+Portland State
+W
+Sacramento State
+L
+Eastern Washington
+L
+Idaho
+W
+Montana State
+L
+Idaho State
+L
+Weber State
+L
+Sacramento State
+W
+Portland State
+W
+Northern Colorado
+L
+Northern Colorado
+W
+Portland State
+W
+Idaho
+L
+Team: Idaho Vandals
+Washington State
+W
+Whitman
+W
+San Diego
+L
+UC San Diego
+L
+Eastern Oregon
+W
+Cal State Northridge
+W
+Sam Houston
+L
+North Dakota
+W
+South Dakota State
+W
+Notre Dame
+L
+Evergreen State
+W
+Cal Poly
+W
+Cal State Bakersfield
+L
+Eastern Washington
+W
+Montana
+L
+Montana State
+W
+Idaho State
+L
+Weber State
+W
+Sacramento State
+W
+Portland State
+L
+Northern Colorado
+L
+Northern Arizona
+W
+Montana State
+L
+Montana
+L
+Weber State
+L
+Idaho State
+W
+Portland State
+L
+Sacramento State
+W
+Northern Arizona
+W
+Northern Colorado
+L
+Eastern Washington
+W
+Sacramento State
+W
+Montana State
+W
+Eastern Washington
+W
+Montana
+W
 Team: Montana State Bobcats
 Colorado
 L
@@ -5358,138 +6566,6 @@ L
 Montana State
 L
 Idaho State
-L
-Team: Montana Grizzlies
-Northwest Indian
-W
-Ottawa (AZ)
-W
-Stanford
-L
-UNLV
-W
-Cal Poly
-W
-Texas A&M
-L
-Lamar
-L
-Oakland
-L
-North Dakota State
-L
-North Dakota
-W
-Salish Kootenai
-W
-Montana Tech
-L
-Louisville
-L
-Northern Arizona
-W
-Northern Colorado
-W
-Idaho
-W
-Eastern Washington
-L
-Montana State
-L
-Northern Arizona
-W
-Weber State
-W
-Idaho State
-W
-Portland State
-W
-Sacramento State
-L
-Eastern Washington
-L
-Idaho
-W
-Montana State
-L
-Idaho State
-L
-Weber State
-L
-Sacramento State
-W
-Portland State
-W
-Northern Colorado
-L
-Northern Colorado
-W
-Portland State
-W
-Idaho
-L
-Team: Sacramento State Hornets
-Dominican (CA)
-W
-Jessup University
-W
-UC Santa Barbara
-L
-UC Davis
-L
-Presbyterian
-W
-UCLA
-L
-California
-L
-San Francisco State
-W
-Pacific
-L
-Baylor
-L
-California Baptist
-L
-Cal State Northridge
-L
-Idaho State
-L
-Weber State
-L
-Portland State
-L
-Northern Arizona
-W
-Northern Colorado
-W
-Idaho
-L
-Eastern Washington
-L
-Montana State
-W
-Montana
-W
-Weber State
-W
-Portland State
-L
-Northern Colorado
-L
-Northern Arizona
-L
-Eastern Washington
-L
-Idaho
-L
-Montana
-L
-Montana State
-L
-Idaho State
-W
-Idaho
 L
 Team: Northern Colorado Bears
 Colorado College
@@ -5684,6 +6760,201 @@ Portland State
 L
 Eastern Washington
 L
+Team: Sacramento State Hornets
+Dominican (CA)
+W
+Jessup University
+W
+UC Santa Barbara
+L
+UC Davis
+L
+Presbyterian
+W
+UCLA
+L
+California
+L
+San Francisco State
+W
+Pacific
+L
+Baylor
+L
+California Baptist
+L
+Cal State Northridge
+L
+Idaho State
+L
+Weber State
+L
+Portland State
+L
+Northern Arizona
+W
+Northern Colorado
+W
+Idaho
+L
+Eastern Washington
+L
+Montana State
+W
+Montana
+W
+Weber State
+W
+Portland State
+L
+Northern Colorado
+L
+Northern Arizona
+L
+Eastern Washington
+L
+Idaho
+L
+Montana
+L
+Montana State
+L
+Idaho State
+W
+Idaho
+L
+Team: Gardner-Webb Runnin' Bulldogs
+Minnesota
+L
+Clemson
+L
+North Greenville
+L
+Elon
+L
+DePaul
+L
+Richmond
+L
+Navy
+L
+SE Louisiana
+L
+UNC Wilmington
+L
+Queens University
+L
+Georgia Southern
+L
+Brevard
+W
+Wofford
+L
+Toccoa Falls
+W
+Tennessee
+L
+Charleston Southern
+L
+Winthrop
+L
+High Point
+L
+Radford
+L
+Presbyterian
+L
+Longwood
+L
+South Carolina Upstate
+W
+UNC Asheville
+L
+Longwood
+L
+Presbyterian
+L
+Winthrop
+L
+High Point
+L
+Charleston Southern
+L
+Radford
+L
+UNC Asheville
+L
+South Carolina Upstate
+L
+South Carolina Upstate
+W
+High Point
+L
+Team: Charleston Southern Buccaneers
+Virginia Tech
+L
+Toccoa Falls
+W
+The Citadel
+W
+Alabama A&M
+L
+Lindenwood
+L
+IU Indianapolis
+W
+East Carolina
+W
+Piedmont
+W
+South Carolina
+L
+UT Martin
+L
+Warren Wilson
+W
+South Carolina State
+W
+North Florida
+W
+Furman
+L
+Richmond
+W
+Gardner-Webb
+W
+UNC Asheville
+W
+Winthrop
+L
+High Point
+L
+South Carolina Upstate
+L
+Presbyterian
+L
+Longwood
+L
+Radford
+L
+High Point
+L
+South Carolina Upstate
+L
+Presbyterian
+W
+Radford
+L
+Gardner-Webb
+W
+Longwood
+L
+Winthrop
+W
+UNC Asheville
+W
+Winthrop
+L
 Team: Longwood Lancers
 Mary Baldwin
 W
@@ -5818,70 +7089,70 @@ UNC Asheville
 W
 Winthrop
 W
-Team: Charleston Southern Buccaneers
-Virginia Tech
+Team: Radford Highlanders
+Western Illinois
+W
+West Virginia Wesleyan
+W
+North Carolina
 L
-Toccoa Falls
-W
-The Citadel
-W
-Alabama A&M
+Wright State
 L
-Lindenwood
+Cleveland State
 L
-IU Indianapolis
-W
-East Carolina
-W
-Piedmont
-W
 South Carolina
 L
-UT Martin
+UNC Wilmington
 L
-Warren Wilson
-W
-South Carolina State
-W
-North Florida
-W
-Furman
+SMU
 L
-Richmond
+Notre Dame (MD)
 W
-Gardner-Webb
+Southern Miss
+L
+Saint Francis
+W
+Coppin State
+W
+William & Mary
+L
+VMI
+W
+Shenandoah
+W
+South Carolina Upstate
+W
+Presbyterian
 W
 UNC Asheville
+L
+Gardner-Webb
+W
+Longwood
 W
 Winthrop
 L
 High Point
 L
-South Carolina Upstate
-L
+Charleston Southern
+W
 Presbyterian
-L
-Longwood
-L
-Radford
+W
+Winthrop
 L
 High Point
 L
-South Carolina Upstate
-L
-Presbyterian
+Charleston Southern
 W
-Radford
-L
 Gardner-Webb
+W
+UNC Asheville
+L
+South Carolina Upstate
 W
 Longwood
 L
-Winthrop
-W
-UNC Asheville
-W
-Winthrop
+Presbyterian
 L
 Team: Presbyterian Blue Hose
 Navy
@@ -6081,8 +7352,8 @@ W
 Gardner-Webb
 L
 Team: Illinois Fighting Illini
-Houston
-9
+UConn
+5
 Jackson State
 W
 Florida Gulf Coast
@@ -6216,74 +7487,7 @@ Presbyterian
 W
 High Point
 L
-Team: Indiana Hoosiers
-Alabama A&M
-W
-Marquette
-W
-Milwaukee
-W
-Incarnate Word
-W
-Lindenwood
-W
-Kansas State
-W
-Bethune-Cookman
-W
-Minnesota
-L
-Louisville
-L
-Penn State
-W
-Kentucky
-L
-Chicago State
-W
-Siena
-W
-Washington
-W
-Maryland
-W
-Nebraska
-L
-Michigan State
-L
-Iowa
-L
-Michigan
-L
-Rutgers
-W
-Purdue
-W
-UCLA
-W
-USC
-L
-Wisconsin
-W
-Oregon
-W
-Illinois
-L
-Purdue
-L
-Northwestern
-L
-Michigan State
-L
-Minnesota
-W
-Ohio State
-L
-Northwestern
-L
 Team: Iowa Hawkeyes
-Nebraska
-6
 Robert Morris
 W
 Western Illinois
@@ -6349,6 +7553,136 @@ L
 Maryland
 W
 Ohio State
+L
+Team: Indiana Hoosiers
+Alabama A&M
+W
+Marquette
+W
+Milwaukee
+W
+Incarnate Word
+W
+Lindenwood
+W
+Kansas State
+W
+Bethune-Cookman
+W
+Minnesota
+L
+Louisville
+L
+Penn State
+W
+Kentucky
+L
+Chicago State
+W
+Siena
+W
+Washington
+W
+Maryland
+W
+Nebraska
+L
+Michigan State
+L
+Iowa
+L
+Michigan
+L
+Rutgers
+W
+Purdue
+W
+UCLA
+W
+USC
+L
+Wisconsin
+W
+Oregon
+W
+Illinois
+L
+Purdue
+L
+Northwestern
+L
+Michigan State
+L
+Minnesota
+W
+Ohio State
+L
+Northwestern
+L
+Team: Michigan State Spartans
+Colgate
+W
+Arkansas
+W
+San Josï¿½ State
+W
+Kentucky
+W
+Detroit Mercy
+W
+East Carolina
+W
+North Carolina
+W
+Iowa
+W
+Duke
+L
+Penn State
+W
+Toledo
+W
+Oakland
+W
+Cornell
+W
+Nebraska
+L
+USC
+W
+Northwestern
+W
+Indiana
+W
+Washington
+W
+Oregon
+W
+Maryland
+W
+Rutgers
+W
+Michigan
+L
+Minnesota
+L
+Illinois
+W
+Wisconsin
+L
+UCLA
+W
+Ohio State
+W
+Purdue
+W
+Indiana
+W
+Rutgers
+W
+Michigan
+L
+UCLA
 L
 Team: Maryland Terrapins
 Coppin State
@@ -6417,76 +7751,76 @@ Oregon
 W
 Iowa
 L
-Team: Michigan State Spartans
-UConn
-8
-Colgate
+Team: Minnesota Golden Gophers
+Baylor
+9
+Gardner-Webb
 W
-Arkansas
+Alcorn State
 W
-San José State
-W
-Kentucky
-W
-Detroit Mercy
-W
-East Carolina
-W
-North Carolina
-W
-Iowa
-W
-Duke
+Missouri
 L
-Penn State
+Green Bay
 W
-Toledo
+Chicago State
 W
-Oakland
-W
-Cornell
-W
-Nebraska
+San Francisco
 L
-USC
+Stanford
+L
+Santa Clara
+L
+Indiana
+W
+Purdue
+L
+Texas Southern
+W
+Campbell
+W
+Fairleigh Dickinson
 W
 Northwestern
 W
-Indiana
+Iowa
 W
-Washington
-W
-Oregon
-W
-Maryland
-W
-Rutgers
-W
-Michigan
+USC
 L
-Minnesota
-L
-Illinois
-W
 Wisconsin
 L
-UCLA
-W
+Illinois
+L
 Ohio State
+L
+Nebraska
+L
+Wisconsin
+L
+Penn State
+L
+Michigan State
 W
-Purdue
-W
-Indiana
+Maryland
+L
+Washington
+L
+Oregon
 W
 Rutgers
 W
 Michigan
 L
 UCLA
+W
+Indiana
+L
+Northwestern
+W
+Rutgers
 L
 Team: Michigan Wolverines
-Alabama
-6
+Arizona
+7
 Oakland
 W
 Wake Forest
@@ -6554,140 +7888,6 @@ W
 Wisconsin
 W
 Purdue
-L
-Team: Nebraska Cornhuskers
-Iowa
-6
-West Georgia
-W
-Florida International
-W
-Maryland Eastern Shore
-W
-Oklahoma
-W
-New Mexico
-W
-Kansas State
-W
-Winthrop
-W
-South Carolina Upstate
-W
-Creighton
-W
-Wisconsin
-W
-Illinois
-W
-North Dakota
-W
-New Hampshire
-W
-Michigan State
-W
-Ohio State
-W
-Indiana
-W
-Oregon
-W
-Northwestern
-W
-Washington
-W
-Minnesota
-W
-Michigan
-L
-Illinois
-L
-Rutgers
-W
-Purdue
-L
-Northwestern
-W
-Iowa
-L
-Penn State
-W
-Maryland
-W
-USC
-W
-UCLA
-L
-Iowa
-W
-Purdue
-L
-Team: Minnesota Golden Gophers
-Baylor
-9
-Gardner-Webb
-W
-Alcorn State
-W
-Missouri
-L
-Green Bay
-W
-Chicago State
-W
-San Francisco
-L
-Stanford
-L
-Santa Clara
-L
-Indiana
-W
-Purdue
-L
-Texas Southern
-W
-Campbell
-W
-Fairleigh Dickinson
-W
-Northwestern
-W
-Iowa
-W
-USC
-L
-Wisconsin
-L
-Illinois
-L
-Ohio State
-L
-Nebraska
-L
-Wisconsin
-L
-Penn State
-L
-Michigan State
-W
-Maryland
-L
-Washington
-L
-Oregon
-W
-Rutgers
-W
-Michigan
-L
-UCLA
-W
-Indiana
-L
-Northwestern
-W
-Rutgers
 L
 Team: Northwestern Wildcats
 Mercyhurst
@@ -6758,6 +7958,71 @@ Indiana
 W
 Purdue
 L
+Team: Nebraska Cornhuskers
+West Georgia
+W
+Florida International
+W
+Maryland Eastern Shore
+W
+Oklahoma
+W
+New Mexico
+W
+Kansas State
+W
+Winthrop
+W
+South Carolina Upstate
+W
+Creighton
+W
+Wisconsin
+W
+Illinois
+W
+North Dakota
+W
+New Hampshire
+W
+Michigan State
+W
+Ohio State
+W
+Indiana
+W
+Oregon
+W
+Northwestern
+W
+Washington
+W
+Minnesota
+W
+Michigan
+L
+Illinois
+L
+Rutgers
+W
+Purdue
+L
+Northwestern
+W
+Iowa
+L
+Penn State
+W
+Maryland
+W
+USC
+W
+UCLA
+L
+Iowa
+W
+Purdue
+L
 Team: Oregon Ducks
 Hawai'i
 W
@@ -6823,9 +8088,74 @@ Washington
 W
 Maryland
 L
+Team: Ohio State Buckeyes
+IU Indianapolis
+W
+Purdue Fort Wayne
+W
+App State
+W
+Notre Dame
+W
+Western Michigan
+W
+Mount St. Mary's
+W
+Pittsburgh
+L
+Northwestern
+W
+Illinois
+L
+West Virginia
+W
+North Carolina
+L
+Grambling
+W
+Rutgers
+W
+Nebraska
+L
+Oregon
+W
+Washington
+L
+UCLA
+W
+Minnesota
+W
+Michigan
+L
+Penn State
+W
+Wisconsin
+L
+Maryland
+W
+Michigan
+L
+USC
+W
+Virginia
+L
+Wisconsin
+W
+Michigan State
+L
+Iowa
+L
+Purdue
+W
+Penn State
+W
+Indiana
+W
+Iowa
+W
+Michigan
+L
 Team: Purdue Boilermakers
-Texas
-6
 Evansville
 W
 Oakland
@@ -7164,140 +8494,6 @@ UCLA
 L
 Washington
 L
-Team: Washington Huskies
-Arkansas-Pine Bluff
-W
-Denver
-W
-Baylor
-L
-Washington State
-W
-Southern
-W
-Nevada
-W
-Colorado
-L
-UCLA
-L
-USC
-W
-Southern Utah
-W
-Seattle U
-L
-San Diego
-W
-Utah
-W
-Indiana
-L
-Purdue
-L
-Ohio State
-W
-Michigan
-L
-Michigan State
-L
-Nebraska
-L
-Oregon
-W
-Illinois
-L
-Northwestern
-W
-Iowa
-L
-UCLA
-L
-Penn State
-L
-Minnesota
-W
-Maryland
-L
-Rutgers
-W
-Wisconsin
-L
-USC
-W
-Oregon
-L
-USC
-W
-Wisconsin
-L
-Team: Cal Poly Mustangs
-USC
-L
-Pacific Lutheran
-W
-Seattle U
-W
-Colorado State
-L
-Montana
-L
-Utah
-W
-Northern Arizona
-L
-Southeast Missouri State
-L
-Redlands
-W
-Cal State Fullerton
-W
-UC Riverside
-L
-Montana State
-L
-UCLA
-L
-Idaho
-L
-UC San Diego
-W
-Long Beach State
-L
-Cal State Northridge
-L
-UC Davis
-W
-Hawai'i
-L
-UC Santa Barbara
-L
-Cal State Fullerton
-L
-Cal State Bakersfield
-W
-UC Riverside
-W
-Cal State Northridge
-L
-UC Davis
-L
-UC Irvine
-W
-UC Santa Barbara
-W
-Hawai'i
-W
-Long Beach State
-W
-UC San Diego
-L
-UC Irvine
-L
-Cal State Bakersfield
-W
-UC San Diego
-L
 Team: Wisconsin Badgers
 Campbell
 W
@@ -7367,6 +8563,73 @@ Illinois
 W
 Michigan
 L
+Team: Washington Huskies
+Arkansas-Pine Bluff
+W
+Denver
+W
+Baylor
+L
+Washington State
+W
+Southern
+W
+Nevada
+W
+Colorado
+L
+UCLA
+L
+USC
+W
+Southern Utah
+W
+Seattle U
+L
+San Diego
+W
+Utah
+W
+Indiana
+L
+Purdue
+L
+Ohio State
+W
+Michigan
+L
+Michigan State
+L
+Nebraska
+L
+Oregon
+W
+Illinois
+L
+Northwestern
+W
+Iowa
+L
+UCLA
+L
+Penn State
+L
+Minnesota
+W
+Maryland
+L
+Rutgers
+W
+Wisconsin
+L
+USC
+W
+Oregon
+L
+USC
+W
+Wisconsin
+L
 Team: Cal State Bakersfield Roadrunners
 California
 L
@@ -7431,6 +8694,73 @@ L
 Cal State Northridge
 L
 Cal Poly
+L
+Team: Cal Poly Mustangs
+USC
+L
+Pacific Lutheran
+W
+Seattle U
+W
+Colorado State
+L
+Montana
+L
+Utah
+W
+Northern Arizona
+L
+Southeast Missouri State
+L
+Redlands
+W
+Cal State Fullerton
+W
+UC Riverside
+L
+Montana State
+L
+UCLA
+L
+Idaho
+L
+UC San Diego
+W
+Long Beach State
+L
+Cal State Northridge
+L
+UC Davis
+W
+Hawai'i
+L
+UC Santa Barbara
+L
+Cal State Fullerton
+L
+Cal State Bakersfield
+W
+UC Riverside
+W
+Cal State Northridge
+L
+UC Davis
+L
+UC Irvine
+W
+UC Santa Barbara
+W
+Hawai'i
+W
+Long Beach State
+W
+UC San Diego
+L
+UC Irvine
+L
+Cal State Bakersfield
+W
+UC San Diego
 L
 Team: Cal State Northridge Matadors
 Nobel
@@ -7501,6 +8831,140 @@ UC San Diego
 W
 UC Irvine
 L
+Team: Cal State Fullerton Titans
+Caltech
+W
+Wyoming
+L
+California
+L
+Pacific
+L
+Portland
+L
+St. Thomas-Minnesota
+W
+Northern Colorado
+L
+Pepperdine
+W
+Cal Poly
+L
+Hawai'i
+L
+Bethesda University
+W
+Denver
+W
+Oklahoma State
+L
+SMU
+L
+UC Santa Barbara
+W
+UC Irvine
+L
+UC San Diego
+W
+Cal State Northridge
+W
+UC Davis
+L
+UC Riverside
+L
+Long Beach State
+W
+Cal Poly
+W
+UC Santa Barbara
+L
+UC Riverside
+W
+Cal State Bakersfield
+W
+Long Beach State
+W
+UC Irvine
+L
+UC Davis
+W
+Cal State Bakersfield
+W
+Hawai'i
+L
+UC San Diego
+W
+Cal State Northridge
+W
+UC Davis
+W
+Hawai'i
+L
+Team: Long Beach State Beach
+San Diego State
+L
+Fresno State
+L
+Pacific
+L
+Illinois State
+L
+Nobel
+W
+Montana State
+L
+Portland
+L
+San Diego
+W
+UC Santa Barbara
+L
+UC San Diego
+L
+San Josï¿½ State
+L
+Pepperdine
+W
+Iowa State
+L
+Lincoln University (CA)
+W
+Cal Poly
+W
+UC Irvine
+L
+Cal State Bakersfield
+W
+UC Riverside
+W
+Cal State Northridge
+W
+Cal State Fullerton
+L
+UC Santa Barbara
+L
+UC Riverside
+L
+Hawai'i
+L
+UC San Diego
+L
+Cal State Fullerton
+L
+UC Davis
+L
+UC Irvine
+L
+Cal State Northridge
+L
+Cal Poly
+L
+Cal State Bakersfield
+W
+UC Davis
+L
+Hawai'i
+W
 Team: Hawai'i Rainbow Warriors
 Oregon
 L
@@ -7566,6 +9030,75 @@ Cal State Fullerton
 W
 UC Irvine
 W
+Team: UC Irvine Anteaters
+Bethesda University
+W
+California Baptist
+L
+Lincoln University (CA)
+W
+Weber State
+W
+Utah Valley
+L
+Northern Iowa
+L
+New Mexico State
+L
+South Dakota State
+W
+San Josï¿½ State
+W
+UC Riverside
+W
+Cal State Northridge
+W
+Belmont
+L
+North Dakota State
+W
+Norfolk State
+W
+Cal State Bakersfield
+W
+Cal State Fullerton
+W
+Long Beach State
+W
+Hawai'i
+L
+UC Davis
+L
+UC Riverside
+W
+UC San Diego
+W
+Hawai'i
+W
+Cal State Bakersfield
+W
+UC Santa Barbara
+L
+Cal Poly
+L
+Cal State Fullerton
+W
+Long Beach State
+W
+UC San Diego
+L
+Cal State Northridge
+W
+UC Santa Barbara
+W
+Cal Poly
+W
+UC Davis
+W
+Cal State Northridge
+W
+Hawai'i
+L
 Team: UC Davis Aggies
 Menlo
 W
@@ -7633,6 +9166,75 @@ UC Santa Barbara
 W
 Cal State Fullerton
 L
+Team: UC San Diego Tritons
+La Verne
+W
+Houston Christian
+W
+Fresno State
+W
+Idaho
+W
+Temple
+W
+Bradley
+W
+Towson
+W
+Nevada
+L
+Long Beach State
+W
+Tulane
+W
+Loyola Marymount
+W
+San Diego
+L
+Stanton
+W
+Cal Poly
+L
+Hawai'i
+W
+Cal State Fullerton
+L
+UC Riverside
+W
+Cal State Northridge
+L
+Cal State Bakersfield
+W
+UC Davis
+W
+UC Irvine
+L
+UC Santa Barbara
+L
+Cal State Northridge
+L
+Long Beach State
+W
+Hawai'i
+L
+UC Davis
+W
+UC Riverside
+W
+UC Irvine
+W
+Cal State Bakersfield
+W
+Cal Poly
+W
+Cal State Fullerton
+L
+UC Santa Barbara
+W
+Cal Poly
+W
+Cal State Northridge
+L
 Team: UC Riverside Highlanders
 La Sierra
 W
@@ -7697,71 +9299,6 @@ L
 Cal State Northridge
 W
 Hawai'i
-L
-Team: UC Santa Barbara Gauchos
-San Francisco State
-W
-San José State
-W
-Sacramento State
-W
-Loyola Marymount
-L
-Nevada
-L
-Nobel
-W
-Lehigh
-W
-Seattle U
-W
-Long Beach State
-W
-Cal State Bakersfield
-W
-Utah Valley
-L
-Green Bay
-L
-Portland
-W
-Cal State Fullerton
-L
-Cal State Northridge
-L
-UC Davis
-L
-Cal State Bakersfield
-W
-Hawai'i
-W
-Cal Poly
-W
-Long Beach State
-W
-UC San Diego
-W
-Cal State Fullerton
-W
-UC Davis
-L
-UC Irvine
-W
-UC Riverside
-W
-Cal Poly
-L
-Cal State Northridge
-L
-Hawai'i
-L
-UC Riverside
-W
-UC Irvine
-L
-UC San Diego
-L
-UC Davis
 L
 Team: Campbell Fighting Camels
 Wisconsin
@@ -7831,6 +9368,71 @@ W
 UNC Wilmington
 W
 Monmouth
+L
+Team: UC Santa Barbara Gauchos
+San Francisco State
+W
+San Josï¿½ State
+W
+Sacramento State
+W
+Loyola Marymount
+L
+Nevada
+L
+Nobel
+W
+Lehigh
+W
+Seattle U
+W
+Long Beach State
+W
+Cal State Bakersfield
+W
+Utah Valley
+L
+Green Bay
+L
+Portland
+W
+Cal State Fullerton
+L
+Cal State Northridge
+L
+UC Davis
+L
+Cal State Bakersfield
+W
+Hawai'i
+W
+Cal Poly
+W
+Long Beach State
+W
+UC San Diego
+W
+Cal State Fullerton
+W
+UC Davis
+L
+UC Irvine
+W
+UC Riverside
+W
+Cal Poly
+L
+Cal State Northridge
+L
+Hawai'i
+L
+UC Riverside
+W
+UC Irvine
+L
+UC San Diego
+L
+UC Davis
 L
 Team: Drexel Dragons
 Widener
@@ -7964,6 +9566,71 @@ UNC Wilmington
 W
 Towson
 L
+Team: Hampton Pirates
+Milwaukee
+L
+Mid-Atlantic Christian
+W
+Virginia
+L
+Brown
+W
+Holy Cross
+L
+Boston College
+L
+Norfolk State
+L
+Maryland Eastern Shore
+W
+Apprentice School
+W
+Loyola Maryland
+W
+Howard
+L
+Jackson State
+W
+Grambling
+L
+Stony Brook
+W
+Towson
+W
+UNC Wilmington
+L
+Campbell
+L
+Charleston
+L
+North Carolina A&T
+W
+Monmouth
+W
+UNC Wilmington
+L
+Drexel
+L
+Towson
+L
+Elon
+W
+William & Mary
+W
+North Carolina A&T
+L
+Hofstra
+L
+Stony Brook
+L
+Charleston
+L
+Northeastern
+W
+William & Mary
+L
+Towson
+L
 Team: Elon Phoenix
 Belmont Abbey
 W
@@ -8029,70 +9696,74 @@ UNC Wilmington
 L
 William & Mary
 L
-Team: Hampton Pirates
-Milwaukee
-L
-Mid-Atlantic Christian
+Team: Monmouth Hawks
+Caldwell
 W
-Virginia
+La Salle
 L
-Brown
-W
-Holy Cross
+Seton Hall
 L
-Boston College
+Syracuse
 L
-Norfolk State
+Robert Morris
+W
+Ball State
+W
+Le Moyne
 L
-Maryland Eastern Shore
+Lafayette
 W
-Apprentice School
+Princeton
 W
-Loyola Maryland
-W
-Howard
+Georgia Tech
 L
-Jackson State
-W
-Grambling
+Fairfield
 L
-Stony Brook
-W
-Towson
-W
-UNC Wilmington
+Quinnipiac
 L
+Lehigh
+W
 Campbell
 L
-Charleston
-L
-North Carolina A&T
+Towson
 W
-Monmouth
+William & Mary
 W
-UNC Wilmington
+Hofstra
 L
 Drexel
 L
-Towson
-L
-Elon
+Northeastern
 W
-William & Mary
+Hampton
+L
+Campbell
 W
 North Carolina A&T
-L
+W
 Hofstra
 L
 Stony Brook
+W
+Drexel
+W
+Towson
+W
+UNC Wilmington
 L
 Charleston
 L
+Stony Brook
+W
+Elon
+W
 Northeastern
 W
-William & Mary
-L
-Towson
+Drexel
+W
+Campbell
+W
+Hofstra
 L
 Team: Hofstra Pride
 UCF
@@ -8163,74 +9834,131 @@ Towson
 W
 Monmouth
 W
-Team: Monmouth Hawks
-Caldwell
-W
-La Salle
+Team: North Carolina A&T Aggies
+South Carolina
 L
-Seton Hall
+South Carolina State
+W
+Washington Adventist
+W
+Morgan State
+W
+Davidson
 L
-Syracuse
+Charlotte
 L
-Robert Morris
+North Carolina Central
 W
-Ball State
-W
-Le Moyne
+Howard
 L
-Lafayette
+Maryland Eastern Shore
 W
-Princeton
+UNC Greensboro
 W
-Georgia Tech
-L
-Fairfield
-L
-Quinnipiac
-L
-Lehigh
-W
-Campbell
-L
-Towson
-W
-William & Mary
-W
-Hofstra
-L
-Drexel
-L
-Northeastern
-W
-Hampton
-L
-Campbell
-W
-North Carolina A&T
-W
-Hofstra
-L
-Stony Brook
-W
-Drexel
-W
-Towson
+Mid-Atlantic Christian
 W
 UNC Wilmington
 L
-Charleston
+Northeastern
 L
 Stony Brook
-W
+L
 Elon
+L
+William & Mary
+L
+Hampton
+L
+Hofstra
+W
+Towson
+W
+Monmouth
+L
+Drexel
+L
+Charleston
+L
+Campbell
+L
+Hampton
+W
+Charleston
+L
+Elon
+W
+UNC Wilmington
+L
+William & Mary
+L
+Campbell
+L
+Northeastern
+L
+Team: Stony Brook Seawolves
+Farmingdale State
+W
+Maine
+W
+Saint Josephs Long Island
+W
+Yale
+L
+Brown
+W
+Pacific
+L
+Bethune-Cookman
+W
+Loyola Marymount
+W
+Duquesne
+L
+Columbia
+W
+Central Michigan
+W
+UAlbany
+L
+Marist
+L
+Hampton
+L
+William & Mary
+L
+North Carolina A&T
+W
+Drexel
+L
+UNC Wilmington
+L
+Hofstra
+W
+Charleston
 W
 Northeastern
 W
-Drexel
-W
 Campbell
 W
+Elon
+W
+Monmouth
+L
+Northeastern
+W
+Towson
+L
+Drexel
+W
+Hampton
+W
+Monmouth
+L
 Hofstra
+L
+Towson
+L
+Campbell
 L
 Team: Northeastern Huskies
 Boston University
@@ -8295,66 +10023,70 @@ North Carolina A&T
 W
 Drexel
 L
-Team: North Carolina A&T Aggies
-South Carolina
-L
-South Carolina State
+Team: UNC Wilmington Seahawks
+Mount Olive
 W
-Washington Adventist
-W
-Morgan State
-W
-Davidson
+Kent State
 L
-Charlotte
-L
-North Carolina Central
+South Carolina Upstate
+W
+East Carolina
+W
+Radford
+W
+SE Louisiana
+W
+Navy
+W
+Gardner-Webb
+W
+Marshall
+W
+Louisiana
+W
+Valparaiso
 W
 Howard
 L
-Maryland Eastern Shore
+Columbia College (SC)
 W
-UNC Greensboro
+North Carolina A&T
 W
-Mid-Atlantic Christian
+Drexel
 W
-UNC Wilmington
-L
+Hampton
+W
 Northeastern
-L
+W
 Stony Brook
-L
-Elon
-L
+W
+Campbell
+W
 William & Mary
 L
 Hampton
-L
-Hofstra
 W
 Towson
 W
-Monmouth
-L
-Drexel
+William & Mary
 L
 Charleston
-L
+W
+Elon
+W
+Hofstra
+W
+Monmouth
+W
 Campbell
-L
-Hampton
+W
+North Carolina A&T
 W
 Charleston
 L
 Elon
 W
-UNC Wilmington
-L
-William & Mary
-L
 Campbell
-L
-Northeastern
 L
 Team: Towson Tigers
 Loyola Maryland
@@ -8425,70 +10157,68 @@ Charleston
 W
 Hofstra
 L
-Team: Stony Brook Seawolves
-Farmingdale State
-W
-Maine
-W
-Saint Josephs Long Island
-W
-Yale
+Team: Delaware Blue Hens
+Bucknell
 L
-Brown
-W
-Pacific
+Wilmington (DE)
 L
-Bethune-Cookman
-W
-Loyola Marymount
-W
-Duquesne
+BYU
 L
-Columbia
+Saint Peter's
 W
-Central Michigan
+Southern Illinois
+L
+UNC Greensboro
 W
-UAlbany
+Iona
 L
-Marist
+Delaware State
 L
-Hampton
-L
-William & Mary
-L
-North Carolina A&T
+George Washington
 W
-Drexel
+Cal State Northridge
 L
-UNC Wilmington
+Rider
+W
+Missouri State
 L
-Hofstra
-W
-Charleston
-W
-Northeastern
-W
-Campbell
-W
-Elon
-W
-Monmouth
+Jacksonville State
 L
-Northeastern
+Kennesaw State
 W
-Towson
+Sam Houston
 L
-Drexel
+Louisiana Tech
+L
+UTEP
+L
+New Mexico State
+L
+Liberty
+L
+New Mexico State
 W
-Hampton
+UTEP
+L
+Liberty
+L
+Middle Tennessee
 W
-Monmouth
+Florida International
+W
+Missouri State
+W
+Western Kentucky
 L
-Hofstra
+Middle Tennessee
 L
-Towson
+Jacksonville State
 L
-Campbell
+Kennesaw State
+L
+Sam Houston
+W
+Louisiana Tech
 L
 Team: William & Mary Tribe
 Georgian Court
@@ -8555,70 +10285,70 @@ Elon
 W
 Hofstra
 L
-Team: UNC Wilmington Seahawks
-Mount Olive
+Team: Jacksonville State Gamecocks
+Oakwood
 W
-Kent State
+Reinhardt
+W
+Coastal Carolina
+W
+South Alabama
 L
-South Carolina Upstate
-W
-East Carolina
-W
-Radford
-W
-SE Louisiana
-W
-Navy
-W
-Gardner-Webb
-W
-Marshall
-W
-Louisiana
-W
-Valparaiso
-W
-Howard
+Arkansas State
 L
-Columbia College (SC)
-W
-North Carolina A&T
-W
-Drexel
-W
-Hampton
-W
-Northeastern
-W
-Stony Brook
-W
-Campbell
-W
-William & Mary
+North Dakota State
 L
-Hampton
-W
-Towson
-W
-William & Mary
+North Alabama
 L
-Charleston
+Auburn-Montgomery
 W
-Elon
-W
-Hofstra
-W
-Monmouth
-W
-Campbell
-W
-North Carolina A&T
-W
-Charleston
+Georgia State
 L
-Elon
+Eastern Kentucky
+L
+East Tennessee State
 W
-Campbell
+Western Kentucky
+W
+Delaware
+W
+Liberty
+L
+Florida International
+W
+Kennesaw State
+L
+Sam Houston
+L
+Louisiana Tech
+W
+Middle Tennessee
+W
+Florida International
+W
+Missouri State
+L
+Western Kentucky
+W
+Kennesaw State
+W
+UTEP
+L
+New Mexico State
+L
+Louisiana Tech
+L
+Sam Houston
+L
+Delaware
+W
+Liberty
+L
+New Mexico State
+L
+UTEP
+W
+New Mexico State
 L
 Team: Florida International Panthers
 Florida National
@@ -8685,70 +10415,70 @@ Western Kentucky
 W
 Missouri State
 L
-Team: Jacksonville State Gamecocks
-Oakwood
+Team: Liberty Flames
+Kentucky Christian
 W
-Reinhardt
+Charleston
 W
-Coastal Carolina
+Florida Atlantic
 W
-South Alabama
-L
-Arkansas State
-L
-North Dakota State
-L
-North Alabama
-L
-Auburn-Montgomery
+Carolina University
 W
-Georgia State
+Vermont
+W
+Towson
 L
-Eastern Kentucky
+Bradley
 L
-East Tennessee State
+Coppin State
+W
+NC State
+L
+Midway University
+W
+Dayton
+W
+Florida International
+W
+Kennesaw State
+W
+Jacksonville State
+W
+Louisiana Tech
+W
+Sam Houston
+W
+New Mexico State
+W
+UTEP
 W
 Western Kentucky
 W
 Delaware
-W
-Liberty
-L
-Florida International
-W
-Kennesaw State
-L
-Sam Houston
-L
-Louisiana Tech
 W
 Middle Tennessee
 W
-Florida International
+Delaware
 W
 Missouri State
-L
-Western Kentucky
 W
-Kennesaw State
+New Mexico State
 W
 UTEP
+W
+Florida International
+W
+Western Kentucky
 L
-New Mexico State
+Kennesaw State
 L
+Jacksonville State
+W
 Louisiana Tech
 L
 Sam Houston
-L
-Delaware
 W
-Liberty
-L
-New Mexico State
-L
-UTEP
-W
-New Mexico State
+Missouri State
 L
 Team: Kennesaw State Owls
 Paine
@@ -8819,70 +10549,70 @@ Sam Houston
 W
 Louisiana Tech
 W
-Team: Liberty Flames
-Kentucky Christian
+Team: Middle Tennessee Blue Raiders
+Milligan
 W
-Charleston
+Webster
 W
-Florida Atlantic
+Evansville
 W
-Carolina University
-W
-Vermont
-W
-Towson
+Michigan
 L
-Bradley
+Murray State
+W
+George Washington
 L
-Coppin State
-W
-NC State
+McNeese
 L
-Midway University
+UAB
 W
-Dayton
-W
-Florida International
-W
+Belmont
+L
 Kennesaw State
 W
-Jacksonville State
+Cumberland (TN)
 W
+Houston
+L
 Louisiana Tech
 W
 Sam Houston
 W
-New Mexico State
-W
 UTEP
-W
-Western Kentucky
-W
-Delaware
-W
-Middle Tennessee
-W
-Delaware
-W
-Missouri State
-W
+L
 New Mexico State
-W
-UTEP
-W
-Florida International
-W
-Western Kentucky
-L
-Kennesaw State
-L
-Jacksonville State
 W
 Louisiana Tech
 L
+Missouri State
+W
+Jacksonville State
+L
+Liberty
+L
+Western Kentucky
+L
+Florida International
+L
+Delaware
+L
+Kennesaw State
+W
+Western Kentucky
+L
 Sam Houston
+L
+Delaware
+W
+UTEP
+W
+New Mexico State
+W
+Florida International
 W
 Missouri State
+W
+Louisiana Tech
 L
 Team: Louisiana Tech Bulldogs
 Nevada
@@ -9087,6 +10817,69 @@ Liberty
 W
 Louisiana Tech
 L
+Team: UTEP Miners
+UT Permian Basin
+W
+Western New Mexico
+W
+Loyola Marymount
+L
+Utah State
+L
+St. Thomas (TX)
+W
+William & Mary
+L
+UAB
+L
+Seattle U
+L
+Hawai'i
+L
+Norfolk State
+L
+North Dakota State
+W
+Louisiana Tech
+L
+Missouri State
+L
+Florida International
+L
+Middle Tennessee
+W
+Western Kentucky
+L
+Delaware
+W
+Liberty
+L
+Florida International
+W
+Missouri State
+L
+Louisiana Tech
+L
+Delaware
+W
+Sam Houston
+L
+New Mexico State
+W
+Jacksonville State
+W
+Liberty
+L
+New Mexico State
+L
+Middle Tennessee
+L
+Western Kentucky
+L
+Kennesaw State
+W
+Jacksonville State
+L
 Team: Sam Houston Bearkats
 LeTourneau
 W
@@ -9154,68 +10947,72 @@ New Mexico State
 W
 Kennesaw State
 L
-Team: UTEP Miners
-UT Permian Basin
-W
-Western New Mexico
-W
-Loyola Marymount
+Team: Cleveland State Vikings
+Loyola Chicago
 L
-Utah State
-L
-St. Thomas (TX)
+Capital
 W
-William & Mary
+Northwestern
 L
+Kent State
+L
+Radford
+W
+Valparaiso
+L
+Kent State
+L
+Waynesburg
+W
+Missouri
+L
+Northern Kentucky
+L
+Detroit Mercy
+L
+Oakland City
+W
 UAB
 L
-Seattle U
+Milwaukee
 L
-Hawai'i
-L
-Norfolk State
-L
-North Dakota State
+IU Indianapolis
 W
-Louisiana Tech
+Purdue Fort Wayne
 L
-Missouri State
+Oakland
 L
-Florida International
+Detroit Mercy
 L
-Middle Tennessee
+Green Bay
+L
+Youngstown State
 W
-Western Kentucky
-L
-Delaware
+Wright State
 W
-Liberty
-L
-Florida International
+Green Bay
 W
-Missouri State
-L
-Louisiana Tech
-L
-Delaware
+Milwaukee
 W
-Sam Houston
-L
-New Mexico State
+Oakland
 W
-Jacksonville State
+IU Indianapolis
+L
+Robert Morris
+L
+Wright State
+L
+Youngstown State
+L
+Purdue Fort Wayne
+L
+Northern Kentucky
+L
+Robert Morris
+L
+IU Indianapolis
 W
-Liberty
-L
-New Mexico State
-L
-Middle Tennessee
-L
-Western Kentucky
-L
-Kennesaw State
-W
-Jacksonville State
+Wright State
 L
 Team: Western Kentucky Hilltoppers
 Tennessee Tech
@@ -9281,6 +11078,73 @@ L
 Florida International
 L
 Kennesaw State
+L
+Team: Green Bay Phoenix
+Kansas
+L
+Buffalo
+L
+Ripon
+W
+St. Thomas-Minnesota
+L
+Minnesota
+L
+Yale
+L
+Massachusetts
+W
+Iona
+W
+Haskell
+W
+Robert Morris
+L
+Wright State
+L
+IU Indianapolis
+W
+UC Santa Barbara
+W
+Campbell
+L
+Purdue Fort Wayne
+W
+Milwaukee
+W
+IU Indianapolis
+W
+Northern Kentucky
+W
+Cleveland State
+W
+Oakland
+L
+Youngstown State
+L
+Robert Morris
+W
+Cleveland State
+L
+Wright State
+L
+Northern Kentucky
+W
+Detroit Mercy
+W
+Purdue Fort Wayne
+W
+Milwaukee
+L
+Oakland
+W
+Detroit Mercy
+L
+Youngstown State
+W
+Purdue Fort Wayne
+W
+Northern Kentucky
 L
 Team: Detroit Mercy Titans
 UIC
@@ -9412,71 +11276,134 @@ Youngstown State
 W
 Detroit Mercy
 L
-Team: Green Bay Phoenix
-Kansas
+Team: IU Indianapolis Jaguars
+Ohio State
 L
-Buffalo
+Long Island University
 L
-Ripon
-W
-St. Thomas-Minnesota
+Butler
 L
-Minnesota
+IU Columbus
+W
+Eastern Michigan
+W
+Charleston Southern
 L
-Yale
+Alabama State
 L
-Massachusetts
-W
-Iona
-W
-Haskell
-W
-Robert Morris
+Air Force
 L
-Wright State
-L
-IU Indianapolis
-W
-UC Santa Barbara
-W
-Campbell
-L
-Purdue Fort Wayne
-W
-Milwaukee
-W
-IU Indianapolis
-W
-Northern Kentucky
-W
-Cleveland State
-W
-Oakland
-L
-Youngstown State
-L
-Robert Morris
-W
-Cleveland State
-L
-Wright State
-L
-Northern Kentucky
-W
-Detroit Mercy
-W
-Purdue Fort Wayne
-W
-Milwaukee
-L
-Oakland
+Morehead State
 W
 Detroit Mercy
 L
 Youngstown State
+L
+Green Bay
+L
+Miami (OH)-Middletown
+W
+Grand Canyon
+L
+Cleveland State
+L
+Northern Kentucky
+L
+Wright State
+L
+Green Bay
+L
+Milwaukee
+L
+Robert Morris
+W
+Detroit Mercy
+L
+Oakland
+W
+Robert Morris
+P
+Youngstown State
+L
+Cleveland State
+L
+Milwaukee
+W
+Northern Kentucky
+L
+Purdue Fort Wayne
+L
+Wright State
+L
+Oakland
+L
+Purdue Fort Wayne
+L
+Cleveland State
+L
+Team: Oakland Golden Grizzlies
+Michigan
+L
+Purdue
+L
+Houston
+L
+Defiance
+W
+UCF
+L
+Eastern Michigan
+L
+Lamar
+W
+Montana
 W
 Purdue Fort Wayne
 W
+Toledo
+W
+Northern Iowa
+L
+Northern Kentucky
+W
+Michigan State
+L
+Wright State
+L
+Youngstown State
+W
+Robert Morris
+W
+Cleveland State
+W
+Wright State
+L
+Milwaukee
+W
+Green Bay
+W
+IU Indianapolis
+L
+Detroit Mercy
+W
+Purdue Fort Wayne
+W
+Northern Kentucky
+W
+Cleveland State
+L
+Youngstown State
+L
+Robert Morris
+L
+Green Bay
+L
+Milwaukee
+W
+IU Indianapolis
+W
+Detroit Mercy
+L
 Northern Kentucky
 L
 Team: Northern Kentucky Norse
@@ -9548,70 +11475,72 @@ Green Bay
 W
 Wright State
 L
-Team: Oakland Golden Grizzlies
-Michigan
+Team: Robert Morris Colonials
+Iowa
 L
-Purdue
-L
-Houston
-L
-Defiance
+Drake
 W
-UCF
+Geneva
+W
+Pittsburgh - Greensburg
+W
+St. Bonaventure
 L
-Eastern Michigan
+Monmouth
 L
-Lamar
+UIC
 W
-Montana
+Southern Utah
 W
-Purdue Fort Wayne
+Stetson
 W
+Green Bay
+W
+Milwaukee
+L
 Toledo
 W
-Northern Iowa
+Youngstown State
+W
+Saint Francis
+W
+Northern Kentucky
+L
+Detroit Mercy
+W
+Oakland
+L
+Purdue Fort Wayne
+L
+IU Indianapolis
 L
 Northern Kentucky
 W
-Michigan State
-L
-Wright State
-L
-Youngstown State
-W
-Robert Morris
-W
-Cleveland State
-W
-Wright State
-L
 Milwaukee
 W
 Green Bay
-W
-IU Indianapolis
 L
-Detroit Mercy
+IU Indianapolis
 W
 Purdue Fort Wayne
+L
+Wright State
 W
-Northern Kentucky
+Youngstown State
 W
 Cleveland State
-L
-Youngstown State
-L
-Robert Morris
-L
-Green Bay
-L
-Milwaukee
 W
-IU Indianapolis
+Oakland
+W
+Wright State
 W
 Detroit Mercy
-L
-Northern Kentucky
+W
+Cleveland State
+W
+Youngstown State
+W
+Detroit Mercy
 L
 Team: Purdue Fort Wayne Mastodons
 Grand Canyon
@@ -9678,6 +11607,71 @@ IU Indianapolis
 L
 Green Bay
 W
+Team: Youngstown State Penguins
+Pittsburgh
+L
+Grand Canyon
+W
+Penn State-Shenango
+W
+St. Bonaventure
+L
+Toledo
+L
+UNC Greensboro
+L
+Georgia Southern
+W
+Chicago State
+W
+Wright State
+W
+IU Indianapolis
+W
+Thiel
+W
+Robert Morris
+L
+South Carolina Upstate
+W
+Detroit Mercy
+L
+Oakland
+L
+Northern Kentucky
+L
+Purdue Fort Wayne
+L
+Bryant & Stratton (Ohio)
+W
+Wright State
+L
+Cleveland State
+L
+Green Bay
+W
+Milwaukee
+L
+IU Indianapolis
+W
+Purdue Fort Wayne
+W
+Robert Morris
+L
+Oakland
+W
+Detroit Mercy
+L
+Cleveland State
+W
+Northern Kentucky
+W
+Milwaukee
+L
+Green Bay
+L
+Robert Morris
+L
 Team: Wright State Raiders
 Franklin
 W
@@ -9747,138 +11741,6 @@ Northern Kentucky
 W
 Detroit Mercy
 W
-Team: Robert Morris Colonials
-Iowa
-L
-Drake
-W
-Geneva
-W
-Pittsburgh - Greensburg
-W
-St. Bonaventure
-L
-Monmouth
-L
-UIC
-W
-Southern Utah
-W
-Stetson
-W
-Green Bay
-W
-Milwaukee
-L
-Toledo
-W
-Youngstown State
-W
-Saint Francis
-W
-Northern Kentucky
-L
-Detroit Mercy
-W
-Oakland
-L
-Purdue Fort Wayne
-L
-IU Indianapolis
-L
-Northern Kentucky
-W
-Milwaukee
-W
-Green Bay
-L
-IU Indianapolis
-W
-Purdue Fort Wayne
-L
-Wright State
-W
-Youngstown State
-W
-Cleveland State
-W
-Oakland
-W
-Wright State
-W
-Detroit Mercy
-W
-Cleveland State
-W
-Youngstown State
-W
-Detroit Mercy
-L
-Team: Youngstown State Penguins
-Pittsburgh
-L
-Grand Canyon
-W
-Penn State-Shenango
-W
-St. Bonaventure
-L
-Toledo
-L
-UNC Greensboro
-L
-Georgia Southern
-W
-Chicago State
-W
-Wright State
-W
-IU Indianapolis
-W
-Thiel
-W
-Robert Morris
-L
-South Carolina Upstate
-W
-Detroit Mercy
-L
-Oakland
-L
-Northern Kentucky
-L
-Purdue Fort Wayne
-L
-Bryant & Stratton (Ohio)
-W
-Wright State
-L
-Cleveland State
-L
-Green Bay
-W
-Milwaukee
-L
-IU Indianapolis
-W
-Purdue Fort Wayne
-W
-Robert Morris
-L
-Oakland
-W
-Detroit Mercy
-L
-Cleveland State
-W
-Northern Kentucky
-W
-Milwaukee
-L
-Green Bay
-L
-Robert Morris
-L
 Team: Columbia Lions
 New Haven
 W
@@ -9935,6 +11797,116 @@ W
 Yale
 L
 Harvard
+L
+Team: Brown Bears
+Siena
+L
+Vermont
+L
+Boston University
+L
+Hampton
+L
+Holy Cross
+W
+Stony Brook
+L
+Maine
+W
+New Hampshire
+W
+Rhode Island
+L
+Bryant
+W
+Elms College
+W
+Providence
+L
+Johnson & Wales (RI)
+W
+Yale
+L
+Pennsylvania
+L
+Columbia
+W
+Cornell
+L
+Princeton
+L
+Harvard
+L
+Dartmouth
+L
+Yale
+L
+Harvard
+L
+Dartmouth
+W
+Princeton
+W
+Columbia
+L
+Cornell
+L
+Pennsylvania
+L
+Team: Dartmouth Big Green
+Marist
+L
+Bryant
+L
+App State
+L
+Maine-Augusta
+W
+Saint Peter's
+W
+New Hampshire
+W
+Wyoming
+L
+Colorado State
+L
+Boston University
+W
+Holy Cross
+W
+Sacred Heart
+L
+Florida
+L
+Elms College
+W
+Harvard
+W
+Cornell
+W
+Pennsylvania
+L
+Princeton
+W
+Columbia
+L
+Yale
+L
+Brown
+W
+Harvard
+L
+Yale
+L
+Brown
+L
+Columbia
+W
+Pennsylvania
+L
+Princeton
+L
+Cornell
 L
 Team: Cornell Big Red
 Kent State
@@ -9993,188 +11965,184 @@ Dartmouth
 W
 Yale
 L
-Team: Dartmouth Big Green
-Marist
-L
-Bryant
-L
-App State
-L
-Maine-Augusta
+Team: Pennsylvania Quakers
+Rowan
 W
-Saint Peter's
+American University
+L
+Providence
+L
+Saint Joseph's
+W
+Drexel
+W
+Merrimack
+W
+La Salle
+W
+Hofstra
+L
+Villanova
+L
+Lafayette
+W
+Rutgers
+L
+George Mason
+L
+NJIT
+W
+Princeton
+L
+Brown
+W
+Dartmouth
+W
+Harvard
+L
+Yale
+L
+Columbia
+L
+Cornell
+W
+Princeton
+W
+Columbia
+W
+Cornell
+W
+Yale
+L
+Dartmouth
+W
+Harvard
+W
+Brown
+W
+Harvard
+W
+Yale
+W
+Team: Harvard Crimson
+MIT
 W
 New Hampshire
 W
-Wyoming
+Northeastern
 L
-Colorado State
+Army
+W
+Marist
+W
+Penn State
 L
 Boston University
-W
-Holy Cross
-W
-Sacred Heart
 L
-Florida
+Boston College
 L
-Elms College
-W
-Harvard
-W
-Cornell
-W
-Pennsylvania
-L
-Princeton
-W
-Columbia
-L
-Yale
-L
-Brown
-W
-Harvard
-L
-Yale
-L
-Brown
-L
-Columbia
-W
-Pennsylvania
-L
-Princeton
-L
-Cornell
-L
-Team: Canisius Golden Griffins
-Dayton
-L
-Allegheny
-W
-St. Bonaventure
-L
-Mercyhurst
-W
-High Point
-L
-Maryland Eastern Shore
-W
-Binghamton
-W
-Buffalo
-L
-Saint Peter's
-L
-Siena
-L
-Maine
-W
-Rhode Island
-L
-Duquesne
-L
-Fairfield
-W
-Sacred Heart
-W
-Manhattan
-W
-Iona
-L
-Niagara
-L
-Mount St. Mary's
-L
-Sacred Heart
-L
-Fairfield
-L
-Marist
-L
-Siena
-L
-Niagara
-L
-Quinnipiac
-L
-Iona
-L
-Manhattan
-L
-Rider
-W
-Mount St. Mary's
-L
-Merrimack
-W
-Quinnipiac
-L
-Team: Iona Gaels
-Hofstra
-W
-Kansas City
-W
-Fordham
-W
-Princeton
-W
-Akron
-L
-Oregon State
-W
-Green Bay
-L
-Delaware
-W
-Quinnipiac
-L
-Sacred Heart
-W
 Bryant
+W
+Massachusetts
+L
+Furman
+L
+Holy Cross
 W
 St. John's
 L
+Colgate
+W
+Dartmouth
+L
+Columbia
+W
+Princeton
+W
+Pennsylvania
+W
+Cornell
+L
+Brown
+W
+Yale
+W
+Dartmouth
+W
+Brown
+W
+Yale
+L
+Cornell
+W
+Princeton
+W
+Pennsylvania
+L
+Columbia
+W
+Pennsylvania
+L
+Team: Yale Bulldogs
+Navy
+W
+Quinnipiac
+W
+Stony Brook
+W
+Rhode Island
+L
+Green Bay
+W
+Charleston
+W
+Akron
+W
 Vermont
 W
-Mount St. Mary's
-L
-Siena
+SUNY-Maritime
 W
-Marist
-L
-Niagara
+Brandeis
 W
-Canisius
+UIC
 W
-Rider
-L
-Saint Peter's
-L
-Merrimack
+UAlbany
 W
-Manhattan
-W
-Fairfield
+Alabama
 L
-Siena
-L
-Mount St. Mary's
-L
-Canisius
+Brown
 W
-Niagara
+Princeton
 L
-Saint Peter's
+Cornell
 W
-Merrimack
+Columbia
+W
+Pennsylvania
+W
+Dartmouth
+W
+Harvard
 L
-Rider
+Brown
 W
-Manhattan
+Howard
 W
-Sacred Heart
+Dartmouth
+W
+Harvard
+W
+Pennsylvania
+W
+Cornell
+L
+Columbia
+W
+Princeton
+W
+Cornell
+W
+Pennsylvania
 L
 Team: Princeton Tigers
 Akron
@@ -10304,6 +12272,69 @@ Saint Peter's
 W
 Siena
 L
+Team: Canisius Golden Griffins
+Dayton
+L
+Allegheny
+W
+St. Bonaventure
+L
+Mercyhurst
+W
+High Point
+L
+Maryland Eastern Shore
+W
+Binghamton
+W
+Buffalo
+L
+Saint Peter's
+L
+Siena
+L
+Maine
+W
+Rhode Island
+L
+Duquesne
+L
+Fairfield
+W
+Sacred Heart
+W
+Manhattan
+W
+Iona
+L
+Niagara
+L
+Mount St. Mary's
+L
+Sacred Heart
+L
+Fairfield
+L
+Marist
+L
+Siena
+L
+Niagara
+L
+Quinnipiac
+L
+Iona
+L
+Manhattan
+L
+Rider
+W
+Mount St. Mary's
+L
+Merrimack
+W
+Quinnipiac
+L
 Team: Manhattan Jaspers
 St. Joseph's (NY)
 W
@@ -10369,68 +12400,70 @@ Iona
 L
 Fairfield
 L
-Team: Marist Red Foxes
-Xavier
+Team: Iona Gaels
+Hofstra
+W
+Kansas City
+W
+Fordham
+W
+Princeton
+W
+Akron
 L
-Dartmouth
+Oregon State
 W
-Vassar
-W
-Harvard
+Green Bay
 L
-Army
+Delaware
 W
-Lehigh
-W
-Mount St. Mary's
-W
-Manhattan
+Quinnipiac
+L
+Sacred Heart
 W
 Bryant
 W
-Georgia Tech
+St. John's
 L
-Stony Brook
+Vermont
 W
-Quinnipiac
-L
-Saint Peter's
-L
-Iona
-W
-Sacred Heart
-W
-Rider
-W
-Fairfield
-W
-Merrimack
+Mount St. Mary's
 L
 Siena
+W
+Marist
 L
-Quinnipiac
+Niagara
 W
 Canisius
 W
-Niagara
-W
 Rider
+L
+Saint Peter's
+L
+Merrimack
+W
+Manhattan
 W
 Fairfield
 L
-Merrimack
-L
 Siena
 L
+Mount St. Mary's
+L
+Canisius
+W
+Niagara
+L
+Saint Peter's
+W
+Merrimack
+L
+Rider
+W
 Manhattan
 W
 Sacred Heart
-W
-Saint Peter's
-L
-Quinnipiac
-W
-Merrimack
 L
 Team: Merrimack Warriors
 South Dakota State
@@ -10501,6 +12534,130 @@ Marist
 W
 Siena
 L
+Team: Marist Red Foxes
+Xavier
+L
+Dartmouth
+W
+Vassar
+W
+Harvard
+L
+Army
+W
+Lehigh
+W
+Mount St. Mary's
+W
+Manhattan
+W
+Bryant
+W
+Georgia Tech
+L
+Stony Brook
+W
+Quinnipiac
+L
+Saint Peter's
+L
+Iona
+W
+Sacred Heart
+W
+Rider
+W
+Fairfield
+W
+Merrimack
+L
+Siena
+L
+Quinnipiac
+W
+Canisius
+W
+Niagara
+W
+Rider
+W
+Fairfield
+L
+Merrimack
+L
+Siena
+L
+Manhattan
+W
+Sacred Heart
+W
+Saint Peter's
+L
+Quinnipiac
+W
+Merrimack
+L
+Team: Niagara Purple Eagles
+Duquesne
+L
+Binghamton
+W
+Delaware State
+W
+Le Moyne
+L
+Duke
+L
+Howard
+L
+Detroit Mercy
+L
+Siena
+L
+Saint Peter's
+L
+Morgan State
+L
+VCU
+L
+Houghton
+W
+Sacred Heart
+W
+Fairfield
+L
+Iona
+L
+Manhattan
+L
+Canisius
+W
+Mount St. Mary's
+L
+Fairfield
+L
+Sacred Heart
+L
+Siena
+L
+Marist
+L
+Canisius
+W
+Quinnipiac
+L
+Manhattan
+L
+Iona
+W
+Mount St. Mary's
+L
+Rider
+L
+Quinnipiac
+W
+Merrimack
+L
 Team: Mount St. Mary's Mountaineers
 West Virginia
 L
@@ -10564,6 +12721,65 @@ Sacred Heart
 L
 Fairfield
 W
+Siena
+L
+Team: Rider Broncs
+Virginia
+L
+Rutgers
+L
+Eastern University (PA)
+W
+Texas
+L
+Houston
+L
+Coppin State
+L
+Merrimack
+L
+Quinnipiac
+L
+Bucknell
+L
+Delaware
+L
+VCU
+L
+Manhattan
+L
+Siena
+L
+Fairfield
+L
+Marist
+L
+Iona
+W
+Saint Peter's
+L
+Sacred Heart
+L
+Mount St. Mary's
+L
+Manhattan
+L
+Saint Peter's
+W
+Marist
+L
+Merrimack
+L
+Mount St. Mary's
+L
+Sacred Heart
+L
+Canisius
+L
+Niagara
+W
+Iona
+L
 Siena
 L
 Team: Quinnipiac Bobcats
@@ -10698,6 +12914,128 @@ Iona
 W
 Merrimack
 L
+Team: Saint Peter's Peacocks
+Seton Hall
+L
+Fairleigh Dickinson
+W
+VCU
+L
+Delaware
+L
+UMass Lowell
+W
+Dartmouth
+L
+Canisius
+W
+Niagara
+W
+Georgetown
+L
+Centenary (NJ)
+W
+Fairfield
+W
+Marist
+W
+Mount St. Mary's
+L
+Merrimack
+W
+Quinnipiac
+W
+Rider
+W
+Iona
+W
+Merrimack
+L
+Mount St. Mary's
+W
+Rider
+L
+Manhattan
+W
+Siena
+W
+Sacred Heart
+L
+Fairfield
+W
+Iona
+L
+Siena
+L
+Manhattan
+W
+Marist
+W
+Fairfield
+L
+Team: Coppin State Eagles
+Maryland
+L
+La Salle
+L
+James Madison
+L
+South Florida
+L
+Central Michigan
+L
+South Alabama
+L
+Central Penn
+W
+VCU
+L
+Rider
+W
+Loyola Maryland
+L
+West Virginia
+L
+Liberty
+L
+Saint Joseph's
+L
+Radford
+L
+Navy
+L
+Georgetown
+L
+UMBC
+L
+Delaware State
+W
+North Carolina Central
+L
+South Carolina State
+L
+Maryland Eastern Shore
+L
+Norfolk State
+L
+Morgan State
+P
+Howard
+L
+Delaware State
+L
+North Carolina Central
+W
+South Carolina State
+W
+Maryland Eastern Shore
+W
+Norfolk State
+W
+Howard
+L
+Morgan State
+L
 Team: Siena Saints
 Bryant
 W
@@ -10767,132 +13105,525 @@ Fairfield
 W
 Merrimack
 W
-Team: Saint Peter's Peacocks
-Team: Eastern Michigan Eagles
-Georgia State
+Team: Howard Bison
+Missouri
+L
+District Of Columbia
 W
-Pittsburgh
+Grambling
 L
-IU Indianapolis
-L
-Detroit Mercy
+Alcorn State
 W
-Oakland
+Stetson
+L
+Niagara
 W
-Louisville
+Duke
 L
-Cincinnati
+St. Mary's (MD)
 W
-NJIT
+Mount St. Mary's
+L
+Bowie State
 W
-Butler
-L
-Cleary University
+North Carolina A&T
 W
-Purdue Fort Wayne
-L
-Akron
-L
-Wright State
-L
-Massachusetts
+Hampton
 W
-Ohio
-L
-Ball State
+Drexel
 W
-Western Michigan
-L
-Northern Illinois
+UNC Wilmington
 W
-Bowling Green
+Northwestern
 L
-Kent State
+South Carolina State
 L
-Central Michigan
+Maryland Eastern Shore
 L
-Massachusetts
+Delaware State
+W
+North Carolina Central
+W
+Morehouse
+W
+Morgan State
 L
-Akron
+Norfolk State
+P
+Coppin State
+W
+South Carolina State
+W
+Yale
+W
+Maryland Eastern Shore
+L
+Delaware State
+W
+North Carolina Central
+W
+Morgan State
+W
+Coppin State
+W
+Norfolk State
+W
+South Carolina State
+W
+North Carolina Central
+W
+Team: Delaware State Hornets
+Temple
+L
+Syracuse
+L
+Niagara
+L
+New Haven
+L
+Cheyney (PA)
+W
+Kean
+W
+Miami
+L
+Virginia St
+L
+UMBC
+L
+Navy
+L
+Delaware
+W
+Longwood
+W
+Saint Joseph's
+L
+Holy Family University
+W
+Rutgers
+L
+Coppin State
+L
+Norfolk State
+L
+Howard
+L
+Morgan State
+L
+South Carolina State
+P
+Maryland Eastern Shore
+L
+Coppin State
+W
+North Carolina Central
+L
+Norfolk State
+L
+Howard
+L
+Morgan State
+L
+North Carolina Central
+L
+South Carolina State
+L
+Maryland Eastern Shore
+L
+Morgan State
+W
+North Carolina Central
+W
+Team: Morgan State Bears
+Georgetown
+L
+Central Penn
+W
+UMBC
+L
+Mercyhurst
+L
+North Carolina A&T
+L
+Old Dominion
+L
+Drexel
+L
+Longwood
+L
+DePaul
+L
+Niagara
+W
+California
+L
+San Francisco
+L
+Loyola Marymount
+L
+Penn State (Brandywine)
+W
+Maryland Eastern Shore
+L
+South Carolina State
+W
+North Carolina Central
+L
+Delaware State
+W
+Virginia-Lynchburg
+W
+Howard
+W
+Norfolk State
+W
+Coppin State
+W
+Maryland Eastern Shore
+W
+North Carolina Central
+P
+Delaware State
+L
+South Carolina State
+W
+Howard
+W
+Norfolk State
+L
+Coppin State
+W
+Delaware State
+W
+Team: Maryland Eastern Shore Hawks
+Georgia Tech
+L
+Georgia
+L
+Cheyney (PA)
+W
+Nebraska
+L
+Creighton
+L
+Longwood
+W
+Canisius
+L
+Binghamton
+W
+Hampton
+L
+Gwynedd-Mercy
+W
+East Carolina
+L
+American University
+L
+Virginia
+L
+North Carolina A&T
+L
+Virginia Tech
+L
+Wagner
+L
+Texas
+L
+Morgan State
+W
+Howard
+W
+Norfolk State
+W
+Coppin State
+W
+Delaware State
+L
+North Carolina Central
+L
+South Carolina State
+L
+Morgan State
+L
+Howard
+L
+Norfolk State
+L
+Coppin State
+L
+South Carolina State
+W
+North Carolina Central
+L
+Delaware State
+L
+North Carolina Central
+L
+Team: North Carolina Central Eagles
+NC State
+L
+Virginia
 L
 App State
 L
-Kent State
-L
-Western Michigan
-L
-Central Michigan
+Bluefield State
 W
-Toledo
+North Carolina
 L
-Miami (OH)
+Toccoa Falls
+W
+Dayton
 L
-Buffalo
+South Carolina Upstate
 L
-Bowling Green
+Carolina University
+W
+James Madison
 L
-Team: Ball State Cardinals
+North Carolina A&T
+L
+Kentucky
+L
+Mid-Atlantic Christian
+W
+Longwood
+L
+Penn State
+L
+Norfolk State
+W
+Coppin State
+W
+Morgan State
+W
+Howard
+L
+Maryland Eastern Shore
+P
+Norfolk State
+P
+Delaware State
+W
+Coppin State
+L
+Morgan State
+W
+South Carolina State
+L
+Howard
+W
+Delaware State
+L
+Maryland Eastern Shore
+L
+South Carolina State
+W
+Maryland Eastern Shore
+W
+Delaware State
+L
+Howard
+W
+Team: Norfolk State Spartans
+Washington Adventist
+W
+Regent
+W
+William & Mary
+L
+Old Dominion
+L
+Towson
+L
+Hampton
+W
+Wyoming
+L
+Virginia-Lynchburg
+W
+Arizona
+L
+James Madison
+L
+Baylor
+L
+Grambling
+L
+Jackson State
+W
+UTEP
+W
+UC Irvine
+L
 Louisiana
+L
+North Carolina Central
+L
+Delaware State
 W
-Mansfield
+Maryland Eastern Shore
+L
+South Carolina State
 W
-Wisconsin
+Elizabeth City State
+W
+Coppin State
+W
+Morgan State
 L
-Little Rock
+Howard
 L
-Indiana State
+North Carolina Central
+W
+Delaware State
+W
+Maryland Eastern Shore
+W
+South Carolina State
+W
+Coppin State
+W
+Morgan State
 L
-Monmouth
+Howard
 L
-Lafayette
+South Carolina State
 L
-Le Moyne
+Team: South Carolina State Bulldogs
+Louisville
+L
+Samford
+L
+North Carolina A&T
+L
+Charleston
+L
+Chattanooga
+L
+South Dakota
+L
+Missouri
+L
+Winthrop
+L
+Bethune-Cookman
+L
+Charleston Southern
+L
+Queens University
+L
+South Carolina Upstate
+L
+Brewton-Parker
+W
+South Carolina
+L
+Tennessee
+L
+Howard
+W
+Morgan State
+L
+Coppin State
+W
+Norfolk State
+L
+Mid-Atlantic Christian
+W
+Delaware State
+W
+Maryland Eastern Shore
+P
+Howard
+W
+Coppin State
+L
+North Carolina Central
+P
+Norfolk State
+L
+Morgan State
+W
+Maryland Eastern Shore
+L
+Delaware State
+L
+North Carolina Central
+L
+Norfolk State
+W
+Howard
+W
+Team: Akron Zips
+James Madison
+W
+Princeton
+W
+Penn State-Shenango
+W
+Purdue
+L
+Iona
 W
 Evansville
-L
-South Dakota State
-L
-Campbell
-L
-Miami (OH)
-L
-Earlham College
 W
-Buffalo
+Yale
+L
+Milwaukee
+W
+Bucknell
+W
+Tulane
+W
+Murray State
 L
 Eastern Michigan
-L
-Massachusetts
-L
-Akron
-L
-Ohio
 W
+Concord
+W
+Miami (OH)
+L
 Central Michigan
 W
-Northern Illinois
-W
-Toledo
-L
 Bowling Green
-L
-UL Monroe
 W
-Buffalo
-L
-Kent State
-L
-Ohio
-L
-Akron
-L
-Massachusetts
-W
-Northern Illinois
+Ball State
 W
 Western Michigan
 W
+Buffalo
+W
+Ohio
+W
+Toledo
+W
+Kent State
+W
+Eastern Michigan
+W
+Troy
+L
+Massachusetts
+W
+Western Michigan
+W
+Ball State
+W
+Buffalo
+W
+Kent State
+W
 Central Michigan
+W
+Northern Illinois
+W
+Buffalo
+W
+Kent State
+W
+Toledo
 W
 Team: Bowling Green Falcons
 Texas State
@@ -10959,6 +13690,69 @@ Eastern Michigan
 W
 Toledo
 L
+Team: Ball State Cardinals
+Louisiana
+W
+Mansfield
+W
+Wisconsin
+L
+Little Rock
+L
+Indiana State
+L
+Monmouth
+L
+Lafayette
+L
+Le Moyne
+W
+Evansville
+L
+South Dakota State
+L
+Campbell
+L
+Miami (OH)
+L
+Earlham College
+W
+Buffalo
+L
+Eastern Michigan
+L
+Massachusetts
+L
+Akron
+L
+Ohio
+W
+Central Michigan
+W
+Northern Illinois
+W
+Toledo
+L
+Bowling Green
+L
+UL Monroe
+W
+Buffalo
+L
+Kent State
+L
+Ohio
+L
+Akron
+L
+Massachusetts
+W
+Northern Illinois
+W
+Western Michigan
+W
+Central Michigan
+W
 Team: Central Michigan Chippewas
 App State
 W
@@ -11021,6 +13815,522 @@ W
 Akron
 L
 Ball State
+L
+Team: Buffalo Bulls
+Southern Miss
+W
+Green Bay
+W
+DePaul
+W
+RIT
+W
+Vermont
+W
+VMI
+W
+Bucknell
+W
+Canisius
+W
+St. Bonaventure
+L
+UMBC
+W
+East Carolina
+L
+Western Michigan
+W
+Penn State-Behrend
+W
+Northern Illinois
+W
+Ball State
+W
+Ohio
+L
+Kent State
+L
+Miami (OH)
+L
+Akron
+L
+Massachusetts
+L
+Bowling Green
+W
+Ohio
+L
+Miami (OH)
+L
+South Alabama
+L
+Ball State
+W
+Northern Illinois
+L
+Massachusetts
+W
+Akron
+L
+Central Michigan
+L
+Eastern Michigan
+W
+Toledo
+L
+Akron
+L
+Team: Kent State Golden Flashes
+Troy
+L
+Cornell
+W
+UNC Wilmington
+W
+Cleveland State
+W
+Wright State
+W
+Eastern Kentucky
+W
+Cleveland State
+W
+Penn State-Shenango
+W
+Austin Peay
+W
+Roberts Wesleyan
+W
+Portland
+L
+Massachusetts
+W
+Purdue
+L
+Northern Illinois
+W
+Bowling Green
+W
+Central Michigan
+L
+Buffalo
+W
+Toledo
+W
+Miami (OH)
+L
+Eastern Michigan
+W
+Ohio
+W
+Akron
+L
+Toledo
+W
+Southern Miss
+L
+Eastern Michigan
+W
+Ball State
+W
+Bowling Green
+W
+Central Michigan
+W
+Akron
+L
+Northern Illinois
+W
+Western Michigan
+W
+Ohio
+W
+Akron
+L
+Team: Eastern Michigan Eagles
+Georgia State
+W
+Pittsburgh
+L
+IU Indianapolis
+L
+Detroit Mercy
+W
+Oakland
+W
+Louisville
+L
+Cincinnati
+W
+NJIT
+W
+Butler
+L
+Cleary University
+W
+Purdue Fort Wayne
+L
+Akron
+L
+Wright State
+L
+Massachusetts
+W
+Ohio
+L
+Ball State
+W
+Western Michigan
+L
+Northern Illinois
+W
+Bowling Green
+L
+Kent State
+L
+Central Michigan
+L
+Massachusetts
+L
+Akron
+L
+App State
+L
+Kent State
+L
+Western Michigan
+L
+Central Michigan
+W
+Toledo
+L
+Miami (OH)
+L
+Buffalo
+L
+Bowling Green
+L
+Team: Miami (OH) RedHawks
+Old Dominion
+W
+Trinity Christian (IL)
+W
+Air Force
+W
+Mercyhurst
+W
+Arkansas-Pine Bluff
+W
+UNC Greensboro
+W
+Indiana University East
+W
+Maine
+W
+UNC Asheville
+W
+Eastern Kentucky
+W
+Wright State
+W
+Ball State
+W
+Milligan
+W
+Bowling Green
+W
+Akron
+W
+Western Michigan
+W
+Toledo
+W
+Central Michigan
+W
+Buffalo
+W
+Kent State
+W
+Massachusetts
+W
+Northern Illinois
+W
+Buffalo
+W
+Marshall
+W
+Ohio
+W
+Massachusetts
+W
+Bowling Green
+W
+Eastern Michigan
+W
+Western Michigan
+W
+Toledo
+W
+Ohio
+W
+Massachusetts
+L
+Team: Massachusetts Minutemen
+Marshall
+L
+UAlbany
+W
+Le Moyne
+W
+Central Connecticut
+W
+Charleston
+L
+Green Bay
+L
+Oregon State
+W
+Harvard
+W
+UMass Lowell
+W
+Boston College
+W
+Florida State
+W
+Kent State
+L
+Massachusetts-Boston
+W
+Eastern Michigan
+L
+Bowling Green
+L
+Ohio
+L
+Ball State
+W
+Western Michigan
+W
+Northern Illinois
+L
+Toledo
+W
+Buffalo
+W
+Miami (OH)
+L
+Eastern Michigan
+W
+Central Michigan
+W
+Coastal Carolina
+L
+Akron
+L
+Miami (OH)
+L
+Buffalo
+L
+Ball State
+L
+Bowling Green
+L
+Ohio
+W
+Miami (OH)
+W
+Toledo
+L
+Team: Ohio Bobcats
+Arkansas State
+L
+Illinois State
+W
+Saint Mary's
+L
+Louisville
+L
+Bethune-Cookman
+L
+George Mason
+L
+Loyola Marymount
+L
+Maine
+W
+Marshall
+W
+St. Bonaventure
+W
+Ohio Wesleyan
+W
+Bowling Green
+L
+Miami (OH)-Hamilton
+W
+Central Michigan
+W
+Eastern Michigan
+W
+Massachusetts
+W
+Buffalo
+W
+Toledo
+L
+Ball State
+L
+Northern Illinois
+W
+Akron
+L
+Kent State
+L
+Buffalo
+W
+Western Michigan
+W
+Old Dominion
+L
+Miami (OH)
+L
+Ball State
+W
+Northern Illinois
+W
+Toledo
+L
+Massachusetts
+L
+Miami (OH)
+L
+Kent State
+L
+Team: Northern Illinois Huskies
+UL Monroe
+W
+Wisconsin
+L
+Grand Canyon
+L
+Benedictine University (IL)
+W
+Northern Iowa
+L
+Loyola Chicago
+W
+Austin Peay
+L
+Lindenwood
+C
+Bradley
+L
+Elon
+L
+East-West University
+L
+Central Michigan
+W
+Buffalo
+W
+Kent State
+L
+Toledo
+L
+Eastern Michigan
+L
+Massachusetts
+L
+Ohio
+W
+Ball State
+L
+Western Michigan
+L
+Miami (OH)
+W
+Georgia State
+L
+Bowling Green
+W
+Central Michigan
+L
+Buffalo
+L
+Ohio
+W
+Toledo
+L
+Ball State
+L
+Kent State
+L
+Akron
+L
+Team: Western Michigan Broncos
+Coastal Carolina
+W
+Northwood (MI)
+L
+Campbell
+L
+Purdue Fort Wayne
+W
+South Dakota
+L
+Ohio State
+L
+Mount St. Mary's
+W
+Valparaiso
+L
+Southern Indiana
+W
+SIU Edwardsville
+W
+Iowa
+L
+Buffalo
+L
+Defiance
+W
+Toledo
+L
+Miami (OH)
+L
+Eastern Michigan
+W
+Massachusetts
+L
+Akron
+L
+Bowling Green
+L
+Central Michigan
+W
+Northern Illinois
+L
+Ohio
+L
+Texas State
+L
+Toledo
+L
+Eastern Michigan
+W
+Akron
+L
+Central Michigan
+L
+Bowling Green
+W
+Miami (OH)
+L
+Ball State
+L
+Kent State
 L
 Team: Toledo Rockets
 South Alabama
@@ -11091,202 +14401,6 @@ Massachusetts
 W
 Akron
 L
-Team: Miami (OH) RedHawks
-Old Dominion
-W
-Trinity Christian (IL)
-W
-Air Force
-W
-Mercyhurst
-W
-Arkansas-Pine Bluff
-W
-UNC Greensboro
-W
-Indiana University East
-W
-Maine
-W
-UNC Asheville
-W
-Eastern Kentucky
-W
-Wright State
-W
-Ball State
-W
-Milligan
-W
-Bowling Green
-W
-Akron
-W
-Western Michigan
-W
-Toledo
-W
-Central Michigan
-W
-Buffalo
-W
-Kent State
-W
-Massachusetts
-W
-Northern Illinois
-W
-Buffalo
-W
-Marshall
-W
-Ohio
-W
-Massachusetts
-W
-Bowling Green
-W
-Eastern Michigan
-W
-Western Michigan
-W
-Toledo
-W
-Ohio
-W
-Massachusetts
-L
-Team: Ohio Bobcats
-Arkansas State
-L
-Illinois State
-W
-Saint Mary's
-L
-Louisville
-L
-Bethune-Cookman
-L
-George Mason
-L
-Loyola Marymount
-L
-Maine
-W
-Marshall
-W
-St. Bonaventure
-W
-Ohio Wesleyan
-W
-Bowling Green
-L
-Miami (OH)-Hamilton
-W
-Central Michigan
-W
-Eastern Michigan
-W
-Massachusetts
-W
-Buffalo
-W
-Toledo
-L
-Ball State
-L
-Northern Illinois
-W
-Akron
-L
-Kent State
-L
-Buffalo
-W
-Western Michigan
-W
-Old Dominion
-L
-Miami (OH)
-L
-Ball State
-W
-Northern Illinois
-W
-Toledo
-L
-Massachusetts
-L
-Miami (OH)
-L
-Kent State
-L
-Team: Massachusetts Minutemen
-Team: Belmont Bruins
-Air Force
-W
-Tennessee State
-W
-Oral Roberts
-W
-Lipscomb
-W
-Fisk
-W
-Saint Francis
-W
-Toledo
-W
-Charleston
-W
-Richmond
-L
-Middle Tennessee
-W
-UIC
-W
-Evansville
-W
-UC Irvine
-W
-Indiana State
-L
-Bradley
-W
-Southern Illinois
-L
-Northern Iowa
-W
-Drake
-W
-Valparaiso
-W
-Southern Illinois
-W
-Illinois State
-W
-Valparaiso
-W
-Murray State
-W
-Drake
-W
-UIC
-W
-Bradley
-L
-Northern Iowa
-W
-Murray State
-W
-Indiana State
-W
-Evansville
-W
-Illinois State
-L
-Drake
-L
 Team: Bradley Braves
 St. Bonaventure
 L
@@ -11353,6 +14467,71 @@ W
 Valparaiso
 W
 Northern Iowa
+L
+Team: Belmont Bruins
+Air Force
+W
+Tennessee State
+W
+Oral Roberts
+W
+Lipscomb
+W
+Fisk
+W
+Saint Francis
+W
+Toledo
+W
+Charleston
+W
+Richmond
+L
+Middle Tennessee
+W
+UIC
+W
+Evansville
+W
+UC Irvine
+W
+Indiana State
+L
+Bradley
+W
+Southern Illinois
+L
+Northern Iowa
+W
+Drake
+W
+Valparaiso
+W
+Southern Illinois
+W
+Illinois State
+W
+Valparaiso
+W
+Murray State
+W
+Drake
+W
+UIC
+W
+Bradley
+L
+Northern Iowa
+W
+Murray State
+W
+Indiana State
+W
+Evansville
+W
+Illinois State
+L
+Drake
 L
 Team: Drake Bulldogs
 Northern Arizona
@@ -11488,73 +14667,6 @@ Southern Illinois
 W
 Northern Iowa
 L
-Team: Illinois State Redbirds
-Dayton
-6
-Ohio
-L
-Cornell
-W
-USC
-L
-Long Beach State
-W
-Rockford
-W
-Coastal Carolina
-W
-Charlotte
-W
-Furman
-W
-Eastern Kentucky
-W
-Chicago State
-W
-Utah State
-L
-Southern Illinois
-W
-Indiana State
-W
-Drake
-W
-Evansville
-W
-Valparaiso
-L
-UIC
-L
-Indiana State
-L
-Bradley
-W
-Northern Iowa
-W
-Belmont
-L
-Murray State
-W
-Southern Illinois
-L
-Drake
-W
-Evansville
-L
-Valparaiso
-W
-UIC
-L
-Murray State
-W
-Bradley
-L
-Northern Iowa
-W
-Belmont
-W
-Northern Iowa
-L
 Team: Indiana State Sycamores
 Charlotte
 L
@@ -11619,6 +14731,73 @@ L
 UIC
 W
 Valparaiso
+L
+Team: Illinois State Redbirds
+Auburn
+8
+Ohio
+L
+Cornell
+W
+USC
+L
+Long Beach State
+W
+Rockford
+W
+Coastal Carolina
+W
+Charlotte
+W
+Furman
+W
+Eastern Kentucky
+W
+Chicago State
+W
+Utah State
+L
+Southern Illinois
+W
+Indiana State
+W
+Drake
+W
+Evansville
+W
+Valparaiso
+L
+UIC
+L
+Indiana State
+L
+Bradley
+W
+Northern Iowa
+W
+Belmont
+L
+Murray State
+W
+Southern Illinois
+L
+Drake
+W
+Evansville
+L
+Valparaiso
+W
+UIC
+L
+Murray State
+W
+Bradley
+L
+Northern Iowa
+W
+Belmont
+W
+Northern Iowa
 L
 Team: Murray State Racers
 Omaha
@@ -11750,6 +14929,144 @@ Evansville
 W
 Drake
 W
+Team: Northern Iowa Panthers
+Cal State Northridge
+W
+South Dakota State
+W
+Furman
+W
+Northern Illinois
+W
+UC Irvine
+W
+Loyola Chicago
+W
+Tulsa
+L
+Coe
+W
+Wichita State
+L
+Oakland
+W
+UIC
+W
+Saint Mary's
+L
+Valparaiso
+W
+Indiana State
+W
+Evansville
+W
+Belmont
+L
+Bradley
+L
+UIC
+L
+Valparaiso
+L
+Illinois State
+L
+Murray State
+W
+Southern Illinois
+L
+Evansville
+W
+Bradley
+W
+Murray State
+W
+Belmont
+L
+Drake
+W
+Indiana State
+W
+Southern Illinois
+L
+Illinois State
+L
+Drake
+W
+Evansville
+W
+Illinois State
+W
+Bradley
+W
+UIC
+W
+Team: Valparaiso Beacons
+Eastern Illinois
+W
+Kentucky
+L
+Nicholls
+W
+Bryant
+W
+Cleveland State
+W
+Southern Indiana
+L
+Western Michigan
+W
+Marquette
+L
+Calumet
+W
+UNC Wilmington
+L
+Northwestern
+L
+Murray State
+L
+Northern Iowa
+L
+Southern Illinois
+L
+UIC
+W
+Illinois State
+W
+Murray State
+L
+Belmont
+L
+Northern Iowa
+W
+Southern Illinois
+W
+Belmont
+L
+Indiana State
+W
+Bradley
+L
+Evansville
+W
+Drake
+W
+Illinois State
+L
+Indiana State
+W
+Bradley
+W
+UIC
+W
+Drake
+W
+Evansville
+L
+Indiana State
+W
+Bradley
+L
 Team: UIC Flames
 Detroit Mercy
 W
@@ -11819,76 +15136,269 @@ Drake
 W
 Northern Iowa
 L
-Team: Valparaiso Beacons
-Eastern Illinois
+Team: Boise State Broncos
+Hawai'i Pacific
+L
+Utah Valley
 W
-Kentucky
-L
-Nicholls
+UT Rio Grande Valley
 W
-Bryant
+Montana State
 W
-Cleveland State
+Wichita State
 W
-Southern Indiana
+USC
 L
-Western Michigan
+NC State
+L
+Chaminade
 W
-Marquette
-L
-Calumet
+Butler
 W
-UNC Wilmington
-L
-Northwestern
-L
-Murray State
-L
-Northern Iowa
-L
-Southern Illinois
-L
-UIC
+Duquesne
 W
-Illinois State
+Saint Mary's
 W
-Murray State
+Nevada
 L
+New Mexico
+W
+San Diego State
+L
+Grand Canyon
+L
+Utah State
+L
+UNLV
+L
+Colorado State
+W
+Wyoming
+W
+Air Force
+W
+San Josï¿½ State
+W
+Grand Canyon
+L
+Nevada
+W
+New Mexico
+W
+UNLV
+L
+Utah State
+L
+San Josï¿½ State
+W
+Wyoming
+W
+Fresno State
+W
+San Diego State
+W
+Colorado State
+W
+San Josï¿½ State
+L
+Team: Air Force Falcons
 Belmont
 L
-Northern Iowa
-W
-Southern Illinois
-W
-Belmont
+Austin Peay
 L
-Indiana State
-W
-Bradley
+Long Island University
 L
-Evansville
-W
-Drake
-W
-Illinois State
+Miami (OH)
 L
-Indiana State
+Alabama State
 W
-Bradley
+SIU Edwardsville
 W
-UIC
+IU Indianapolis
 W
-Drake
-W
-Evansville
+Northern Colorado
 L
-Indiana State
+South Dakota
+L
+Pacific
+L
+Navy
+L
+San Diego State
+L
+Wyoming
+L
+UNLV
+L
+Utah State
+L
+New Mexico
+L
+San Josï¿½ State
+L
+Nevada
+L
+Colorado State
+L
+Boise State
+L
+Fresno State
+L
+Grand Canyon
+L
+San Diego State
+L
+Colorado State
+L
+Fresno State
+L
+New Mexico
+L
+UNLV
+L
+San Josï¿½ State
+L
+Wyoming
+L
+Grand Canyon
+L
+Nevada
+L
+Nevada
+L
+Team: Fresno State Bulldogs
+Fresno Pacific
 W
-Bradley
+South Carolina Upstate
+L
+Long Beach State
+W
+UC San Diego
+L
+Utah Valley
+W
+Stephen F. Austin
+W
+New Orleans
+W
+Pepperdine
+W
+Cal State Bakersfield
+L
+Arkansas
+L
+Cal State Northridge
+L
+UNLV
+L
+Utah State
+L
+Nevada
+L
+San Josï¿½ State
+W
+San Diego State
+L
+Colorado State
+W
+Wyoming
+W
+New Mexico
+L
+Grand Canyon
+L
+Air Force
+W
+UNLV
+W
+Nevada
+L
+Utah State
+L
+Air Force
+W
+Wyoming
+L
+New Mexico
+L
+Colorado State
+L
+Boise State
+L
+San Josï¿½ State
+W
+Grand Canyon
+L
+Colorado State
+L
+Team: Colorado State Rams
+Incarnate Word
+W
+Omaha
+W
+Cal Poly
+W
+Loyola Chicago
+W
+Denver
+L
+Virginia Tech
+L
+Wichita State
+W
+South Florida
+W
+Colorado
+W
+Dartmouth
+W
+Northern New Mexico
+W
+Utah State
+L
+Nevada
+L
+Grand Canyon
+W
+New Mexico
+L
+UNLV
+W
+Fresno State
+L
+Boise State
+L
+Air Force
+W
+Utah State
+L
+San Diego State
+L
+Wyoming
+L
+San Josï¿½ State
+W
+Air Force
+W
+Wyoming
+W
+UNLV
+W
+San Diego State
+W
+Fresno State
+W
+San Josï¿½ State
+W
+New Mexico
+W
+Boise State
+L
+Fresno State
+W
+San Diego State
 L
 Team: Nevada Wolf Pack
-Auburn
-8
 Louisiana Tech
 W
 Pacific
@@ -11925,7 +15435,7 @@ Utah State
 L
 Air Force
 W
-San José State
+San Josï¿½ State
 W
 New Mexico
 L
@@ -11939,7 +15449,7 @@ Fresno State
 W
 San Diego State
 L
-San José State
+San Josï¿½ State
 L
 Utah State
 W
@@ -11986,7 +15496,7 @@ Colorado State
 L
 Boise State
 W
-San José State
+San Josï¿½ State
 W
 New Mexico
 L
@@ -12006,7 +15516,7 @@ UNLV
 L
 New Mexico
 L
-San José State
+San Josï¿½ State
 W
 San Diego State
 W
@@ -12022,72 +15532,76 @@ Fresno State
 W
 Nevada
 L
-Team: Fresno State Bulldogs
-Fresno Pacific
+Team: New Mexico Lobos
+Tulsa
+6
+East Texas A&M
 W
-South Carolina Upstate
-L
-Long Beach State
+UT Arlington
 W
-UC San Diego
-L
-Utah Valley
+UC Riverside
 W
-Stephen F. Austin
+New Mexico State
+L
+Nebraska
+L
+Mississippi State
 W
-New Orleans
+Alabama State
 W
-Pepperdine
+New Mexico Highlands
 W
-Cal State Bakersfield
+Santa Clara
+W
+VCU
+W
+Florida Gulf Coast
+W
+San Josï¿½ State
+W
+Boise State
 L
-Arkansas
-L
-Cal State Northridge
-L
-UNLV
-L
-Utah State
-L
-Nevada
-L
-San José State
+Wyoming
+W
+Colorado State
+W
+Air Force
+W
+Grand Canyon
 W
 San Diego State
 L
-Colorado State
+Fresno State
 W
-Wyoming
-W
-New Mexico
-L
-Grand Canyon
-L
-Air Force
+Nevada
 W
 UNLV
 W
-Nevada
-L
-Utah State
-L
-Air Force
+San Josï¿½ State
 W
-Wyoming
-L
-New Mexico
-L
-Colorado State
+Utah State
 L
 Boise State
 L
-San José State
-W
 Grand Canyon
+W
+Air Force
+W
+Fresno State
+W
+Nevada
 L
+San Diego State
+W
 Colorado State
 L
-Team: 
+Utah State
+L
+San Josï¿½ State
+W
+San Diego State
+L
+Team: San Diego State Aztecs
 Long Beach State
 W
 Idaho State
@@ -12110,7 +15624,7 @@ Arizona
 L
 Whittier
 W
-San José State
+San Josï¿½ State
 W
 Boise State
 W
@@ -12153,6 +15667,140 @@ W
 New Mexico
 W
 Utah State
+L
+Team: UNLV Rebels
+UT Martin
+L
+Chattanooga
+W
+Montana
+L
+Memphis
+W
+Saint Joseph's
+W
+Maryland
+L
+Alabama
+L
+Rutgers
+L
+Stanford
+W
+Tennessee State
+L
+Fresno State
+W
+La Sierra
+W
+Air Force
+W
+Wyoming
+L
+Colorado State
+L
+Boise State
+W
+San Josï¿½ State
+W
+Utah State
+W
+San Diego State
+L
+New Mexico
+L
+Nevada
+L
+Fresno State
+L
+Grand Canyon
+W
+San Josï¿½ State
+W
+Boise State
+W
+Colorado State
+L
+Air Force
+W
+Grand Canyon
+L
+Nevada
+W
+Utah State
+W
+San Diego State
+L
+Wyoming
+W
+Utah State
+L
+Team: San Josï¿½ State Spartans
+Utah
+L
+UC Santa Barbara
+L
+Michigan State
+L
+Bethesda University
+W
+Southern
+W
+Tulsa
+L
+Loyola Chicago
+W
+UC Irvine
+L
+San Diego
+W
+Long Beach State
+W
+Stanford
+L
+New Mexico
+L
+San Diego State
+L
+Utah State
+L
+Fresno State
+L
+Grand Canyon
+L
+Air Force
+W
+UNLV
+L
+Nevada
+L
+Wyoming
+L
+Boise State
+L
+New Mexico
+L
+Colorado State
+L
+UNLV
+L
+Grand Canyon
+L
+Nevada
+W
+Boise State
+L
+Air Force
+W
+Colorado State
+L
+Fresno State
+L
+Wyoming
+L
+Boise State
+W
+New Mexico
 L
 Team: Wyoming Cowboys
 Northern State
@@ -12193,7 +15841,7 @@ Fresno State
 L
 Boise State
 L
-San José State
+San Josï¿½ State
 W
 Utah State
 L
@@ -12215,7 +15863,7 @@ Air Force
 W
 Nevada
 W
-San José State
+San Josï¿½ State
 W
 UNLV
 L
@@ -12244,7 +15892,7 @@ Colorado State
 W
 Fresno State
 W
-San José State
+San Josï¿½ State
 W
 Air Force
 W
@@ -12288,6 +15936,132 @@ Nevada
 W
 San Diego State
 W
+Team: Central Connecticut Blue Devils
+Vermont State - Johnson
+W
+Quinnipiac
+L
+Boston College
+W
+Massachusetts
+L
+Rutgers
+W
+Sacred Heart
+W
+Johnson & Wales (RI)
+W
+Seton Hall
+L
+Northeastern
+L
+Binghamton
+W
+Fairfield
+L
+Long Island University
+L
+New Haven
+W
+Stonehill
+W
+Le Moyne
+W
+Saint Francis
+W
+Mercyhurst
+L
+Fairleigh Dickinson
+L
+Stonehill
+L
+Wagner
+W
+Long Island University
+L
+Chicago State
+W
+Wagner
+W
+New Haven
+W
+Fairleigh Dickinson
+W
+Le Moyne
+W
+Chicago State
+L
+Mercyhurst
+W
+Saint Francis
+W
+Wagner
+L
+Team: Chicago State Cougars
+DePaul
+L
+Saint Louis
+L
+Butler
+L
+UIC
+L
+Minnesota
+L
+Iowa
+L
+Purdue Fort Wayne
+L
+Youngstown State
+L
+St. Xavier (IL)
+W
+Illinois State
+L
+Loyola Chicago
+W
+Bowling Green
+L
+Indiana
+L
+Wagner
+L
+Long Island University
+L
+Fairleigh Dickinson
+L
+Stonehill
+L
+Le Moyne
+L
+New Haven
+L
+Saint Francis
+L
+Mercyhurst
+L
+Mercyhurst
+W
+Central Connecticut
+L
+New Haven
+W
+Saint Francis
+W
+Stonehill
+W
+Le Moyne
+L
+Fairleigh Dickinson
+L
+Central Connecticut
+W
+Long Island University
+L
+Wagner
+L
+Long Island University
+L
 Team: Fairleigh Dickinson Knights
 Iowa State
 L
@@ -12352,6 +16126,140 @@ L
 Long Island University
 L
 Mercyhurst
+L
+Team: Le Moyne Dolphins
+SUNY Cobleskill
+W
+Xavier
+L
+Bowling Green
+L
+Massachusetts
+L
+Niagara
+W
+Fairfield
+L
+Lafayette
+W
+Monmouth
+W
+Ball State
+L
+Binghamton
+W
+Texas
+L
+St. Bonaventure
+L
+Boston College
+L
+Saint Francis
+W
+Mercyhurst
+L
+New Haven
+W
+Central Connecticut
+L
+Chicago State
+W
+Long Island University
+W
+Wagner
+W
+Fairleigh Dickinson
+W
+Long Island University
+L
+Stonehill
+L
+Wagner
+L
+Saint Francis
+W
+Mercyhurst
+W
+Chicago State
+W
+Central Connecticut
+L
+Stonehill
+L
+Fairleigh Dickinson
+W
+New Haven
+L
+Stonehill
+L
+Team: Mercyhurst Lakers
+Northwestern
+L
+Loyola Chicago
+W
+Penn State-New Kensington
+W
+Canisius
+L
+Morgan State
+W
+Miami (OH)
+L
+Marshall
+L
+West Virginia
+L
+Lafayette
+L
+Bethany (WV)
+W
+Davidson
+L
+Syracuse
+L
+Binghamton
+W
+Fairleigh Dickinson
+L
+Le Moyne
+W
+Long Island University
+L
+Wagner
+W
+Stonehill
+L
+Central Connecticut
+W
+New Haven
+W
+Chicago State
+W
+New Haven
+W
+Chicago State
+L
+Saint Francis
+W
+Fairleigh Dickinson
+L
+Le Moyne
+L
+Saint Francis
+W
+Wagner
+L
+Long Island University
+W
+Central Connecticut
+L
+Stonehill
+W
+Fairleigh Dickinson
+W
+Stonehill
+W
+Long Island University
 L
 Team: Long Island University Sharks
 Notre Dame
@@ -12422,76 +16330,6 @@ Wagner
 W
 Mercyhurst
 W
-Team: Le Moyne Dolphins
-Team: Mercyhurst Lakers
-Northwestern
-L
-Loyola Chicago
-W
-Penn State-New Kensington
-W
-Canisius
-L
-Morgan State
-W
-Miami (OH)
-L
-Marshall
-L
-West Virginia
-L
-Lafayette
-L
-Bethany (WV)
-W
-Davidson
-L
-Syracuse
-L
-Binghamton
-W
-Fairleigh Dickinson
-L
-Le Moyne
-W
-Long Island University
-L
-Wagner
-W
-Stonehill
-L
-Central Connecticut
-W
-New Haven
-W
-Chicago State
-W
-New Haven
-W
-Chicago State
-L
-Saint Francis
-W
-Fairleigh Dickinson
-L
-Le Moyne
-L
-Saint Francis
-W
-Wagner
-L
-Long Island University
-W
-Central Connecticut
-L
-Stonehill
-W
-Fairleigh Dickinson
-W
-Stonehill
-W
-Long Island University
-L
 Team: New Haven Chargers
 UConn
 L
@@ -12555,6 +16393,132 @@ Wagner
 L
 Le Moyne
 L
+Team: Saint Francis Red Flash
+Oklahoma
+L
+TCU
+L
+Mount St. Mary's
+L
+Lehigh
+L
+Belmont
+L
+Troy
+L
+Franciscan University
+W
+Xavier
+L
+Penn State-Shenango
+W
+Radford
+L
+Temple
+L
+Florida
+L
+Robert Morris
+L
+Le Moyne
+L
+Fairleigh Dickinson
+W
+Wagner
+W
+Long Island University
+L
+Central Connecticut
+L
+Stonehill
+W
+Chicago State
+W
+New Haven
+P
+Mercyhurst
+L
+Le Moyne
+L
+Chicago State
+L
+Fairleigh Dickinson
+L
+Mercyhurst
+L
+Long Island University
+L
+Wagner
+L
+New Haven
+L
+Stonehill
+W
+Central Connecticut
+L
+Team: Wagner Seahawks
+VCU
+L
+Seton Hall
+L
+Fordham
+L
+UMBC
+L
+Georgetown
+L
+Manhattan
+W
+Maryland
+L
+Bryant Str-Alb
+W
+Bloomfield
+W
+Maryland Eastern Shore
+W
+Manor College
+W
+Chicago State
+W
+Stonehill
+L
+Saint Francis
+L
+Mercyhurst
+L
+New Haven
+L
+Fairleigh Dickinson
+L
+Le Moyne
+L
+Central Connecticut
+P
+Fairleigh Dickinson
+L
+Le Moyne
+W
+Central Connecticut
+W
+Long Island University
+L
+Stonehill
+L
+Long Island University
+W
+Mercyhurst
+L
+Saint Francis
+W
+New Haven
+W
+Chicago State
+W
+Central Connecticut
+W
+Long Island University
+W
 Team: Stonehill Skyhawks
 Thomas (ME)
 W
@@ -12622,135 +16586,2527 @@ Le Moyne
 W
 Mercyhurst
 L
-Team: Saint Francis Red Flash
-Oklahoma
-L
-TCU
-L
-Mount St. Mary's
-L
-Lehigh
-L
-Belmont
-L
-Troy
-L
-Franciscan University
-W
-Xavier
-L
-Penn State-Shenango
-W
-Radford
-L
-Temple
-L
-Florida
-L
-Robert Morris
-L
-Le Moyne
-L
-Fairleigh Dickinson
-W
-Wagner
-W
-Long Island University
-L
-Central Connecticut
-L
-Stonehill
-W
-Chicago State
-W
-New Haven
-P
-Mercyhurst
-L
-Le Moyne
-L
-Chicago State
-L
-Fairleigh Dickinson
-L
-Mercyhurst
-L
-Long Island University
-L
-Wagner
-L
-New Haven
-L
-Stonehill
-W
-Central Connecticut
-L
-Team: SIU Edwardsville Cougars
 Team: Lindenwood Lions
-Team: Alabama State Hornets
-Florida State
+Texas Tech
 L
-UAB
+Health Sciences & Pharmacy
 W
-Virginia-Lynchburg
+Saint Louis
+L
+Charleston Southern
 W
-Colorado
+Alabama A&M
 L
-Air Force
+Indiana
 L
-IU Indianapolis
+Kansas City
+W
+Northern Illinois
+W
+Eastern Illinois
+W
+Culver-Stockton
+W
+Western Illinois
+W
+Harris-Stowe State
+W
+Missouri State
+L
+Morehead State
+W
+Southern Indiana
 W
 SIU Edwardsville
 L
-New Mexico
+Little Rock
+L
+Southeast Missouri State
+W
+UT Martin
+L
+Tennessee Tech
+W
+Tennessee State
+L
+Southern Indiana
+W
+Morehead State
+W
+SIU Edwardsville
+L
+Little Rock
+W
+UT Martin
+W
+Southeast Missouri State
+L
+Tennessee State
+L
+Tennessee Tech
+L
+Eastern Illinois
+L
+Western Illinois
+W
+Little Rock
+W
+Southeast Missouri State
+L
+Team: Eastern Illinois Panthers
+Valparaiso
+L
+Nicholls
+W
+Notre Dame
+L
+Kentucky
+L
+Tiffin
+W
+Central Arkansas
+L
+Purdue
+L
+Lindenwood
+P
+Eastern Kentucky
+L
+Iowa State
+L
+SIU Edwardsville
+L
+East-West University
+W
+Southeast Missouri State
+W
+UT Martin
+L
+Tennessee Tech
+L
+Tennessee State
+W
+Western Illinois
+W
+Little Rock
+W
+Blackburn
+L
+Southern Indiana
+W
+Morehead State
+W
+UT Martin
+L
+Southeast Missouri State
+L
+Tennessee State
+L
+Tennessee Tech
+L
+Western Illinois
+W
+Little Rock
+L
+Morehead State
+W
+Southern Indiana
+L
+Lindenwood
+L
+SIU Edwardsville
+W
+SIU Edwardsville
+L
+UT Martin
+W
+Team: Morehead State Eagles
+Midway University
+W
+Wake Forest
+L
+Georgia
+L
+Clemson
+L
+Kentucky Christian
+W
+East Tennessee State
+L
+UL Monroe
+W
+IU Indianapolis
+L
+Murray State
+L
+Presbyterian
+L
+Little Rock
+W
+Southern Indiana
+W
+Alice Lloyd College
+W
+Lindenwood
+L
+SIU Edwardsville
+W
+UT Martin
+L
+Southeast Missouri State
+W
+Tennessee State
+L
+Tennessee Tech
+W
+Western Illinois
+W
+Eastern Illinois
+W
+SIU Edwardsville
+W
+Lindenwood
+L
+Southeast Missouri State
+L
+UT Martin
+W
+Tennessee Tech
+W
+Tennessee State
+W
+Eastern Illinois
+W
+Western Illinois
+W
+Southern Indiana
+W
+Little Rock
+W
+Southeast Missouri State
+W
+Tennessee State
+L
+Team: Little Rock Trojans
+Arkansas Baptist
+W
+Milwaukee
+L
+Marquette
+L
+Ball State
+W
+Murray State
+L
+Texas State
+L
+Southern Illinois
+L
+Central Arkansas
+L
+Arkansas State
+L
+West Virginia
+L
+Morehead State
+L
+Southern Indiana
+W
+Williams Baptist
+W
+Tennessee Tech
+W
+Tennessee State
+L
+SIU Edwardsville
+W
+Lindenwood
+W
+Eastern Illinois
+W
+Western Illinois
+W
+Southeast Missouri State
+L
+Tennessee State
+L
+Tennessee Tech
 L
 UT Martin
 L
+Lindenwood
+L
+SIU Edwardsville
+L
+Western Illinois
+W
+Eastern Illinois
+L
+UT Martin
+W
+Southeast Missouri State
+L
+Morehead State
+L
+Southern Indiana
+W
+Lindenwood
+L
+Team: Southeast Missouri State Redhawks
+Saint Louis
+L
 Missouri
 L
-Cincinnati
-L
-Memphis
-L
-Mississippi State
-L
-Mississippi Valley State
+Webster
 W
-Arkansas-Pine Bluff
+St. Thomas-Minnesota
 L
-Jackson State
+Iowa
 L
-Alcorn State
+Cal Poly
+W
+Northern Arizona
+L
+Lipscomb
+L
+Saint Mary of the Woods College
+W
+Chattanooga
+W
+St. Xavier (IL)
+W
+Tennessee Tech
+L
+Tennessee State
+W
+Eastern Illinois
+W
+Western Illinois
+W
+Southern Indiana
+W
+Morehead State
+L
+Lindenwood
+L
+SIU Edwardsville
+L
+UT Martin
+W
+Little Rock
+W
+Western Illinois
+W
+Eastern Illinois
+W
+Morehead State
+W
+Southern Indiana
+W
+SIU Edwardsville
+L
+Lindenwood
+W
+UT Martin
+W
+Little Rock
+W
+Tennessee State
+L
+Tennessee Tech
+W
+Lindenwood
+W
+Morehead State
+L
+Team: SIU Edwardsville Cougars
+East-West University
+W
+UTSA
+W
+Indiana State
+L
+Drake
+W
+Wisconsin
+L
+Air Force
+L
+Alabama State
+W
+Missouri Baptist
+W
+North Florida
+W
+Western Michigan
+L
+Eureka
+W
+Eastern Illinois
+L
+Western Illinois
+W
+Southern Indiana
+W
+Morehead State
+L
+Lindenwood
+W
+Little Rock
+L
+UT Martin
+L
+Southeast Missouri State
+W
+Tennessee State
+W
+Tennessee Tech
+W
+Morehead State
+L
+Southern Indiana
+W
+Lindenwood
+W
+Little Rock
+W
+Southeast Missouri State
+W
+UT Martin
+L
+Tennessee Tech
+L
+Tennessee State
+L
+Western Illinois
+W
+Eastern Illinois
+W
+Eastern Illinois
+L
+Team: Tennessee State Tigers
+Fisk
+W
+Belmont
+L
+Oakwood
+W
+Western Kentucky
+L
+Tennessee
+L
+UNC Asheville
+W
+Tennessee Wesleyan
+W
+Chattanooga
 W
 Alabama A&M
+L
+UNLV
+W
+UT Martin
+W
+Southeast Missouri State
+L
+Tennessee Tech
+W
+Little Rock
+W
+Western Illinois
+W
+Eastern Illinois
+L
+Morehead State
+W
+Southern Indiana
+W
+SIU Edwardsville
+L
+Lindenwood
+W
+Little Rock
+W
+Tennessee Tech
+L
+Eastern Illinois
+W
+Western Illinois
+W
+Southern Indiana
+W
+Morehead State
+L
+Lindenwood
+W
+SIU Edwardsville
+W
+Southeast Missouri State
+W
+UT Martin
+W
+UT Martin
+W
+Morehead State
+W
+Team: Southern Indiana Screaming Eagles
+Butler
+L
+VMI
+L
+South Dakota
+L
+Loras
+W
+Incarnate Word
+L
+UIC
+L
+Valparaiso
+W
+Kentucky State
+W
+Western Michigan
+L
+Indiana State
+L
+Little Rock
+C
+Morehead State
+L
+SIU Edwardsville
+L
+Lindenwood
+L
+Southeast Missouri State
+L
+UT Martin
+L
+Tennessee Tech
+L
+Tennessee State
+W
+Eastern Illinois
+L
+Western Illinois
+L
+Lindenwood
+W
+SIU Edwardsville
+L
+UT Martin
+L
+Southeast Missouri State
+L
+Tennessee State
+L
+Tennessee Tech
+L
+Western Illinois
+L
+Eastern Illinois
+W
+Morehead State
+W
+Little Rock
+L
+Team: UT Martin Skyhawks
+UNLV
+W
+Kentucky Christian
+W
+Bradley
+W
+Florida State
 L
 Prairie View A&M
 W
-Texas Southern
+Southern Miss
 L
+Brescia
+W
+Charleston Southern
+W
+Alabama State
+W
+Southern Illinois
+L
+Champion Christian
+W
+Tennessee State
+L
+Tennessee Tech
+W
+Western Illinois
+W
+Eastern Illinois
+W
+Morehead State
+W
+Southern Indiana
+W
+SIU Edwardsville
+W
+Lindenwood
+W
+Southeast Missouri State
+L
+Eastern Illinois
+W
+Western Illinois
+W
+Little Rock
+W
+Southern Indiana
+W
+Morehead State
+L
+Lindenwood
+L
+SIU Edwardsville
+W
+Southeast Missouri State
+L
+Little Rock
+L
+Tennessee Tech
+W
+Tennessee State
+L
+Eastern Illinois
+W
+Tennessee State
+L
+Team: Tennessee Tech Golden Eagles
+Western Kentucky
+L
+Charlotte
+L
+Virginia-Lynchburg
+W
+Berea
+W
+West Georgia
+L
+South Carolina Upstate
+W
+Kentucky
+L
+Georgia
+L
+Lipscomb
+L
+West Georgia
+W
+Bethel (TN)
+W
+Southeast Missouri State
+W
+UT Martin
+L
+Tennessee State
+L
+Little Rock
+L
+Eastern Illinois
+L
+Western Illinois
+W
+Southern Indiana
+L
+Morehead State
+L
+Lindenwood
+L
+SIU Edwardsville
+L
+Little Rock
+W
+Tennessee State
+W
+Western Illinois
+W
+Eastern Illinois
+L
+Morehead State
+L
+Southern Indiana
+W
+SIU Edwardsville
+W
+Lindenwood
+W
+UT Martin
+L
+Southeast Missouri State
+L
+Team: American University Eagles
+Wake Forest
+L
+Pennsylvania
+W
+George Washington
+L
+Central Penn
+W
+Rutgers
+L
+Marywood
+W
+Maine
+W
+Siena
+L
+Longwood
+W
+Drexel
+W
+Maryland Eastern Shore
+W
+VCU
+L
+Virginia
+L
+Loyola Maryland
+W
+Boston University
+W
+Colgate
+L
+Holy Cross
+L
+Navy
+W
+Army
+W
+Colgate
+W
+Holy Cross
+W
+Loyola Maryland
+L
+Lafayette
+L
+Bucknell
+L
+Navy
+L
+Lehigh
+L
+Army
+W
+Bucknell
+W
+Lafayette
+W
+Lehigh
+L
+Boston University
+L
+Boston University
+L
+Team: Western Illinois Leathernecks
+Radford
+L
+Iowa
+L
+Cal State Bakersfield
+L
+California Baptist
+L
+Coe
+W
+Coastal Carolina
+L
+North Dakota
+L
+St. Ambrose
+W
+Drake
+L
+Hannibal-Lagrange
+W
+North Dakota
+W
+Lindenwood
+L
+SIU Edwardsville
+L
+UT Martin
+L
+Southeast Missouri State
+L
+Tennessee State
+L
+Tennessee Tech
+L
+Eastern Illinois
+L
+Little Rock
+L
+Morehead State
+L
+Southern Indiana
+L
+Southeast Missouri State
+L
+UT Martin
+L
+Tennessee Tech
+L
+Tennessee State
+L
+Eastern Illinois
+W
+Little Rock
+L
+Southern Indiana
+L
+Morehead State
+L
+SIU Edwardsville
+L
+Lindenwood
+L
+Team: Boston University Terriers
+Northeastern
+W
+Northwestern
+L
+Brown
+W
+Merrimack
+L
+Columbia
+L
+Harvard
+W
+Penn State
+L
+Northern Kentucky
+L
+Vermont State - Johnson
+W
+New Hampshire
+L
+Maine
+L
+Dartmouth
+L
+UMass Lowell
+W
+Navy
+L
+American University
+L
+Lafayette
+W
+Army
+W
+Lehigh
+L
+Loyola Maryland
+L
+Lafayette
+W
+Colgate
+L
+Navy
+L
+Bucknell
+L
+Holy Cross
+W
+Loyola Maryland
+W
+Army
+W
+Bucknell
+W
+Colgate
+W
+Lehigh
+L
+Holy Cross
+W
+American University
+W
+American University
+W
+Navy
+W
+Lehigh
+L
+Team: Army Black Knights
+SUNY-Maritime
+W
+St. Thomas-Minnesota
+L
+Duke
+L
+Harvard
+L
+Cornell
+L
+Marist
+L
+East Texas A&M
+L
+Fairleigh Dickinson
+W
+Manhattan
+W
+George Washington
+L
+Gallaudet
+W
+UMBC
+W
+Binghamton
+W
+Lehigh
+W
+Colgate
+L
+Loyola Maryland
+L
+Boston University
+L
+Holy Cross
+L
+American University
+L
+Bucknell
+W
+Navy
+L
+Lehigh
+W
+Holy Cross
+W
+Colgate
+L
+Lafayette
+L
+Boston University
+L
+American University
+L
+Loyola Maryland
+W
+Navy
+L
+Bucknell
+L
+Lafayette
+L
+Bucknell
+L
+Team: Colgate Raiders
+Michigan State
+L
+Northeastern
+L
+Drexel
+W
+Illinois
+L
+Siena
+W
+Cornell
+L
+UAlbany
+W
+SUNY-Oneonta
+W
+Fordham
+W
+St. John Fisher
+W
+St. Bonaventure
+L
+Florida
+L
+Harvard
+L
+Lafayette
+W
+Army
+W
+American University
+W
+Lehigh
+L
+Loyola Maryland
+W
+Bucknell
+W
+American University
+L
+Boston University
+W
+Holy Cross
+W
+Lehigh
+L
+Army
+W
+Bucknell
+W
+Holy Cross
+W
+Navy
+L
+Boston University
+L
+Loyola Maryland
+W
+Lafayette
+L
+Navy
+L
+Loyola Maryland
+W
+Lehigh
+L
+Team: Bucknell Bison
+Delaware
+W
+Mount St. Mary's
+W
+Princeton
+L
+Hofstra
+L
+Pittsburgh
+L
+St. John's
+L
+Bowling Green
+L
+Buffalo
+L
+Cornell
+L
+Akron
+L
+UMBC
+L
+Rider
+W
+Iowa
+L
+Holy Cross
+L
+Lehigh
+W
+Navy
+L
+Loyola Maryland
+W
+Lafayette
+W
+Colgate
+L
+Army
+L
+Loyola Maryland
+L
+Lafayette
+L
+Boston University
+W
+American University
+W
+Colgate
+L
+Navy
+L
+Boston University
+L
+American University
+L
+Holy Cross
+L
+Army
+W
+Lehigh
+L
+Army
+W
+Navy
+L
+Team: Lafayette Leopards
+Saint Joseph's
+L
+Dickinson (PA)
+W
+Texas
+L
+Cornell
+L
+West Virginia
+L
+Stonehill
+L
+Le Moyne
+L
+Ball State
+W
+Monmouth
+L
+Mercyhurst
+W
+Pennsylvania
+L
+Charlotte
+L
+Georgia Tech
+L
+Colgate
+L
+Loyola Maryland
+W
+Boston University
+L
+Navy
+L
+Bucknell
+L
+Holy Cross
+W
+Boston University
+L
+Lehigh
+L
+Bucknell
+W
+American University
+W
+Navy
+L
+Army
+W
+Loyola Maryland
+L
+Lehigh
+L
+Holy Cross
+W
+American University
+L
+Colgate
+W
+Army
+W
+Holy Cross
+L
+Team: Holy Cross Crusaders
+Providence
+L
+BYU
+L
+Utah
+L
+Hampton
+W
+Brown
+L
+Sacred Heart
+L
+Siena
+L
+Worcester State
+W
+Northeastern
+W
+Fordham
+W
+Regis
+W
+Dartmouth
+L
+Harvard
+L
+Bucknell
+W
+Navy
+L
+Lehigh
+L
+American University
+W
+Army
+W
+Lafayette
+L
+Navy
+L
+American University
+L
+Colgate
+L
+Army
+L
+Boston University
+L
+Lehigh
+W
+Colgate
+L
+Loyola Maryland
+L
+Lafayette
+L
+Bucknell
+W
+Boston University
+L
+Loyola Maryland
+L
+Lafayette
+W
+Lehigh
+L
+Team: Loyola Maryland Greyhounds
+Towson
+L
+Penn St Abington
+W
+NJIT
+L
+Stonehill
+W
+Fairfield
+L
+Duquesne
+L
+Kentucky
+L
+Washington College (MD)
+W
+Coppin State
+W
+Hampton
+L
+VMI
+L
+Mount St. Mary's
+L
+George Mason
+L
+American University
+L
+Lafayette
+L
+Army
+W
+Bucknell
+L
+Colgate
+L
+Boston University
+W
+Lehigh
+L
+Bucknell
+W
+American University
+W
+Navy
+L
+Lehigh
+W
+Boston University
+L
+Lafayette
+W
+Holy Cross
+W
+Army
+L
+Colgate
+L
+Navy
+L
+Holy Cross
+W
+Colgate
+L
+Team: Lehigh Mountain Hawks
+Houston
+L
+Valley Forge
+W
+West Virginia
+L
+Rutgers
+L
+Saint Francis
+W
+Columbia
+L
+Marist
+L
+UC Santa Barbara
+L
+Texas State
+W
+Binghamton
+L
+Long Island University
+L
+Penn State Hazleton
+W
+Monmouth
+L
+Army
+L
+Bucknell
+L
+Holy Cross
+W
+Colgate
+W
+Boston University
+W
+Navy
+L
+Loyola Maryland
+W
+Lafayette
+W
+Army
+L
+Colgate
+W
+Loyola Maryland
+L
+Holy Cross
+L
+American University
+W
+Lafayette
+W
+Navy
+L
+Boston University
+W
+American University
+W
+Bucknell
+W
+Holy Cross
+W
+Colgate
+W
+Boston University
+W
+Team: Alabama Crimson Tide
+North Dakota
+W
+St. John's
+W
+Purdue
+L
+Illinois
+W
+Gonzaga
+L
+UNLV
+W
+Maryland
+W
+Clemson
+W
+UTSA
+W
+Arizona
+L
+South Florida
+W
+Kennesaw State
+W
+Yale
+W
+Kentucky
+W
+Vanderbilt
+L
+Texas
+L
+Mississippi State
+W
+Oklahoma
+W
+Tennessee
+L
+Missouri
+W
+Florida
+L
+Texas A&M
+W
+Auburn
+W
+Ole Miss
+W
+South Carolina
+W
+Arkansas
+W
+LSU
+W
+Mississippi State
+W
+Tennessee
+W
+Georgia
+L
+Auburn
+W
+Ole Miss
+L
+Team: Navy Midshipmen
+Presbyterian
+W
+Yale
+L
+Penn State
+L
+Washington College (MD)
+W
+North Carolina
+L
+NJIT
+W
+Gardner-Webb
+W
+UNC Wilmington
+L
+SE Louisiana
+L
+Delaware State
+W
+Air Force
+W
+Coppin State
+W
+Rosemont
+W
+Boston University
+W
+Holy Cross
+W
+Bucknell
+W
+Lafayette
+W
+American University
+L
+Lehigh
+W
+Holy Cross
+W
+Army
+W
+Boston University
+W
+Loyola Maryland
+W
+Lafayette
+W
+American University
+W
+Bucknell
+W
+Colgate
+W
+Lehigh
+W
+Army
+W
+Loyola Maryland
+W
+Colgate
+W
+Bucknell
+W
+Boston University
+L
+Team: Auburn Tigers
+Illinois State
+8
 Bethune-Cookman
+W
+Merrimack
+W
+Wofford
+W
+Houston
 L
+Jackson State
+W
+Oregon
+W
+Michigan
+L
+St. John's
+W
+NC State
+W
+Arizona
+L
+Chattanooga
+W
+Purdue
+L
+Queens University
+W
+Georgia
+L
+Texas A&M
+L
+Arkansas
+W
+Missouri
+L
+South Carolina
+W
+Ole Miss
+W
+Florida
+W
+Texas
+W
+Tennessee
+L
+Alabama
+L
+Vanderbilt
+L
+Arkansas
+L
+Mississippi State
+L
+Kentucky
+W
+Oklahoma
+L
+Ole Miss
+L
+LSU
+W
+Alabama
+L
+Mississippi State
+W
+Tennessee
+L
+Team: Arkansas Razorbacks
+Southern
+W
+Michigan State
+L
+Central Arkansas
+W
+Samford
+W
+Winthrop
+W
+Jackson State
+W
+Duke
+L
+Louisville
+W
+Fresno State
+W
+Texas Tech
+W
+Queens University
+W
+Houston
+L
+James Madison
+W
+Tennessee
+W
+Ole Miss
+W
+Auburn
+L
+South Carolina
+W
+Georgia
+L
+Vanderbilt
+W
+LSU
+W
+Oklahoma
+W
+Kentucky
+L
+Mississippi State
+W
+LSU
+W
+Auburn
+W
+Alabama
+L
+Missouri
+W
+Texas A&M
+W
+Florida
+L
+Texas
+W
+Missouri
+W
+Oklahoma
+W
+Ole Miss
+W
+Vanderbilt
+W
+Team: Georgia Bulldogs
+Bellarmine
+W
+Maryland Eastern Shore
+W
+Morehead State
+W
+Georgia Tech
+W
 Florida A&M
 W
-Grambling
+Xavier
+W
+Clemson
 L
-Southern
+Tennessee Tech
+W
+Florida State
+W
+Cincinnati
+W
+Western Carolina
+W
+West Georgia
+W
+Long Island University
+W
+Auburn
+W
+Florida
+L
+South Carolina
+W
+Ole Miss
+L
+Arkansas
+W
+Missouri
+W
+Texas
+L
+Tennessee
+L
+Texas A&M
+L
+LSU
+W
+Florida
+L
+Oklahoma
+L
+Kentucky
+W
+Texas
+W
+Vanderbilt
+L
+South Carolina
+W
+Alabama
+W
+Mississippi State
+W
+Ole Miss
+L
+Team: Florida Gators
+Arizona
+L
+North Florida
+W
+Florida State
+W
+Miami
+W
+Merrimack
+W
+TCU
+L
+Providence
+W
+Duke
+L
+UConn
+L
+George Washington
+W
+Saint Francis
+W
+Colgate
+W
+Dartmouth
+W
+Missouri
+L
+Georgia
+W
+Tennessee
+W
+Oklahoma
+W
+Vanderbilt
+W
+LSU
+W
+Auburn
+L
+South Carolina
+W
+Alabama
+W
+Texas A&M
+W
+Georgia
+W
+Kentucky
+W
+South Carolina
+W
+Ole Miss
+W
+Texas
+W
+Arkansas
+W
+Mississippi State
+W
+Kentucky
+W
+Kentucky
+W
+Vanderbilt
+L
+Team: LSU Tigers
+Tarleton State
+W
+New Orleans
+W
+Florida International
+W
+Alcorn State
+W
+Omaha
+W
+Drake
+W
+DePaul
+W
+Boston College
+W
+Texas Tech
+L
+SMU
+W
+SE Louisiana
+W
+Prairie View A&M
+W
+Southern Miss
+W
+Texas A&M
+L
+South Carolina
+L
+Vanderbilt
+L
+Kentucky
+L
+Missouri
+W
+Florida
+L
+Arkansas
+L
+Mississippi State
+L
+South Carolina
+W
+Georgia
+L
+Arkansas
+L
+Tennessee
+L
+Texas
+L
+Alabama
+L
+Ole Miss
+W
+Oklahoma
+L
+Auburn
+L
+Texas A&M
+L
+Kentucky
+L
+Team: Kentucky Wildcats
+Nicholls
+W
+Valparaiso
+W
+Louisville
+L
+Eastern Illinois
+W
+Michigan State
+L
+Loyola Maryland
+W
+Tennessee Tech
+W
+North Carolina
+L
+Gonzaga
+L
+North Carolina Central
+W
+Indiana
+W
+St. John's
+W
+Bellarmine
+W
+Alabama
+L
+Missouri
+L
+Mississippi State
+W
+LSU
+W
+Tennessee
+W
+Texas
+W
+Ole Miss
+W
+Vanderbilt
+L
+Arkansas
+W
+Oklahoma
+W
+Tennessee
+W
+Florida
+L
+Georgia
+L
+Auburn
+L
+South Carolina
+W
+Vanderbilt
+W
+Texas A&M
+L
+Florida
+L
+LSU
+W
+Missouri
+W
+Florida
+L
+Team: Missouri Tigers
+Howard
+W
+Southeast Missouri State
+W
+VMI
+W
+Minnesota
+W
+Prairie View A&M
+W
+South Dakota
+W
+South Carolina State
+W
+Cleveland State
+W
+Notre Dame
+L
+Kansas
+L
+Alabama State
+W
+Bethune-Cookman
+W
+Illinois
+L
+Florida
+W
+Kentucky
+W
+Ole Miss
+L
+Auburn
+W
+LSU
+L
+Georgia
+L
+Oklahoma
+W
+Alabama
+L
+Mississippi State
+W
+South Carolina
+W
+Texas A&M
+W
+Texas
+L
+Vanderbilt
+W
+Arkansas
+L
+Tennessee
+W
+Mississippi State
+W
+Oklahoma
+L
+Arkansas
+L
+Kentucky
+L
+Team: Mississippi State Bulldogs
+North Alabama
+W
+Iowa State
+L
+SE Louisiana
+W
+Kansas State
+L
+New Mexico
+L
+New Orleans
+W
+SMU
+L
+Georgia Tech
+W
+San Francisco
+L
+Utah
+W
+Long Island University
+W
+Memphis
+W
+Alabama State
+W
+Texas
+W
+Oklahoma
+W
+Kentucky
+L
+Alabama
+L
+Ole Miss
+L
+Texas A&M
+L
+Vanderbilt
+L
+LSU
+W
+Missouri
+L
+Arkansas
+L
+Tennessee
+L
+Ole Miss
+W
+Auburn
+W
+South Carolina
+L
+Alabama
+L
+Missouri
+L
+Florida
+L
+Georgia
+L
+Auburn
+L
+Team: Ole Miss Rebels
+SE Louisiana
+W
+UL Monroe
+W
+Memphis
+W
+Cal State Bakersfield
+W
+Austin Peay
+W
+Iowa
+L
+Utah
+L
+Miami
+L
+St. John's
+L
+Southern Miss
+W
+Alabama A&M
+W
+NC State
+L
+Alcorn State
+W
+Oklahoma
+L
+Arkansas
+L
+Missouri
+W
+Georgia
+W
+Mississippi State
+W
+Auburn
+L
+Kentucky
+L
+Vanderbilt
+L
+Tennessee
+L
+Texas
+L
+Alabama
+L
+Mississippi State
+L
+Texas A&M
+L
+Florida
+L
+LSU
+L
+Auburn
+W
+Vanderbilt
+L
+South Carolina
+L
+Texas
+W
+Georgia
+W
+Alabama
+W
+Arkansas
+L
+Team: Oklahoma Sooners
+Colorado
+7
+Saint Francis
+W
+Gonzaga
 L
 Arkansas-Pine Bluff
 W
+Nebraska
+L
+Oral Roberts
+W
+Alcorn State
+W
+Marquette
+W
+Wake Forest
+W
+Arizona State
+L
+Oklahoma State
+W
+Kansas City
+W
+Stetson
+W
 Mississippi Valley State
 W
-Bethune-Cookman
+Ole Miss
+W
+Mississippi State
 L
+Texas A&M
+L
+Florida
+L
+Alabama
+L
+South Carolina
+L
+Missouri
+L
+Arkansas
+L
+Texas
+L
+Kentucky
+L
+Vanderbilt
+W
+Georgia
+W
+Tennessee
+L
+Texas A&M
+L
+Auburn
+W
+LSU
+W
+Missouri
+W
+Texas
+W
+South Carolina
+W
+Texas A&M
+W
+Arkansas
+L
+Team: Tennessee Volunteers
+Mercer
+W
+Northern Kentucky
+W
+North Florida
+W
+Rice
+W
+Tennessee State
+W
+Rutgers
+W
+Houston
+W
+Kansas
+L
+Syracuse
+L
+Illinois
+L
+Louisville
+W
+Gardner-Webb
+W
+South Carolina State
+W
+Arkansas
+L
+Texas
+W
+Florida
+L
+Texas A&M
+W
+Kentucky
+L
+Alabama
+W
+Georgia
+W
+Auburn
+W
+Ole Miss
+W
+Kentucky
+L
+Mississippi State
+W
+LSU
+W
+Oklahoma
+W
+Vanderbilt
+W
+Missouri
+L
+Alabama
+L
+South Carolina
+W
+Vanderbilt
+L
+Auburn
+W
+Vanderbilt
+L
+Team: South Carolina Gamecocks
+North Carolina A&T
+W
+Southern Miss
+W
+Presbyterian
+W
+Radford
+W
+Butler
+L
+Northwestern
+L
+Charleston Southern
+W
+Virginia Tech
+L
+Stetson
+W
+The Citadel
+W
+Clemson
+L
+South Carolina State
+W
+UAlbany
+W
+Vanderbilt
+L
+LSU
+W
+Georgia
+L
+Arkansas
+L
+Auburn
+L
+Oklahoma
+W
+Texas A&M
+L
+Florida
+L
+LSU
+L
+Texas
+L
+Missouri
+L
+Alabama
+L
+Florida
+L
+Mississippi State
+W
+Kentucky
+L
+Georgia
+L
+Tennessee
+L
+Ole Miss
+W
+Oklahoma
+L
+Team: Texas Longhorns
+Duke
+L
+Lafayette
+W
+Fairleigh Dickinson
+W
+Kansas City
+W
+Rider
+W
+Arizona State
+L
+Chaminade
+W
+NC State
+W
+Virginia
+L
+Southern
+W
+UConn
+L
+Le Moyne
+W
+Maryland Eastern Shore
+W
+Mississippi State
+L
+Tennessee
+L
+Alabama
+W
+Vanderbilt
+W
+Texas A&M
+L
+Kentucky
+L
+Georgia
+W
+Auburn
+L
+Oklahoma
+W
+South Carolina
+W
+Ole Miss
+W
+Missouri
+W
+LSU
+W
+Georgia
+L
+Florida
+L
+Texas A&M
+W
+Arkansas
+L
+Oklahoma
+L
+Ole Miss
+L
+Team: Texas A&M Aggies
+Northwestern State
+W
+Texas Southern
+W
+Oklahoma State
+L
+UCF
+L
+Montana
+W
+Manhattan
+W
+Mississippi Valley State
+W
+Florida State
+W
+Pittsburgh
+W
+SMU
+L
+Jacksonville
+W
+East Texas A&M
+W
+Prairie View A&M
+W
+LSU
+W
+Auburn
+W
+Oklahoma
+W
+Tennessee
+L
+Texas
+W
+Mississippi State
+W
+South Carolina
+W
+Georgia
+W
+Alabama
+L
+Florida
+L
+Missouri
+L
+Vanderbilt
+L
+Ole Miss
+W
+Oklahoma
+W
+Arkansas
+L
+Texas
+L
+Kentucky
+W
+LSU
+W
+Oklahoma
+L
+Team: Alabama A&M Bulldogs
+Blue Mountain
+W
+Indiana
+L
+Charleston Southern
+W
+Lindenwood
+W
+Clemson
+L
+Coastal Carolina
+L
+Tennessee State
+W
+Lipscomb
+L
+Arkansas Baptist
+W
+North Alabama
+W
+Ole Miss
+L
+Chattanooga
+L
+Fisk
+W
+Arkansas-Pine Bluff
+L
+Mississippi Valley State
+W
+Alcorn State
+L
+Jackson State
+W
+Alabama State
+W
+Texas Southern
+L
+Prairie View A&M
+P
 Florida A&M
-L
-Alabama A&M
+W
+Bethune-Cookman
 W
 Southern
 L
 Grambling
 L
-Alcorn State
+Mississippi Valley State
+W
+Arkansas-Pine Bluff
+W
+Florida A&M
+W
+Bethune-Cookman
+W
+Alabama State
+L
+Grambling
+L
+Southern
+W
+Texas Southern
+L
+Prairie View A&M
+W
+Team: Vanderbilt Commodores
+Lipscomb
+W
+UCF
+W
+Eastern Kentucky
+W
+Arkansas-Pine Bluff
+W
+Texas Southern
+W
+Western Kentucky
+W
+VCU
+W
+Saint Mary's
+W
+SMU
+W
+Central Arkansas
+W
+Memphis
+W
+Wake Forest
+W
+New Haven
+W
+South Carolina
+W
+Alabama
+W
+LSU
+W
+Texas
+L
+Florida
+L
+Arkansas
+L
+Mississippi State
+W
+Kentucky
+W
+Ole Miss
+W
+Oklahoma
+L
+Auburn
+W
+Texas A&M
+W
+Missouri
+L
+Tennessee
+L
+Georgia
+W
+Kentucky
+L
+Ole Miss
+W
+Tennessee
+W
+Tennessee
+W
+Florida
+W
+Arkansas
 L
 Team: Alcorn State Braves
 Florida State
@@ -12817,69 +19173,1455 @@ Alabama State
 W
 Prairie View A&M
 L
-Team: Prairie View A&M Panthers
-Team: Lamar Cardinals
-Texas A&M-San Antonio
+Team: Alabama State Hornets
+Florida State
+L
+UAB
+W
+Virginia-Lynchburg
+W
+Colorado
+L
+Air Force
+L
+IU Indianapolis
+W
+SIU Edwardsville
+L
+New Mexico
+L
+UT Martin
+L
+Missouri
+L
+Cincinnati
+L
+Memphis
+L
+Mississippi State
+L
+Mississippi Valley State
+W
+Arkansas-Pine Bluff
+L
+Jackson State
+L
+Alcorn State
+W
+Alabama A&M
+L
+Prairie View A&M
+W
+Texas Southern
+L
+Bethune-Cookman
+L
+Florida A&M
+W
+Grambling
+L
+Southern
+L
+Arkansas-Pine Bluff
+W
+Mississippi Valley State
+W
+Bethune-Cookman
+L
+Florida A&M
+L
+Alabama A&M
+W
+Southern
+L
+Grambling
+L
+Alcorn State
+L
+Team: Bethune-Cookman Wildcats
+Auburn
+L
+Miami
+L
+Coastal Georgia
+W
+Dayton
+L
+Ohio
+W
+Jacksonville
+L
+Stony Brook
+L
+Indiana
+L
+South Carolina State
+W
+Missouri
+L
+Saint Louis
+L
+Arizona
+L
+Oklahoma State
+L
+Florida A&M
+W
+Grambling
+W
+Southern
+L
+Mississippi Valley State
+W
+Arkansas-Pine Bluff
+W
+Jackson State
+W
+Alcorn State
+W
+Alabama State
+W
+Alabama A&M
+W
+Prairie View A&M
+W
+Texas Southern
+W
+Alcorn State
+L
+Jackson State
+L
+Alabama State
+W
+Alabama A&M
+W
+Grambling
+W
+Southern
+W
+Florida A&M
+L
+Prairie View A&M
+L
+Team: Arkansas-Pine Bluff Golden Lions
+Washington
+L
+Portland
+L
+Loyola Marymount
+L
+Oklahoma
+L
+Vanderbilt
+L
+SMU
+L
+Marshall
+L
+Miami (OH)
+L
+UIC
+W
+DePaul
+L
+Tulsa
+L
+Ecclesia
+W
+Champion Christian
+W
+Alabama A&M
+W
+Alabama State
+W
+Texas Southern
+W
+Prairie View A&M
+L
+Florida A&M
+L
+Bethune-Cookman
+L
+Southern
+W
+Mississippi Valley State
+W
+Grambling
+W
+Alcorn State
+W
+Jackson State
+W
+Alabama State
+L
+Alabama A&M
+L
+Texas Southern
+L
+Prairie View A&M
+W
+Mississippi Valley State
+L
+Jackson State
+L
+Alcorn State
+W
+Southern
+L
+Team: Grambling Tigers
+Huston-Tillotson
+W
+Iowa State
+L
+Howard
+W
+Southern Miss
+W
+San Diego
+L
+California Baptist
+L
+UC Riverside
+L
+Tulane
+L
+Southern Miss
+L
+Norfolk State
+W
+Hampton
+W
+Ohio State
+L
+Centenary (LA)
+W
+Prairie View A&M
+W
+Texas Southern
+W
+Bethune-Cookman
+L
+Florida A&M
+L
+Southern
+L
+Jackson State
+W
+Alcorn State
+W
+Arkansas-Pine Bluff
+L
+Alabama State
+W
+Alabama A&M
+L
+Texas Southern
+L
+Prairie View A&M
+L
+Southern
+L
+Mississippi Valley State
+W
+Bethune-Cookman
+L
+Florida A&M
+L
+Alabama A&M
+L
+Alabama State
+W
+Mississippi Valley State
+W
+Jackson State
+L
+Team: Florida A&M Rattlers
+South Florida
+L
+Kennesaw State
+L
+UCF
+L
+Georgia
+L
+Jacksonville
+L
+Florida Memorial
+C
+Albany St (GA)
+W
+Jacksonville
+W
+Tarleton State
 W
 TCU
 L
-UL Monroe
-W
-Montana
-W
-Oakland
+Georgia Tech
 L
-Our Lady Of The Lake
+Bethune-Cookman
+L
+Southern
+L
+Grambling
 W
+Arkansas-Pine Bluff
+W
+Mississippi Valley State
+W
+Alcorn State
+W
+Jackson State
+W
+Alabama A&M
+L
+Alabama State
+L
+Texas Southern
+L
+Prairie View A&M
+L
+Jackson State
+W
+Alcorn State
+L
+Alabama A&M
+W
+Alabama State
+L
+Southern
+W
+Grambling
+W
+Bethune-Cookman
+W
+Jackson State
+W
+Southern
+W
+Team: Mississippi Valley State Delta Devils
+UAB
+L
+Mississippi University For Women
+W
+Murray State
+L
+Hawai'i
+L
+Utah Tech
+L
+Manhattan
+L
+Cal State Bakersfield
+L
+Texas A&M
+L
+UL Monroe
+L
+Kansas State
+L
+Tarleton State
+L
+Florida State
+L
+West Virginia
+L
+Oklahoma
+L
+Alabama State
+L
+Alabama A&M
+L
+Prairie View A&M
+L
+Texas Southern
+L
+Bethune-Cookman
+L
+Florida A&M
+L
+Southern
+L
+Arkansas-Pine Bluff
+L
+Jackson State
+L
+Alcorn State
+L
+Alabama A&M
+L
+Alabama State
+L
+Prairie View A&M
+L
+Texas Southern
+W
+Grambling
+L
+Arkansas-Pine Bluff
+W
+Alcorn State
+L
+Jackson State
+L
+Grambling
+L
+Team: Jackson State Tigers
+Illinois
+L
+Louisville
+L
+Louisiana Tech
+L
+Auburn
+L
+Arkansas
+L
+Winthrop
+L
 Louisiana
 W
-Texas A&M-Corpus Christi
+Kennesaw State
 L
-San Diego State
+Houston
 L
-UT Rio Grande Valley
+Northwestern
 L
-Omaha
+Hampton
+L
+Norfolk State
+L
+TCU
+L
+Alcorn State
+W
+Alabama State
+W
+Alabama A&M
+L
+Prairie View A&M
+W
+Texas Southern
+W
+Bethune-Cookman
+L
+Florida A&M
+W
+Grambling
+L
+Southern
+L
+Mississippi Valley State
+W
+Arkansas-Pine Bluff
+L
+Florida A&M
+W
+Bethune-Cookman
+W
+Alcorn State
+L
+Prairie View A&M
+L
+Texas Southern
+L
+Arkansas-Pine Bluff
+W
+Mississippi Valley State
+W
+Grambling
+W
+Florida A&M
+L
+Team: Southern Jaguars
+Arkansas
+L
+Marquette
+L
+Ecclesia
+W
+Champion Christian
+W
+Washington
+L
+San Josï¿½ State
 L
 Northwestern State
 W
-East Texas A&M
+Louisiana Christian
 W
-McNeese
+Texas
 L
-SE Louisiana
+Texas State
 L
-Incarnate Word
+California Baptist
+L
+Baylor
+L
+Illinois
+L
+Texas Southern
 W
-Houston Christian
-W
-Nicholls
-W
-New Orleans
+Prairie View A&M
 L
-Stephen F. Austin
+Florida A&M
 L
-East Texas A&M
+Bethune-Cookman
+W
+Grambling
+W
+Arkansas-Pine Bluff
+L
+Mississippi Valley State
+W
+Alcorn State
+L
+Jackson State
+W
+Alabama A&M
+W
+Alabama State
+W
+Prairie View A&M
+W
+Texas Southern
+L
+Grambling
+W
+Florida A&M
+L
+Bethune-Cookman
+L
+Alabama State
+W
+Alabama A&M
+W
+Arkansas-Pine Bluff
+W
+Florida A&M
+W
+Prairie View A&M
+L
+Team: Prairie View A&M Panthers
+College Of Biblical Studies
+W
+Dallas
+W
+Wichita State
+L
+Oklahoma State
+L
+Missouri
+L
+UT Martin
+L
+North Florida
+W
+North Texas
+L
+Champion Christian
+W
+South Dakota
+L
+Paul Quinn
+W
+LSU
+L
+Texas A&M
+L
+Grambling
+L
+Southern
+W
+Mississippi Valley State
+W
+Arkansas-Pine Bluff
+W
+Jackson State
+L
+Alcorn State
+L
+Alabama State
+L
+Alabama A&M
 P
+Texas Southern
+L
+Bethune-Cookman
+W
+Florida A&M
+L
+Southern
+L
+Grambling
+L
+Mississippi Valley State
+W
+Arkansas-Pine Bluff
+W
+Jackson State
+L
+Alcorn State
+W
+Texas Southern
+W
+Alcorn State
+W
+Bethune-Cookman
+W
+Alabama A&M
+W
+Southern
+W
+Team: Chattanooga Mocs
+Union (KY)
+W
+Saint Mary's
+L
+UNLV
+L
+Florida Gulf Coast
+L
+South Carolina State
+W
+North Alabama
+W
+Tennessee Wesleyan
+W
+Tennessee State
+L
+Southeast Missouri State
+L
+Oakwood
+W
+Auburn
+L
+Bellarmine
+L
+Alabama A&M
+W
+UNC Greensboro
+L
+VMI
+L
+Furman
+L
+Samford
+W
+Wofford
+W
+Western Carolina
+W
+East Tennessee State
+L
+Samford
+L
+Wofford
+L
+Furman
+L
+Mercer
+W
+The Citadel
+L
+East Tennessee State
+L
+Western Carolina
+L
+Mercer
+W
+The Citadel
+W
+UNC Greensboro
+L
+VMI
+W
+The Citadel
+L
+Team: Texas Southern Tigers
+Gonzaga
+L
+Texas A&M
+L
+Samford
+L
+Texas State
+L
+Vanderbilt
+L
+College Of Biblical Studies
+W
+Sam Houston
+L
+Minnesota
+L
+NC State
+L
+Abilene Christian
+L
+Huston-Tillotson
+W
+Southern
+L
+Grambling
+L
+Arkansas-Pine Bluff
+L
+Mississippi Valley State
+W
+Alcorn State
+W
+Jackson State
+L
+Alabama A&M
+W
+Alabama State
+W
+Prairie View A&M
+L
+Florida A&M
+W
+Bethune-Cookman
+L
+Grambling
+W
+Southern
+W
+Arkansas-Pine Bluff
+W
+Mississippi Valley State
+L
+Alcorn State
+W
+Jackson State
+W
+Prairie View A&M
+L
+Alabama A&M
+L
+Team: Furman Paladins
+High Point
+L
+Troy
+L
+Columbia International
+W
+Northern Iowa
+L
+Ohio Christian
+W
+Queens University
+W
+Richmond
+W
+Illinois State
+L
+Elon
+W
+Harvard
+W
+Bob Jones
+W
+Manhattan
+W
+Charleston Southern
+W
+Mercer
+W
+Western Carolina
+L
+Chattanooga
+W
+VMI
+W
+Samford
+W
+Wofford
+L
+The Citadel
+L
+UNC Greensboro
+W
+Samford
+W
+Chattanooga
+W
+East Tennessee State
+L
+UNC Greensboro
+L
+Mercer
+L
+VMI
+W
+East Tennessee State
+L
+Wofford
+W
+The Citadel
+W
+Western Carolina
+L
+Samford
+W
+UNC Greensboro
+W
+East Tennessee State
+W
+Team: East Tennessee State Buccaneers
+Converse University
+W
+Presbyterian
+L
+Northern Kentucky
+W
+North Alabama
+W
+Morehead State
+W
+UL Monroe
+W
+Central Arkansas
+W
+Dayton
+L
+South Alabama
+W
+Tusculum
+W
+Austin Peay
+L
+North Carolina
+L
+Jacksonville State
+L
+The Citadel
+W
+Mercer
+W
+VMI
+W
+UNC Greensboro
+W
+Western Carolina
+L
+Samford
+W
+Chattanooga
+W
+The Citadel
+W
+Western Carolina
+L
+Wofford
+W
+Furman
+W
+VMI
+W
+Chattanooga
+W
+Samford
+L
+Furman
+W
+UNC Greensboro
+W
+Wofford
+L
+Mercer
+L
+The Citadel
+W
+Western Carolina
+W
+Furman
+L
+Team: Samford Bulldogs
+Tulane
+L
+South Carolina State
+W
+Texas Southern
+W
+Arkansas
+L
+Central Arkansas
+W
+Florida Gulf Coast
+L
+New Mexico State
+L
+Georgia State
+W
+Utah Valley
+L
+VCU
+L
+Cornell
+W
+Bryan (TN)
+W
+Reinhardt
+W
+VMI
+W
+UNC Greensboro
+L
+Western Carolina
+W
+Chattanooga
+L
+Furman
+L
+East Tennessee State
+L
+Wofford
+L
+Chattanooga
+W
+Furman
+L
+Western Carolina
+W
+The Citadel
+W
+Mercer
+W
+Wofford
+W
+East Tennessee State
+W
+The Citadel
+W
+Mercer
+L
+VMI
+W
+UNC Greensboro
+W
+Furman
+L
+Team: Mercer Bears
+Tennessee
+L
+LaGrange
+W
+Lipscomb
+W
+Winthrop
+L
+Eastern Kentucky
+W
+App State
+W
+Elon
+W
+Georgia State
+W
+Oglethorpe
+W
+Clemson
+L
+UCF
+L
+Washington State
+L
+Baptist (Fl)
+W
+Furman
+L
+East Tennessee State
+L
+The Citadel
+W
+Wofford
+W
+VMI
+W
+UNC Greensboro
+W
+Western Carolina
+W
+Wofford
+L
+UNC Greensboro
+W
+VMI
+W
+Chattanooga
+L
+Samford
+L
+Furman
+W
+The Citadel
+W
+Chattanooga
+L
+Samford
+W
+Western Carolina
+L
+East Tennessee State
+W
+Western Carolina
+L
+Team: UNC Greensboro Spartans
+Kansas State
+L
+Elon
+L
+NC State
+L
+Austin Peay
+L
+Queens University
+L
+Youngstown State
+W
+Delaware
+L
+Miami (OH)
+L
+UNC Asheville
+L
+East Carolina
+W
+William Peace
+W
+North Carolina A&T
+L
+Virginia-Lynchburg
+W
+Chattanooga
+W
+Samford
+W
+Wofford
+L
+East Tennessee State
+L
+The Citadel
+W
+Mercer
+L
+VMI
+W
+Furman
+L
+Mercer
+L
+The Citadel
+L
+Western Carolina
+W
+Furman
+W
+VMI
+W
+Wofford
+W
+Western Carolina
+L
+East Tennessee State
+L
+Chattanooga
+W
+Samford
+L
+VMI
+W
+Wofford
+W
+Furman
+L
+Team: The Citadel Bulldogs
+Erskine
+W
+Boston College
+L
+Charleston Southern
+L
+West Georgia
+L
+North Greenville
+W
+Bellarmine
+L
+Houston Christian
+L
+Presbyterian
+L
+Davidson
+L
+Southern Wesleyan
+W
+South Carolina
+L
+Charleston
+L
+Richmond
+L
+East Tennessee State
+L
+Wofford
+L
+Mercer
+L
+Western Carolina
+W
+UNC Greensboro
+L
+VMI
+W
+Furman
+W
+East Tennessee State
+L
+VMI
+W
+UNC Greensboro
+W
+Samford
+L
+Chattanooga
+W
+Western Carolina
+L
+Mercer
+L
+Samford
+L
+Chattanooga
+L
+Furman
+L
+Wofford
+W
+Chattanooga
+W
+East Tennessee State
+L
+Team: Western Carolina Catamounts
+Cincinnati
+L
+Duke
+L
+Voorhees
+W
+Stetson
+W
+UNC Asheville
+W
+Lipscomb
+L
+High Point
+L
+Virginia-Lynchburg
+W
+South Carolina Upstate
+L
+Virginia Tech
+L
+Georgia
+L
+Wofford
+L
+Furman
+W
+Samford
+L
+The Citadel
+L
+East Tennessee State
+W
+Chattanooga
+L
+Mercer
+L
+VMI
+W
+East Tennessee State
+W
+Samford
+L
+UNC Greensboro
+L
+Wofford
+L
+The Citadel
+W
+Chattanooga
+W
+UNC Greensboro
+W
+VMI
+W
+Mercer
+W
+Furman
+W
+Mercer
+W
+East Tennessee State
+L
+Team: VMI Keydets
+Johnson & Wales (NC)
+W
+Southern Indiana
+W
+Missouri
+L
+Virginia-Lynchburg
+W
+Jacksonville
+L
+Richmond
+L
+Stetson
+L
+Buffalo
+L
+Bowling Green
+L
+UCF
+L
+Christendom
+W
+Loyola Maryland
+W
+Radford
+L
+Samford
+L
+Chattanooga
+W
+East Tennessee State
+L
+Furman
+L
+Mercer
+L
+The Citadel
+L
+UNC Greensboro
+L
+Western Carolina
+L
+The Citadel
+L
+Mercer
+L
+Wofford
+L
+East Tennessee State
+L
+UNC Greensboro
+L
+Furman
+L
+Wofford
+L
+Western Carolina
+L
+Samford
+L
+Chattanooga
+L
+UNC Greensboro
+L
+Team: East Texas A&M Lions
+Arlington Baptist
+W
+New Mexico
+L
+Hawai'i
+L
+Rice
+L
+Dallas Christian
+W
+Fairleigh Dickinson
+W
+Army
+W
+UConn
+L
+Central Arkansas
+W
+McNeese
+L
+SE Louisiana
+W
+Texas A&M
+L
+Stephen F. Austin
+L
+Lamar
+L
+Nicholls
+L
+New Orleans
+L
+UT Rio Grande Valley
+W
+Texas A&M-Corpus Christi
+L
+Houston Christian
+L
+Incarnate Word
+W
+Lamar
+P
+Nicholls
+P
+New Orleans
+L
+Northwestern State
+L
+Northwestern State
+L
+Stephen F. Austin
+W
 McNeese
 W
 SE Louisiana
 L
-Stephen F. Austin
-W
-Northwestern State
-L
-Texas A&M-Corpus Christi
-L
-UT Rio Grande Valley
-L
-New Orleans
-L
-Nicholls
-L
 Incarnate Word
 L
 Houston Christian
+W
+UT Rio Grande Valley
+L
+Texas A&M-Corpus Christi
+L
+Team: Wofford Terriers
+George Mason
+L
+Milwaukee
+W
+Auburn
+L
+Bellarmine
+W
+North Florida
+W
+Erskine
+W
+Northern Kentucky
+L
+Eastern Kentucky
+W
+Presbyterian
+W
+Elon
+L
+Gardner-Webb
+W
+Wichita State
+L
+Union (KY)
+W
+Western Carolina
+W
+The Citadel
+W
+UNC Greensboro
+W
+Mercer
+L
+Chattanooga
+L
+Furman
+W
+Samford
+W
+Mercer
+W
+Chattanooga
+W
+East Tennessee State
+L
+VMI
+W
+Western Carolina
+W
+Samford
+L
+UNC Greensboro
+L
+VMI
+W
+Furman
+L
+East Tennessee State
+W
+The Citadel
+L
+UNC Greensboro
+L
+Team: Incarnate Word Cardinals
+Colorado State
+L
+Jarvis Christian
+W
+Southwestern Christian
+W
+Indiana
+L
+Southern Indiana
+W
+High Point
+L
+Texas Lutheran
+W
+McNeese
+W
+Nicholls
+L
+New Orleans
+L
+TCU
+L
+Northern Arizona
+W
+SE Louisiana
+W
+Houston Christian
+W
+UT Rio Grande Valley
+L
+Lamar
+L
+Stephen F. Austin
+L
+Northwestern State
+W
+East Texas A&M
+L
+Texas A&M-Corpus Christi
+L
+Houston Christian
+L
+UT Rio Grande Valley
+L
+Texas A&M-Corpus Christi
+W
+McNeese
+L
+SE Louisiana
+L
+Nicholls
+L
+New Orleans
+L
+East Texas A&M
+W
+Northwestern State
+L
+Lamar
+W
+Stephen F. Austin
 L
 Team: Houston Christian Huskies
 Southern Arkansas
@@ -12946,68 +20688,68 @@ Lamar
 W
 New Orleans
 L
-Team: Incarnate Word Cardinals
-Colorado State
-L
-Jarvis Christian
+Team: Lamar Cardinals
+Texas A&M-San Antonio
 W
-Southwestern Christian
-W
-Indiana
-L
-Southern Indiana
-W
-High Point
-L
-Texas Lutheran
-W
-McNeese
-W
-Nicholls
-L
-New Orleans
-L
 TCU
 L
-Northern Arizona
+UL Monroe
 W
-SE Louisiana
+Montana
 W
-Houston Christian
+Oakland
+L
+Our Lady Of The Lake
 W
+Louisiana
+W
+Texas A&M-Corpus Christi
+L
+San Diego State
+L
 UT Rio Grande Valley
 L
-Lamar
-L
-Stephen F. Austin
+Omaha
 L
 Northwestern State
 W
 East Texas A&M
-L
-Texas A&M-Corpus Christi
-L
-Houston Christian
-L
-UT Rio Grande Valley
-L
-Texas A&M-Corpus Christi
 W
 McNeese
 L
 SE Louisiana
 L
+Incarnate Word
+W
+Houston Christian
+W
 Nicholls
-L
+W
 New Orleans
 L
+Stephen F. Austin
+L
 East Texas A&M
+P
+McNeese
+W
+SE Louisiana
+L
+Stephen F. Austin
 W
 Northwestern State
 L
-Lamar
-W
-Stephen F. Austin
+Texas A&M-Corpus Christi
+L
+UT Rio Grande Valley
+L
+New Orleans
+L
+Nicholls
+L
+Incarnate Word
+L
+Houston Christian
 L
 Team: McNeese Cowboys
 Champion Christian
@@ -13076,6 +20818,1602 @@ UT Rio Grande Valley
 W
 Stephen F. Austin
 W
+Team: Nicholls Colonels
+Kentucky
+L
+Eastern Illinois
+L
+Valparaiso
+L
+Murray State
+L
+Oklahoma State
+L
+Tulane
+L
+Creighton
+L
+Incarnate Word
+W
+College Of Biblical Studies
+W
+Houston Christian
+W
+Pacific
+L
+Texas A&M-Corpus Christi
+W
+UT Rio Grande Valley
+W
+East Texas A&M
+W
+Northwestern State
+W
+New Orleans
+W
+McNeese
+L
+Lamar
+L
+Stephen F. Austin
+L
+SE Louisiana
+L
+New Orleans
+L
+East Texas A&M
+W
+Northwestern State
+W
+Texas A&M-Corpus Christi
+L
+UT Rio Grande Valley
+L
+Incarnate Word
+W
+Houston Christian
+L
+Stephen F. Austin
+L
+Lamar
+W
+SE Louisiana
+W
+McNeese
+L
+Northwestern State
+W
+UT Rio Grande Valley
+L
+Team: New Orleans Privateers
+TCU
+W
+LSU
+L
+Tulane
+W
+Pepperdine
+L
+Fresno State
+L
+Mississippi State
+L
+Texas Tech
+L
+Memphis
+L
+Houston Christian
+L
+Incarnate Word
+W
+Houston
+L
+UT Rio Grande Valley
+W
+Texas A&M-Corpus Christi
+L
+Northwestern State
+L
+East Texas A&M
+W
+Nicholls
+L
+SE Louisiana
+W
+Stephen F. Austin
+L
+Lamar
+W
+McNeese
+L
+Nicholls
+W
+Northwestern State
+W
+East Texas A&M
+W
+UT Rio Grande Valley
+L
+Texas A&M-Corpus Christi
+W
+Houston Christian
+L
+Incarnate Word
+W
+Lamar
+W
+Stephen F. Austin
+W
+McNeese
+L
+SE Louisiana
+L
+Houston Christian
+W
+Texas A&M-Corpus Christi
+L
+Team: Northwestern State Demons
+Texas A&M
+L
+North Texas
+L
+North Alabama
+L
+Ecclesia
+W
+San Francisco
+L
+Grand Canyon
+L
+Southern
+L
+McNeese
+L
+SE Louisiana
+W
+California
+L
+Southern-New Orleans
+W
+Lamar
+L
+Stephen F. Austin
+L
+New Orleans
+W
+Nicholls
+L
+Texas A&M-Corpus Christi
+W
+UT Rio Grande Valley
+W
+Incarnate Word
+L
+Houston Christian
+L
+Stephen F. Austin
+P
+New Orleans
+L
+Nicholls
+L
+East Texas A&M
+L
+East Texas A&M
+L
+Lamar
+L
+SE Louisiana
+W
+McNeese
+W
+Houston Christian
+L
+Incarnate Word
+W
+Texas A&M-Corpus Christi
+W
+UT Rio Grande Valley
+L
+Nicholls
+L
+Team: SE Louisiana Lions
+Ole Miss
+L
+Louisiana
+L
+Georgia Tech
+L
+Mississippi State
+L
+William Carey
+W
+UNC Wilmington
+L
+Gardner-Webb
+W
+Navy
+W
+Northwestern State
+L
+Houston Christian
+W
+East Texas A&M
+L
+LSU
+L
+Incarnate Word
+L
+Stephen F. Austin
+L
+Lamar
+W
+McNeese
+L
+New Orleans
+L
+Texas A&M-Corpus Christi
+L
+UT Rio Grande Valley
+L
+Nicholls
+W
+McNeese
+L
+Stephen F. Austin
+L
+Lamar
+L
+Houston Christian
+W
+Incarnate Word
+W
+Northwestern State
+L
+East Texas A&M
+L
+UT Rio Grande Valley
+L
+Texas A&M-Corpus Christi
+L
+Nicholls
+L
+New Orleans
+W
+Team: Texas A&M-Corpus Christi Islanders
+Trinity (TX)
+W
+SMU
+L
+Tarleton State
+L
+Kansas
+L
+Oklahoma State
+L
+Howard Payne
+W
+Xavier
+L
+Lamar
+W
+Dallas Christian
+W
+Stephen F. Austin
+L
+Southwestern Adventist
+W
+Nicholls
+L
+New Orleans
+W
+UT Rio Grande Valley
+W
+Houston Christian
+W
+Northwestern State
+L
+East Texas A&M
+W
+SE Louisiana
+W
+McNeese
+L
+Incarnate Word
+W
+UT Rio Grande Valley
+L
+Houston Christian
+W
+Incarnate Word
+L
+Nicholls
+W
+New Orleans
+L
+Lamar
+W
+Stephen F. Austin
+L
+McNeese
+L
+SE Louisiana
+W
+Northwestern State
+W
+East Texas A&M
+W
+New Orleans
+W
+Stephen F. Austin
+L
+Team: Stephen F. Austin Lumberjacks
+Millsaps
+W
+Arkansas State
+W
+Rice
+W
+Abilene Christian
+W
+Fresno State
+L
+Pepperdine
+W
+UT Arlington
+L
+UT Rio Grande Valley
+W
+UL Monroe
+W
+Texas A&M-Corpus Christi
+W
+Dallas
+W
+East Texas A&M
+W
+Northwestern State
+W
+SE Louisiana
+W
+McNeese
+L
+Houston Christian
+W
+Incarnate Word
+W
+New Orleans
+W
+Nicholls
+W
+Lamar
+W
+Northwestern State
+W
+SE Louisiana
+W
+McNeese
+W
+Lamar
+W
+East Texas A&M
+W
+UT Rio Grande Valley
+W
+Texas A&M-Corpus Christi
+W
+Nicholls
+W
+New Orleans
+L
+Houston Christian
+W
+Incarnate Word
+W
+Texas A&M-Corpus Christi
+W
+McNeese
+L
+Team: Denver Pioneers
+Seattle U
+L
+Washington
+L
+Montana State
+W
+UTSA
+L
+Colorado State
+W
+Arizona
+L
+Wyoming
+L
+Eastern Washington
+W
+Idaho State
+L
+Colorado Christian
+W
+Alaska Anchorage
+W
+Cal State Fullerton
+L
+Colorado-Colorado Springs
+W
+Northern Colorado
+W
+Tulsa
+L
+Kansas City
+W
+St. Thomas-Minnesota
+L
+South Dakota State
+L
+South Dakota
+L
+Oral Roberts
+W
+North Dakota State
+L
+North Dakota
+L
+Kansas City
+W
+Omaha
+L
+North Dakota State
+W
+North Dakota
+W
+South Dakota State
+W
+Omaha
+L
+South Dakota
+W
+St. Thomas-Minnesota
+W
+Oral Roberts
+L
+North Dakota
+L
+Team: UT Rio Grande Valley Vaqueros
+Baylor
+L
+Southern Utah
+W
+Boise State
+L
+Southwestern Adventist
+W
+Missouri State
+L
+Illinois
+L
+Stephen F. Austin
+L
+Austin Peay
+W
+UT Arlington
+L
+Lamar
+W
+College Of Biblical Studies
+W
+New Orleans
+L
+Nicholls
+L
+Texas A&M-Corpus Christi
+L
+Incarnate Word
+W
+East Texas A&M
+L
+Northwestern State
+L
+McNeese
+W
+SE Louisiana
+W
+Houston Christian
+W
+Texas A&M-Corpus Christi
+W
+Incarnate Word
+W
+Houston Christian
+W
+New Orleans
+W
+Nicholls
+W
+Stephen F. Austin
+L
+Lamar
+W
+SE Louisiana
+W
+McNeese
+L
+East Texas A&M
+W
+Northwestern State
+W
+Nicholls
+W
+McNeese
+L
+Team: North Dakota Fighting Hawks
+Alabama
+L
+UC Riverside
+L
+Cal State Northridge
+L
+Mayville St
+W
+UC Riverside
+W
+Creighton
+L
+Coastal Carolina
+L
+Western Illinois
+W
+Hawai'i
+L
+Idaho
+L
+Montana
+L
+Crown College
+W
+Western Illinois
+L
+Winthrop
+W
+Nebraska
+L
+Dakota State
+W
+Oral Roberts
+W
+South Dakota State
+W
+Omaha
+L
+Kansas City
+W
+St. Thomas-Minnesota
+L
+South Dakota
+W
+Oral Roberts
+W
+Denver
+W
+St. Thomas-Minnesota
+W
+Omaha
+W
+Denver
+L
+South Dakota
+W
+North Dakota State
+L
+Kansas City
+W
+South Dakota State
+L
+North Dakota State
+L
+Denver
+W
+St. Thomas-Minnesota
+W
+North Dakota State
+L
+Team: Kansas City Roos
+Evangel
+W
+Southern Illinois
+L
+Iona
+L
+Texas
+L
+TCU
+L
+Lindenwood
+L
+Weber State
+L
+Idaho State
+L
+Eastern Washington
+L
+Weber State
+L
+Spurgeon College
+W
+Oklahoma
+L
+Oklahoma State
+L
+McPherson
+C
+Denver
+W
+Omaha
+L
+North Dakota State
+W
+North Dakota
+L
+South Dakota
+L
+South Dakota State
+L
+Omaha
+L
+Denver
+L
+St. Thomas-Minnesota
+L
+South Dakota
+L
+Oral Roberts
+L
+St. Thomas-Minnesota
+L
+North Dakota
+L
+North Dakota State
+L
+South Dakota State
+L
+Oral Roberts
+L
+Oral Roberts
+L
+Team: Omaha Mavericks
+Murray State
+L
+Abilene Christian
+L
+Colorado State
+L
+Southern Utah
+W
+Concordia-Nebraska
+W
+LSU
+L
+James Madison
+L
+Florida International
+L
+Mid-America Christian
+W
+Northern Colorado
+L
+Portland State
+W
+Doane
+W
+York College Nebraska
+W
+Lamar
+W
+Oregon
+L
+South Dakota State
+L
+Kansas City
+L
+North Dakota
+W
+North Dakota State
+L
+Oral Roberts
+W
+South Dakota
+L
+Kansas City
+W
+South Dakota State
+W
+Denver
+W
+North Dakota
+L
+North Dakota State
+L
+St. Thomas-Minnesota
+W
+Denver
+W
+Oral Roberts
+W
+South Dakota
+L
+St. Thomas-Minnesota
+L
+South Dakota
+W
+North Dakota State
+L
+Team: North Dakota State Bison
+Oregon State
+L
+UC Davis
+L
+Cal State Northridge
+W
+St. Scholastica
+W
+Southern Illinois
+W
+Jamestown
+W
+Jacksonville State
+W
+Arkansas State
+L
+Montana
+W
+Northern Arizona
+W
+Cal State Bakersfield
+W
+Drake
+W
+Minnesota Crookston
+W
+UC Irvine
+L
+UTEP
+L
+South Dakota
+W
+Oral Roberts
+W
+Kansas City
+W
+Omaha
+W
+South Dakota State
+W
+St. Thomas-Minnesota
+W
+Denver
+W
+Oral Roberts
+W
+South Dakota
+W
+Denver
+L
+Omaha
+W
+North Dakota
+W
+South Dakota State
+W
+Kansas City
+W
+St. Thomas-Minnesota
+L
+North Dakota
+W
+Oral Roberts
+W
+Omaha
+W
+North Dakota
+W
+Team: South Dakota Coyotes
+Utah Tech
+L
+Creighton
+L
+Ozark Christian
+W
+Southern Indiana
+W
+Western Michigan
+W
+Missouri
+L
+South Carolina State
+W
+Air Force
+W
+Portland State
+L
+Northern Colorado
+L
+Wyoming
+L
+Prairie View A&M
+W
+Dakota State
+W
+Kansas State
+L
+Mount Marty College
+W
+North Dakota State
+L
+St. Thomas-Minnesota
+L
+Denver
+W
+Kansas City
+W
+North Dakota
+L
+Omaha
+W
+St. Thomas-Minnesota
+L
+Oral Roberts
+W
+North Dakota State
+L
+Kansas City
+W
+South Dakota State
+W
+North Dakota
+L
+Denver
+L
+Oral Roberts
+L
+Omaha
+W
+South Dakota State
+W
+Omaha
+L
+Team: Oral Roberts Golden Eagles
+Oklahoma State
+L
+John Brown
+W
+Tulsa
+L
+Belmont
+L
+Haskell
+W
+Oklahoma
+L
+Florida Gulf Coast
+L
+Kennesaw State
+W
+Rice
+L
+Weber State
+L
+Montana State
+W
+Ecclesia
+W
+Missouri State
+L
+TCU
+L
+UT Arlington
+L
+North Dakota
+L
+North Dakota State
+L
+St. Thomas-Minnesota
+L
+Denver
+L
+Omaha
+L
+North Dakota
+L
+North Dakota State
+L
+South Dakota
+L
+South Dakota State
+L
+St. Thomas-Minnesota
+L
+Kansas City
+W
+South Dakota State
+L
+Omaha
+L
+South Dakota
+W
+Denver
+W
+Kansas City
+W
+Kansas City
+W
+North Dakota State
+L
+Team: St. Thomas-Minnesota Tommies
+Saint Mary's
+L
+Army
+W
+Washington State
+L
+Green Bay
+W
+Southeast Missouri State
+W
+Northern Colorado
+W
+Cal State Fullerton
+L
+Portland
+W
+Lawrence University
+W
+Montana State
+L
+Weber State
+W
+Saint John's (MN)
+W
+UNC Asheville
+W
+UC Riverside
+W
+North Central (MN)
+W
+Denver
+W
+South Dakota
+W
+Oral Roberts
+W
+North Dakota
+W
+North Dakota State
+L
+South Dakota State
+W
+South Dakota
+W
+North Dakota
+L
+Kansas City
+W
+South Dakota State
+W
+Oral Roberts
+W
+Omaha
+L
+Kansas City
+W
+Denver
+L
+North Dakota State
+W
+Omaha
+W
+South Dakota State
+W
+North Dakota
+L
+Team: South Dakota State Jackrabbits
+Merrimack
+W
+Dakota State
+W
+Northern Iowa
+L
+Oregon
+L
+Peru State
+W
+Georgia State
+W
+Utah Valley
+L
+UC Irvine
+L
+Northern Arizona
+W
+Idaho
+L
+Ball State
+W
+Dakota Wesleyan
+W
+Wyoming
+L
+Milwaukee
+L
+Arizona
+L
+Omaha
+W
+North Dakota
+L
+Denver
+W
+North Dakota State
+L
+Kansas City
+W
+St. Thomas-Minnesota
+L
+Omaha
+L
+Oral Roberts
+W
+St. Thomas-Minnesota
+L
+South Dakota
+L
+Denver
+L
+Oral Roberts
+W
+North Dakota State
+L
+North Dakota
+W
+Kansas City
+W
+South Dakota
+L
+St. Thomas-Minnesota
+L
+Team: Arkansas State Red Wolves
+Ohio
+W
+Stephen F. Austin
+L
+Missouri State
+W
+Christian Brothers
+W
+Saint Mary's
+L
+SMU
+L
+Jacksonville State
+W
+North Dakota State
+W
+UT Arlington
+W
+Little Rock
+W
+Rice
+L
+Texas State
+W
+Southern Miss
+W
+Arkansas Tech
+W
+James Madison
+L
+Troy
+W
+Texas State
+W
+South Alabama
+L
+Troy
+L
+Georgia Southern
+W
+Georgia State
+L
+Old Dominion
+L
+Marshall
+L
+Coastal Carolina
+W
+Bowling Green
+W
+UL Monroe
+W
+South Alabama
+L
+Louisiana
+W
+UL Monroe
+W
+Southern Miss
+W
+Louisiana
+W
+Georgia Southern
+L
+Team: App State Mountaineers
+Central Michigan
+L
+Carolina University
+W
+North Carolina Central
+W
+Ohio State
+L
+Dartmouth
+W
+Charlotte
+W
+Elon
+L
+Mercer
+L
+UNC Asheville
+L
+Virginia-Lynchburg
+W
+East Carolina
+W
+High Point
+W
+Coastal Carolina
+W
+Georgia State
+L
+Old Dominion
+W
+Marshall
+L
+Georgia State
+W
+Coastal Carolina
+L
+James Madison
+W
+Old Dominion
+L
+Louisiana
+W
+UL Monroe
+W
+Southern Miss
+W
+Troy
+W
+South Alabama
+W
+Eastern Michigan
+W
+Georgia Southern
+W
+James Madison
+L
+Marshall
+L
+Georgia Southern
+W
+Texas State
+L
+Southern Miss
+L
+Team: Georgia Southern Eagles
+East Carolina
+L
+UNC Asheville
+W
+Florida Gulf Coast
+W
+Johnson C Smith
+W
+Georgia Tech
+L
+Florida State
+L
+Youngstown State
+L
+UTSA
+L
+Houston Christian
+W
+Louisiana Tech
+W
+Gardner-Webb
+W
+Coastal Georgia
+W
+West Georgia
+W
+Georgia State
+W
+James Madison
+W
+Coastal Carolina
+W
+Old Dominion
+W
+South Alabama
+L
+Old Dominion
+W
+Coastal Carolina
+L
+Arkansas State
+L
+Troy
+L
+UL Monroe
+P
+Louisiana
+W
+Texas State
+L
+App State
+L
+Marshall
+L
+Georgia State
+W
+App State
+L
+James Madison
+L
+Marshall
+L
+Old Dominion
+W
+Arkansas State
+W
+South Alabama
+W
+Coastal Carolina
+W
+Marshall
+W
+Troy
+W
+Team: Coastal Carolina Chanticleers
+Western Michigan
+L
+Virginia-Lynchburg
+W
+Winthrop
+W
+Jacksonville State
+L
+Western Illinois
+W
+North Dakota
+W
+Illinois State
+L
+Alabama A&M
+W
+South Carolina Upstate
+L
+Winthrop
+W
+Grand Canyon
+L
+App State
+L
+Old Dominion
+W
+Saint Joseph's
+W
+Georgia Southern
+L
+Georgia State
+L
+Old Dominion
+L
+App State
+W
+Marshall
+W
+Georgia Southern
+W
+Texas State
+W
+Southern Miss
+W
+South Alabama
+L
+UL Monroe
+W
+Arkansas State
+L
+Massachusetts
+W
+Louisiana
+W
+James Madison
+L
+Marshall
+W
+Georgia State
+W
+James Madison
+W
+Georgia Southern
+L
+Team: James Madison Dukes
+Akron
+L
+Washington and Lee
+W
+Coppin State
+W
+Longwood
+L
+Long Island University
+L
+Towson
+W
+Florida International
+W
+Omaha
+W
+George Mason
+L
+North Carolina Central
+W
+Norfolk State
+W
+Old Dominion
+L
+Georgia Southern
+L
+Arkansas
+L
+Arkansas State
+W
+Marshall
+L
+Old Dominion
+W
+App State
+L
+Marshall
+L
+South Alabama
+L
+Texas State
+W
+Troy
+W
+Southern Miss
+L
+Louisiana
+L
+Toledo
+W
+Georgia State
+W
+App State
+W
+Coastal Carolina
+W
+Georgia State
+W
+Georgia Southern
+W
+Coastal Carolina
+L
+Louisiana
+W
+Southern Miss
+L
+Team: Georgia State Panthers
+Eastern Michigan
+L
+Cincinnati
+L
+Presbyterian
+L
+Fort Valley State
+W
+Arizona State
+L
+South Dakota State
+L
+Samford
+L
+New Mexico State
+L
+Mercer
+L
+Kennesaw State
+L
+Jacksonville State
+W
+Georgia Southern
+L
+App State
+W
+Columbia College (SC)
+W
+Marshall
+L
+Coastal Carolina
+W
+App State
+L
+Marshall
+W
+UL Monroe
+W
+Southern Miss
+W
+Arkansas State
+W
+Louisiana
+L
+South Alabama
+L
+Troy
+L
+Northern Illinois
+L
+James Madison
+L
+Old Dominion
+L
+Georgia Southern
+W
+James Madison
+L
+Coastal Carolina
+L
+Old Dominion
+L
+Louisiana
+L
+Team: Marshall Thundering Herd
+Massachusetts
+W
+Toledo
+W
+Elon
+W
+Virginia
+L
+Arkansas-Pine Bluff
+W
+Mercyhurst
+W
+Lipscomb
+L
+UNC Wilmington
+L
+Ohio
+L
+Western Kentucky
+W
+Wright State
+W
+Troy
+L
+WVU Tech
+W
+Georgia State
+W
+App State
+W
+James Madison
+W
+Georgia State
+L
+Coastal Carolina
+L
+James Madison
+W
+UL Monroe
+W
+Texas State
+L
+Arkansas State
+W
+Southern Miss
+W
+Miami (OH)
+L
+Old Dominion
+W
+Georgia Southern
+L
+South Alabama
+W
+App State
+W
+Coastal Carolina
+L
+Old Dominion
+W
+Georgia Southern
+L
+Georgia Southern
+L
+Team: Louisiana Ragin' Cajuns
+Ball State
+L
+SE Louisiana
+W
+Tulane
+L
+McNeese
+L
+Stanford
+L
+Santa Clara
+L
+UC Davis
+L
+Jackson State
+L
+Lamar
+L
+UNC Wilmington
+L
+Louisiana Tech
+L
+Southern Miss
+L
+UL Monroe
+W
+Norfolk State
+W
+South Alabama
+L
+Southern Miss
+L
+UL Monroe
+W
+Troy
+L
+Texas State
+L
+South Alabama
+W
+App State
+L
+Georgia State
+W
+Georgia Southern
+W
+James Madison
+W
+Central Michigan
+W
+Coastal Carolina
+L
+Old Dominion
+L
+Arkansas State
+L
+Texas State
+W
+Troy
+L
+Arkansas State
+L
+Georgia State
+W
+James Madison
+L
 Team: South Alabama Jaguars
 Toledo
 W
@@ -13139,6 +22477,73 @@ UL Monroe
 W
 Southern Miss
 L
+Georgia Southern
+L
+Team: Old Dominion Monarchs
+Miami (OH)
+L
+Randolph College
+W
+Norfolk State
+W
+George Washington
+L
+Xavier
+L
+Morgan State
+W
+Drexel
+L
+Villanova
+L
+William & Mary
+L
+Richmond
+L
+George Mason
+L
+James Madison
+W
+Coastal Carolina
+L
+Maryland
+L
+App State
+L
+Georgia Southern
+L
+Coastal Carolina
+W
+James Madison
+L
+Georgia Southern
+L
+App State
+W
+Troy
+L
+Arkansas State
+W
+Texas State
+L
+UL Monroe
+L
+Ohio
+W
+Marshall
+L
+Georgia State
+W
+Louisiana
+W
+Southern Miss
+L
+Marshall
+L
+Georgia State
+W
+UL Monroe
+W
 Georgia Southern
 L
 Team: Texas State Bobcats
@@ -13205,6 +22610,142 @@ L
 App State
 W
 Southern Miss
+L
+Team: Southern Miss Golden Eagles
+Buffalo
+L
+Tougaloo
+W
+South Carolina
+L
+Grambling
+L
+William Carey
+W
+North Florida
+W
+UT Martin
+W
+Radford
+W
+Miami
+L
+Grambling
+W
+Ole Miss
+L
+Louisiana
+W
+Arkansas State
+L
+LSU
+L
+UL Monroe
+W
+Louisiana
+W
+Texas State
+W
+UL Monroe
+W
+Troy
+L
+Texas State
+L
+Georgia State
+L
+Coastal Carolina
+L
+App State
+L
+James Madison
+W
+Marshall
+L
+Kent State
+W
+South Alabama
+L
+Troy
+W
+Old Dominion
+W
+Arkansas State
+L
+South Alabama
+W
+James Madison
+W
+Texas State
+W
+App State
+W
+Troy
+L
+Team: UL Monroe Warhawks
+Northern Illinois
+L
+Ole Miss
+L
+Rust
+W
+Houston Christian
+L
+Lamar
+L
+Morehead State
+L
+East Tennessee State
+L
+Mississippi Valley State
+W
+Stephen F. Austin
+L
+Arkansas Baptist
+W
+Miami
+L
+South Alabama
+L
+Louisiana
+L
+Kansas State
+L
+Southern Miss
+L
+Texas State
+L
+Louisiana
+L
+Southern Miss
+L
+Georgia State
+L
+Marshall
+L
+App State
+L
+Georgia Southern
+P
+Coastal Carolina
+L
+Old Dominion
+L
+Ball State
+W
+Arkansas State
+L
+Texas State
+L
+Troy
+L
+Arkansas State
+L
+South Alabama
+L
+Troy
+L
+Old Dominion
 L
 Team: Troy Trojans
 Kent State
@@ -13273,70 +22814,866 @@ Southern Miss
 W
 Georgia Southern
 W
-Team: UL Monroe Warhawks
-Northern Illinois
-L
-Ole Miss
-L
-Rust
+Team: California Baptist Lancers
+South Carolina Upstate
 W
-Houston Christian
+UC Irvine
+W
+Western Illinois
+W
+UC Riverside
+W
+Grambling
+W
+San Diego
+W
+Oregon State
+W
+Colorado
 L
-Lamar
+BYU
 L
-Morehead State
+Utah
 L
-East Tennessee State
+Eastern Washington
+W
+Southern
+W
+Sacramento State
+W
+Utah Valley
 L
-Mississippi Valley State
+UT Arlington
+L
+Tarleton State
+L
+Utah Tech
+W
+Southern Utah
+W
+Abilene Christian
+W
+Utah Tech
+W
+Utah Valley
+W
+UT Arlington
+W
+Tarleton State
+W
+Abilene Christian
+W
+Southern Utah
+W
+Utah Tech
+L
+Utah Valley
+L
+UT Arlington
+W
+Tarleton State
+W
+Abilene Christian
+W
+Southern Utah
+W
+Utah Tech
+W
+Utah Valley
+W
+Team: Abilene Christian Wildcats
+McMurry
+W
+Omaha
+W
+Southwestern Adventist
 W
 Stephen F. Austin
 L
-Arkansas Baptist
-W
-Miami
-L
-South Alabama
-L
-Louisiana
-L
-Kansas State
-L
-Southern Miss
-L
 Texas State
 L
-Louisiana
+UTSA
+W
+William & Mary
 L
-Southern Miss
+Jarvis Christian
+W
+Pepperdine
+W
+New Mexico State
+W
+Arizona
 L
-Georgia State
+BYU
 L
-Marshall
+Texas Southern
+W
+Utah Tech
 L
-App State
+Utah Valley
+W
+Tarleton State
+W
+UT Arlington
 L
-Georgia Southern
+California Baptist
+L
+Southern Utah
+L
+Utah Tech
 P
-Coastal Carolina
+Southern Utah
 L
-Old Dominion
+Utah Valley
 L
-Ball State
+California Baptist
+L
+UT Arlington
+L
+Tarleton State
+W
+Tarleton State
+W
+Southern Utah
+L
+Utah Tech
+W
+Utah Valley
+L
+California Baptist
+L
+UT Arlington
+L
+Tarleton State
+L
+Utah Tech
+W
+Team: Tarleton State Texans
+SMU
+L
+LSU
+L
+Texas A&M-Corpus Christi
+W
+Merrimack
+W
+Baylor
+L
+Angelo State
+W
+Rice
+W
+Midwestern State
+W
+Cincinnati
+L
+Howard Payne
+W
+Cameron
+W
+Mississippi Valley State
+W
+Florida A&M
+W
+UT Arlington
+W
+Utah Valley
+L
+California Baptist
+W
+Abilene Christian
+L
+Southern Utah
+L
+Utah Tech
+L
+UT Arlington
+L
+Utah Valley
+P
+Utah Tech
+L
+California Baptist
+L
+Southern Utah
+L
+Abilene Christian
+W
+Abilene Christian
+L
+Southern Utah
+W
+Utah Tech
+W
+Utah Valley
+L
+California Baptist
+L
+UT Arlington
+L
+Abilene Christian
+L
+Team: Southern Utah Thunderbirds
+Arizona State
+L
+UT Rio Grande Valley
+L
+Bethesda University
+W
+Omaha
+L
+Gonzaga
+L
+Washington State
+L
+Nobel
+W
+Robert Morris
+L
+Stetson
+W
+West Coast Baptist
+W
+Oregon State
+L
+Washington
+L
+Northern Arizona
+L
+Utah Tech
+L
+UT Arlington
+L
+Utah Valley
+L
+California Baptist
+L
+Tarleton State
+W
+Abilene Christian
+W
+Utah Valley
+W
+Utah Tech
+L
+UT Arlington
+L
+Abilene Christian
+W
+Tarleton State
+L
+California Baptist
+L
+UT Arlington
+W
+Tarleton State
+L
+Abilene Christian
+L
+Utah Tech
+W
+Utah Valley
+L
+California Baptist
+L
+UT Arlington
+L
+Team: Utah Tech Trailblazers
+South Dakota
+W
+Bethesda University
+W
+Arizona
+L
+Arizona State
+L
+Manhattan
+L
+Mississippi Valley State
+W
+Hawai'i
+L
+Nobel
+W
+Portland State
+L
+UC Riverside
+W
+Santa Clara
+L
+Justice College
+W
+Weber State
+W
+Creighton
+L
+Southern Utah
+W
+Abilene Christian
+W
+California Baptist
+L
+Utah Valley
+L
+UT Arlington
+L
+Tarleton State
+W
+California Baptist
+L
+Southern Utah
+W
+Abilene Christian
+W
+Tarleton State
+W
+UT Arlington
+W
+Utah Valley
+W
+California Baptist
+W
+UT Arlington
+L
+Tarleton State
+W
+Abilene Christian
+W
+Southern Utah
+L
+Utah Valley
+L
+Abilene Christian
+W
+California Baptist
+L
+Team: UT Arlington Mavericks
+UNT Dallas
+W
+New Mexico
+L
+Arlington Baptist
+W
+Missouri State
+W
+Evansville
+W
+Campbell
+L
+Weber State
+W
+Stephen F. Austin
 W
 Arkansas State
 L
-Texas State
+UT Rio Grande Valley
+W
+Stanford
 L
+Oral Roberts
+W
+Tarleton State
+L
+California Baptist
+W
+Southern Utah
+W
+Abilene Christian
+W
+Utah Tech
+W
+Utah Valley
+L
+Tarleton State
+W
+Southern Utah
+W
+California Baptist
+L
+Utah Tech
+L
+Utah Valley
+L
+Abilene Christian
+L
+Southern Utah
+L
+Utah Tech
+W
+Utah Valley
+L
+California Baptist
+L
+Tarleton State
+W
+Abilene Christian
+W
+Southern Utah
+W
+Utah Valley
+L
+Team: Gonzaga Bulldogs
+Texas Southern
+W
+Oklahoma
+W
+Creighton
+W
+Arizona State
+W
+Southern Utah
+W
+Alabama
+W
+Maryland
+W
+Michigan
+L
+Kentucky
+W
+North Florida
+W
+UCLA
+W
+Campbell
+W
+Oregon
+W
+Pepperdine
+W
+San Diego
+W
+Seattle U
+W
+Loyola Marymount
+W
+Santa Clara
+W
+Washington State
+W
+Seattle U
+W
+Pepperdine
+W
+San Francisco
+W
+Saint Mary's
+W
+Portland
+L
+Oregon State
+W
+Washington State
+W
+Santa Clara
+W
+San Francisco
+W
+Pacific
+W
+Portland
+W
+Saint Mary's
+L
+Oregon State
+W
+Santa Clara
+W
+Team: Utah Valley Wolverines
+West Coast Baptist
+W
+Boise State
+L
+Westminster (UT)
+W
+Fresno State
+L
+UC Irvine
+W
+South Dakota State
+W
+Samford
+W
+San Diego State
+L
+Bowling Green
+W
+Idaho State
+W
+UC Santa Barbara
+W
+Weber State
+W
+Bethesda University
+W
+California Baptist
+W
+Tarleton State
+W
+Abilene Christian
+L
+Southern Utah
+W
+Utah Tech
+W
+UT Arlington
+W
+Southern Utah
+L
+California Baptist
+L
+Tarleton State
+W
+Abilene Christian
+W
+UT Arlington
+W
+Utah Tech
+L
+California Baptist
+W
+UT Arlington
+W
+Tarleton State
+W
+Abilene Christian
+W
+Southern Utah
+W
+Utah Tech
+W
+UT Arlington
+W
+California Baptist
+L
+Team: Oregon State Beavers
+North Dakota State
+W
+UIC
+W
+North Texas
+W
+Oregon
+L
+Evansville
+L
+Iona
+L
+Massachusetts
+L
+California Baptist
+L
+Vermont
+W
+Southern Utah
+W
+Montana State
+W
+Sam Houston
+L
+Arizona State
+W
+Santa Clara
+L
+San Francisco
+W
+Pacific
+L
+Washington State
+L
+Seattle U
+W
+Portland
+L
+Loyola Marymount
+W
+Pacific
+L
+Saint Mary's
+L
+Loyola Marymount
+W
+San Diego
+W
+Washington State
+W
+Gonzaga
+L
+San Francisco
+W
+Seattle U
+L
+Pepperdine
+W
+San Diego
+W
+Santa Clara
+L
+San Francisco
+W
+Gonzaga
+L
+Team: Loyola Marymount Lions
+Lincoln University (CA)
+W
+Eastern Washington
+W
+Arkansas-Pine Bluff
+W
+UTEP
+W
 Troy
+W
+UC Santa Barbara
+W
+Florida Atlantic
 L
+Ohio
+W
+Stony Brook
+L
+Saint Louis
+L
+UC San Diego
+L
+North Alabama
+W
+Morgan State
+W
+Saint Mary's
+L
+Pacific
+W
+Washington State
+L
+Gonzaga
+L
+San Francisco
+W
+Santa Clara
+L
+Oregon State
+L
+Portland
+L
+Seattle U
+L
+Oregon State
+L
+Santa Clara
+L
+San Francisco
+W
+San Diego
+W
+Pacific
+L
+Pepperdine
+L
+San Diego
+W
+Washington State
+W
+Seattle U
+L
+San Diego
+L
+Team: Pepperdine Waves
+Life Pacific
+W
+UCLA
+L
+Lincoln University (CA)
+W
+Northern Colorado
+L
+New Orleans
+W
+Stephen F. Austin
+L
+Fresno State
+L
+Cal State Fullerton
+L
+Abilene Christian
+L
+Vermont
+L
+Cal State Bakersfield
+W
+Long Beach State
+L
+Rice
+W
+Gonzaga
+L
+Saint Mary's
+L
+Santa Clara
+L
+Pacific
+L
+San Diego
+L
+San Francisco
+L
+Portland
+W
+Gonzaga
+L
+Washington State
+L
+San Diego
+L
+Seattle U
+L
+Pacific
+L
+Saint Mary's
+L
+Loyola Marymount
+W
+Portland
+W
+Oregon State
+L
+Seattle U
+L
+Washington State
+W
+Portland
+L
+Team: Pacific Tigers
+Life Pacific
+W
+Nevada
+L
+Long Beach State
+W
+Cal State Fullerton
+W
+Florida Atlantic
+L
+Stony Brook
+W
+Jacksonville
+W
+Sacramento State
+W
+Air Force
+W
+California
+L
+Simpson University (CA)
+W
+BYU
+L
+Nicholls
+W
+San Diego
+L
+Loyola Marymount
+L
+Oregon State
+W
+Pepperdine
+W
+Portland
+L
+San Diego
+W
+Santa Clara
+L
+Oregon State
+W
+Seattle U
+W
+Portland
+W
+San Francisco
+L
+Santa Clara
+L
+Pepperdine
+W
+Loyola Marymount
+W
+Saint Mary's
+L
+Washington State
+L
+Gonzaga
+L
+San Francisco
+L
+Seattle U
+W
+Santa Clara
+L
+Team: Saint Mary's Gaels
+St. Thomas-Minnesota
+W
+Chattanooga
+W
+Ohio
+W
+North Texas
+W
 Arkansas State
+W
+UC Merced
+W
+Wichita State
+W
+Virginia Tech
+W
+Vanderbilt
 L
-South Alabama
+Davidson
+W
+Boise State
 L
-Troy
+Florida Atlantic
+W
+Northern Iowa
+W
+Loyola Marymount
+W
+Pepperdine
+W
+Portland
+W
+Seattle U
+W
+Washington State
+W
+San Francisco
+W
+Santa Clara
 L
-Old Dominion
+Oregon State
+W
+Portland
+W
+Gonzaga
+L
+San Diego
+W
+San Francisco
+W
+Pepperdine
+W
+Pacific
+W
+Seattle U
+W
+Washington State
+W
+Santa Clara
+W
+Gonzaga
+W
+Santa Clara
 L
 Team: Portland Pilots
 Willamette
@@ -13407,73 +23744,6 @@ Washington State
 W
 San Francisco
 L
-Team: San Diego Toreros
-Occidental
-W
-Idaho State
-L
-Idaho
-W
-Grambling
-W
-UC Riverside
-L
-California Baptist
-L
-Long Beach State
-L
-San José State
-L
-USC
-L
-Northern Arizona
-W
-UC San Diego
-W
-Washington
-L
-Pacific
-W
-Gonzaga
-L
-San Francisco
-L
-Santa Clara
-L
-Pepperdine
-W
-Pacific
-L
-Seattle U
-L
-Bethesda University
-W
-Washington State
-W
-Santa Clara
-L
-Pepperdine
-W
-Oregon State
-L
-Saint Mary's
-L
-Loyola Marymount
-L
-Portland
-W
-San Francisco
-L
-Loyola Marymount
-L
-Oregon State
-L
-Portland
-L
-Loyola Marymount
-W
-Seattle U
-L
 Team: San Francisco Dons
 UC Santa Cruz
 W
@@ -13540,6 +23810,140 @@ W
 Portland
 W
 Oregon State
+L
+Team: San Diego Toreros
+Occidental
+W
+Idaho State
+L
+Idaho
+W
+Grambling
+W
+UC Riverside
+L
+California Baptist
+L
+Long Beach State
+L
+San Josï¿½ State
+L
+USC
+L
+Northern Arizona
+W
+UC San Diego
+W
+Washington
+L
+Pacific
+W
+Gonzaga
+L
+San Francisco
+L
+Santa Clara
+L
+Pepperdine
+W
+Pacific
+L
+Seattle U
+L
+Bethesda University
+W
+Washington State
+W
+Santa Clara
+L
+Pepperdine
+W
+Oregon State
+L
+Saint Mary's
+L
+Loyola Marymount
+L
+Portland
+W
+San Francisco
+L
+Loyola Marymount
+L
+Oregon State
+L
+Portland
+L
+Loyola Marymount
+W
+Seattle U
+L
+Team: Seattle U Redhawks
+Denver
+W
+Cal Poly
+L
+Eastern Washington
+W
+Idaho State
+W
+Stanford
+W
+Texas State
+W
+UC Santa Barbara
+L
+Puget Sound
+W
+UTEP
+W
+Warner Pacific
+W
+UC Davis
+W
+Washington
+W
+UTSA
+W
+San Francisco
+L
+Washington State
+W
+Gonzaga
+L
+Saint Mary's
+L
+Oregon State
+L
+San Diego
+W
+Gonzaga
+L
+Loyola Marymount
+W
+Pacific
+L
+Washington State
+L
+Pepperdine
+W
+Portland
+L
+Santa Clara
+L
+Oregon State
+W
+Saint Mary's
+L
+Portland
+W
+Pepperdine
+W
+Loyola Marymount
+W
+San Diego
+W
+Pacific
 L
 Team: Santa Clara Broncos
 Humboldt State
@@ -13674,71 +24078,4 @@ L
 Pepperdine
 L
 Portland
-L
-Team: Seattle U Redhawks
-Denver
-W
-Cal Poly
-L
-Eastern Washington
-W
-Idaho State
-W
-Stanford
-W
-Texas State
-W
-UC Santa Barbara
-L
-Puget Sound
-W
-UTEP
-W
-Warner Pacific
-W
-UC Davis
-W
-Washington
-W
-UTSA
-W
-San Francisco
-L
-Washington State
-W
-Gonzaga
-L
-Saint Mary's
-L
-Oregon State
-L
-San Diego
-W
-Gonzaga
-L
-Loyola Marymount
-W
-Pacific
-L
-Washington State
-L
-Pepperdine
-W
-Portland
-L
-Santa Clara
-L
-Oregon State
-W
-Saint Mary's
-L
-Portland
-W
-Pepperdine
-W
-Loyola Marymount
-W
-San Diego
-W
-Pacific
 L
