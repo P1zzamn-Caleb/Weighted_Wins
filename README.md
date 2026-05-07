@@ -111,14 +111,22 @@ Scraping/
 ├── teamNameandInitialGetter.py
 └── updatedScraper.py 
 Website/
-├── data/
+├── data/ 
+├── Comparisons/
+├──── ncaaComparisons.php
+├── images/
 ├── about.html
 ├── criteria.html
 ├── discussion.html
 ├── home.html
 ├── index.html
 ├── index.php
-├── ncaaComparisons.php
+├── standingsDetermined.html
+├── weightedWinsCalculator.php
+├── weightedWinsDetermined.html
+└── weightedWinsProgramOutput.php
+.gitignore
+README.md
 
 ```
 
