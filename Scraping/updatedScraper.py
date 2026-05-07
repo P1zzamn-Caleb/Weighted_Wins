@@ -99,7 +99,7 @@ def call_Get_Data(year, team, mode, driver, wait):
    
    get_Data(year, fileName, mode, team, driver, wait)
    
-#was working on this function
+# Gets the data from the website
 def get_Data(year, fileName, mode, team, driver, wait):
    #waits until the website is loaded
    #driver.implicitly_wait(1)
