@@ -81,7 +81,7 @@ There are no adjustments for the wins over the losing teams or losses to the win
 
 ## Criteria
 
-```text
+
 The criteria for Weighted Wins are built on wins and the quality of those wins. Defeating a winning team adds to your weight, while losing to a losing team reduces your weight. The following criteria incorporate the logic of the system:
 
 The Initial Weight (IW) of a team reflects its own record. (All games against Division I-A teams and losses to Non-Division I-A teams are counted in determining IW.)
@@ -96,7 +96,7 @@ Games against Non-Division 1-A teams do not count if a victory occurs, however, 
 Because all teams do not play the same number of games, only ten games are counted towards the Weighted Wins (WW) in a regular eleven game season. Although most teams play more than ten games, the effectiveness of the system is not diminished by omitting games against one weaker team. This allows some crossover between Division 1-A and other divisions. In the event of an expanded schedule, if all top ten teams have played twelve games, then eleven games could be calculated.
 All games played throughout the season are treated equally. A quality team that defeats another quality team early in the season receives as much credit as a quality team that defeats another quality team late in the season. The season ending record is what ultimately counts.
 During the season, standings are determined by calculating the Initial Weights and Final Weights based on the games played up to that point.
-```
+
 
 ## Data Processing
 
