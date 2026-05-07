@@ -11,9 +11,9 @@ http://www.weightedwins.com/hoops/
 The basic premise of "Weighted Wins" is one the average fan would readily accept. All wins are not equal. Defeating a highly successful team, one with a winning record, is more difficult than defeating an unsuccessful team, one with a losing record. Therefore, the system assigns a weight to each opponent. This weight is determined in a fair, unbiased, and systematic manner by considering a team's record and the records of its opponents. After the weights are assigned, teams accumulate weighted wins and weighted losses.
 
 ## Tech Stack
-- Python (data scraping & processing)
-- PHP (website backend)
-- HTML/CSS/PHP (frontend)
+- Python (web scraping & data processing)
+- PHP (backend logic and dynamic page generation)
+- HTML/CSS (frontend interface)
 
 ## Features
 
