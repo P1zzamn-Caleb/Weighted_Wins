@@ -123,3 +123,5 @@ This is an independent project and is not affiliated with the NCAA, ESPN, or any
 ## Author
 
 Created by Caleb Ellis
+Based off of a football version of weighted wins by Dr. Mark Terwilliger
+Formula by Dr. Ray Theis
