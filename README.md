@@ -109,6 +109,8 @@ The data is then used to compute rankings and update the site at the end of the 
 ## Project Structure
 
 ```text
+Assets/
+└── Weighted_Wins_Poster.jpg
 Scraping/
 ├── originalScraper.py 
 ├── teamNameandInitialGetter.py
