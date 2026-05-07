@@ -1,6 +1,6 @@
 # Weighted Wins Hoops
 
-A data-driven college basketball ranking website focused on evaluating teams using the weighted wins algorithm and statistical analysis.
+A data-driven college basketball ranking website focused on ranking teams using the weighted wins algorithm.
 
 ## Website
 
