@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Weighted Wins NCAA Basketball</title>
-  <link rel="icon" type="image/x-icon" href="basketball_Logo.png">
+  <link rel="icon" type="image/x-icon" href="images/basketball_Logo.png">
   
   <style>
   body
@@ -204,7 +204,7 @@
 					<tr>
 						<th id='headerTh' colspan='2'>
 							<div style='display:flex;'>
-							<img src='basketball_Logo-removebg-preview.png' style='float:left'>
+							<img src='images/basketball_Logo-removebg-preview.png' style='float:left'>
 								<div style= 'text-align:left;'>
 									<h1>Weighted Wins <br></h1>
 										<i style='font-size: 1.5em;'>NCAA Division I Basketball Standings</i>
