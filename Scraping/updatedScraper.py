@@ -194,11 +194,6 @@ def get_Data(year, fileName, mode, team, driver, wait):
             continue
 
 def run_data_getter(currIndex, row, column):
-
-   
-
-   
-    
    driver = None
 
    try:
