@@ -24,7 +24,9 @@ The basic premise of "Weighted Wins" is one the average fan would readily accept
 
 ### INITIAL WEIGHT
 
-After the IW has been established, adjustments are made to develop the Final Weight (FW). As with the Initial Weight, the Final Weight can be determined at any time during the season and only considers the games played up to that point. This enables rankings to be computed after games each week. The adjustments are made only for wins against winning teams and losses to losing teams (See Criteria). Defeating a winning team is considered a sign of strength, and losing to a losing team is considered a sign of weakness. For example, a team with a 10-2 record has defeated teams with records of 11-1, 7-5, 9-3, 8-4, and six losing teams. The losses were both to winning teams. Adjustments to the IW are:
+After the IW has been established, adjustments are made to develop the Final Weight (FW). As with the Initial Weight, the Final Weight can be determined at any time during the season and only considers the games played up to that point. This enables rankings to be computed after games each week. The adjustments are made only for wins against winning teams and losses to losing teams (See Criteria). Defeating a winning team is considered a sign of strength, and losing to a losing team is considered a sign of weakness. For example, a team with a 10-2 record has defeated teams with records of 11-1, 7-5, 9-3, 8-4, and six losing teams. The losses were both to winning teams. 
+```text
+Adjustments to the IW are:
 
 	1.08 (IW or initial weight of team with a 10-2 record) 
 	+.10 (for win over 11-1 team, 10 more wins than losses)
@@ -32,9 +34,13 @@ After the IW has been established, adjustments are made to develop the Final Wei
 	+.06 (for win over 9-3 team, 6 more wins than losses)
 	+.04 (for win over 8-4 team, 4 more wins than losses)
 	1.30 (Final Weight for this team)
+```
+
 Since defeating a losing team and losing to a winning team does not affect the Final Weight, the only adjustments to the Initial Weight for the team in this example are illustrated above.
 
-Another example may better illustrate how the Initial Weight of a team decreases by losing to a losing team. A team with a 5-6 record loses to three winning teams, a team with a 4-7 record, a team with a 3-8 record, and a Non-Division 1-A team for a total of six losses. Four of the wins were over losing teams and one over a team with a 6-5 record. Adjustments to the IW are:
+Another example may better illustrate how the Initial Weight of a team decreases by losing to a losing team. A team with a 5-6 record loses to three winning teams, a team with a 4-7 record, a team with a 3-8 record, and a Non-Division 1-A team for a total of six losses. Four of the wins were over losing teams and one over a team with a 6-5 record. 
+```text
+Adjustments to the IW are:
 
 	 .99 (IW of team with a 5-6 record)
 	-.03 (for loss to 4-7 team, 3 more losses than wins)
@@ -42,6 +48,7 @@ Another example may better illustrate how the Initial Weight of a team decreases
        	-.10 (all losses to Non-Division 1-A teams are -.10)
 	+.01 (for win over 6-5 team, 1 more win than losses)
 	 .82 (Final Weight for this team)
+```
 There are no adjustments for the wins over the losing teams or losses to the winning teams. (See criteria)
 
 ### Final Weight
