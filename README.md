@@ -10,6 +10,10 @@ http://www.weightedwins.com/hoops/
 
 The basic premise of "Weighted Wins" is one the average fan would readily accept. All wins are not equal. Defeating a highly successful team, one with a winning record, is more difficult than defeating an unsuccessful team, one with a losing record. Therefore, the system assigns a weight to each opponent. This weight is determined in a fair, unbiased, and systematic manner by considering a team's record and the records of its opponents. After the weights are assigned, teams accumulate weighted wins and weighted losses.
 
+## Tech Stack
+- Python (data scraping & processing)
+- PHP (website backend)
+- HTML/CSS/PHP (frontend)
 
 ## Features
 
@@ -39,20 +43,8 @@ Adjustments to the IW are:
 	1.30 (Final Weight for this team)
 ```
 
-Since defeating a losing team and losing to a winning team does not affect the Final Weight, the only adjustments to the Initial Weight for the team in this example are illustrated above.
+If a team should happen to play 13 or 14 games, the same process is used. If a team has a 9-4 record, the initial weight would be 1.05, since there were 5 more wins than losses. Counting all wins over Division 1-A teams does not directly benefit the team with the 9-4 record. It only helps determine the weight of that team.
 
-Another example may better illustrate how the Initial Weight of a team decreases by losing to a losing team. A team with a 5-6 record loses to three winning teams, a team with a 4-7 record, a team with a 3-8 record, and a Non-Division 1-A team for a total of six losses. Four of the wins were over losing teams and one over a team with a 6-5 record. 
-```text
-Adjustments to the IW are:
-
-	 .99 (IW of team with a 5-6 record)
-	-.03 (for loss to 4-7 team, 3 more losses than wins)
-	-.05 (for loss to 3-8 team, 5 more losses than wins)
-       	-.10 (all losses to Non-Division 1-A teams are -.10)
-	+.01 (for win over 6-5 team, 1 more win than losses)
-	 .82 (Final Weight for this team)
-```
-There are no adjustments for the wins over the losing teams or losses to the winning teams. (See criteria)
 
 ### Final Weight
 After the IW has been established, adjustments are made to develop the Final Weight (FW). As with the Initial Weight, the Final Weight can be determined at any time during the season and only considers the games played up to that point. This enables rankings to be computed after games each week. The adjustments are made only for wins against winning teams and losses to losing teams (See Criteria). Defeating a winning team is considered a sign of strength, and losing to a losing team is considered a sign of weakness. For example, a team with a 10-2 record has defeated teams with records of 11-1, 7-5, 9-3, 8-4, and six losing teams. The losses were both to winning teams. 
