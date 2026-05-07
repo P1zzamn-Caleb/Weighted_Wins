@@ -136,7 +136,7 @@ README.md
 ```
 # Results
 
-![Weighted Wins Poster](Assets/Weighted_Wins_Poster.jpg)
+![Weighted Wins Poster](Assets/Weighted_Wins_Poster.png)
 
 ## Disclaimer
 
