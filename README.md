@@ -1,5 +1,90 @@
-This project that will show college D1 basketball rankings on a website based off of a similar program by Mark G. Terwilliger and an algorithm made by Ray D. Theis.
+# Weighted Wins Hoops
 
-Much of the python is getting the data using Selenium, I need to go back and update this to make it faster eventually, but it works for now.
-The PHP mostly handles the logic behind the website.
-The txt files are alot of the data I got from web scraping.
+A data-driven college basketball ranking website focused on evaluating teams using the weighted wins algorithm and statistical analysis.
+
+## Website
+
+http://www.weightedwins.com/hoops/
+
+## Overview
+
+The basic premise of "Weighted Wins" is one the average fan would readily accept. All wins are not equal. Defeating a highly successful team, one with a winning record, is more difficult than defeating an unsuccessful team, one with a losing record. Therefore, the system assigns a weight to each opponent. This weight is determined in a fair, unbiased, and systematic manner by considering a team's record and the records of its opponents. After the weights are assigned, teams accumulate weighted wins and weighted losses.
+
+
+## Features
+
+- Custom weighted wins ranking system  
+- NCAA men’s college basketball team rankings  
+- Strength of schedule calculations  
+- Team performance comparisons  
+- Season-by-season data tracking  
+- Simple, easy-to-use web interface  
+
+## How It Works
+
+### INITIAL WEIGHT
+
+After the IW has been established, adjustments are made to develop the Final Weight (FW). As with the Initial Weight, the Final Weight can be determined at any time during the season and only considers the games played up to that point. This enables rankings to be computed after games each week. The adjustments are made only for wins against winning teams and losses to losing teams (See Criteria). Defeating a winning team is considered a sign of strength, and losing to a losing team is considered a sign of weakness. For example, a team with a 10-2 record has defeated teams with records of 11-1, 7-5, 9-3, 8-4, and six losing teams. The losses were both to winning teams. Adjustments to the IW are:
+
+	1.08 (IW or initial weight of team with a 10-2 record) 
+	+.10 (for win over 11-1 team, 10 more wins than losses)
+	+.02 (for win over 7-5 team, 2 more wins than losses)
+	+.06 (for win over 9-3 team, 6 more wins than losses)
+	+.04 (for win over 8-4 team, 4 more wins than losses)
+	1.30 (Final Weight for this team)
+Since defeating a losing team and losing to a winning team does not affect the Final Weight, the only adjustments to the Initial Weight for the team in this example are illustrated above.
+
+Another example may better illustrate how the Initial Weight of a team decreases by losing to a losing team. A team with a 5-6 record loses to three winning teams, a team with a 4-7 record, a team with a 3-8 record, and a Non-Division 1-A team for a total of six losses. Four of the wins were over losing teams and one over a team with a 6-5 record. Adjustments to the IW are:
+
+	 .99 (IW of team with a 5-6 record)
+	-.03 (for loss to 4-7 team, 3 more losses than wins)
+	-.05 (for loss to 3-8 team, 5 more losses than wins)
+       	-.10 (all losses to Non-Division 1-A teams are -.10)
+	+.01 (for win over 6-5 team, 1 more win than losses)
+	 .82 (Final Weight for this team)
+There are no adjustments for the wins over the losing teams or losses to the winning teams. (See criteria)
+
+### Final Weight
+After the IW has been established, adjustments are made to develop the Final Weight (FW). As with the Initial Weight, the Final Weight can be determined at any time during the season and only considers the games played up to that point. This enables rankings to be computed after games each week. The adjustments are made only for wins against winning teams and losses to losing teams (See Criteria). Defeating a winning team is considered a sign of strength, and losing to a losing team is considered a sign of weakness. For example, a team with a 10-2 record has defeated teams with records of 11-1, 7-5, 9-3, 8-4, and six losing teams. The losses were both to winning teams. Adjustments to the IW are:
+
+	1.08 (IW or initial weight of team with a 10-2 record) 
+	+.10 (for win over 11-1 team, 10 more wins than losses)
+	+.02 (for win over 7-5 team, 2 more wins than losses)
+	+.06 (for win over 9-3 team, 6 more wins than losses)
+	+.04 (for win over 8-4 team, 4 more wins than losses)
+	1.30 (Final Weight for this team)
+Since defeating a losing team and losing to a winning team does not affect the Final Weight, the only adjustments to the Initial Weight for the team in this example are illustrated above.
+
+Another example may better illustrate how the Initial Weight of a team decreases by losing to a losing team. A team with a 5-6 record loses to three winning teams, a team with a 4-7 record, a team with a 3-8 record, and a Non-Division 1-A team for a total of six losses. Four of the wins were over losing teams and one over a team with a 6-5 record. Adjustments to the IW are:
+
+	 .99 (IW of team with a 5-6 record)
+	-.03 (for loss to 4-7 team, 3 more losses than wins)
+	-.05 (for loss to 3-8 team, 5 more losses than wins)
+       	-.10 (all losses to Non-Division 1-A teams are -.10)
+	+.01 (for win over 6-5 team, 1 more win than losses)
+	 .82 (Final Weight for this team)
+There are no adjustments for the wins over the losing teams or losses to the winning teams. (See criteria)
+
+## Data Processing
+
+Game data is collected and processed using custom scripts from the ESPN website at the end of each season. 
+The data is then used to compute rankings and update the site at the end of the season.
+
+## Project Structure
+
+hoops/
+├── index.html  
+├── rankings/  
+├── data/  
+├── scripts/  
+├── assets/  
+└── seasons/  
+
+
+## Disclaimer
+
+This is an independent project and is not affiliated with the NCAA, ESPN, or any official sports organization.
+
+## Author
+
+Created by Caleb Ellis
