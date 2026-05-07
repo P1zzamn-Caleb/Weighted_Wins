@@ -15,7 +15,6 @@ The basic premise of "Weighted Wins" is one the average fan would readily accept
 
 - Custom weighted wins ranking system  
 - NCAA men’s college basketball team rankings  
-- Strength of schedule calculations  
 - Team performance comparisons  
 - Season-by-season data tracking  
 - Simple, easy-to-use web interface  
