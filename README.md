@@ -96,7 +96,7 @@ During the season, standings are determined by calculating the Initial Weights a
 ## Data Processing
 
 Game data is collected and processed using custom scripts from the ESPN website at the end of each season. 
-The data is then used to compute rankings and update the site at the end of the season.
+The data is then used to compute rankings and update the site at the end of the season, however this could also be done throughout the season to predict rankings.
 
 ## Project Structure
 
