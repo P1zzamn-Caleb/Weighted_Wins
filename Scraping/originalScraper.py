@@ -1,3 +1,6 @@
+# Older version of scraper used to get all data from all years
+# Yearly scraper uses updatedScraper.py
+
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
