@@ -23,7 +23,11 @@ The basic premise of "Weighted Wins" is one the average fan would readily accept
 
 ### INITIAL WEIGHT
 
-After the IW has been established, adjustments are made to develop the Final Weight (FW). As with the Initial Weight, the Final Weight can be determined at any time during the season and only considers the games played up to that point. This enables rankings to be computed after games each week. The adjustments are made only for wins against winning teams and losses to losing teams (See Criteria). Defeating a winning team is considered a sign of strength, and losing to a losing team is considered a sign of weakness. For example, a team with a 10-2 record has defeated teams with records of 11-1, 7-5, 9-3, 8-4, and six losing teams. The losses were both to winning teams. 
+In sports, teams with a .500 winning percentage are considered average teams. Therefore, assigning a weight of 1.00 to a .500 team was the starting point for establishing the Initial Weight.
+
+The Initial Weight (IW) is a reflection of a team's own record against all Division 1-A opponents. The Initial Weight (IW) can be computed at any time during the season; it is an indication of its current record. The IW takes into consideration all games played against Division 1-A teams. During the season, the Initial Weight for any team with the same number of wins and losses would be IW = 1.00. (ie. records of 1-1, 2-2, 3-3, 4-4, or 5-5 ) A team's IW changes each week as it accumulate wins and losses. At the end of a season, a team with a 6-6 record would have an Initial Weight of 1.00.
+
+A team's IW increases by .01 for each win more than the number of losses, and deceases by .01 for each loss more than the number of wins. For example, a team with a 9-3 record would have an IW of 1.06 (six more wins than losses), while a team with a 3-8 record would have an IW of .95 (five more losses than wins). During the season, a team may have a 4-3 record and have an Initial Weight of 1.01, if this team won the following week, its record would be 5-3 with an IW = 1.02. At any time during the season, the Initial Weight is determined by the games it has played up to that point.
 ```text
 Adjustments to the IW are:
 
