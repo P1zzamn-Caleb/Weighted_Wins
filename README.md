@@ -72,13 +72,15 @@ The data is then used to compute rankings and update the site at the end of the 
 
 ## Project Structure
 
+```text
 hoops/
 ├── index.html  
 ├── rankings/  
 ├── data/  
 ├── scripts/  
 ├── assets/  
-└── seasons/  
+└── seasons/
+```
 
 
 ## Disclaimer
